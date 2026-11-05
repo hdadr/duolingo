@@ -86,3 +86,49 @@ Ne számítsd kétszer ugyanannak a feladatnak az újrapróbálását. Visszaté
 6. Egy visszatérő minta legyen `improving` egy sikeres célzott alkalmazás után; csak két különböző, helyes új helyzetű alkalmazás után legyen `resolved`.
 
 A katalógus példái minták, nem kimerítő hibajegyzék. Ha a hiba nem illik egyikhez sem, hozz létre rövid, egyedi azonosítót, és a konkrét mechanizmust írd le.
+
+## Feleletválasztós diagnosztikai minták
+
+A tanuló alapértelmezésként csak A/B/C/D betűvel válaszoljon. A D opció mindig „Nem vagyok biztos benne”; ez nem hibás válasz, és nem számít bele a hibaminta előfordulásaiba. Egy kérdésben csak egy helyes válasz lehet. A hibás opciók különböző, felismerhető gondolkodási hibákat modellezzenek.
+
+### Segédige és főige – példakérdés
+
+**Kérdés:** Which question is correct?
+- A. Does she likes coffee?
+- B. Does she like coffee?
+- C. Do she like coffee?
+- D. Nem vagyok biztos benne.
+
+Diagnosztika:
+- A: a tanuló kétszer teszi ki a harmadik személyű jelölést; a `does` után is `-s`-t használ.
+- C: a `do/does` alany szerinti egyeztetését nem érti.
+- D: bizonytalanság; ne rögzíts hibát, hanem egyszerűsítsd a magyarázatot.
+
+**Logikai kérdés egy következő fordulóban:** Why is “Does she like coffee?” correct?
+- A. Because “does” carries the third-person marking, so “like” stays in the base form.
+- B. Because all verbs after a subject must be in the base form.
+- C. Because “does” is only a question word and has no grammatical role.
+- D. Nem vagyok biztos benne.
+
+Ez két külön kérdés legyen, ne egyetlen üzenetben add fel őket.
+
+### Present Simple és Present Continuous – példakérdés
+
+**Kérdés:** Which sentence best describes something happening right now?
+- A. Anna cooks dinner every Friday.
+- B. Anna is cooking dinner now.
+- C. Anna cook dinner now.
+- D. Nem vagyok biztos benne.
+
+Az A opció a szokás és a pillanatnyi cselekvés összekeverését, a C az igealak képzésének hiányát jelzi. A kérdés után a tanuló válaszától függően a jelentéskülönbségre vagy a `be + -ing` képzésre térj vissza.
+
+### Egyes számú megszámlálható főnév – példakérdés
+
+**Kérdés:** Which sentence is correct?
+- A. I have car.
+- B. I have a car.
+- C. I have the cars. (ha egy tetszőleges autóról van szó)
+- D. Nem vagyok biztos benne.
+
+Az A a meghatározó teljes elhagyását, a C a határozottság/szám indokolatlan megváltoztatását modellezi. A javítás csak azt a szabályt célozza, hogy az egyes számú megszámlálható főnév előtt rendszerint kell meghatározó.
+
