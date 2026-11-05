@@ -1,5 +1,5 @@
 {
-  "card_version": 2,
+  "card_version": 3,
   "course_key": "en-hu",
   "course_id": "DUOLINGO_EN_HU",
   "updated_at": null,
@@ -16,7 +16,14 @@
     "next_subtopic": null,
     "check_stage": "not_started",
     "transfer_task": null,
-    "transfer_status": "not_asked"
+    "transfer_status": "not_asked",
+    "error_diagnosis": {
+      "pattern_id": null,
+      "hypothesis": null,
+      "observed_once": false,
+      "last_example": null,
+      "stage": "none"
+    }
   },
   "mastery": [],
   "review_queue": [],
