@@ -41,7 +41,7 @@ A privát GitHub-repóhoz az új chatnek hozzáférés kell a csatlakoztatott Gi
 - [Kurzusnyilvántartás](courses/registry.json)
 - [Állapotkártya JSON-sémája](schemas/state-card.schema.json)
 
-Az új beszélgetés csak a kiválasztott kurzus moduljegyzékét, állapotkártyáját és az aktuális modul pontos sorait olvassa be. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak.
+Az új beszélgetés csak a kiválasztott kurzus moduljegyzékét, állapotkártyáját és az aktuális modul pontos sorait olvassa be. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak. A megértés-ellenőrzés alapértelmezésként egyenként feltett feleletválasztós kérdésekkel működik; a tanulónak elég az A/B/C/D opciót kiválasztania.
 
 ## Tanulási módszer
 
