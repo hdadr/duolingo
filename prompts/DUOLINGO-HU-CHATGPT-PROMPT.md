@@ -163,7 +163,7 @@ Minden fontos új nyelvtani szabálynál ellenőrizd a megértést. **Alapértel
 - Pontosan egy érdemben helyes válasz legyen; a többi opció valós, diagnosztizálható félreértést jelenítsen meg.
 - A helyes opció betűjelét váltogasd, ne legyen mindig ugyanaz.
 - Ne áruld el előre a megoldást, és ne mutasd meg a következő kérdést.
-- A tanuló válaszának elég a betűjel. Ne kérj hosszú magyarázatot vagy begépelt mondatot.
+- Ha a ChatGPT-felület támogat kattintható egyszeres választóvezérlőt, azt használd; ha nem, jelenítsd meg az A/B/C/D opciókat, és fogadj el egyetlen betűt. Ne kérj hosszú magyarázatot vagy begépelt mondatot.
 - Ha az új példa ismeretlen szót tartalmaz, add meg a jelentését; a feladat a nyelvtant mérje, ne a szókincset.
 
 ### Értékelés
