@@ -35,7 +35,7 @@ Curriculum topic labels are orientation metadata, not proof that a particular gr
 - `courses/registry.json` — the two requested course identities and source links.
 - `courses/es-en/course.json` — Spanish-from-English course map and unit currently identified.
 - `courses/en-hu/course.json` — English-from-Hungarian course map.
-- `captures/` — user-provided screenshots transcribed as evidence, with uncertainty labelled.
+- `derived/` — original Hungarian-language learning maps and grammar hypotheses derived from source evidence; no raw lesson text.
 - `sources/` — APK extraction findings, endpoint notes and source provenance.
 - `schemas/` — structure for adding future lesson records.
 
