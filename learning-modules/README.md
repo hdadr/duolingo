@@ -19,3 +19,7 @@
 Egy `A1-01` típusú modul teljes, önálló tanulási egység. Nem szabad tokenkeret vagy fájlméret miatt kettévágni. Ha több egymásra épülő altémát tartalmaz, azok csak saját, teljes fogalmi határuknál dolgozhatók fel külön munkamenetben. Magyarázatot, példasort, összehasonlítást vagy megértés-ellenőrzést soha ne szakíts félbe csak a chatváltás miatt.
 
 A modulbankok az eredeti tanulási térképek modulblokkjait őrzik meg; a tartalom sorrendje és a nyelvtani összefüggések nem lettek önkényesen átalakítva.
+
+## Megértés-ellenőrzés
+
+A fontos új nyelvtani szabályok ellenőrzése négylépcsős: felismerés, a logika megindoklása, irányított alkalmazás, majd új helyzetű transzfer. A negyedik lépésben az asszisztens mindig más alanyt és más igét használ, mint a korábbi példákban; egyszerre csak egy kérdést tesz fel, és a tanuló válasza alapján adaptálja a következőt. A kártya megőrzi, hogy a tanuló a négylépcsős ellenőrzés mely részénél tart.
