@@ -351,6 +351,24 @@
       "evidence": "reference"
     },
     {
+      "id": "A2-08",
+      "cefr": "A2",
+      "title_hu": "Elöljárószavak: por és para",
+      "topics": [
+        "para: cél/címzett/határidő/rendeltetés",
+        "por: ok/csere/útvonal/időtartam/eszköz",
+        "para + infinitivo",
+        "para que + subjuntivo előkészítése",
+        "hely- és időhatározói elöljárószavak"
+      ],
+      "prerequisites": [
+        "A1-08",
+        "A2-07"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
       "id": "B1-01",
       "cefr": "B1",
       "title_hu": "A múlt idők integrált használata",
@@ -640,6 +658,10 @@
     {
       "topic": "object_pronouns",
       "principle_hu": "A közvetlen és közvetett tárgy különül el; le/les a lo/la/los/las előtt se alakra vált, ez nem azonos a visszaható se-vel."
+    },
+    {
+      "topic": "por-para",
+      "principle_hu": "A para gyakran célt, címzettet, határidőt vagy rendeltetést jelöl; a por gyakran okot, cserét, útvonalat, időtartamot vagy eszközt. A pontos választás mindig a szerkezet jelentésétől függ."
     }
   ],
   "sources": [
