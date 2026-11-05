@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "course_key": "en-hu",
+  "course_id": "DUOLINGO_EN_HU",
+  "explanation_language": "hu",
+  "source_curriculum": "curricula/angol-a1-b2-tanulasi-terkep.md",
+  "loading_policy": "Load only the exact path and inclusive line range for the active module. Never read all level banks or the full curriculum by default.",
+  "module_boundary_policy": "A grammar module is an indivisible top-level learning unit. Its internal topics may be handled separately only at complete conceptual boundaries; never stop mid-explanation, example sequence, comparison, or comprehension check.",
+  "modules": [
+    {
+      "id": "A1-01",
+      "cefr": "A1",
+      "title": "Mondatváz, személyes névmások és to be",
+      "prerequisites": [],
+      "evidence": "reference_plus_theme",
+      "duolingo_alignment": "module-1",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 7,
+      "end_line": 20
+    },
+    {
+      "id": "A1-02",
+      "cefr": "A1",
+      "title": "To be: tagadás, kérdés és összevont alakok",
+      "prerequisites": [
+        "A1-01"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-2-units-2-4",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 22,
+      "end_line": 35
+    },
+    {
+      "id": "A1-03",
+      "cefr": "A1",
+      "title": "Present Simple",
+      "prerequisites": [
+        "A1-01",
+        "A1-02"
+      ],
+      "evidence": "explicit_and_theme",
+      "duolingo_alignment": "modules-1-2",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 37,
+      "end_line": 50
+    },
+    {
+      "id": "A1-04",
+      "cefr": "A1",
+      "title": "Főnevek, többes szám, melléknevek és névelők",
+      "prerequisites": [
+        "A1-01"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-2-units-1-20",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 52,
+      "end_line": 67
+    },
+    {
+      "id": "A1-05",
+      "cefr": "A1",
+      "title": "Kérdésalkotás és tagadás do/does segítségével",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "explicit_and_reference",
+      "duolingo_alignment": "module-2",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 69,
+      "end_line": 80
+    },
+    {
+      "id": "A1-06",
+      "cefr": "A1",
+      "title": "Gyakoriság és időhatározók",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-2-units-9-13",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 82,
+      "end_line": 93
+    },
+    {
+      "id": "A1-07",
+      "cefr": "A1",
+      "title": "There is/are, hely és mennyiség",
+      "prerequisites": [
+        "A1-01",
+        "A1-04"
+      ],
+      "evidence": "explicit_unit_title",
+      "duolingo_alignment": "module-3-unit-9",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 95,
+      "end_line": 107
+    },
+    {
+      "id": "A1-08",
+      "cefr": "A1",
+      "title": "Present Continuous",
+      "prerequisites": [
+        "A1-02",
+        "A1-03"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-2-units-25-27",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 109,
+      "end_line": 121
+    },
+    {
+      "id": "A1-09",
+      "cefr": "A1",
+      "title": "Felszólítások és udvarias kérések",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-3-units-2; module-2-unit-29",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 123,
+      "end_line": 135
+    },
+    {
+      "id": "A1-10",
+      "cefr": "A1",
+      "title": "Múltbeli alapok, mennyiségek és infinitive",
+      "prerequisites": [
+        "A1-03",
+        "A1-07"
+      ],
+      "evidence": "explicit_and_reference",
+      "duolingo_alignment": "module-3-units-12-24",
+      "path": "learning-modules/en-hu/a1.md",
+      "start_line": 137,
+      "end_line": 153
+    },
+    {
+      "id": "A2-01",
+      "cefr": "A2",
+      "title": "Past Simple: cselekvő igék és tagadás",
+      "prerequisites": [
+        "A1-10"
+      ],
+      "evidence": "explicit_unit_title",
+      "duolingo_alignment": "module-3-unit-24",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 7,
+      "end_line": 18
+    },
+    {
+      "id": "A2-02",
+      "cefr": "A2",
+      "title": "Past Continuous és múltbeli elbeszélés",
+      "prerequisites": [
+        "A2-01"
+      ],
+      "evidence": "explicit_unit_title",
+      "duolingo_alignment": "module-4-unit-42",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 20,
+      "end_line": 31
+    },
+    {
+      "id": "A2-03",
+      "cefr": "A2",
+      "title": "Present Perfect alapjai",
+      "prerequisites": [
+        "A2-01"
+      ],
+      "evidence": "explicit_unit_title",
+      "duolingo_alignment": "module-4-unit-27",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 33,
+      "end_line": 45
+    },
+    {
+      "id": "A2-04",
+      "cefr": "A2",
+      "title": "Jövőbeli tervek és szándékok",
+      "prerequisites": [
+        "A1-03",
+        "A1-08"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-3-4-themes",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 47,
+      "end_line": 58
+    },
+    {
+      "id": "A2-05",
+      "cefr": "A2",
+      "title": "Feltételes mondatok és modális igék",
+      "prerequisites": [
+        "A1-09",
+        "A2-04"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-4-units-4-6",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 60,
+      "end_line": 71
+    },
+    {
+      "id": "A2-06",
+      "cefr": "A2",
+      "title": "Összehasonlítás, mennyiség és határozószók",
+      "prerequisites": [
+        "A1-04",
+        "A1-07"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-4-units-9;15;17;23",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 73,
+      "end_line": 85
+    },
+    {
+      "id": "A2-07",
+      "cefr": "A2",
+      "title": "Vonzatos igék és phrasal verbs",
+      "prerequisites": [
+        "A1-10"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-4-units-30;36",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 87,
+      "end_line": 98
+    },
+    {
+      "id": "A2-08",
+      "cefr": "A2",
+      "title": "Reported speech, question tags és relative clauses",
+      "prerequisites": [
+        "A2-01",
+        "A1-05"
+      ],
+      "evidence": "explicit_unit_titles",
+      "duolingo_alignment": "module-4-units-46;48;58",
+      "path": "learning-modules/en-hu/a2.md",
+      "start_line": 100,
+      "end_line": 115
+    },
+    {
+      "id": "B1-01",
+      "cefr": "B1",
+      "title": "Igeidők integrált használata",
+      "prerequisites": [
+        "A2-02",
+        "A2-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 7,
+      "end_line": 19
+    },
+    {
+      "id": "B1-02",
+      "cefr": "B1",
+      "title": "Múltbeli szokások és elbeszélés",
+      "prerequisites": [
+        "A2-01",
+        "A2-02"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "module-5-memories-and-experience-themes",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 21,
+      "end_line": 32
+    },
+    {
+      "id": "B1-03",
+      "cefr": "B1",
+      "title": "Jövőformák és előrejelzés",
+      "prerequisites": [
+        "A2-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 34,
+      "end_line": 44
+    },
+    {
+      "id": "B1-04",
+      "cefr": "B1",
+      "title": "Modális igék és árnyalt jelentés",
+      "prerequisites": [
+        "A2-05"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 46,
+      "end_line": 58
+    },
+    {
+      "id": "B1-05",
+      "cefr": "B1",
+      "title": "Feltételes szerkezetek",
+      "prerequisites": [
+        "A2-05"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 60,
+      "end_line": 71
+    },
+    {
+      "id": "B1-06",
+      "cefr": "B1",
+      "title": "Passzív szerkezet",
+      "prerequisites": [
+        "A2-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 73,
+      "end_line": 84
+    },
+    {
+      "id": "B1-07",
+      "cefr": "B1",
+      "title": "Gerund, infinitive és phrasal verbs",
+      "prerequisites": [
+        "A2-07"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 86,
+      "end_line": 97
+    },
+    {
+      "id": "B1-08",
+      "cefr": "B1",
+      "title": "Reported speech és összetett mellékmondatok",
+      "prerequisites": [
+        "A2-08"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 99,
+      "end_line": 111
+    },
+    {
+      "id": "B1-09",
+      "cefr": "B1",
+      "title": "Összefüggő beszéd és nyelvi pontosság",
+      "prerequisites": [
+        "B1-01",
+        "B1-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-5-6",
+      "path": "learning-modules/en-hu/b1.md",
+      "start_line": 113,
+      "end_line": 128
+    },
+    {
+      "id": "B2-01",
+      "cefr": "B2",
+      "title": "Harmadik és vegyes feltételes mondatok",
+      "prerequisites": [
+        "B1-05"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 7,
+      "end_line": 18
+    },
+    {
+      "id": "B2-02",
+      "cefr": "B2",
+      "title": "Modális igék múltbeli következtetésre",
+      "prerequisites": [
+        "B1-04",
+        "B2-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 20,
+      "end_line": 30
+    },
+    {
+      "id": "B2-03",
+      "cefr": "B2",
+      "title": "Passzív változatok és causative",
+      "prerequisites": [
+        "B1-06"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "module-8-formal-problem-solving-themes",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 32,
+      "end_line": 43
+    },
+    {
+      "id": "B2-04",
+      "cefr": "B2",
+      "title": "Függő beszéd haladó használata",
+      "prerequisites": [
+        "B1-08"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 45,
+      "end_line": 56
+    },
+    {
+      "id": "B2-05",
+      "cefr": "B2",
+      "title": "Összetett mellékmondatok",
+      "prerequisites": [
+        "B1-08"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 58,
+      "end_line": 69
+    },
+    {
+      "id": "B2-06",
+      "cefr": "B2",
+      "title": "Haladó igeidők és aspektus",
+      "prerequisites": [
+        "B1-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 71,
+      "end_line": 82
+    },
+    {
+      "id": "B2-07",
+      "cefr": "B2",
+      "title": "Kiemelés és összetett mondatszerkesztés",
+      "prerequisites": [
+        "B2-05"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 84,
+      "end_line": 95
+    },
+    {
+      "id": "B2-08",
+      "cefr": "B2",
+      "title": "Stílus, árnyalat és érvelés",
+      "prerequisites": [
+        "B1-09",
+        "B2-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "modules-7-8",
+      "path": "learning-modules/en-hu/b2.md",
+      "start_line": 97,
+      "end_line": 113
+    }
+  ]
+}
