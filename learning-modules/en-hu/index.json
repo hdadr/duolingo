@@ -33,7 +33,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 22,
       "end_line": 35,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -50,7 +50,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 37,
       "end_line": 50,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_and_theme",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -66,7 +66,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 52,
       "end_line": 67,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -82,7 +82,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 69,
       "end_line": 80,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_and_reference",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -98,7 +98,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 82,
       "end_line": 93,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -115,7 +115,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 95,
       "end_line": 107,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_title",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -132,7 +132,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 109,
       "end_line": 121,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -148,7 +148,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 123,
       "end_line": 135,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -165,7 +165,7 @@
       "path": "learning-modules/en-hu/a1.md",
       "start_line": 137,
       "end_line": 153,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_and_reference",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -181,7 +181,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 7,
       "end_line": 18,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_title",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -197,7 +197,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 20,
       "end_line": 31,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_title",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -213,7 +213,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 33,
       "end_line": 45,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_title",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -247,7 +247,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 60,
       "end_line": 71,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -264,7 +264,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 73,
       "end_line": 85,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -280,7 +280,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 87,
       "end_line": 98,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -297,7 +297,7 @@
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 100,
       "end_line": 115,
-      "duolingo_grammar_evidence": "direct",
+      "duolingo_grammar_evidence": "explicit",
       "evidence_basis": "explicit_unit_titles",
       "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
     },
@@ -578,5 +578,7 @@
       "evidence_basis": "reference",
       "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     }
-  ]
+  ],
+  "evidence_policy": "duolingo_grammar_evidence records the strength of a grammar-to-unit link: explicit (named in public course data), observed (seen in an actual unit example but not named as a target), inferred (probable from theme/reference), reference_only (CEFR/reference mapping only), or unknown. It is separate from learner mastery.",
+  "mastery_policy": "Learner grammar mastery is tracked only in the per-course state card from learning evidence. Never infer or advance mastery from Duolingo unit position."
 }
