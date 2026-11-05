@@ -17,7 +17,7 @@
   ],
   "properties": {
     "card_version": {
-      "const": 1
+      "const": 2
     },
     "course_key": {
       "enum": [
@@ -74,7 +74,10 @@
         "status",
         "current_subtopic",
         "completed_subtopics",
-        "next_subtopic"
+        "next_subtopic",
+        "check_stage",
+        "transfer_task",
+        "transfer_status"
       ],
       "properties": {
         "module_id": {
@@ -113,6 +116,31 @@
             "null"
           ],
           "maxLength": 100
+        },
+        "check_stage": {
+          "enum": [
+            "not_started",
+            "recognition",
+            "reasoning",
+            "guided_application",
+            "transfer",
+            "completed"
+          ]
+        },
+        "transfer_task": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 180
+        },
+        "transfer_status": {
+          "enum": [
+            "not_asked",
+            "pending",
+            "passed",
+            "retry"
+          ]
         }
       },
       "additionalProperties": false
