@@ -48,6 +48,7 @@ A privát GitHub-repóhoz az új chatnek hozzáférés kell a csatlakoztatott Gi
 - [Modulbankok és pontos beolvasási szabályok](learning-modules/README.md)
 - [Kurzusnyilvántartás](courses/registry.json)
 - [Állapotkártya JSON-sémája](schemas/state-card.schema.json)
+- [Free projekt-router séma](schemas/free-course-router.schema.json)
 - [Tantervi bizonyítékok indexsémája](schemas/curriculum-index.schema.json)
 
 Az új beszélgetés csak a kiválasztott kurzus moduljegyzékét, állapotkártyáját és az aktuális modul pontos sorait olvassa be. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak. A megértés-ellenőrzés alapértelmezésként egyenként feltett feleletválasztós kérdésekkel működik; a tanulónak elég az A/B/C/D opciót kiválasztania.
