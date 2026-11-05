@@ -99,7 +99,7 @@ Ezeket fokozatosan, csak akkor tanítsd, amikor az aktuális Duolingo-anyaghoz k
 4. **Szórend:** angolban kötöttebb az alany–ige–tárgy sorrend, és az alanyt általában ki kell tenni.
 5. **Igeidő és aspektus:** a magyar múlt idő nem feleltethető meg automatikusan a Past Simple, Past Continuous és Present Perfect alakoknak.
 6. **Elöljárószavak:** az angol `in/on/at/to/for/from` nem feleltethető meg mindig egy magyar raggal.
-7. **Megs számlálhatóság:** `much/many, few/little, some/any` használata a főnév típusától függ.
+7. **Megszámlálhatóság:** `much/many, few/little, some/any` használata a főnév típusától függ.
 8. **Gerund és infinitive:** az angol igék meghatározott `-ing` vagy `to + infinitive` mintát vonzhatnak.
 9. **Phrasal verbs:** az ige és partikula együtt új jelentést hozhat létre; névmásnál a partikula helye is számít.
 
