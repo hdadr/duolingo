@@ -52,6 +52,8 @@ Az `evidence_basis` a régi adatforrás-jelölést őrzi, az `evidence_note` rö
 - `stable`: csak akkor, ha az irányított alkalmazás és az új alanyt, új igét használó transzferellenőrzés is sikerült.
 - `needs_review`: ha a válaszok vagy a visszatérő hibaminta konkrét bizonytalanságot mutat.
 
+Az `evidence_basis` legyen összhangban a státusszal: `lesson_explained` az újonnan bemutatott fogalomnál; `choice_check` a felismerési/logikai választós ellenőrzés után; `transfer_check` vagy `independent_use` a stabil tudásnál; `review_triggered` a célzott ismétlést kiváltó bizonytalanságnál. Az `insufficient` új, még nem igazolt fogalomra vonatkozik. A `legacy_unclassified` csak régi rekordnál használható, és nem írhatja felül a meglévő státuszt.
+
 Ne változtass státuszt pusztán azért, mert a tanuló elért egy Duolingo-egységet, vagy az egység témája egy korábbi modulra épül. A helyes válasz találgatása önmagában nem elegendő a stabil státuszhoz.
 
 ### Rövid visszatérés egy instabil előfeltételhez
