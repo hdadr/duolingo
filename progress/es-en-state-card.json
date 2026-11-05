@@ -1,5 +1,5 @@
 {
-  "card_version": 1,
+  "card_version": 2,
   "course_key": "es-en",
   "course_id": "DUOLINGO_ES_EN",
   "updated_at": null,
@@ -13,7 +13,10 @@
     "status": "not_started",
     "current_subtopic": null,
     "completed_subtopics": [],
-    "next_subtopic": null
+    "next_subtopic": null,
+    "check_stage": "not_started",
+    "transfer_task": null,
+    "transfer_status": "not_asked"
   },
   "mastery": [],
   "review_queue": [],
