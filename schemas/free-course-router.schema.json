@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Compact Free ChatGPT course router",
+  "type": "object",
+  "required": [
+    "version",
+    "course",
+    "language",
+    "base",
+    "source",
+    "sections",
+    "modules",
+    "route_rule"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "course": {
+      "enum": [
+        "es-en",
+        "en-hu"
+      ]
+    },
+    "language": {
+      "type": "string"
+    },
+    "base": {
+      "type": "string"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "kind",
+        "url",
+        "checked",
+        "limitation"
+      ],
+      "properties": {
+        "kind": {
+          "const": "community_public_course_map"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "checked": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "limitation": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 3
+      }
+    },
+    "modules": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "pre",
+          "evidence",
+          "bank",
+          "lines"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+          },
+          "title": {
+            "type": "string"
+          },
+          "pre": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "evidence": {
+            "enum": [
+              "explicit",
+              "observed",
+              "inferred",
+              "reference_only",
+              "unknown"
+            ]
+          },
+          "bank": {
+            "enum": [
+              "a1",
+              "a2",
+              "b1",
+              "b2"
+            ]
+          },
+          "lines": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "route_rule": {
+      "type": "string"
+    },
+    "unit_anchors": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 4,
+        "maxItems": 4
+      }
+    },
+    "unit_anchor_note": {
+      "type": "string"
+    },
+    "section_themes": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "minItems": 3,
+        "maxItems": 3
+      }
+    },
+    "one_unit_theme": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "section_theme_note": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
