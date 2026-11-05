@@ -1,0 +1,226 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Compact Duolingo companion state card",
+  "type": "object",
+  "required": [
+    "card_version",
+    "course_key",
+    "course_id",
+    "updated_at",
+    "current_position",
+    "active_block",
+    "mastery",
+    "review_queue",
+    "recurring_error_patterns",
+    "next_action",
+    "last_session_note"
+  ],
+  "properties": {
+    "card_version": {
+      "const": 1
+    },
+    "course_key": {
+      "enum": [
+        "es-en",
+        "en-hu"
+      ]
+    },
+    "course_id": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "current_position": {
+      "type": "object",
+      "required": [
+        "section",
+        "unit",
+        "unit_title"
+      ],
+      "properties": {
+        "section": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "unit": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "unit_title": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 120
+        }
+      },
+      "additionalProperties": false
+    },
+    "active_block": {
+      "type": "object",
+      "required": [
+        "module_id",
+        "status",
+        "current_subtopic",
+        "completed_subtopics",
+        "next_subtopic"
+      ],
+      "properties": {
+        "module_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+        },
+        "status": {
+          "enum": [
+            "not_started",
+            "in_progress",
+            "checkpoint_ready",
+            "completed"
+          ]
+        },
+        "current_subtopic": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 100
+        },
+        "completed_subtopics": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "maxLength": 100
+          },
+          "maxItems": 12
+        },
+        "next_subtopic": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 100
+        }
+      },
+      "additionalProperties": false
+    },
+    "mastery": {
+      "type": "array",
+      "maxItems": 18,
+      "items": {
+        "type": "object",
+        "required": [
+          "module_id",
+          "concept",
+          "status",
+          "evidence",
+          "last_checked"
+        ],
+        "properties": {
+          "module_id": {
+            "type": "string",
+            "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+          },
+          "concept": {
+            "type": "string",
+            "maxLength": 100
+          },
+          "status": {
+            "enum": [
+              "introduced",
+              "understood",
+              "stable",
+              "needs_review"
+            ]
+          },
+          "evidence": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "maxLength": 140
+          },
+          "last_checked": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "review_queue": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "required": [
+          "module_id",
+          "concept",
+          "reason",
+          "priority"
+        ],
+        "properties": {
+          "module_id": {
+            "type": "string",
+            "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+          },
+          "concept": {
+            "type": "string",
+            "maxLength": 100
+          },
+          "reason": {
+            "type": "string",
+            "maxLength": 140
+          },
+          "priority": {
+            "enum": [
+              "low",
+              "normal",
+              "high"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "recurring_error_patterns": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "string",
+        "maxLength": 120
+      }
+    },
+    "next_action": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "maxLength": 160
+    },
+    "last_session_note": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "maxLength": 240
+    }
+  },
+  "additionalProperties": false
+}
