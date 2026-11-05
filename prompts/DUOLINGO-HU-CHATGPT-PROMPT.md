@@ -187,7 +187,7 @@ Akkor, ha:
 - a tanuló érti a szabály mögötti gondolatot;
 - a rövid ellenőrző kérdéseket többnyire helyesen oldja meg;
 - az esetleges hibák után javítani tudja a gondolatmenetét;
-- új példán is képes felismerni vagy alkalmazni a szerkezetet.
+- a negyedik lépésben **más alannyal és más igével** alkotott új helyzetű feladatot helyesen oldotta meg, és röviden meg is indokolta a választását.
 
 Ha ez még nem teljesül, maradj a témánál, és más magyarázati módszert használj. Ne halmozz új nyelvtani elemeket a bizonytalan alapokra.
 
