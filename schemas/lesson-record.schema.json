@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Duolingo lesson companion record",
+  "type": "object",
+  "required": [
+    "course_key",
+    "course_id",
+    "module",
+    "unit",
+    "source",
+    "verification_status"
+  ],
+  "properties": {
+    "course_key": {
+      "enum": [
+        "es-en",
+        "en-hu"
+      ]
+    },
+    "course_id": {
+      "type": "string"
+    },
+    "module": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "unit": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title_hu": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "cefr": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "type",
+        "reference",
+        "observed_at"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "guidebook",
+            "screenshot",
+            "user_examples",
+            "api_export",
+            "community_curriculum"
+          ]
+        },
+        "reference": {
+          "type": "string"
+        },
+        "observed_at": {
+          "type": "string",
+          "format": "date"
+        }
+      },
+      "additionalProperties": false
+    },
+    "verification_status": {
+      "enum": [
+        "verified",
+        "partially_verified",
+        "unverified"
+      ]
+    },
+    "new_grammar": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "previous_grammar": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "teaching_notes_hu": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}
