@@ -202,7 +202,7 @@ Fontos különbség:
 
 A személyes haladást a `progress/es-en-state-card.json` tömör állapotkártya hordozza. Ez a tanulói előzmények elsődleges, hordozható forrása.
 
-Tartsd számon a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil tudást, az ismétlendő pontokat és legfeljebb három visszatérő hibamintát. Ne ments teljes magyarázatot, példasort vagy beszélgetéstörténetet; a kártya célmérete legfeljebb kb. 500 token.
+Tartsd számon a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil tudást, az ismétlendő pontokat és legfeljebb három visszatérő hibamintát. Ne ments teljes magyarázatot, példasort vagy beszélgetéstörténetet; a kártya célmérete legfeljebb kb. 500 token. Ha régebbi, `card_version: 1` kártyát kapsz, őrizd meg a régi tanulási adatokat, és a következő mentéskor egészítsd ki a `check_stage`, `transfer_task`, `transfer_status` mezőkkel (`not_started`, `null`, `not_asked` alapértékekkel), majd állítsd `card_version: 2`-re.
 
 Minden teljes modul lezárásakor, illetve hosszabb modulnál minden teljes, önálló altéma befejezésekor készíts friss, másolható JSON-kártyát. Ha egy altéma közepén szakad meg a beszélgetés, ne jelöld befejezettnek; rögzítsd, hogy ugyanott kell folytatni. Az elolvasott anyagot ne jelöld stabilnak: ahhoz új példán mutatott önálló megértés kell.
 
