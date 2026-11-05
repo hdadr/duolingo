@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "course_key": "es-en",
+  "course_id": "DUOLINGO_ES_EN",
+  "explanation_language": "hu",
+  "source_curriculum": "curricula/espanol-a1-b2-tanulasi-terkep.md",
+  "loading_policy": "Load only the exact path and inclusive line range for the active module. Never read all level banks or the full curriculum by default.",
+  "module_boundary_policy": "A grammar module is an indivisible top-level learning unit. Its internal topics may be handled separately only at complete conceptual boundaries; never stop mid-explanation, example sequence, comparison, or comprehension check.",
+  "modules": [
+    {
+      "id": "A1-01",
+      "cefr": "A1",
+      "title": "Kiejtés, hangsúly és alapvető helyesírás",
+      "prerequisites": [],
+      "evidence": "reference",
+      "duolingo_alignment": "intro",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 7,
+      "end_line": 22
+    },
+    {
+      "id": "A1-02",
+      "cefr": "A1",
+      "title": "Főnevek, nem, szám és névelők",
+      "prerequisites": [
+        "A1-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-1-2",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 24,
+      "end_line": 41
+    },
+    {
+      "id": "A1-03",
+      "cefr": "A1",
+      "title": "Személyes névmások és jelen idejű igeragozás",
+      "prerequisites": [
+        "A1-02"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-1-2",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 43,
+      "end_line": 59
+    },
+    {
+      "id": "A1-04",
+      "cefr": "A1",
+      "title": "Ser, estar és hay",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-1-3",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 61,
+      "end_line": 76
+    },
+    {
+      "id": "A1-05",
+      "cefr": "A1",
+      "title": "Melléknevek, birtokosok és mutató szavak",
+      "prerequisites": [
+        "A1-02",
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-1-2",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 78,
+      "end_line": 94
+    },
+    {
+      "id": "A1-06",
+      "cefr": "A1",
+      "title": "Kedvelés, mennyiség és étkezés",
+      "prerequisites": [
+        "A1-03",
+        "A1-05"
+      ],
+      "evidence": "theme_aligned",
+      "duolingo_alignment": "section-2-food-diet",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 96,
+      "end_line": 115
+    },
+    {
+      "id": "A1-07",
+      "cefr": "A1",
+      "title": "Napi rutin és gyakoriság",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-2-3",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 117,
+      "end_line": 134
+    },
+    {
+      "id": "A1-08",
+      "cefr": "A1",
+      "title": "Hely, irány, felszólítás és közeli jövő",
+      "prerequisites": [
+        "A1-03",
+        "A1-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-2-3",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 136,
+      "end_line": 152
+    },
+    {
+      "id": "A1-09",
+      "cefr": "A1",
+      "title": "Tagadás és egyszerű mondatkapcsolás",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-1-3",
+      "path": "learning-modules/es-en/a1.md",
+      "start_line": 154,
+      "end_line": 171
+    },
+    {
+      "id": "A2-01",
+      "cefr": "A2",
+      "title": "Pretérito perfecto és indefinido",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 7,
+      "end_line": 24
+    },
+    {
+      "id": "A2-02",
+      "cefr": "A2",
+      "title": "Perfecto és indefinido összehasonlítása",
+      "prerequisites": [
+        "A2-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 26,
+      "end_line": 41
+    },
+    {
+      "id": "A2-03",
+      "cefr": "A2",
+      "title": "Imperfecto és múltbeli elbeszélés",
+      "prerequisites": [
+        "A2-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 43,
+      "end_line": 59
+    },
+    {
+      "id": "A2-04",
+      "cefr": "A2",
+      "title": "Folyamatos jelen és igekörülírások",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 61,
+      "end_line": 75
+    },
+    {
+      "id": "A2-05",
+      "cefr": "A2",
+      "title": "Közvetlen és közvetett tárgyas névmások",
+      "prerequisites": [
+        "A1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 77,
+      "end_line": 92
+    },
+    {
+      "id": "A2-06",
+      "cefr": "A2",
+      "title": "Vélemény, összehasonlítás és pontosabb ser/estar",
+      "prerequisites": [
+        "A1-04",
+        "A1-06"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 94,
+      "end_line": 107
+    },
+    {
+      "id": "A2-07",
+      "cefr": "A2",
+      "title": "Tervek és egyszerű összetett mondatok",
+      "prerequisites": [
+        "A1-08",
+        "A1-09"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 109,
+      "end_line": 122
+    },
+    {
+      "id": "A2-08",
+      "cefr": "A2",
+      "title": "Elöljárószavak: por és para",
+      "prerequisites": [
+        "A1-08",
+        "A2-07"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "section-4",
+      "path": "learning-modules/es-en/a2.md",
+      "start_line": 124,
+      "end_line": 142
+    },
+    {
+      "id": "B1-01",
+      "cefr": "B1",
+      "title": "A múlt idők integrált használata",
+      "prerequisites": [
+        "A2-01",
+        "A2-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 7,
+      "end_line": 22
+    },
+    {
+      "id": "B1-02",
+      "cefr": "B1",
+      "title": "Jövő, hipotézis és udvariasság",
+      "prerequisites": [
+        "A2-07"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 24,
+      "end_line": 38
+    },
+    {
+      "id": "B1-03",
+      "cefr": "B1",
+      "title": "Presente de subjuntivo képzése",
+      "prerequisites": [
+        "A2-07"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 40,
+      "end_line": 52
+    },
+    {
+      "id": "B1-04",
+      "cefr": "B1",
+      "title": "Subjuntivo kívánság, kérés, érzelem és értékelés után",
+      "prerequisites": [
+        "B1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 54,
+      "end_line": 70
+    },
+    {
+      "id": "B1-05",
+      "cefr": "B1",
+      "title": "Vonatkozó mellékmondatok: indikativusz vagy subjuntivo",
+      "prerequisites": [
+        "B1-03"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 72,
+      "end_line": 84
+    },
+    {
+      "id": "B1-06",
+      "cefr": "B1",
+      "title": "Személytelen se és névmáselhelyezés",
+      "prerequisites": [
+        "A2-05",
+        "A1-06"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 86,
+      "end_line": 98
+    },
+    {
+      "id": "B1-07",
+      "cefr": "B1",
+      "title": "Ok, cél, feltétel és engedmény",
+      "prerequisites": [
+        "B1-03",
+        "B1-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 100,
+      "end_line": 113
+    },
+    {
+      "id": "B1-08",
+      "cefr": "B1",
+      "title": "Állapotváltoztató igék és árnyalt leírás",
+      "prerequisites": [
+        "A1-04",
+        "A1-05"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-5-6",
+      "path": "learning-modules/es-en/b1.md",
+      "start_line": 115,
+      "end_line": 130
+    },
+    {
+      "id": "B2-01",
+      "cefr": "B2",
+      "title": "A subjuntivo további igeidői",
+      "prerequisites": [
+        "B1-03",
+        "B1-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 7,
+      "end_line": 20
+    },
+    {
+      "id": "B2-02",
+      "cefr": "B2",
+      "title": "Valós és irreális feltételes mondatok",
+      "prerequisites": [
+        "B1-02",
+        "B2-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 22,
+      "end_line": 35
+    },
+    {
+      "id": "B2-03",
+      "cefr": "B2",
+      "title": "Hipotézis és valószínűség",
+      "prerequisites": [
+        "B1-02",
+        "B2-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 37,
+      "end_line": 49
+    },
+    {
+      "id": "B2-04",
+      "cefr": "B2",
+      "title": "Összetett mellékmondatok és kötőszók",
+      "prerequisites": [
+        "B1-05",
+        "B1-07",
+        "B2-01"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 51,
+      "end_line": 65
+    },
+    {
+      "id": "B2-05",
+      "cefr": "B2",
+      "title": "Közvetett beszéd és időegyeztetés",
+      "prerequisites": [
+        "B1-01",
+        "B1-04"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 67,
+      "end_line": 80
+    },
+    {
+      "id": "B2-06",
+      "cefr": "B2",
+      "title": "Formális kérés, javaslat és panasz",
+      "prerequisites": [
+        "B1-02",
+        "B1-06"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 82,
+      "end_line": 94
+    },
+    {
+      "id": "B2-07",
+      "cefr": "B2",
+      "title": "Érvelés, stílus és diskurzusszervezés",
+      "prerequisites": [
+        "B1-07",
+        "B2-04",
+        "B2-05"
+      ],
+      "evidence": "reference",
+      "duolingo_alignment": "sections-7-8",
+      "path": "learning-modules/es-en/b2.md",
+      "start_line": 96,
+      "end_line": 113
+    }
+  ]
+}
