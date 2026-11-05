@@ -22,7 +22,7 @@ A modulbankok az eredeti tanulási térképek modulblokkjait őrzik meg; a tarta
 
 ## Megértés-ellenőrzés
 
-A fontos új nyelvtani szabályok ellenőrzése négylépcsős: felismerés, a logika megindoklása, irányított alkalmazás, majd új helyzetű transzfer. A negyedik lépésben az asszisztens mindig más alanyt és más igét használ, mint a korábbi példákban; egyszerre csak egy kérdést tesz fel, és a tanuló válasza alapján adaptálja a következőt. A kártya megőrzi, hogy a tanuló a négylépcsős ellenőrzés mely részénél tart.
+A fontos új nyelvtani szabályok ellenőrzése négylépcsős: felismerés, a logika megindoklása, irányított alkalmazás, majd új helyzetű transzfer. A negyedik lépésben az asszisztens mindig más alanyt és más igét használ, mint a korábbi példákban; egyszerre csak egy kérdést tesz fel, és a tanuló válasza alapján adaptálja a következőt. A kártya megőrzi, hogy a tanuló a négylépcsős ellenőrzés mely részénél tart, valamint a függőben lévő feleletválasztós kérdés pontos opcióit. A tanuló egy betűvel válaszolhat; a helyes opciót a kártya nem tárolja.
 
 ## Hibadiagnosztikai katalógus
 
