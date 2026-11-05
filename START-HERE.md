@@ -55,7 +55,7 @@ A kártya a folytatáshoz szükséges minimális tanulói előzményt tárolja, 
 
 - A szókincset, mondatgyakorlást, hallásértést és ismétlést elsősorban a Duolingóban végzed.
 - A ChatGPT a nyelvtan és a nyelvhasználat logikáját magyarázza.
-- Minden fontos új szerkezet után rövid megértés-ellenőrzés következik.
+- Minden fontos új szerkezetnél négylépcsős megértés-ellenőrzés következik; a zárópróba más alannyal és más igével teszteli az önálló alkalmazást.
 - A következő egységre csak a tanuló döntése alapján lép tovább.
 
 ## 7. Háttérforrások
