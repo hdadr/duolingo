@@ -13,10 +13,16 @@ The two courses are kept separate. The explanation language is Hungarian in both
 
 ## Data available now
 
+- Spanish course section overviews for all eight sections, with CEFR bands, unit counts and short Hungarian descriptions based on a community-maintained public index.
+
 - Course identifiers and support flags extracted from the uploaded APK's `assets/courses_and_languages.json`.
 - Public curriculum snapshots for Spanish from English and English from Hungarian, with source dates and freshness notes.
 - The user's screenshot capture for Module 2, Unit 22, stored separately because the screenshot alone does not conclusively identify the course direction.
 - A schema and ingestion rules for adding future Guidebook pages, lesson screenshots, examples and verified grammar points.
+
+## API and extraction boundary
+
+The APK exposes an internal Guidebook resource path prefix, but not a public, documented endpoint for downloading every lesson. Duolingo's published Terms prohibit reverse-engineering its app and automated scraping/data extraction of Service Content. This repository therefore does not bulk-harvest lesson text. Exact lesson teaching notes should be built from the current in-app Guidebook and user-provided captures, keeping only the limited excerpts needed to explain the learner's current lesson.
 
 ## Important distinction
 
