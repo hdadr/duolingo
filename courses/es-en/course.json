@@ -1,0 +1,93 @@
+{
+  "course_id": "DUOLINGO_ES_EN",
+  "key": "es-en",
+  "learning_language": "es",
+  "base_language": "en",
+  "explanation_language": "hu",
+  "course_level": "CEFR B2",
+  "max_duolingo_score": 129,
+  "curriculum": {
+    "total_units": 991,
+    "sections": [
+      {
+        "section": 1,
+        "cefr": "Intro",
+        "units": 10
+      },
+      {
+        "section": 2,
+        "cefr": "A1",
+        "units": 31
+      },
+      {
+        "section": 3,
+        "cefr": "A1",
+        "units": 30
+      },
+      {
+        "section": 4,
+        "cefr": "A2",
+        "units": 60
+      },
+      {
+        "section": 5,
+        "cefr": "B1",
+        "units": 250
+      },
+      {
+        "section": 6,
+        "cefr": "B1",
+        "units": 250
+      },
+      {
+        "section": 7,
+        "cefr": "B2",
+        "units": 180
+      },
+      {
+        "section": 8,
+        "cefr": "B2",
+        "units": 180
+      }
+    ],
+    "unit_topic_identified_from_public_curriculum": {
+      "section": 2,
+      "unit": 22,
+      "title": "Discuss your diet",
+      "title_hu": "Étrend leírása",
+      "confidence": "high",
+      "note": "The public curriculum index identifies this as Section 2, Unit 22. The user's screenshot has the same Hungarian title."
+    }
+  },
+  "public_index_snapshot": {
+    "source": "https://duolingodata.com/",
+    "checked": "2026-11-05",
+    "index_updated": "2026-10-20",
+    "course_version_label": "2026-09",
+    "reported_units": 991,
+    "reported_lessons": 8415,
+    "reported_stories": 1166,
+    "note": "The index table is newer than the detailed page summary."
+  },
+  "detailed_curriculum_page_snapshot": {
+    "source": "https://duolingodata.com/dat/esfen991.html",
+    "page_editor_date": "2026-03-02",
+    "reported_units": 991,
+    "reported_lessons": 8346,
+    "reported_stories": 1128,
+    "reported_radio_lessons": 1250,
+    "reported_adventures": 58,
+    "note": "Counts differ from the newer main index, so keep them as separate dated observations rather than merging them."
+  },
+  "data_limitations": [
+    "This is a community-maintained curriculum map, not a Duolingo-published export.",
+    "It identifies course section sizes and unit topics, not the full exercise sequence.",
+    "It does not contain all prompts, accepted translations, audio, or current Guidebook text.",
+    "Do not infer a grammar rule from a topic title alone."
+  ],
+  "sources": [
+    "https://duolingodata.com/",
+    "https://duolingodata.com/dat/esfen991.html",
+    "https://www.duolingo.com/api/1/version_info"
+  ]
+}
