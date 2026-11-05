@@ -23,3 +23,7 @@ A modulbankok az eredeti tanulási térképek modulblokkjait őrzik meg; a tarta
 ## Megértés-ellenőrzés
 
 A fontos új nyelvtani szabályok ellenőrzése négylépcsős: felismerés, a logika megindoklása, irányított alkalmazás, majd új helyzetű transzfer. A negyedik lépésben az asszisztens mindig más alanyt és más igét használ, mint a korábbi példákban; egyszerre csak egy kérdést tesz fel, és a tanuló válasza alapján adaptálja a következőt. A kártya megőrzi, hogy a tanuló a négylépcsős ellenőrzés mely részénél tart.
+
+## Hibadiagnosztikai katalógus
+
+A `error-pattern-catalog.md` nem kötelező indítófájl. Csak akkor olvasd be, ha egy nyelvtani hiba visszatér, az oka bizonytalan, vagy célzott javító stratégiára van szükség. Az első hiba csak jelölt; visszatérő mintához két független mondat/feladathelyzet kell.
