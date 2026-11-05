@@ -1,68 +1,62 @@
 # Duolingo – magyar nyelvű magyarázó tanulási rendszer
 
-Ez a privát repó egy olyan ChatGPT-kiegészítőt tartalmaz, amely a Duolingo tanulási folyamatát támogatja magyar nyelvű nyelvtani és nyelvhasználati magyarázatokkal.
+Ez a privát repó két Duolingo-kurzushoz tartalmaz magyar nyelvű magyarázó tananyagot, tanulási térképet és új ChatGPT-beszélgetésben használható indító promptot.
 
-**A Duolingo az elsődleges tanulófelület.** A ChatGPT nem helyettesíti a Duolingo szókincs- és mondatgyakorlását, hanem segít megérteni, hogy mit, miért és hogyan tanul a felhasználó.
+**A Duolingo az elsődleges tanulófelület.** A ChatGPT nem helyettesíti a szókincs-, hallásértés- és mondatgyakorlást. A feladata, hogy megmagyarázza a nyelvtani és nyelvhasználati logikát, különösen a magyar és a tanult nyelv közötti eltéréseket, majd ellenőrizze a megértést.
 
-## Kezdés új ChatGPT-chatben
+## Kezdés új ChatGPT-beszélgetésben
 
-1. Olvasd el a [START-HERE.md](START-HERE.md) útmutatót.
-2. Új beszélgetésben használd a [teljes kezdő promptot](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md).
-3. Kövesd a [tanítási és megértés-ellenőrzési protokollt](LEARNING-PROTOCOL.md).
+1. Nyisd meg a [START-HERE.md](START-HERE.md) útmutatót.
+2. Válaszd ki a megfelelő kurzust.
+3. Másold be a kurzushoz tartozó teljes indító promptot.
+4. A ChatGPT olvassa be a szükséges tantervi fájlokat, és kérdezze meg az aktuális Duolingo-helyzetedet.
 
-A privát GitHub-repóhoz az új chatnek hozzáférés kell a csatlakoztatott GitHub-integráción keresztül. Ha nem tudja olvasni, a repó ZIP-archívumát kell feltölteni. A privát URL önmagában nem biztosít hozzáférést.
+A privát GitHub-repóhoz az új chatnek hozzáférés kell a csatlakoztatott GitHub-integráción keresztül. Ha nem látja a fájlokat, töltsd fel a repó ZIP-archívumát. A privát URL önmagában nem biztosít hozzáférést.
 
 ## Támogatott kurzusok
 
-| Kulcs | Kurzus | Duolingo-azonosító | Magyarázat nyelve |
+| Kulcs | Kurzus | Duolingo-azonosító | Magyarázat |
 |---|---|---|---|
 | `es-en` | Spanyol angolból | `DUOLINGO_ES_EN` | Magyar |
 | `en-hu` | Angol magyarból | `DUOLINGO_EN_HU` | Magyar |
 
-A két kurzus külön kezelendő. Az elsődleges aktuális tanulási irány a spanyol angolból. Az angol magyarból kurzus tantervi adatai előkészítve vannak, de a spanyolhoz hasonló részletességű, teljes A1–B2 magyarázó térkép még nincs kidolgozva.
+### Spanyol angolból
+- [Indító prompt](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md)
+- [Spanyol kurzusadatok](courses/es-en/course.json)
+- [Spanyol A1–B2 tanulási térkép – Markdown](curricula/espanol-a1-b2-tanulasi-terkep.md)
+- [Spanyol A1–B2 tanulási térkép – JSON](curricula/espanol-a1-b2-tanulasi-terkep.json)
+- [Nyílt adatok értékelése](research/open-data-coverage-assessment-2026-11-05.md)
+- [Spanyol modulok keresztmegfeleltetése](research/es-en-public-module-description-crosswalk.md)
 
-## Fontos fájlok
+### Angol magyarból
+- [Indító prompt](prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md)
+- [Angol kurzusadatok – 1005 egységes útvonal](courses/en-hu/course.json)
+- [Angol A1–B2 tanulási térkép – Markdown](curricula/angol-a1-b2-tanulasi-terkep.md)
+- [Angol A1–B2 tanulási térkép – JSON](curricula/angol-a1-b2-tanulasi-terkep.json)
+- [Nyílt adatok lefedettségi értékelése](research/en-hu-open-data-coverage-assessment-2026-11-05.md)
+- [Duolingo útvonal és nyelvtani keresztmegfeleltetés](research/en-hu-course-path-and-grammar-crosswalk.md)
 
-### Új chat indítása
-- [START-HERE.md](START-HERE.md) – lépésről lépésre indítás.
-- [Kezdő ChatGPT-prompt](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md) – teljes, bemásolható szerep- és működési prompt.
-- [LEARNING-PROTOCOL.md](LEARNING-PROTOCOL.md) – tanítási folyamat, megértés-ellenőrzés, hibajavítás és továbbhaladás.
+## Közös tanítási protokoll
 
-### Kurzusok és tantervek
-- [Kurzusnyilvántartás](courses/registry.json).
-- [Spanyol angolból – kurzusadatok](courses/es-en/course.json).
-- [Angol magyarból – kurzusadatok](courses/en-hu/course.json).
-- [Spanyol A1–B2 tanulási térkép – Markdown](curricula/espanol-a1-b2-tanulasi-terkep.md).
-- [Spanyol A1–B2 tanulási térkép – JSON](curricula/espanol-a1-b2-tanulasi-terkep.json).
+- [Tanítási és megértés-ellenőrzési protokoll](LEARNING-PROTOCOL.md)
+- [Kurzusnyilvántartás](courses/registry.json)
+- [Haladási adatok JSON-sémája](schemas/progress.schema.json)
 
-### Kutatás és források
-- [Nyílt adatok lefedettségi értékelése](research/open-data-coverage-assessment-2026-11-05.md).
-- [Spanyol modul-leírások és tematikus megfeleltetés](research/es-en-public-module-description-crosswalk.md).
-- [APK és API vizsgálat](sources/apk-extraction-findings.md).
-- [Adatforrások és tananyag-feltárási módszer](sources/lesson-data-acquisition.md).
-- [API-hozzáférés vizsgálata](sources/api-assessment-2026-11-05.md).
+## Tanulási módszer
 
-### Haladásnaplók
-- [Spanyol haladási sablon](progress/es-en-template.json).
-- [Angol haladási sablon](progress/en-hu-template.json).
-- [Haladási adatok JSON-sémája](schemas/progress.schema.json).
-
-A haladási sablonok üresek. A felhasználó tényleges pozícióját az új beszélgetésben kell megerősíteni; ne feltételezz régi vagy más kurzushoz tartozó képernyőkép alapján előrehaladást.
-
-## Tanítási alapelvek
-
-1. **Duolingo-first:** a tanuló a szókincset, mondatokat, hallásértést és ismétlést elsősorban a Duolingóban gyakorolja.
-2. **Magyarázat, nem duplikáció:** a ChatGPT a nyelvtan és nyelvhasználat logikáját fejti ki, nem másolja a leckéket.
-3. **Aktuális egységhez igazodás:** a magyarázat a felhasználó tényleges szekciójához, egységéhez és témájához kapcsolódik.
-4. **Bizonyosság jelölése:** különbséget kell tenni a Guidebookkal/feladatpéldával igazolt, a CEFR-tanterv alapján releváns és a pusztán valószínű témák között.
-5. **Megértés ellenőrzése:** minden fontos új nyelvtani téma után rövid, interaktív ellenőrzés következik. Ez nem szókincsteszt.
-6. **Fokozatos haladás:** ha a tanuló még nem érti a szabályt, más magyarázattal és új példával kell segíteni.
-7. **A tanuló dönt a továbbhaladásról:** amikor a magyarázó rész stabilan megy, a ChatGPT felajánlja a következő Duolingo-egységhez kapcsolódó magyarázatot, de nem kezd bele automatikusan.
+1. **Duolingo-first:** a tanuló a Duolingóban gyakorolja a szókincset, mondatokat, hallásértést és ismétlést.
+2. **Magyarázat, nem duplikáció:** a ChatGPT a nyelvtan és a nyelvhasználat logikáját fejti ki.
+3. **Aktuális egységhez igazodás:** a magyarázat a felhasználó tényleges moduljához, egységéhez és témájához kapcsolódik.
+4. **Megértés-ellenőrzés:** minden fontos új nyelvtani témát rövid, interaktív ellenőrzés követ.
+5. **Fokozatos haladás:** ha a tanuló nem érti a szabályt, a ChatGPT más példával és más magyarázattal segít.
+6. **A tanuló dönt:** az elsajátítás után felajánlja a következő egység magyarázatát, de nem kezdi el automatikusan.
 
 ## Forráskritika
 
-A Duolingo Data közösségi kurzustérképe a szekciók és témák azonosítására használható, de nem hivatalos Duolingo-tanterv és nem bizonyítja az adott egység pontos nyelvtani célját. Az Instituto Cervantes Plan Curricular és AVE Global nyelvtani/tematikus referenciát ad; ezek sem a Duolingo hivatalos egységlistái.
+A Duolingo Data közösségi kurzustérképei az útvonal és az egységtémák azonosítására használhatók, de nem hivatalos Duolingo-exportok. A CEFR, az English Grammar Profile, a British Council és az Instituto Cervantes referenciái a nyelvtani mélységet segítik; nem bizonyítják, hogy egy adott szabály biztosan egy adott Duolingo-egységben jelenik meg.
 
-A repó saját, magyar nyelvű tanulási térképet, magyarázatokat, előfeltételeket és pedagógiai következtetéseket tárol. Nem célja a Duolingo teljes leckeszövegének vagy feladatsorainak másolása.
+A magyar–angol kontrasztív forrásokat azért használjuk, hogy az angol nyelv magyar anyanyelvűek számára különösen nehéz szerkezeteit érthetően magyarázzuk.
 
-**Utolsó dokumentációs frissítés:** 2026-11-05.
+A repó saját magyar nyelvű magyarázó tanterveket, tanulási útvonalakat, előfeltételeket és pedagógiai következtetéseket tárol. Nem a Duolingo teljes leckeszövegének vagy feladatsorainak másolása a cél.
+
+**Utolsó frissítés:** 2026-11-05.
