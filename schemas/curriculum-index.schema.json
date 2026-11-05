@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Duolingo grammar alignment index",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "course_key",
+    "course_id",
+    "explanation_language",
+    "source_curriculum",
+    "loading_policy",
+    "module_boundary_policy",
+    "evidence_policy",
+    "mastery_policy",
+    "modules"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer"
+    },
+    "course_key": {
+      "enum": [
+        "es-en",
+        "en-hu"
+      ]
+    },
+    "course_id": {
+      "type": "string"
+    },
+    "explanation_language": {
+      "type": "string"
+    },
+    "source_curriculum": {
+      "type": "string"
+    },
+    "loading_policy": {
+      "type": "string"
+    },
+    "module_boundary_policy": {
+      "type": "string"
+    },
+    "evidence_policy": {
+      "type": "string"
+    },
+    "mastery_policy": {
+      "type": "string"
+    },
+    "modules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "cefr",
+          "title",
+          "prerequisites",
+          "evidence",
+          "duolingo_alignment",
+          "duolingo_grammar_evidence",
+          "evidence_basis",
+          "evidence_note",
+          "path",
+          "start_line",
+          "end_line"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+          },
+          "cefr": {
+            "enum": [
+              "A1",
+              "A2",
+              "B1",
+              "B2"
+            ]
+          },
+          "title": {
+            "type": "string"
+          },
+          "prerequisites": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+            }
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "duolingo_alignment": {
+            "type": "string"
+          },
+          "duolingo_grammar_evidence": {
+            "enum": [
+              "explicit",
+              "observed",
+              "inferred",
+              "reference_only",
+              "unknown"
+            ]
+          },
+          "evidence_basis": {
+            "enum": [
+              "explicit_unit_titles",
+              "explicit_unit_title",
+              "explicit_and_reference",
+              "explicit_and_theme",
+              "reference_plus_theme",
+              "theme_aligned",
+              "reference"
+            ]
+          },
+          "evidence_note": {
+            "type": "string",
+            "maxLength": 260
+          },
+          "path": {
+            "type": "string"
+          },
+          "start_line": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "end_line": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
