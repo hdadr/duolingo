@@ -12,7 +12,10 @@
       "current_user_goal": true,
       "curriculum_source": "https://duolingodata.com/dat/esfen991.html",
       "public_index": "https://duolingodata.com/",
-      "official_app_support_check": "https://www.duolingo.com/api/1/version_info"
+      "official_app_support_check": "https://www.duolingo.com/api/1/version_info",
+      "curriculum_markdown": "curricula/espanol-a1-b2-tanulasi-terkep.md",
+      "curriculum_json": "curricula/espanol-a1-b2-tanulasi-terkep.json",
+      "chatgpt_prompt": "prompts/DUOLINGO-HU-CHATGPT-PROMPT.md"
     },
     {
       "key": "en-hu",
@@ -23,8 +26,14 @@
       "base_language_name": "Hungarian",
       "display_name": "English from Hungarian",
       "current_user_goal": true,
-      "curriculum_source": "https://duolingodata.com/dat/enfhu305.html",
-      "official_app_support_check": "https://www.duolingo.com/api/1/version_info"
+      "curriculum_source": "https://duolingodata.com/dat/enfhu1005.html",
+      "official_app_support_check": "https://www.duolingo.com/api/1/version_info",
+      "public_index": "https://duolingodata.com/",
+      "curriculum_markdown": "curricula/angol-a1-b2-tanulasi-terkep.md",
+      "curriculum_json": "curricula/angol-a1-b2-tanulasi-terkep.json",
+      "chatgpt_prompt": "prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md",
+      "course_path_snapshot": "2026-02-20",
+      "unit_count": 1005
     }
   ],
   "additional_apk_supported_course_not_enabled_as_a_study_track": {
