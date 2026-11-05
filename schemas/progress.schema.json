@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Duolingo companion learner progress",
+  "type": "object",
+  "required": [
+    "course_key",
+    "course_id",
+    "learning_language",
+    "base_language",
+    "explanation_language",
+    "current_position",
+    "mastery",
+    "needs_review"
+  ],
+  "properties": {
+    "course_key": {
+      "enum": [
+        "es-en",
+        "en-hu"
+      ]
+    },
+    "course_id": {
+      "type": "string"
+    },
+    "learning_language": {
+      "type": "string"
+    },
+    "base_language": {
+      "type": "string"
+    },
+    "explanation_language": {
+      "const": "hu"
+    },
+    "current_position": {
+      "type": "object",
+      "required": [
+        "section",
+        "unit",
+        "unit_title"
+      ],
+      "properties": {
+        "section": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "unit": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "unit_title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "last_confirmed_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        }
+      },
+      "additionalProperties": false
+    },
+    "mastery": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "concept",
+          "status"
+        ],
+        "properties": {
+          "concept": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "introduced",
+              "understood",
+              "stable",
+              "needs_review"
+            ]
+          },
+          "evidence": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "last_checked": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          }
+        }
+      }
+    },
+    "needs_review": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "current_grammar_focus": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}
