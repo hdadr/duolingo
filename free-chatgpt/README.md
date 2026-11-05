@@ -9,6 +9,8 @@ Projekt neve: **Duolingo – Spanyol angolból**
 A projekt Instructions mezőjébe másold be a [spanyol projektutasításokat](es-en/PROJECT-INSTRUCTIONS.md).
 
 A projektbe töltsd fel ezt a három fájlt:
+
+(A router szerkezetét a [free-course-router.schema.json](../schemas/free-course-router.schema.json) ellenőrzi; ez nem projektfájl, nem kell feltölteni.)
 1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md) – rövid tanítási és kontextuskezelési szabályok.
 2. [COURSE-ROUTER.json](es-en/COURSE-ROUTER.json) – spanyol egység-/modulválasztó térkép.
 3. [STATE-CARD.json](es-en/STATE-CARD.json) – spanyol v5 tanulói állapotkártya.
