@@ -80,6 +80,7 @@ A témák a kurzusútvonal kommunikációs céljainak összefoglalói, nem minde
 4. Határozatlan névelők: `un, una, unos, unas`.
 5. Névelő és főnév egyeztetése.
 6. Névelőhasználat általános értelemben, foglalkozásokkal és tulajdonnevekkel.
+7. A névelő elhagyásának gyakori esetei, különösen általánosításokban és bizonyos állandósult szerkezetekben.
 
 **Előfeltétel:** alapszókincs.  
 **Kapcsolat:** család, otthon, ételek, piac, tárgyak.
@@ -251,6 +252,16 @@ A témák a kurzusútvonal kommunikációs céljainak összefoglalói, nem minde
 4. Ok és magyarázat: `porque, como`.
 5. Cél: `para + infinitivo`.
 6. Egyszerű vonatkozó mellékmondatok indikativusszal.
+
+### A2.8 Elöljárószavak: por és para
+
+1. `para`: cél, címzett, határidő és rendeltetés alapvető használata.
+2. `por`: ok, csere, útvonal, időtartam és eszköz gyakori esetei.
+3. `para + infinitivo` és `para que + subjuntivo` közötti különbség előkészítése.
+4. Gyakori állandósult elöljárószavas kifejezések.
+5. Hely- és időhatározói elöljárószavak pontosítása.
+
+**Előfeltétel:** A1-es hely- és időhatározók, A2-es célkifejezés.
 
 **A2 elérendő eredmény:** a tanuló egyszerűen el tud mesélni múltbeli eseményeket, különbséget tud tenni a múlt idő alapvető nézőpontjai között, és képes hétköznapi igényeket, terveket és véleményeket kifejezni.
 
