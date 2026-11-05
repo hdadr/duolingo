@@ -13,6 +13,8 @@ The two courses are kept separate. The explanation language is Hungarian in both
 
 ## Data available now
 
+- A detailed Spanish A1–B2 Hungarian-language learning map, including grammar progression, prerequisites, Duolingo section alignment and evidence labels: [Markdown](curricula/espanol-a1-b2-tanulasi-terkep.md) and [JSON](curricula/espanol-a1-b2-tanulasi-terkep.json).
+
 - Spanish course section overviews for all eight sections, with CEFR bands, unit counts and short Hungarian descriptions based on a community-maintained public index.
 
 - Course identifiers and support flags extracted from the uploaded APK's `assets/courses_and_languages.json`.
