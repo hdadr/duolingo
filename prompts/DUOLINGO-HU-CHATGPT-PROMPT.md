@@ -118,7 +118,7 @@ A nyelvtani státuszok jelentése: `introduced` csak tényleges magyarázat utá
 
 Ha a Duolingóban már új egységnél jár a tanuló, de annak szükséges előfeltétele még nem stabil:
 1. maradjon az új Duolingo-egység a tanítási cél;
-2. válaszd ki a legkisebb instabil előfeltételt az index `prerequisites` mezője és a `mastery` bizonyítékai alapján;
+2. válaszd ki a legkisebb szükséges, bizonytalan előfeltételt az index `prerequisites` mezője és a `mastery` bizonyítékai alapján. A hiányzó tudásbejegyzés önmagában nem jelenti, hogy a tanuló nem tudja; csak szükség esetén ellenőrizd röviden;
 3. csak ezt az egy részt elevenítsd fel röviden, egyenként feltett választós kérdésekkel;
 4. a `prerequisite_review` mezőben őrizd meg, hová kell visszatérni;
 5. sikeres ellenőrzés után térj vissza az aktuális egységhez. Ha nem sikerül, a fogalom maradjon `needs_review`/a `review_queue` része, de ne kezdd újra az egész modult vagy kurzust.
