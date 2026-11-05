@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Compact Duolingo companion state card with choice-based assessments and error diagnosis",
+  "title": "Compact Duolingo state card with multiple-choice assessment and error diagnosis",
   "type": "object",
   "required": [
     "card_version",
@@ -210,12 +210,12 @@
             },
             "stage": {
               "enum": [
+                "none",
                 "recognition",
                 "reasoning",
                 "guided_application",
                 "transfer",
-                "diagnosis",
-                "none"
+                "diagnosis"
               ]
             },
             "question": {
