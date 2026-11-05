@@ -69,5 +69,165 @@
     "https://duolingodata.com/dat/enfhu305.html",
     "https://duolingodata.com/",
     "https://www.duolingo.com/api/1/version_info"
-  ]
+  ],
+  "unit_topics_snapshot": {
+    "source": "https://duolingodata.com/dat/enfhu305.html",
+    "source_type": "community-maintained curriculum index",
+    "observed_at": "2026-11-05",
+    "section": 2,
+    "cefr": "A1",
+    "topics": [
+      {
+        "unit": 1,
+        "title": "Ruhavásárlás",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 2,
+        "title": "Az otthon bemutatása",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 3,
+        "title": "A „lenni” ige jelen idejének használata",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 4,
+        "title": "A „lenni” jelen idejű összevont alakjai",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 5,
+        "title": "Étel- és italrendelés",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 6,
+        "title": "Kommunikáció a munkahelyen",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 7,
+        "title": "Jelen idő használata az érzelmekhez",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 8,
+        "title": "Segítségkérés órán",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 9,
+        "title": "Segítségkérés vásárláskor",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 10,
+        "title": "Időkifejezések használata",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 11,
+        "title": "Társalgás a sportokról",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 12,
+        "title": "Gyakorisági határozók használata",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 13,
+        "title": "Napi rutin leírása",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 14,
+        "title": "Szállodai szoba foglalása",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 15,
+        "title": "Névelők használata",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 16,
+        "title": "Családtagok leírása",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 17,
+        "title": "Dolgaid leírása",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 18,
+        "title": "Talált tárgyak rendszerezése",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 19,
+        "title": "Ruhavásárlás",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 20,
+        "title": "Rendhagyó többes számú főnevek képzése",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 21,
+        "title": "Tájékozódás ismeretlen városban",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 22,
+        "title": "Tagadás jelen időben",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 23,
+        "title": "Társalgás a tünetekről",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 24,
+        "title": "Kérdések a „lenni” igével jelen időben",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 25,
+        "title": "A folyamatos jelen idő használata",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 26,
+        "title": "Társalgás az időjárásról és a természetről",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 27,
+        "title": "Kérdésalkotás folyamatos jelenben",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 28,
+        "title": "Társalgás az iskoláról",
+        "explicit_grammar_topic": false
+      },
+      {
+        "unit": 29,
+        "title": "Megerősítő felszólítások használata",
+        "explicit_grammar_topic": true
+      },
+      {
+        "unit": 30,
+        "title": "Biztonsági tanácsok adása",
+        "explicit_grammar_topic": false
+      }
+    ],
+    "note": "This is the community index's unit-title metadata, not a complete list of official exercises. Explicit grammar_topic is a title classification only and is not equivalent to all lesson grammar."
+  }
 }
