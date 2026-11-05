@@ -46,10 +46,11 @@ A kártya csak a folytatáshoz szükséges adatokat tartalmazza:
 - aktív modul és státusz;
 - lezárt, aktuális és következő altéma;
 - stabilan elsajátított vagy ismétlendő fogalmak;
-- legfeljebb három visszatérő hibaminta;
+- legfeljebb három strukturált, bizonyítékkal megerősített visszatérő hibaminta;
+- az aktuális hibajelölt rövid diagnózisa, ha még csak egyetlen előfordulás látható;
 - rövid következő teendő és utolsó munkamenet-jegyzet.
 
-Ne ments teljes magyarázatokat, példasorokat vagy beszélgetéstörténetet. Célméret: legfeljebb kb. 500 token. A kártya legyen tömör, ne tananyagot másoljon.
+Ne ments teljes magyarázatokat, példasorokat vagy beszélgetéstörténetet. Célméret: legfeljebb kb. 500 token. A kártya legyen tömör, ne tananyagot másoljon. A `recurring_error_patterns` mező legfeljebb három objektumot tartalmazzon azonosítóval, rövid címkével, célzott szabállyal, tömör bizonyítékkal, előfordulásszámmal és státusszal. Az egyszeri hibajelölt az `active_block.error_diagnosis` mezőben maradjon, ne kerüljön még a visszatérő hibák közé.
 
 ### Frissítési szabály
 
@@ -60,6 +61,60 @@ Ne ments teljes magyarázatokat, példasorokat vagy beszélgetéstörténetet. C
 - A Duolingo-egység teljesítése és a nyelvtani modul megértése külön állapot.
 
 Minden lezárt modul vagy altéma után add meg a friss, másolható JSON-kártyát. GitHubra csak a tanuló kifejezett kérésére írd vissza (például: „Mentsd az állapotkártyát GitHubra”). Ha nincs írási jogosultság, add vissza a teljes JSON-t. Ne állíts sikeres GitHub-frissítést írás és visszaolvasás nélkül.
+
+## Hibadiagnózis és célzott újratanítás
+
+A hibás válasz okát keresd meg, ne csak a helyes alakot közöld. A cél az, hogy az asszisztens a konkrét félreértést javítsa, ne ugyanazt a teljes nyelvtani leckét ismételje el.
+
+### 1. A hiba típusának elkülönítése
+
+Minden hibás válasznál gondold végig, hogy:
+- **elütés vagy figyelmetlenség** történt-e;
+- **szókincsbeli akadály** okozta-e;
+- **egyszeri szabályhiány** látszik-e;
+- **egy pontosan megnevezhető nyelvtani mechanizmus félreértése** okozta-e;
+- **visszatérő félreértésről** van-e szó.
+
+Egyetlen hibából ne állíts fel tartós hibamintát. Ugyanazt a mögöttes hibát legalább két, egymástól független mondatban/feladathelyzetben kell látni. Ugyanannak a feladatnak a javított újrapróbálása nem számít második előfordulásnak. Ha a hiba oka nem egyértelmű, tegyél fel egyetlen rövid diagnosztikai kérdést; ne találgass és ne címkézd a tanulót.
+
+### 2. A hibát a legkisebb szabályegységre bontsd
+
+Ne általános címkét adj, például „nem tudja a Present Simple-t”. Nevezd meg a konkrét mechanizmust:
+- **Present Simple vs. Present Continuous:** a tanuló nem különíti el a szokást/általános tényt a beszéd pillanatában zajló vagy átmeneti tevékenységtől.
+- **Névelő elhagyása:** nem érzékeli, hogy az egyes számú megszámlálható főnév előtt rendszerint szükség van meghatározóra; ne általánosítsd ezt minden főnévre.
+- **Segédige és főige:** például a `Does she likes?` alakban a harmadik személyű jelölést kétszer teszi ki. A `does` viseli a személy- és időjelölést, ezért utána a főige alapalakú: `Does she like?`.
+- **A segédige funkciójának hiányos megértése:** nem látja, miért kell `do/does` a semleges egyszerű jelen idejű kérdéshez és tagadáshoz. Magyarázd meg a kérdésalkotás mechanizmusát, ne csak a képletet tanítsd.
+
+A `learning-modules/error-pattern-catalog.md` fájlt csak akkor olvasd be, ha a hiba visszatér, nehezen diagnosztizálható, vagy célzott javító stratégiára van szükség. Nem része az új chat induló kontextusának.
+
+### 3. Célzott javítási ciklus
+
+1. Egy mondatban nevezd meg a konkrét félreértést.
+2. Adj rövid magyarázatot a mögöttes mechanizmusról.
+3. Mutass legfeljebb 2–3 kontrasztpéldát, amelyek pontosan ezt a különbséget világítják meg.
+4. Tegyél fel **egyetlen** célzott kérdést. Várd meg a választ.
+5. A válasz alapján magyarázd újra más szemszögből, vagy lépj egy új, más alanyt és igét használó alkalmazási próbára.
+
+Ne ismételd el a teljes nyelvtani modult, ha a hiba egyetlen részműködésre szűkíthető. Ne terheld a javítófeladatot ismeretlen szókinccsel.
+
+### 4. Hibaminták megerősítése és állapotuk
+
+- **Első előfordulás:** ha a lehetséges ok azonosítható, rögzíts egy rövid jelöltet az `active_block.error_diagnosis` mezőben (`stage: candidate`, `observed_once: true`). Ez még nem visszatérő hibaminta. Ha a tanuló egy másik, új mondatban a célzott javítás után önállóan helyesen alkalmazza a szabályt, és később nem ismétli, töröld a jelöltet.
+- **Második, független előfordulás:** ha ugyanaz a mechanizmus másik mondatban vagy későbbi feladathelyzetben ismét jelentkezik, vedd fel a `recurring_error_patterns` listába legalább két előfordulással és rövid bizonyítékkal. Ekkor már célzott, ismételt javító blokkot kapjon.
+- **Státusz:** a minta `active`, amíg a félreértés ismétlődik; egy sikeres, indokolt új helyzetű alkalmazás után `improving`; két különböző, helyes új helyzetű alkalmazás után `resolved`.
+- **Újabb visszaesés:** ha javulás után ugyanaz a hiba új, önálló helyzetben visszatér, állítsd vissza `active` státuszra.
+- **Korlát:** legfeljebb három mintát tarts a kártyán. Új minta érkezésekor előbb a megoldottat távolítsd el; ha mindhárom aktív, a legrégebbi vagy legkevésbé fontos mintát tömörítsd/ejtsd ki. Csak a tartósan hasznos, tanulásra ható minták maradjanak.
+
+A sikeres javítás nem jelenti azt, hogy a teljes nyelvtani modul kész. Csak az adott részkészség státusza változik.
+
+### 5. Állapotkártya és chatváltás
+
+- Az `active_block.error_diagnosis` őrizze meg az egyszeri jelöltet vagy az éppen zajló célzott javítás állapotát. A rövid mezők: mintaazonosító, a feltételezett mechanizmus, utolsó hibás példa és a javítás szakasza.
+- A `recurring_error_patterns` objektumai tárolják a megerősített mintát: azonosító, címke, célzott szabály, rövid bizonyíték, előfordulásszám, státusz és utolsó észlelés dátuma.
+- Ne ments teljes hibás párbeszédet vagy hosszú magyarázatot. Egy rövid példa elég.
+- Ha a ChatGPT ingyenes változatában nincs elérhető GitHub-írás, a friss kártyát teljes, másolható JSON-ként add vissza. A felhasználó beillesztheti az új chatbe.
+- A v2 kártyát migráld v3-ra: tartsd meg az aktív blokk és a transzferellenőrzés adatait; hozz létre üres `error_diagnosis` objektumot; a régi szöveges visszatérő hibákat alakítsd strukturált objektumokká, jelöld őket korábban visszatérőként, és jegyezd fel, hogy a részletes bizonyíték nem maradt meg. A v1 kártyánál előbb a v2 transzfermezők alapértékeit is add hozzá. Minden más tanulási adat maradjon meg.
+- A célméret továbbra is kb. 500 token. Ha túl hosszú lenne, a hibaminta bizonyítékát és a jegyzeteket rövidítsd, ne az aktív folytatáshoz szükséges állapotot.
 
 ## Megértés-ellenőrzés és hibakezelés
 
