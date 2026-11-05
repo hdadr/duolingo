@@ -16,7 +16,10 @@
       "duolingo_alignment": "intro",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 7,
-      "end_line": 22
+      "end_line": 22,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-02",
@@ -29,7 +32,10 @@
       "duolingo_alignment": "sections-1-2",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 24,
-      "end_line": 41
+      "end_line": 41,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-03",
@@ -42,7 +48,10 @@
       "duolingo_alignment": "sections-1-2",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 43,
-      "end_line": 59
+      "end_line": 59,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-04",
@@ -55,7 +64,10 @@
       "duolingo_alignment": "sections-1-3",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 61,
-      "end_line": 76
+      "end_line": 76,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-05",
@@ -69,7 +81,10 @@
       "duolingo_alignment": "sections-1-2",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 78,
-      "end_line": 94
+      "end_line": 94,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-06",
@@ -83,7 +98,10 @@
       "duolingo_alignment": "section-2-food-diet",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 96,
-      "end_line": 115
+      "end_line": 115,
+      "duolingo_grammar_evidence": "inferred",
+      "evidence_basis": "theme_aligned",
+      "evidence_note": "The public unit theme is compatible with this grammar topic, but the grammar point is not directly named. Treat this as a probable connection, not a confirmed unit objective."
     },
     {
       "id": "A1-07",
@@ -96,7 +114,10 @@
       "duolingo_alignment": "sections-2-3",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 117,
-      "end_line": 134
+      "end_line": 134,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-08",
@@ -110,7 +131,10 @@
       "duolingo_alignment": "sections-2-3",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 136,
-      "end_line": 152
+      "end_line": 152,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A1-09",
@@ -123,7 +147,10 @@
       "duolingo_alignment": "sections-1-3",
       "path": "learning-modules/es-en/a1.md",
       "start_line": 154,
-      "end_line": 171
+      "end_line": 171,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-01",
@@ -136,7 +163,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 7,
-      "end_line": 24
+      "end_line": 24,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-02",
@@ -149,7 +179,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 26,
-      "end_line": 41
+      "end_line": 41,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-03",
@@ -162,7 +195,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 43,
-      "end_line": 59
+      "end_line": 59,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-04",
@@ -175,7 +211,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 61,
-      "end_line": 75
+      "end_line": 75,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-05",
@@ -188,7 +227,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 77,
-      "end_line": 92
+      "end_line": 92,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-06",
@@ -202,7 +244,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 94,
-      "end_line": 107
+      "end_line": 107,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-07",
@@ -216,7 +261,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 109,
-      "end_line": 122
+      "end_line": 122,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "A2-08",
@@ -230,7 +278,10 @@
       "duolingo_alignment": "section-4",
       "path": "learning-modules/es-en/a2.md",
       "start_line": 124,
-      "end_line": 142
+      "end_line": 142,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-01",
@@ -244,7 +295,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 7,
-      "end_line": 22
+      "end_line": 22,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-02",
@@ -257,7 +311,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 24,
-      "end_line": 38
+      "end_line": 38,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-03",
@@ -270,7 +327,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 40,
-      "end_line": 52
+      "end_line": 52,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-04",
@@ -283,7 +343,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 54,
-      "end_line": 70
+      "end_line": 70,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-05",
@@ -296,7 +359,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 72,
-      "end_line": 84
+      "end_line": 84,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-06",
@@ -310,7 +376,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 86,
-      "end_line": 98
+      "end_line": 98,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-07",
@@ -324,7 +393,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 100,
-      "end_line": 113
+      "end_line": 113,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B1-08",
@@ -338,7 +410,10 @@
       "duolingo_alignment": "sections-5-6",
       "path": "learning-modules/es-en/b1.md",
       "start_line": 115,
-      "end_line": 130
+      "end_line": 130,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-01",
@@ -352,7 +427,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 7,
-      "end_line": 20
+      "end_line": 20,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-02",
@@ -366,7 +444,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 22,
-      "end_line": 35
+      "end_line": 35,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-03",
@@ -380,7 +461,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 37,
-      "end_line": 49
+      "end_line": 49,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-04",
@@ -395,7 +479,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 51,
-      "end_line": 65
+      "end_line": 65,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-05",
@@ -409,7 +496,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 67,
-      "end_line": 80
+      "end_line": 80,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-06",
@@ -423,7 +513,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 82,
-      "end_line": 94
+      "end_line": 94,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     },
     {
       "id": "B2-07",
@@ -438,7 +531,10 @@
       "duolingo_alignment": "sections-7-8",
       "path": "learning-modules/es-en/b2.md",
       "start_line": 96,
-      "end_line": 113
+      "end_line": 113,
+      "duolingo_grammar_evidence": "reference_only",
+      "evidence_basis": "reference",
+      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     }
   ]
 }
