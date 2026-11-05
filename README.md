@@ -1,56 +1,68 @@
-# Duolingo study companion data
+# Duolingo – magyar nyelvű magyarázó tanulási rendszer
 
-A private, multi-course reference repository for preparing Hungarian-language explanations that accompany Duolingo lessons.
+Ez a privát repó egy olyan ChatGPT-kiegészítőt tartalmaz, amely a Duolingo tanulási folyamatát támogatja magyar nyelvű nyelvtani és nyelvhasználati magyarázatokkal.
 
-## Supported learning directions
+**A Duolingo az elsődleges tanulófelület.** A ChatGPT nem helyettesíti a Duolingo szókincs- és mondatgyakorlását, hanem segít megérteni, hogy mit, miért és hogyan tanul a felhasználó.
 
-| Repository key | Duolingo course ID | Learning language | Base language | Explanation language |
-|---|---|---|---|---|
-| `es-en` | `DUOLINGO_ES_EN` | Spanish | English | Hungarian |
-| `en-hu` | `DUOLINGO_EN_HU` | English | Hungarian | Hungarian |
+## Kezdés új ChatGPT-chatben
 
-The two courses are kept separate. The explanation language is Hungarian in both cases.
+1. Olvasd el a [START-HERE.md](START-HERE.md) útmutatót.
+2. Új beszélgetésben használd a [teljes kezdő promptot](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md).
+3. Kövesd a [tanítási és megértés-ellenőrzési protokollt](LEARNING-PROTOCOL.md).
 
-## Data available now
+A privát GitHub-repóhoz az új chatnek hozzáférés kell a csatlakoztatott GitHub-integráción keresztül. Ha nem tudja olvasni, a repó ZIP-archívumát kell feltölteni. A privát URL önmagában nem biztosít hozzáférést.
 
-- Public Spanish module-description crosswalk and Unit 2.22 diet-topic interpretation: [research note](research/es-en-public-module-description-crosswalk.md).
+## Támogatott kurzusok
 
-- A detailed Spanish A1–B2 Hungarian-language learning map, including grammar progression, prerequisites, Duolingo section alignment and evidence labels: [Markdown](curricula/espanol-a1-b2-tanulasi-terkep.md) and [JSON](curricula/espanol-a1-b2-tanulasi-terkep.json).
+| Kulcs | Kurzus | Duolingo-azonosító | Magyarázat nyelve |
+|---|---|---|---|
+| `es-en` | Spanyol angolból | `DUOLINGO_ES_EN` | Magyar |
+| `en-hu` | Angol magyarból | `DUOLINGO_EN_HU` | Magyar |
 
-- Spanish course section overviews for all eight sections, with CEFR bands, unit counts and short Hungarian descriptions based on a community-maintained public index.
+A két kurzus külön kezelendő. Az elsődleges aktuális tanulási irány a spanyol angolból. Az angol magyarból kurzus tantervi adatai előkészítve vannak, de a spanyolhoz hasonló részletességű, teljes A1–B2 magyarázó térkép még nincs kidolgozva.
 
-- Course identifiers and support flags extracted from the uploaded APK's `assets/courses_and_languages.json`.
-- Public curriculum snapshots for Spanish from English and English from Hungarian, with source dates and freshness notes.
-- The user's screenshot capture for Module 2, Unit 22, stored separately because the screenshot alone does not conclusively identify the course direction.
-- A schema and ingestion rules for adding future Guidebook pages, lesson screenshots, examples and verified grammar points.
+## Fontos fájlok
 
-## API and extraction boundary
+### Új chat indítása
+- [START-HERE.md](START-HERE.md) – lépésről lépésre indítás.
+- [Kezdő ChatGPT-prompt](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md) – teljes, bemásolható szerep- és működési prompt.
+- [LEARNING-PROTOCOL.md](LEARNING-PROTOCOL.md) – tanítási folyamat, megértés-ellenőrzés, hibajavítás és továbbhaladás.
 
-The APK exposes an internal Guidebook resource path prefix, but not a public, documented endpoint for downloading every lesson. Duolingo's published Terms prohibit reverse-engineering its app and automated scraping/data extraction of Service Content. This repository therefore does not bulk-harvest lesson text. Exact lesson teaching notes should be built from the current in-app Guidebook and user-provided captures, keeping only the limited excerpts needed to explain the learner's current lesson.
+### Kurzusok és tantervek
+- [Kurzusnyilvántartás](courses/registry.json).
+- [Spanyol angolból – kurzusadatok](courses/es-en/course.json).
+- [Angol magyarból – kurzusadatok](courses/en-hu/course.json).
+- [Spanyol A1–B2 tanulási térkép – Markdown](curricula/espanol-a1-b2-tanulasi-terkep.md).
+- [Spanyol A1–B2 tanulási térkép – JSON](curricula/espanol-a1-b2-tanulasi-terkep.json).
 
-## Important distinction
+### Kutatás és források
+- [Nyílt adatok lefedettségi értékelése](research/open-data-coverage-assessment-2026-11-05.md).
+- [Spanyol modul-leírások és tematikus megfeleltetés](research/es-en-public-module-description-crosswalk.md).
+- [APK és API vizsgálat](sources/apk-extraction-findings.md).
+- [Adatforrások és tananyag-feltárási módszer](sources/lesson-data-acquisition.md).
+- [API-hozzáférés vizsgálata](sources/api-assessment-2026-11-05.md).
 
-The APK does **not** contain the actual language-course lesson corpus. It contains the application and a list of supported course IDs. Lesson paths and Guidebook resources are server-driven. This repository therefore does not claim to contain every exercise, sentence, audio file or official explanation.
+### Haladásnaplók
+- [Spanyol haladási sablon](progress/es-en-template.json).
+- [Angol haladási sablon](progress/en-hu-template.json).
+- [Haladási adatok JSON-sémája](schemas/progress.schema.json).
 
-Curriculum topic labels are orientation metadata, not proof that a particular grammar rule is taught in that unit. For exact explanations, use the in-app Guidebook and user-provided lesson material as the primary source. Do not invent grammar topics from a unit title.
+A haladási sablonok üresek. A felhasználó tényleges pozícióját az új beszélgetésben kell megerősíteni; ne feltételezz régi vagy más kurzushoz tartozó képernyőkép alapján előrehaladást.
 
-## Repository layout
+## Tanítási alapelvek
 
-- `courses/registry.json` — the two requested course identities and source links.
-- `courses/es-en/course.json` — Spanish-from-English course map and unit currently identified.
-- `courses/en-hu/course.json` — English-from-Hungarian course map.
-- `derived/` — original Hungarian-language learning maps and grammar hypotheses derived from source evidence; no raw lesson text.
-- `sources/` — APK extraction findings, endpoint notes and source provenance.
-- `schemas/` — structure for adding future lesson records.
+1. **Duolingo-first:** a tanuló a szókincset, mondatokat, hallásértést és ismétlést elsősorban a Duolingóban gyakorolja.
+2. **Magyarázat, nem duplikáció:** a ChatGPT a nyelvtan és nyelvhasználat logikáját fejti ki, nem másolja a leckéket.
+3. **Aktuális egységhez igazodás:** a magyarázat a felhasználó tényleges szekciójához, egységéhez és témájához kapcsolódik.
+4. **Bizonyosság jelölése:** különbséget kell tenni a Guidebookkal/feladatpéldával igazolt, a CEFR-tanterv alapján releváns és a pusztán valószínű témák között.
+5. **Megértés ellenőrzése:** minden fontos új nyelvtani téma után rövid, interaktív ellenőrzés következik. Ez nem szókincsteszt.
+6. **Fokozatos haladás:** ha a tanuló még nem érti a szabályt, más magyarázattal és új példával kell segíteni.
+7. **A tanuló dönt a továbbhaladásról:** amikor a magyarázó rész stabilan megy, a ChatGPT felajánlja a következő Duolingo-egységhez kapcsolódó magyarázatot, de nem kezd bele automatikusan.
 
-## Teaching workflow
+## Forráskritika
 
-1. Identify the course by its exact source/target direction.
-2. Identify the section/module and unit from the user's current Duolingo screen.
-3. Consult the matching curriculum snapshot for orientation only.
-4. Prefer the current in-app Guidebook and screenshots for actual grammar content and examples.
-5. Separate new grammar from previously encountered grammar.
-6. Save only verified information; label uncertain or inferred items explicitly.
-7. Explain in Hungarian, regardless of the course's base language.
+A Duolingo Data közösségi kurzustérképe a szekciók és témák azonosítására használható, de nem hivatalos Duolingo-tanterv és nem bizonyítja az adott egység pontos nyelvtani célját. Az Instituto Cervantes Plan Curricular és AVE Global nyelvtani/tematikus referenciát ad; ezek sem a Duolingo hivatalos egységlistái.
 
-Last initialized: 2026-11-05.
+A repó saját, magyar nyelvű tanulási térképet, magyarázatokat, előfeltételeket és pedagógiai következtetéseket tárol. Nem célja a Duolingo teljes leckeszövegének vagy feladatsorainak másolása.
+
+**Utolsó dokumentációs frissítés:** 2026-11-05.
