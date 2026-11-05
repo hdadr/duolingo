@@ -1,65 +1,65 @@
 # Indítás új ChatGPT-beszélgetésben
 
-Ez a privát repó egy Duolingo-kiegészítő tanulási rendszer magyar nyelvű tudásanyaga. A Duolingo az elsődleges tanulófelület; a ChatGPT a nyelvtani és nyelvhasználati logikát magyarázza, majd rövid interakcióval ellenőrzi a megértést.
+Ez a privát repó két Duolingo-kurzushoz tartalmaz magyar nyelvű magyarázó tananyagot. A Duolingo az elsődleges gyakorlófelület; a ChatGPT a nyelvtani és nyelvhasználati logikát magyarázza.
 
 ## 1. Válaszd ki a tanulási irányt
 
 **Spanyol angolból**
 - Kurzusazonosító: `DUOLINGO_ES_EN`
-- Magyarázat: magyar
+- Kulcs: `es-en`
 - Prompt: [DUOLINGO-HU-CHATGPT-PROMPT.md](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md)
-- Tanterv: [spanyol A1–B2 tanulási térkép](curricula/espanol-a1-b2-tanulasi-terkep.md)
+- Moduljegyzék: [learning-modules/es-en/index.json](learning-modules/es-en/index.json)
+- Állapotkártya: [progress/es-en-state-card.json](progress/es-en-state-card.json)
 
 **Angol magyarból**
 - Kurzusazonosító: `DUOLINGO_EN_HU`
-- Magyarázat: magyar
+- Kulcs: `en-hu`
 - Prompt: [DUOLINGO-EN-HU-CHATGPT-PROMPT.md](prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md)
-- Tanterv: [angol A1–B2 tanulási térkép](curricula/angol-a1-b2-tanulasi-terkep.md)
+- Moduljegyzék: [learning-modules/en-hu/index.json](learning-modules/en-hu/index.json)
+- Állapotkártya: [progress/en-hu-state-card.json](progress/en-hu-state-card.json)
 
-A két kurzus teljesen külön kezelendő. Mindig a megfelelő promptot és kurzusadatokat használd.
+A két kurzus teljesen külön kezelendő.
 
 ## 2. Indítás új chatben
 
 1. Nyiss új ChatGPT-beszélgetést.
-2. Győződj meg arról, hogy a beszélgetés hozzáfér a privát `hdadr/duolingo` GitHub-repóhoz a csatlakoztatott GitHub-integráción keresztül.
-3. Másold be a kiválasztott kurzushoz tartozó prompt teljes tartalmát.
-4. A ChatGPT olvassa be a promptban felsorolt fájlokat, majd kérdezze meg a tényleges aktuális Duolingo-modult és egységet.
+2. Legyen hozzáférés a privát `hdadr/duolingo` repóhoz. Ha nincs GitHub-hozzáférés, másold be a kiválasztott kurzus állapotkártyáját.
+3. Másold be a kiválasztott kurzus indító promptját.
+4. Az új chat erősítse meg az állapotkártyában szereplő utolsó Duolingo-pozíciót.
 
-**Ha az új chat nem fér hozzá a privát repóhoz:** ne küldj jelszót, access tokent vagy más belépési adatot. Töltsd fel a repó ZIP-archívumát, vagy csatlakoztasd a GitHubot. A privát repó URL-je önmagában nem garantál hozzáférést.
+## 3. Kontextusbetöltés
 
-## 3. Tanulási módszer
+Az indító prompt szerint csak ezek szükségesek:
+- `LEARNING-PROTOCOL.md`;
+- `courses/registry.json`;
+- a kiválasztott kurzus `course.json` fájlja;
+- a kiválasztott kurzus `learning-modules/{course}/index.json` fájlja;
+- a kiválasztott kurzus `progress/{course}-state-card.json` állapotkártyája;
+- az aktuális modul pontos sorintervalluma a modulbankból.
+
+Ne töltsd be automatikusan a teljes `curricula/*.md` és `.json` térképeket, a másik kurzust vagy a teljes kutatási hátteret. Ezek csak konkrét bizonytalanság vagy forrásellenőrzés esetén szükségesek. A modulbankból kizárólag az indexben jelölt sorokat olvasd be, ne a teljes szintfájlt.
+
+## 4. Pedagógiai feldarabolás
+
+- Egy nyelvtani modul teljes, pedagógiailag összetartozó tanulási egység.
+- Tokenkeret vagy chat-hossz miatt ne vágj ketté modult.
+- A belső altémák között csak teljes fogalmi határnál lehet munkamenetet váltani.
+- Magyarázatot, példasort, összehasonlítást vagy megértés-ellenőrzést soha ne szakíts félbe.
+- Chatváltás előtt frissítsd az állapotkártyát, és rögzítsd a következő teljes altémát.
+
+## 5. Állapotkártya
+
+A kártya a folytatáshoz szükséges minimális tanulói előzményt tárolja, nem a teljes beszélgetést. Minden lezárt modul vagy teljes altéma után készüljön friss, másolható JSON. GitHubra csak a tanuló kifejezett kérésére írható vissza; egyébként a JSON bemásolható az új chatbe.
+
+## 6. Tanulási módszer
 
 - A szókincset, mondatgyakorlást, hallásértést és ismétlést elsősorban a Duolingóban végzed.
-- A ChatGPT elmagyarázza, mit és miért tanulsz, hogyan működik a nyelvtan, és miben tér el a magyar nyelvtől.
-- Minden fontos új szerkezet után rövid, interaktív megértés-ellenőrzés következik.
-- Egy kérdés/forduló ritmusban dolgozunk; a ChatGPT értékeli a választ, és szükség esetén másképp magyaráz.
-- Amikor a magyarázó részt stabilan elsajátítottad, a ChatGPT felajánlja a következő Duolingo-egységhez kapcsolódó magyarázatot. Nem lép tovább automatikusan.
+- A ChatGPT a nyelvtan és a nyelvhasználat logikáját magyarázza.
+- Minden fontos új szerkezet után rövid megértés-ellenőrzés következik.
+- A következő egységre csak a tanuló döntése alapján lép tovább.
 
-## 4. Kötelező háttérfájlok
+## 7. Háttérforrások
 
-Közös:
-- `README.md`
-- `courses/registry.json`
-- `LEARNING-PROTOCOL.md`
-- `schemas/progress.schema.json`
+A teljes tantervi térképek és kutatási fájlok továbbra is elérhetők a `curricula/` és `research/` mappákban. Ezek referenciaanyagok, nem kötelező indítófájlok.
 
-Spanyol:
-- `courses/es-en/course.json`
-- `curricula/espanol-a1-b2-tanulasi-terkep.md`
-- `curricula/espanol-a1-b2-tanulasi-terkep.json`
-- `research/open-data-coverage-assessment-2026-11-05.md`
-- `research/es-en-public-module-description-crosswalk.md`
-
-Angol:
-- `courses/en-hu/course.json`
-- `curricula/angol-a1-b2-tanulasi-terkep.md`
-- `curricula/angol-a1-b2-tanulasi-terkep.json`
-- `research/en-hu-open-data-coverage-assessment-2026-11-05.md`
-- `research/en-hu-course-path-and-grammar-crosswalk.md`
-
-A haladási fájlok sablonok, nem előre feltöltött tanulói előzmények:
-- `progress/es-en-template.json`
-- `progress/en-hu-template.json`
-
-A GitHub-módosítás sikerét a ChatGPT csak akkor állíthatja, ha a fájlt ténylegesen megírta és visszaellenőrizte.
-
+A GitHub-módosítás sikerét csak tényleges írás és visszaellenőrzés után állítsd.
