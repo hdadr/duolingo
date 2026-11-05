@@ -1,0 +1,17 @@
+{
+  "course_key": "en-hu",
+  "course_id": "DUOLINGO_EN_HU",
+  "learning_language": "en",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "current_position": {
+    "section": null,
+    "unit": null,
+    "unit_title": null,
+    "last_confirmed_at": null
+  },
+  "mastery": [],
+  "needs_review": [],
+  "current_grammar_focus": null,
+  "notes": "Üres sablon. Az angol kurzus részletes, önálló A1–B2 magyarázó térképét még ki kell dolgozni. Az aktuális Duolingo-pozíciót minden új tanulási beszélgetésben meg kell erősíteni."
+}
