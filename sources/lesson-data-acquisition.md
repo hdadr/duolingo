@@ -7,7 +7,7 @@ Use the learner's current Duolingo progression to infer what language structures
 ## Public course map
 
 - Spanish from English: https://duolingodata.com/dat/esfen991.html
-- English from Hungarian: https://duolingodata.com/dat/enfhu305.html
+- English from Hungarian: https://duolingodata.com/dat/enfhu1005.html (2026-02-20 snapshot, 1005 units)
 - Main course index: https://duolingodata.com/
 
 These are community-maintained curriculum indexes, not official Duolingo APIs. They can help identify broad sections, CEFR bands, unit counts and unit themes. The derived progression in each course file is a teaching hypothesis, not an official grammar syllabus.
