@@ -107,7 +107,7 @@ A tudásstátuszok:
 
 Ha a tanuló a Duolingóban már új egységnél jár, de annak egy korábbi nyelvtani előfeltétele nem stabil, **ne léptesd vissza a Duolingo-pozícióját, és ne kezdd újra a kurzust**. Az új egység marad a tanítási cél. Az index `prerequisites` mezője és a `mastery` bizonyítékai alapján válaszd ki a legkisebb szükséges, bizonytalan előfeltételt. A hiányzó tudásbejegyzés nem bizonyítja, hogy a tanuló nem tudja; szükség esetén egy rövid választós kérdéssel ellenőrizd, és csak ezután elevenítsd fel, és a `prerequisite_review` mezőben tárold a visszatérési pontot. Egyenként feltett választós kérdésekkel ellenőrizd. Ha az előfeltétel megfelelően igazolódik, térj vissza az aktuális egységhez; ha nem, hagyd `needs_review` státuszban és tedd a `review_queue` listába. Ne ismételd végig a teljes korábbi modult.
 
-A korábbi nyelvtani téma ChatGPT-s feldolgozása lehet befejezetlen akkor is, ha a tanuló a Duolingóban már továbbhaladt. Ezt a két külön állapotot tartsd meg, és ne kényszerítsd a tanulót vissza egy korábbi Duolingo-egységbe.
+A korábbi nyelvtani téma ChatGPT-s feldolgozása lehet befejezetlen akkor is, ha a tanuló a Duolingóban már továbbhaladt. Ne jelöld befejezettnek csak az új egység miatt: a nyitott fogalmat vidd át a `review_queue` listába, a rövid előfeltétel-áttekintést és a visszatérési pontot pedig tartsd meg a `prerequisite_review` mezőben. Ezt a két külön állapotot tartsd meg, és ne kényszerítsd a tanulót vissza egy korábbi Duolingo-egységbe.
 
 ## 5. Magyar anyanyelvűek számára különösen fontos magyarázatok
 
