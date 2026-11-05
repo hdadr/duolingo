@@ -15,7 +15,9 @@
       "official_app_support_check": "https://www.duolingo.com/api/1/version_info",
       "curriculum_markdown": "curricula/espanol-a1-b2-tanulasi-terkep.md",
       "curriculum_json": "curricula/espanol-a1-b2-tanulasi-terkep.json",
-      "chatgpt_prompt": "prompts/DUOLINGO-HU-CHATGPT-PROMPT.md"
+      "chatgpt_prompt": "prompts/DUOLINGO-HU-CHATGPT-PROMPT.md",
+      "module_index": "learning-modules/es-en/index.json",
+      "state_card": "progress/es-en-state-card.json"
     },
     {
       "key": "en-hu",
@@ -33,7 +35,9 @@
       "curriculum_json": "curricula/angol-a1-b2-tanulasi-terkep.json",
       "chatgpt_prompt": "prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md",
       "course_path_snapshot": "2026-02-20",
-      "unit_count": 1005
+      "unit_count": 1005,
+      "module_index": "learning-modules/en-hu/index.json",
+      "state_card": "progress/en-hu-state-card.json"
     }
   ],
   "additional_apk_supported_course_not_enabled_as_a_study_track": {
