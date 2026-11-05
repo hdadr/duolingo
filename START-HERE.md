@@ -49,14 +49,16 @@ Ne töltsd be automatikusan a teljes `curricula/*.md` és `.json` térképeket, 
 
 ## 5. Állapotkártya
 
-A kártya a folytatáshoz szükséges minimális tanulói előzményt tárolja, nem a teljes beszélgetést. Minden lezárt modul vagy teljes altéma után készüljön friss, másolható JSON. GitHubra csak a tanuló kifejezett kérésére írható vissza; egyébként a JSON bemásolható az új chatbe.
+A kártya a folytatáshoz szükséges minimális tanulói előzményt tárolja, nem a teljes beszélgetést. A v5 kártya külön tárolja a Duolingo-pozíciót és a bizonyítékokon alapuló nyelvtani tudástérképet. Megőrzi a függőben lévő választós kérdés pontos szövegét és opcióit, a rövid előfeltétel-áttekintés visszatérési pontját, de nem tárolja a helyes választ. Minden lezárt modul vagy teljes altéma után készüljön friss, másolható JSON. GitHubra csak a tanuló kifejezett kérésére írható vissza; egyébként a JSON bemásolható az új chatbe.
 
 ## 6. Tanulási módszer
 
 - A szókincset, mondatgyakorlást, hallásértést és ismétlést elsősorban a Duolingóban végzed.
 - A ChatGPT a nyelvtan és a nyelvhasználat logikáját magyarázza.
-- Minden fontos új szerkezet után rövid megértés-ellenőrzés következik.
-- A következő egységre csak a tanuló döntése alapján lép tovább.
+- Minden fontos új szerkezetnél négylépcsős, feleletválasztós megértés-ellenőrzés következik. Egyszerre egy kérdés jelenik meg; a válaszhoz elég az A/B/C/D opciót kiválasztani. A zárópróba más alannyal és más igével teszteli az önálló alkalmazást.
+- A következő egységre csak akkor tér át, amikor a tanuló ténylegesen elért oda, vagy ezt kéri.
+- A Duolingo-egység teljesítése nem jelenti automatikusan a kapcsolódó nyelvtani fogalom elsajátítását.
+- Ha egy új egységhez szükséges régi alap bizonytalan, csak azt a részt ismétli át röviden, majd visszatér az aktuális egységhez.
 
 ## 7. Háttérforrások
 

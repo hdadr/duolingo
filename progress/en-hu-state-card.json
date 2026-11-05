@@ -1,19 +1,47 @@
 {
-  "card_version": 1,
+  "card_version": 5,
   "course_key": "en-hu",
   "course_id": "DUOLINGO_EN_HU",
   "updated_at": null,
   "current_position": {
     "section": null,
     "unit": null,
-    "unit_title": null
+    "unit_title": null,
+    "source": "not_confirmed",
+    "confirmed_at": null
   },
   "active_block": {
     "module_id": null,
     "status": "not_started",
     "current_subtopic": null,
     "completed_subtopics": [],
-    "next_subtopic": null
+    "next_subtopic": null,
+    "check_stage": "not_started",
+    "transfer_task": null,
+    "transfer_status": "not_asked",
+    "error_diagnosis": {
+      "pattern_id": null,
+      "hypothesis": null,
+      "observed_once": false,
+      "last_example": null,
+      "stage": "none"
+    },
+    "choice_task": {
+      "task_id": null,
+      "stage": "none",
+      "question": null,
+      "options": [],
+      "status": "not_asked",
+      "selected_option": null
+    },
+    "prerequisite_review": {
+      "status": "none",
+      "module_id": null,
+      "concept": null,
+      "reason": null,
+      "return_to_module_id": null,
+      "return_to_subtopic": null
+    }
   },
   "mastery": [],
   "review_queue": [],

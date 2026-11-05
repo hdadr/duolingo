@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Compact Duolingo companion state card",
+  "title": "Duolingo state card v5 with separate curriculum progress, grammar mastery, and prerequisite review",
   "type": "object",
   "required": [
     "card_version",
@@ -17,7 +17,7 @@
   ],
   "properties": {
     "card_version": {
-      "const": 1
+      "const": 5
     },
     "course_key": {
       "enum": [
@@ -40,7 +40,9 @@
       "required": [
         "section",
         "unit",
-        "unit_title"
+        "unit_title",
+        "source",
+        "confirmed_at"
       ],
       "properties": {
         "section": {
@@ -63,6 +65,20 @@
             "null"
           ],
           "maxLength": 120
+        },
+        "source": {
+          "enum": [
+            "learner_report",
+            "screenshot",
+            "not_confirmed"
+          ]
+        },
+        "confirmed_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
         }
       },
       "additionalProperties": false
@@ -74,7 +90,13 @@
         "status",
         "current_subtopic",
         "completed_subtopics",
-        "next_subtopic"
+        "next_subtopic",
+        "check_stage",
+        "transfer_task",
+        "transfer_status",
+        "error_diagnosis",
+        "choice_task",
+        "prerequisite_review"
       ],
       "properties": {
         "module_id": {
@@ -113,6 +135,219 @@
             "null"
           ],
           "maxLength": 100
+        },
+        "check_stage": {
+          "enum": [
+            "not_started",
+            "recognition",
+            "reasoning",
+            "guided_application",
+            "transfer",
+            "completed"
+          ]
+        },
+        "transfer_task": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 180
+        },
+        "transfer_status": {
+          "enum": [
+            "not_asked",
+            "pending",
+            "passed",
+            "retry"
+          ]
+        },
+        "error_diagnosis": {
+          "type": "object",
+          "required": [
+            "pattern_id",
+            "hypothesis",
+            "observed_once",
+            "last_example",
+            "stage"
+          ],
+          "properties": {
+            "pattern_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 60
+            },
+            "hypothesis": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 160
+            },
+            "observed_once": {
+              "type": "boolean"
+            },
+            "last_example": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 120
+            },
+            "stage": {
+              "enum": [
+                "none",
+                "candidate",
+                "diagnosing",
+                "targeted_reteach",
+                "verification"
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "choice_task": {
+          "type": "object",
+          "required": [
+            "task_id",
+            "stage",
+            "question",
+            "options",
+            "status",
+            "selected_option"
+          ],
+          "properties": {
+            "task_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 48
+            },
+            "stage": {
+              "enum": [
+                "none",
+                "recognition",
+                "reasoning",
+                "guided_application",
+                "transfer",
+                "diagnosis"
+              ]
+            },
+            "question": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 280
+            },
+            "options": {
+              "type": "array",
+              "maxItems": 4,
+              "items": {
+                "type": "object",
+                "required": [
+                  "id",
+                  "text"
+                ],
+                "properties": {
+                  "id": {
+                    "enum": [
+                      "A",
+                      "B",
+                      "C",
+                      "D"
+                    ]
+                  },
+                  "text": {
+                    "type": "string",
+                    "maxLength": 180
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "status": {
+              "enum": [
+                "not_asked",
+                "pending",
+                "answered",
+                "paused"
+              ]
+            },
+            "selected_option": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "A",
+                "B",
+                "C",
+                "D",
+                null
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "prerequisite_review": {
+          "type": "object",
+          "required": [
+            "status",
+            "module_id",
+            "concept",
+            "reason",
+            "return_to_module_id",
+            "return_to_subtopic"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "none",
+                "pending",
+                "in_progress",
+                "verified"
+              ]
+            },
+            "module_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+            },
+            "concept": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 100
+            },
+            "reason": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 140
+            },
+            "return_to_module_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+            },
+            "return_to_subtopic": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 100
+            }
+          },
+          "additionalProperties": false
         }
       },
       "additionalProperties": false
@@ -127,7 +362,8 @@
           "concept",
           "status",
           "evidence",
-          "last_checked"
+          "last_checked",
+          "evidence_basis"
         ],
         "properties": {
           "module_id": {
@@ -159,6 +395,17 @@
               "null"
             ],
             "format": "date"
+          },
+          "evidence_basis": {
+            "enum": [
+              "lesson_explained",
+              "choice_check",
+              "transfer_check",
+              "independent_use",
+              "review_triggered",
+              "insufficient",
+              "legacy_unclassified"
+            ]
           }
         },
         "additionalProperties": false
@@ -203,8 +450,54 @@
       "type": "array",
       "maxItems": 3,
       "items": {
-        "type": "string",
-        "maxLength": 120
+        "type": "object",
+        "required": [
+          "pattern_id",
+          "label",
+          "targeted_rule",
+          "evidence_summary",
+          "occurrences",
+          "status",
+          "last_seen"
+        ],
+        "properties": {
+          "pattern_id": {
+            "type": "string",
+            "maxLength": 60
+          },
+          "label": {
+            "type": "string",
+            "maxLength": 80
+          },
+          "targeted_rule": {
+            "type": "string",
+            "maxLength": 140
+          },
+          "evidence_summary": {
+            "type": "string",
+            "maxLength": 120
+          },
+          "occurrences": {
+            "type": "integer",
+            "minimum": 2,
+            "maximum": 99
+          },
+          "status": {
+            "enum": [
+              "active",
+              "improving",
+              "resolved"
+            ]
+          },
+          "last_seen": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          }
+        },
+        "additionalProperties": false
       }
     },
     "next_action": {

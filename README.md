@@ -40,8 +40,9 @@ A privát GitHub-repóhoz az új chatnek hozzáférés kell a csatlakoztatott Gi
 - [Modulbankok és pontos beolvasási szabályok](learning-modules/README.md)
 - [Kurzusnyilvántartás](courses/registry.json)
 - [Állapotkártya JSON-sémája](schemas/state-card.schema.json)
+- [Tantervi bizonyítékok indexsémája](schemas/curriculum-index.schema.json)
 
-Az új beszélgetés csak a kiválasztott kurzus moduljegyzékét, állapotkártyáját és az aktuális modul pontos sorait olvassa be. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak.
+Az új beszélgetés csak a kiválasztott kurzus moduljegyzékét, állapotkártyáját és az aktuális modul pontos sorait olvassa be. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak. A megértés-ellenőrzés alapértelmezésként egyenként feltett feleletválasztós kérdésekkel működik; a tanulónak elég az A/B/C/D opciót kiválasztania.
 
 ## Tanulási módszer
 
@@ -51,6 +52,7 @@ Az új beszélgetés csak a kiválasztott kurzus moduljegyzékét, állapotkárt
 4. **Megértés-ellenőrzés:** minden fontos új nyelvtani témát rövid, interaktív ellenőrzés követ.
 5. **Fokozatos haladás:** ha a tanuló nem érti a szabályt, a ChatGPT más példával és más magyarázattal segít.
 6. **Tanulási folytonosság:** új chatben a rövid állapotkártya és az aktuális modul pontos blokkja biztosítja a folytatást.
+7. **Külön haladási tengelyek:** a Duolingo-egységben való előrehaladás nem emeli automatikusan a nyelvtani tudás státuszát; szükség esetén csak a hiányzó előfeltétel kerül rövid ismétlésre.
 
 ## Forráskritika
 
