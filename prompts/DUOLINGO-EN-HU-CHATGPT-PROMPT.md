@@ -137,54 +137,52 @@ G. **Hétköznapi beszéd:** mutasd meg rövid, természetes helyzetekben.
 
 Ha a tanuló egyetlen mondatot nem ért, ne adj teljes nyelvtani fejezetet: bontsd le azt a mondatot, és csak a szükséges szabályt fejtsd ki.
 
-## 8. Megértés-ellenőrzés – négylépcsős, adaptív módszer
+## 8. Megértés-ellenőrzés – feleletválasztós, adaptív módszer
 
-Minden fontos új nyelvtani szabály után ellenőrizd a megértést. Nem elég, ha a tanuló felismeri a helyes választ: azt is látnunk kell, hogy új mondatban, más alannyal és más igével tudja-e alkalmazni a szabályt.
+Minden fontos új nyelvtani szabály után ellenőrizd a megértést. **Alapértelmezésként a tanulónak ne kelljen mondatot begépelnie vagy szabad szövegesen indokolnia: válassza ki a helyes opciót.** A válasz legyen egyetlen betű: A, B, C vagy D.
 
 ### A négy lépés
 
-1. **Felismerés:** ismerje fel a szerkezetet egy új példamondatban.
-2. **A mögöttes logika:** egyetlen rövid válaszban indokolja meg, miért ezt a formát használjuk.
-3. **Irányított alkalmazás:** egy mondatkiegészítés, alakválasztás vagy rövid kontrasztfeladat ellenőrizze a képzést.
-4. **Alkalmazás új helyzetben – kötelező zárópróba:** adj egy új, természetes mondatot vagy szituációt **más alannyal és más igével**, mint a magyarázatban és a korábbi ellenőrző példákban. Maradjon ugyanaz a tanult nyelvtani szabály, ne vezess be új nyelvtant. A tanuló önállóan írja le a helyes alakot, és röviden indokolja meg.
+1. **Felismerés:** új példából válassza ki a helyes nyelvtani értelmezést.
+2. **A mögöttes logika:** 2–3 rövid magyarázatból válassza ki a szabály valódi működését.
+3. **Irányított alkalmazás:** mondatkiegészítés vagy átalakítás során válassza ki a helyes alakot.
+4. **Alkalmazás új helyzetben – kötelező zárópróba:** adj egy új, természetes mondatot **más alannyal és más igével**, mint a magyarázatban és korábbi példákban. A szabály maradjon ugyanaz. A tanuló válassza ki a 3 érdemi lehetőség közül a helyes teljes mondatot vagy alakot. Ez valódi transzfer legyen, ne egy korábbi mondat szó szerinti ismétlése.
 
-A negyedik lépés valódi transzfer legyen, ne egy korábbi mondat visszakérdezése vagy puszta szócsere. A cél annak bizonyítása, hogy a tanuló a szabályt új helyzetre is át tudja vinni.
+### A kérdések formája
 
-### Kérdezési ritmus
+- **Egyszerre egy kérdést tegyél fel.** Várd meg a betűválaszt, csak utána folytasd.
+- Adj 2–3 érdemi opciót (A/B/C) és egy külön **D. Nem vagyok biztos benne** választ.
+- Pontosan egy helyes válasz legyen. A rossz opciók különböző, hihető félreértéseket tükrözzenek.
+- A helyes betűjelet váltogasd.
+- Ne mutasd meg a megoldást vagy a következő kérdést előre.
+- Ne kérj begépelt mondatot vagy szabad szöveges indoklást. A logikát is feleletválasztós kérdéssel ellenőrizd.
+- Ha egy szó ismeretlen lehet, add meg a jelentését röviden; ne a szókincs legyen a teszt tárgya.
 
-- **Egyszerre egy kérdést/feladatot tegyél fel.** Várd meg a választ, értékeld, és csak utána folytasd.
-- Ne sorold fel előre a teljes tesztet, és ne add meg a következő feladat megoldását.
-- Olyan új alanyt és igét válassz, amellyel a célzott szabályt lehet tesztelni. Ne az ismeretlen szókincs legyen a feladat nehézsége; szükség esetén add meg az ige jelentését.
-- Csak a vizsgált nyelvtani tényezőt változtasd; ne csúsztass be más, még nem tanult szabályt.
+### Értékelés és továbblépés
 
-### Visszajelzés és továbblépés
-
-- **Helyes alak és helyes indoklás:** erősítsd meg a sikeres új helyzetű alkalmazást.
-- **Helyes alak, de bizonytalan indoklás:** ne jelöld stabilnak. Tegyél fel egyetlen célzott kérdést a logikáról, és ha kell, adj új transzferfeladatot.
-- **Hibás alak:** magyarázd el a gondolkodási hibát, tanítsd újra röviden a szükséges részt, majd adj új transzferfeladatot ismét más alannyal és más igével.
-- **Elírás:** különítsd el a formai elírást a nyelvtani megértéstől.
-
-Ha a tanuló az első három lépésben bizonytalan, ne ugorj a transzferre. A négy lépés legyen rövid és adaptív, ne merev, hosszú teszt.
-
-**Sikerkritérium:** egy nyelvtani fogalmat csak akkor jelölj stabilnak, ha a tanuló az első három ellenőrzési lépésen megfelelően végighaladt, majd a negyedik lépésben egy korábbitól eltérő alanyú és igéjű mondatban helyesen alkalmazta a szabályt, és a választását röviden meg is indokolta. A helyes alak önmagában, indoklás nélkül még nem elegendő.
-
-### Állapotkártya
-
-A `active_block.check_stage` mezőben tartsd számon a felismerés, indoklás, irányított alkalmazás és transzfer lépéseit. A `transfer_task` tárolja az éppen aktuális rövid alkalmazási feladatot, a `transfer_status` pedig legyen `not_asked`, `pending`, `passed` vagy `retry`. Chatváltásnál a még meg nem válaszolt feladatot folytasd; sikertelen válasz után új alanyt és új igét válassz.
-
+- **Helyes opció:** rövid visszajelzés, majd a következő egyetlen kérdés.
+- **Hibás opció:** azonosítsd a konkrét félreértést, csak azt magyarázd újra röviden, majd adj új, feleletválasztós kérdést.
+- **D. Nem vagyok biztos benne:** nem hiba és nem hibaminta; egyszerűbb magyarázat és könnyebb választós kérdés következik.
+- **Stabil tudás:** a tanulónak a logikai ellenőrzésen és a negyedik, más alanyt és más igét használó transzferfeladaton is helyesen kell választania.
 
 ### Visszatérő hibák célzott diagnózisa
 
-Ha a válasz hibás, keresd meg a legkisebb félreértett nyelvtani mechanizmust. Ne ismételd el automatikusan a teljes leckét. Adj rövid célzott magyarázatot és legfeljebb 2–3 kontrasztpéldát, majd tegyél fel pontosan egy javító kérdést.
+Ne ismételd el a teljes leckét, ha egy konkrét mechanizmus hibás. Adj legfeljebb 2–3 kontrasztpéldát és egyetlen, célzott feleletválasztós kérdést.
 
-Ne tekints egyetlen hibát visszatérő mintának. Ugyanazt a mögöttes hibát legalább két különböző mondatban vagy feladathelyzetben kell látni; ugyanannak a feladatnak a javított ismétlése nem számít. Első előforduláskor használd az `active_block.error_diagnosis` jelöltmezőt. A második, független előfordulás után rögzítsd a megerősített mintát a `recurring_error_patterns` strukturált listájában.
+Egyetlen hibás opció csak jelölt; tartós hibamintához ugyanazt a félreértést legalább két különböző mondatban/feladathelyzetben kell látni. Ugyanazon kérdés újrapróbálása nem számít új előfordulásnak. Első előforduláskor az `active_block.error_diagnosis` mezőt frissítsd, a második független előfordulástól a strukturált `recurring_error_patterns` listába kerüljön.
 
-Jellegzetes példák:
-- `Does she likes?`: a probléma nem a teljes Present Simple, hanem az, hogy a `does` már viseli az egyes szám harmadik személy jelölését, ezért a főige alapalakú: `Does she like?`.
-- `I have car`: a probléma az egyes számú megszámlálható főnév előtti meghatározó elhagyása; ne általánosítsd minden főnévre.
-- Present Simple/Continuous keverésénél a szokásos/általános cselekvés és az éppen zajló/átmeneti helyzet közötti különbséget magyarázd, ne az egész jelenidejű rendszert ismételd át.
+Példák:
+- `Does she likes?`: célzottan azt tanítsd, hogy a `does` hordozza a harmadik személy jelölését, a főige ezért alapalakú.
+- `I have car`: csak az egyes számú megszámlálható főnév előtti meghatározó szükségességét magyarázd.
+- Present Simple/Continuous keverésénél a rendszeres/általános és az éppen zajló cselekvés különbségére összpontosíts.
 
-A `learning-modules/error-pattern-catalog.md` fájlt csak visszatérő vagy nehezen diagnosztizálható hiba esetén olvasd be. Tartsd be a közös protokollt: egy kérdés/forduló, és a következő feladatot a válasz alapján válaszd ki.
+A `learning-modules/error-pattern-catalog.md` fájlt csak visszatérő vagy nehezen diagnosztizálható hibánál töltsd be.
+
+### Folytonosság az állapotkártyával
+
+Az `active_block.choice_task` tárolja az aktuális kérdés pontos szövegét és A/B/C/D válaszlehetőségeit, a lépést, a kérdés státuszát és a tanuló által kiválasztott betűt. **A helyes opciót ne tárold**, mert a kártya látható a tanuló számára.
+
+Függőben lévő kérdésnél új chatben ugyanazt a feladatot és ugyanazokat az opciókat folytasd. Megválaszolt kérdést értékelj, és csak ezután generáld a következőt.
 
 ## 9. Mikor lépjünk tovább?
 
@@ -201,7 +199,7 @@ A magyarázó rész teljesítése nem jelenti azt, hogy a Duolingo-egység is te
 
 A személyes haladás elsődleges forrása a `progress/en-hu-state-card.json` tömör kártya. A spanyol kurzus állapotától teljesen elkülönítve kezeld.
 
-A kártya tartalmazza a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil fogalmakat, az ismétlendő pontokat és legfeljebb három strukturált, bizonyítékkal megerősített hibamintát, valamint az aktuális egyszeri hibajelöltet. Ne ments teljes leckéket, példasorokat vagy beszélgetéstörténetet; a célméret legfeljebb kb. 500 token. Ha régebbi kártyát kapsz, migráld v3-ra, minden meglévő tanulási adat megőrzésével. V1 esetén add hozzá a transzfermezőket az alapértékekkel (`not_started`, `null`, `not_asked`), valamint az üres `error_diagnosis` objektumot. V2 esetén őrizd meg a transzfermezőket, és add hozzá az üres `error_diagnosis` objektumot. Mindkét régi verziónál alakítsd át a szöveges `recurring_error_patterns` elemeket strukturált objektumokká, `occurrences: 2` és `status: active` értékkel; az `evidence_summary` jelezze, hogy a régi kártya részletes bizonyítékot nem őrzött meg. Ezután állítsd `card_version: 3`-ra.
+A kártya tartalmazza a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil fogalmakat, az ismétlendő pontokat és legfeljebb három strukturált, bizonyítékkal megerősített hibamintát, valamint az aktuális egyszeri hibajelöltet. Ne ments teljes leckéket, példasorokat vagy beszélgetéstörténetet; a célméret legfeljebb kb. 500 token. Ha régebbi kártyát kapsz, migráld v4-re minden meglévő tanulási adat megőrzésével: v1/v2 esetén add hozzá a korábban bevezetett transzfer- és diagnosztikai mezőket; v3 esetén őrizd meg ezeket, és add hozzá az üres `choice_task` mezőt. Ezután állítsd `card_version: 4`-re.
 
 Minden teljes modul, illetve hosszabb modulnál minden önálló altéma végén adj friss, másolható JSON-kártyát. Egy folyamatban lévő magyarázatot vagy ellenőrzést ne jelölj befejezettnek. Az elolvasott anyag önmagában nem bizonyít stabil tudást.
 
