@@ -13,6 +13,8 @@ The two courses are kept separate. The explanation language is Hungarian in both
 
 ## Data available now
 
+- Public Spanish module-description crosswalk and Unit 2.22 diet-topic interpretation: [research note](research/es-en-public-module-description-crosswalk.md).
+
 - A detailed Spanish A1–B2 Hungarian-language learning map, including grammar progression, prerequisites, Duolingo section alignment and evidence labels: [Markdown](curricula/espanol-a1-b2-tanulasi-terkep.md) and [JSON](curricula/espanol-a1-b2-tanulasi-terkep.json).
 
 - Spanish course section overviews for all eight sections, with CEFR bands, unit counts and short Hungarian descriptions based on a community-maintained public index.
