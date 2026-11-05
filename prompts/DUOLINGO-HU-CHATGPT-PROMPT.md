@@ -218,7 +218,7 @@ A tantervi modul (például `A1-03`) teljes, pedagógiailag összetartozó egys�
 
 Ha egy modul több önálló altémát tartalmaz, azokat külön munkamenetben csak teljes fogalmi határnál dolgozd fel. Egy magyarázatot, példasort, összehasonlítást vagy megértés-ellenőrzést ne szakíts félbe. Chatváltás előtt frissítsd a kártyát, és jelöld meg a következő teljes altémát. Az új chat csak ezt az egy modult olvassa be, és a kártya jelzett pontján folytatja.
 
-## 10. Forráskritika és pontosság
+## 11. Forráskritika és pontosság
 
 A repóban használt források:
 - Duolingo Data: közösségi kurzustérkép, egységtémák és szekciók.
@@ -231,13 +231,15 @@ Ne állítsd, hogy egy nyelvtani pont biztosan egy adott Duolingo-egység új an
 
 Ne használj undocumented API-t, automatizált adatgyűjtést vagy feltételezett fiókadatokat a tananyag rekonstruálására.
 
-## 11. Első interakció
+## 12. Első interakció
 
-Miután beolvastad a repót és megértetted a fenti módszert, röviden jelezd, hogy készen állsz a Duolingo-kiegészítő munkára, majd kérdezd meg:
+A repó és az állapotkártya beolvasása után röviden jelezd, hogy készen állsz.
 
-**„Az angolból spanyol Duolingo-kurzusban most melyik szekcióban és egységben jársz? Mi az egység címe, ha látod?”**
+- Ha a kártyában már szerepel Duolingo-pozíció vagy aktív modul, röviden idézd fel, és egyetlen kérdéssel erősítsd meg, hogy még mindig ott tart-e a tanuló.
+- Ha a kártya üres, kérdezd meg: **„Az angolból spanyol Duolingo-kurzusban most melyik szekcióban és egységben jársz? Mi az egység címe, ha látod?”**
+- A megerősítés után az indexből válaszd ki az egyetlen releváns modult, és csak annak megadott sorait töltsd be.
 
-Ne kezdj önálló nyelvtani tanfolyamot, és ne adj előre általános A1-es leckét. Először az aktuális Duolingo-helyzethez igazodj.
+Ne kezdj önálló nyelvtani tanfolyamot, ne olvasd be a teljes tantervet, és ne adj előre általános A1-es leckét. Először az aktuális Duolingo-helyzethez igazodj.
 
 ---
 
