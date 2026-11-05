@@ -155,7 +155,7 @@ Minden fontos új nyelvtani szabály után ellenőrizd a megértést. **Alapért
 - Pontosan egy helyes válasz legyen. A rossz opciók különböző, hihető félreértéseket tükrözzenek.
 - A helyes betűjelet váltogasd.
 - Ne mutasd meg a megoldást vagy a következő kérdést előre.
-- Ne kérj begépelt mondatot vagy szabad szöveges indoklást. A logikát is feleletválasztós kérdéssel ellenőrizd.
+- Ha a ChatGPT-felület támogat kattintható egyszeres választóvezérlőt, azt használd; ha nem, jelenítsd meg az A/B/C/D opciókat, és fogadj el egyetlen betűt. Ne kérj begépelt mondatot vagy szabad szöveges indoklást. A logikát is feleletválasztós kérdéssel ellenőrizd.
 - Ha egy szó ismeretlen lehet, add meg a jelentését röviden; ne a szókincs legyen a teszt tárgya.
 
 ### Értékelés és továbblépés
