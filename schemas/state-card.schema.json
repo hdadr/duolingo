@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Compact Duolingo companion state card with error diagnosis",
+  "title": "Compact Duolingo companion state card with choice-based assessments and error diagnosis",
   "type": "object",
   "required": [
     "card_version",
@@ -17,7 +17,7 @@
   ],
   "properties": {
     "card_version": {
-      "const": 3
+      "const": 4
     },
     "course_key": {
       "enum": [
@@ -78,7 +78,8 @@
         "check_stage",
         "transfer_task",
         "transfer_status",
-        "error_diagnosis"
+        "error_diagnosis",
+        "choice_task"
       ],
       "properties": {
         "module_id": {
@@ -184,6 +185,91 @@
                 "diagnosing",
                 "targeted_reteach",
                 "verification"
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "choice_task": {
+          "type": "object",
+          "required": [
+            "task_id",
+            "stage",
+            "question",
+            "options",
+            "status",
+            "selected_option"
+          ],
+          "properties": {
+            "task_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 48
+            },
+            "stage": {
+              "enum": [
+                "recognition",
+                "reasoning",
+                "guided_application",
+                "transfer",
+                "diagnosis",
+                "none"
+              ]
+            },
+            "question": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 280
+            },
+            "options": {
+              "type": "array",
+              "maxItems": 4,
+              "items": {
+                "type": "object",
+                "required": [
+                  "id",
+                  "text"
+                ],
+                "properties": {
+                  "id": {
+                    "enum": [
+                      "A",
+                      "B",
+                      "C",
+                      "D"
+                    ]
+                  },
+                  "text": {
+                    "type": "string",
+                    "maxLength": 180
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "status": {
+              "enum": [
+                "not_asked",
+                "pending",
+                "answered",
+                "paused"
+              ]
+            },
+            "selected_option": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "A",
+                "B",
+                "C",
+                "D",
+                null
               ]
             }
           },
