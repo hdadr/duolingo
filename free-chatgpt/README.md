@@ -28,7 +28,7 @@ A két kurzust külön projektben kezeld, ne töltsd fel a másik kurzus router�
 
 ## 3. Minden tanulási alkalom
 
-1. A projektben indíts új beszélgetést, vagy folytasd a meglévőt.
+1. A projektben indíts új beszélgetést, vagy folytasd a meglévőt. Új beszélgetés első üzeneteként másold be a megfelelő [spanyol indítóüzenetet](es-en/FREE-STARTER.md) vagy [angol indítóüzenetet](en-hu/FREE-STARTER.md). Ezek rövid üzenetek, nem projektfájlok.
 2. Add meg a jelenlegi Duolingo-pozíciódat (szekció/modul, egység, cím). A pozíciót ne találja ki az asszisztens.
 3. Az asszisztens válassza ki a routerből az 1–3 releváns nyelvtani modult.
 4. Csak az aktív modul pontos tartományát add át. Ha a GitHub-fájl nem olvasható a chatben, nyisd meg a routerben szereplő útvonalat, és másold be csak a megadott sorok közötti modult. Ne töltsd fel a teljes A1–B2 tananyagot.
