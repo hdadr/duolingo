@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Compact Duolingo companion state card",
+  "title": "Compact Duolingo companion state card with error diagnosis",
   "type": "object",
   "required": [
     "card_version",
@@ -17,7 +17,7 @@
   ],
   "properties": {
     "card_version": {
-      "const": 2
+      "const": 3
     },
     "course_key": {
       "enum": [
@@ -77,7 +77,8 @@
         "next_subtopic",
         "check_stage",
         "transfer_task",
-        "transfer_status"
+        "transfer_status",
+        "error_diagnosis"
       ],
       "properties": {
         "module_id": {
@@ -141,6 +142,52 @@
             "passed",
             "retry"
           ]
+        },
+        "error_diagnosis": {
+          "type": "object",
+          "required": [
+            "pattern_id",
+            "hypothesis",
+            "observed_once",
+            "last_example",
+            "stage"
+          ],
+          "properties": {
+            "pattern_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 60
+            },
+            "hypothesis": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 160
+            },
+            "observed_once": {
+              "type": "boolean"
+            },
+            "last_example": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 120
+            },
+            "stage": {
+              "enum": [
+                "none",
+                "candidate",
+                "diagnosing",
+                "targeted_reteach",
+                "verification"
+              ]
+            }
+          },
+          "additionalProperties": false
         }
       },
       "additionalProperties": false
@@ -231,8 +278,54 @@
       "type": "array",
       "maxItems": 3,
       "items": {
-        "type": "string",
-        "maxLength": 120
+        "type": "object",
+        "required": [
+          "pattern_id",
+          "label",
+          "targeted_rule",
+          "evidence_summary",
+          "occurrences",
+          "status",
+          "last_seen"
+        ],
+        "properties": {
+          "pattern_id": {
+            "type": "string",
+            "maxLength": 60
+          },
+          "label": {
+            "type": "string",
+            "maxLength": 80
+          },
+          "targeted_rule": {
+            "type": "string",
+            "maxLength": 140
+          },
+          "evidence_summary": {
+            "type": "string",
+            "maxLength": 120
+          },
+          "occurrences": {
+            "type": "integer",
+            "minimum": 2,
+            "maximum": 99
+          },
+          "status": {
+            "enum": [
+              "active",
+              "improving",
+              "resolved"
+            ]
+          },
+          "last_seen": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          }
+        },
+        "additionalProperties": false
       }
     },
     "next_action": {
