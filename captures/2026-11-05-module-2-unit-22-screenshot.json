@@ -1,0 +1,33 @@
+{
+  "capture_date": "2026-11-05",
+  "origin": "user-provided Duolingo screenshot",
+  "course_id": null,
+  "course_direction": "not confirmed from screenshot alone",
+  "module": 2,
+  "unit": 22,
+  "title_hu": "Étrend leírása",
+  "visible_examples": [
+    {
+      "target_text": "¿Cuándo bebemos leche en nuestra casa?",
+      "displayed_hu_translation": "Mikor iszunk tejet a házunkban?"
+    },
+    {
+      "target_text": "Comemos poco azúcar.",
+      "displayed_hu_translation": "Kevés cukrot eszünk."
+    },
+    {
+      "target_text": "No tengo una dieta saludable.",
+      "displayed_hu_translation": "Nincs egészséges étrendem."
+    },
+    {
+      "target_text": "¿Comes fruta?",
+      "displayed_hu_translation": "Eszel gyümölcsöt?"
+    },
+    {
+      "target_text": "Siempre compras poco pescado.",
+      "displayed_hu_translation": null,
+      "note": "The Hungarian translation is below the visible crop."
+    }
+  ],
+  "interpretation_policy": "Treat these as examples from the user's screenshot. Do not assume the screenshot's base-language course ID until the user confirms it or another course identifier is visible."
+}
