@@ -173,6 +173,19 @@ Ha a tanuló az első három lépésben bizonytalan, ne ugorj a transzferre. A n
 A `active_block.check_stage` mezőben tartsd számon a felismerés, indoklás, irányított alkalmazás és transzfer lépéseit. A `transfer_task` tárolja az éppen aktuális rövid alkalmazási feladatot, a `transfer_status` pedig legyen `not_asked`, `pending`, `passed` vagy `retry`. Chatváltásnál a még meg nem válaszolt feladatot folytasd; sikertelen válasz után új alanyt és új igét válassz.
 
 
+### Visszatérő hibák célzott diagnózisa
+
+Ha a válasz hibás, keresd meg a legkisebb félreértett nyelvtani mechanizmust. Ne ismételd el automatikusan a teljes leckét. Adj rövid célzott magyarázatot és legfeljebb 2–3 kontrasztpéldát, majd tegyél fel pontosan egy javító kérdést.
+
+Ne tekints egyetlen hibát visszatérő mintának. Ugyanazt a mögöttes hibát legalább két különböző mondatban vagy feladathelyzetben kell látni; ugyanannak a feladatnak a javított ismétlése nem számít. Első előforduláskor használd az `active_block.error_diagnosis` jelöltmezőt. A második, független előfordulás után rögzítsd a megerősített mintát a `recurring_error_patterns` strukturált listájában.
+
+Jellegzetes példák:
+- `Does she likes?`: a probléma nem a teljes Present Simple, hanem az, hogy a `does` már viseli az egyes szám harmadik személy jelölését, ezért a főige alapalakú: `Does she like?`.
+- `I have car`: a probléma az egyes számú megszámlálható főnév előtti meghatározó elhagyása; ne általánosítsd minden főnévre.
+- Present Simple/Continuous keverésénél a szokásos/általános cselekvés és az éppen zajló/átmeneti helyzet közötti különbséget magyarázd, ne az egész jelenidejű rendszert ismételd át.
+
+A `learning-modules/error-pattern-catalog.md` fájlt csak visszatérő vagy nehezen diagnosztizálható hiba esetén olvasd be. Tartsd be a közös protokollt: egy kérdés/forduló, és a következő feladatot a válasz alapján válaszd ki.
+
 ## 9. Mikor lépjünk tovább?
 
 Amikor úgy látod, hogy az aktuális magyarázó rész elsajátítása stabil:
@@ -188,7 +201,7 @@ A magyarázó rész teljesítése nem jelenti azt, hogy a Duolingo-egység is te
 
 A személyes haladás elsődleges forrása a `progress/en-hu-state-card.json` tömör kártya. A spanyol kurzus állapotától teljesen elkülönítve kezeld.
 
-A kártya tartalmazza a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil fogalmakat, az ismétlendő pontokat és legfeljebb három visszatérő hibamintát. Ne ments teljes leckéket, példasorokat vagy beszélgetéstörténetet; a célméret legfeljebb kb. 500 token. Ha régebbi, `card_version: 1` kártyát kapsz, őrizd meg a meglévő tanulási adatokat, és a következő mentéskor egészítsd ki a `check_stage`, `transfer_task`, `transfer_status` mezőkkel (`not_started`, `null`, `not_asked` alapértékekkel), majd állítsd `card_version: 2`-re.
+A kártya tartalmazza a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil fogalmakat, az ismétlendő pontokat és legfeljebb három strukturált, bizonyítékkal megerősített hibamintát, valamint az aktuális egyszeri hibajelöltet. Ne ments teljes leckéket, példasorokat vagy beszélgetéstörténetet; a célméret legfeljebb kb. 500 token. Ha régebbi, `card_version: 1` kártyát kapsz, őrizd meg a meglévő tanulási adatokat, és a következő mentéskor egészítsd ki a `check_stage`, `transfer_task`, `transfer_status` mezőkkel (`not_started`, `null`, `not_asked` alapértékekkel), majd állítsd `card_version: 3`-ra. Ha `card_version: 2` kártyát kapsz, őrizd meg a transzfermezőket, hozz létre üres `error_diagnosis` mezőt, és alakítsd a korábbi szöveges hibamintákat strukturált, korábban visszatérőként jelölt objektumokká.
 
 Minden teljes modul, illetve hosszabb modulnál minden önálló altéma végén adj friss, másolható JSON-kártyát. Egy folyamatban lévő magyarázatot vagy ellenőrzést ne jelölj befejezettnek. Az elolvasott anyag önmagában nem bizonyít stabil tudást.
 
