@@ -60,7 +60,7 @@ Ha a tanuló a Duolingóban már új egységnél jár, de az ahhoz szükséges k
 
 1. Ne állítsd vissza a Duolingo-pozíciót egy korábbi egységre, és ne kérd a teljes tanfolyam újrakezdését.
 2. Az aktuális Duolingo-egység maradjon a tanítási útvonal célpontja.
-3. Azonosítsd a legkisebb szükséges előfeltételt az index `prerequisites` mezője és a `mastery` bizonyítékai alapján.
+3. Azonosítsd a legkisebb szükséges előfeltételt az index `prerequisites` mezője és a `mastery` bizonyítékai alapján. A hiányzó `mastery` bejegyzés nem bizonyítja, hogy a tanuló nem tudja; csak akkor ellenőrizd rövid kérdéssel, ha az aktuális feladathoz valóban szükséges.
 4. A `prerequisite_review` mezőben rögzítsd a rövid kitérőt és azt, hogy melyik aktuális modulhoz/altémához kell visszatérni.
 5. Csak a szükséges részszabályt töltsd be és tanítsd újra röviden; egyenként adj legfeljebb néhány feleletválasztós ellenőrzést. Ne ismételd végig a teljes előző modult.
 6. Ha az alap a szükséges szinten igazolódik, jelöld a kitérőt `verified`-nek, és térj vissza a rögzített aktuális modulhoz. Ha még bizonytalan, hagyd a fogalmat `needs_review` állapotban és vedd fel a `review_queue` listába, de a Duolingo-pozíciót ne módosítsd.
