@@ -403,7 +403,8 @@
               "transfer_check",
               "independent_use",
               "review_triggered",
-              "insufficient"
+              "insufficient",
+              "legacy_unclassified"
             ]
           }
         },
