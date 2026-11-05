@@ -123,7 +123,7 @@ Ha a Duolingóban már új egységnél jár a tanuló, de annak szükséges elő
 4. a `prerequisite_review` mezőben őrizd meg, hová kell visszatérni;
 5. sikeres ellenőrzés után térj vissza az aktuális egységhez. Ha nem sikerül, a fogalom maradjon `needs_review`/a `review_queue` része, de ne kezdd újra az egész modult vagy kurzust.
 
-A korábbi ChatGPT-s modul befejezetlen maradhat akkor is, ha a tanuló közben a Duolingóban továbbhaladt. Ezt ne minősítsd hibás Duolingo-haladásnak, és ne keverd össze a két állapotot.
+A korábbi ChatGPT-s modul befejezetlen maradhat akkor is, ha a tanuló közben a Duolingóban továbbhaladt. Ne jelöld késznek pusztán az új Duolingo-pozíció miatt. A még nyitott, később szükséges fogalmat vidd át a `review_queue` listába, a rövid előfeltétel-áttekintés és a visszatérési pont állapotát pedig tartsd meg a `prerequisite_review` mezőben. Ezt ne minősítsd hibás Duolingo-haladásnak, és ne keverd össze a két állapotot.
 
 ## 5. A magyarázatok nyelve és stílusa
 
