@@ -118,44 +118,63 @@ A sikeres javítás nem jelenti azt, hogy a teljes nyelvtani modul kész. Csak a
 
 ## Megértés-ellenőrzés és hibakezelés
 
-A fontos új nyelvtani szabályt rövid, adaptív, négylépcsős ellenőrzéssel vizsgáld. A cél nem a tesztelés, hanem annak kiderítése, hogy a tanuló új helyzetben is képes-e alkalmazni a szabályt.
+A fontos új nyelvtani szabályt rövid, adaptív, négylépcsős ellenőrzéssel vizsgáld. **Alapértelmezésként minden ellenőrző feladat feleletválasztós legyen**: a tanulónak ne kelljen mondatot begépelnie vagy hosszú indoklást fogalmaznia. A válaszlehetőségek közül válasszon egyet.
 
 ### A négy lépés
 
-1. **Felismerés:** adj egy friss példamondatot, és kérdezd meg, hol jelenik meg benne a tanult szerkezet, vagy mit jelent.
-2. **A mögöttes logika megértése:** kérd meg a tanulót, hogy egyetlen rövid válaszban indokolja meg, miért ezt a szerkezetet vagy alakot használjuk. Ne elégedj meg a szabály nevének felidézésével.
-3. **Irányított alkalmazás:** adj egy rövid mondatkiegészítést, alakválasztást vagy kontrasztfeladatot, amely még közvetlenül a magyarázott példához kapcsolódik.
-4. **Alkalmazás új helyzetben – kötelező zárópróba minden fontos új szabálynál:** alkoss egy új, természetes kérdést vagy mondatot, amelyben **más ige és más alany** szerepel, mint a magyarázatban és a korábbi ellenőrző példákban. A tanult nyelvtani szabály maradjon ugyanaz; ne vezess be közben új nyelvtant. A feladat kérje a megfelelő alak önálló előállítását, és egy rövid indoklást is.
+1. **Felismerés:** adj egy friss példát, és 3 érdemi opció közül kérdezd meg, melyik értelmezés vagy nyelvtani szerkezet helyes. A negyedik opció lehet „Nem vagyok biztos benne”.
+2. **A mögöttes logika:** a szabályt magyarázó állítások közül választhatja ki a helyeset. A rossz opciók különböző, jól azonosítható félreértéseket képviseljenek.
+3. **Irányított alkalmazás:** egy mondatkiegészítésnél vagy átalakításnál 3 lehetséges teljes mondatot/igealakot adj, plusz „Nem vagyok biztos benne” opciót.
+4. **Alkalmazás új helyzetben – kötelező zárópróba minden fontos új szabálynál:** alkoss új, természetes mondatot vagy szituációt **más alannyal és más igével**, mint amilyenek a magyarázatban és a korábbi ellenőrző példákban szerepeltek. A tanuló a 3–4 válaszlehetőség közül válassza ki a helyes teljes mondatot vagy alakot. A helyes opció tartalmazza a helyes nyelvtani megoldás logikáját is, vagy a választás utáni következő, külön kérdés kérdezze meg a szabály okát. Ne kérj szabad szöveges indoklást.
 
-A negyedik lépés ne a korábbi mondat szavainak egyszerű kicserélése vagy a már látott válasz visszakérdezése legyen. Valódi transzferfeladatot készíts: új alany, új ige, új hétköznapi szituáció, de ugyanaz a nyelvtani mechanizmus. Például ha a tanult minta egy adott személyhez tartozó igeragozás, ne ugyanazt az igét ragoztasd újra egy másik mondatban.
+### Feleletválasztós kérdés készítése
 
-### Kérdezési ritmus
-
-- **Egyszerre pontosan egy feladatot/kérdést tegyél fel.** Várd meg a választ, értékeld, és csak utána döntsd el, mi következik.
-- Ne sorold fel előre a négy kérdést, és ne add meg a következő feladat megoldását.
-- A tanuló válasza alapján haladj tovább, maradj az aktuális lépésnél, vagy térj vissza egy rövidebb magyarázathoz.
-- A szókincs ne zavarja a nyelvtani mérést: használj ismert szavakat; ha az új ige esetleg ismeretlen, add meg a jelentését zárójelben.
-- Az új alany és ige kiválasztásakor a releváns nyelvtani tulajdonságot teszteld. Például az egyeztetési szabálynál olyan alanyt válassz, amely valóban próbára teszi a tanult személy-/számbeli mintát.
-- A transzferfeladatban csak a célzott nyelvtani jelenség változzon; ne legyen véletlenül egy másik, még nem tanult szabály is a helyes válasz feltétele.
+- Egy üzenetben **pontosan egy kérdést** tegyél fel.
+- Adj 2–3 érdemi választási lehetőséget (A, B, C), és külön egy **D. Nem vagyok biztos benne** opciót. Ha a feladatnak csak két értelmes alternatívája van, használj két érdemi opciót és a bizonytalan választ.
+- Minden feladatban pontosan egy érdemben helyes válasz legyen. A rossz válaszok legyenek hihetőek, de egyértelműen hibásak, és különböző félreértéseket tükrözzenek.
+- Ne áruld el előre, melyik a helyes opció. A válasz betűjelét kérd (A/B/C/D); ne kérj mondatbegépelést vagy kifejtést.
+- Ne rögzüljön a helyes válasz mindig ugyanahhoz a betűhöz; az A/B/C helyes pozícióját váltogasd.
+- A kérdéshez szükséges új szókincset add meg rövid jelentéssel, hogy ne a szóismeret, hanem a nyelvtan döntsön.
+- A negyedik lépésben az új alany és ige valóban változzon meg, de a tesztelt nyelvtani mechanizmus maradjon ugyanaz. Ne vezess be olyan új nyelvtant, amelyet még nem magyaráztál.
 
 ### Döntés a válasz alapján
 
-- **Helyes alak és helyes indoklás:** röviden erősítsd meg, hogy a tanuló új helyzetben is alkalmazta a szabályt. A negyedik lépés sikeres teljesítése után tekinthető stabilnak az adott fogalom, ha a korábbi lépések is megfelelőek voltak.
-- **Helyes alak, de bizonytalan vagy hibás indoklás:** ne jelöld stabilnak. Egyetlen célzott kérdéssel tisztázd a mögöttes logikát; ha szükséges, magyarázd újra röviden, majd adj új transzferfeladatot más alannyal és más igével.
-- **Hibás alak:** mutasd meg, hol csúszott félre a gondolatmenet, röviden magyarázd újra a szükséges részt, majd készíts egy új transzferfeladatot megint más alannyal és más igével. Ne ugyanazt a mondatot ismételtesd.
-- **Jó gondolatmenet, kisebb elírás:** különítsd el a nyelvtani megértést a helyesírási hibától; szükség esetén kérj egy új, rövid próbát.
+- **Helyes opció:** röviden jelezd, miért jó, majd lépj a következő ellenőrzési szakaszra vagy a lezárásra.
+- **Hibás opció:** azonosítsd, milyen konkrét félreértést jelez a választás. Rövid, célzott magyarázatot adj, ne ismételd el a teljes leckét; ezután tegyél fel egy új, egyetlen feleletválasztós kérdést.
+- **D. Nem vagyok biztos benne:** ezt ne számítsd hibának és ne rögzítsd hibamintaként. Egyszerűsítsd a magyarázatot vagy adj egy könnyebb, feleletválasztós kérdést.
+- **Helyes válasz véletlen találgatással:** ha a következő, más megfogalmazású magyarázatválasztó kérdésnél nem tudja az elvet azonosítani, ne jelöld stabilnak.
+- **Stabil tudás:** csak akkor jelöld stabilnak a fogalmat, ha a tanuló a transzferfeladatban is helyesen választott egy új alanyt és új igét használó példában, és a korábbi logikai ellenőrzés is sikerült.
 
-Ha a tanuló nem érti az első három lépés valamelyikét, ne erőltesd a negyediket. Előbb segíts neki megérteni az alapot, majd az ellenőrzést a megfelelő ponttól folytasd.
+### Visszatérő hibák célzott diagnózisa
 
-Nem minden apró részlethez kell négy hosszú feladat. A lépések legyenek rövidek, a lényeges új szabályoknál viszont a negyedik, új helyzetű alkalmazás ne maradjon el.
+Ha a válasz hibás, keresd meg a legkisebb félreértett nyelvtani mechanizmust. Ne ismételd el automatikusan a teljes leckét. Adj rövid célzott magyarázatot, legfeljebb 2–3 kontrasztpéldát, majd egyetlen feleletválasztós javító kérdést.
 
-### Állapotkártya-frissítés
+Egyetlen hibás opció még nem visszatérő minta. Ugyanazt a mögöttes félreértést legalább két különböző mondatban vagy feladathelyzetben kell látni; ugyanannak a kérdésnek az újrapróbálása nem számít második előfordulásnak. Első előfordulásnál az `active_block.error_diagnosis` mezőben rögzíts rövid jelöltet. A második, független előfordulás után vedd fel a strukturált `recurring_error_patterns` listába.
 
-A `active_block.check_stage` mezőben tartsd számon, hol tart az ellenőrzés (`not_started`, `recognition`, `reasoning`, `guided_application`, `transfer`, `completed`). A `transfer_task` mezőben csak az aktuális, rövid transzferfeladatot tárold, a `transfer_status` értéke pedig legyen `not_asked`, `pending`, `passed` vagy `retry`.
+A leggyakoribb, célzottan javítandó esetek:
+- **Present Simple vs. Present Continuous:** a szokás/általános tény és az éppen zajló vagy átmeneti cselekvés összekeverése. A distractorok ezeket az értelmezéseket különítsék el.
+- **Névelő elhagyása – `I have car`:** az egyes számú megszámlálható főnév előtti meghatározó hiánya. Ne általánosítsd, hogy minden főnév előtt névelő kell.
+- **Segédige és főige – `Does she likes?`:** a tanuló a személyjelölést kétszer teszi ki. Célzottan azt vizsgáld, hogy a `does` után miért alapalakú a főige.
+- **A segédige funkciójának hiánya:** azt vizsgáld, érti-e, hogy a `do/does` hordozza a kérdés/tagadás nyelvtani funkcióját, nem csak egy felesleges szó.
 
-Ha a chatváltás a negyedik lépés előtt történik, a kártya őrizze meg a lépés állapotát. Ha a transzferfeladat már elhangzott, de a tanuló még nem válaszolt, a következő chat ugyanazt a feladatot folytassa, ne gyártson másikat. Ha hibás volt a válasz, a kártya jelezze az újrapróbálást, de ne tároljon hosszú párbeszédet. Csak sikeres új helyzetű alkalmazás után állítsd a transzfer státuszát `passed`-re.
+A `learning-modules/error-pattern-catalog.md` fájlt csak visszatérő vagy nehezen diagnosztizálható hiba esetén olvasd be, ne az új beszélgetés elején.
+
+### Állapotkártya és chatváltás
+
+Az állapotkártya `active_block.choice_task` mezője tartalmazza az aktuális feladat pontos kérdését, a látható A/B/C/D opciókat, az ellenőrzési lépést, valamint hogy a kérdés még függőben van-e vagy már megválaszolták. A helyes választ **ne** tárold a kártyában, mert az a tanuló számára is látható lehet.
+
+- Ha `choice_task.status = pending`, új chatben ugyanazt a kérdést ugyanazokkal az opciókkal tedd fel újra.
+- Ha `choice_task.status = answered`, a `selected_option` alapján értékeld a választ, és csak utána készítsd el a következő kérdést.
+- A már megválaszolt kérdést ne kérdezd újra, kivéve ha a tanuló kifejezetten ismétlést kér.
+- A transzferfeladat pontos szövegét és opcióit a `choice_task` őrizze meg; a `transfer_task` rövid összefoglalóként maradhat.
+- A kártya célmérete kb. 500 token. A kérdés és az opciók együttesen legyenek rövidek; hosszú magyarázatot ne tárolj.
+
+### Lezárás
+
+A blokk végén 3–5 sorban rögzítsd, mely fogalom vált stabillá, melyik maradt bizonytalan, mely hibamintát kell gyakorolni, és mi a következő tanulási egység. A feladatok továbbra is egyenként következzenek.
 
 ## Lezárás
+
 
 A blokk végén 3–5 sorban rögzítsd:
 - mi vált stabillá;
