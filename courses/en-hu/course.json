@@ -444,6 +444,7 @@
     "markdown_path": "curricula/angol-a1-b2-tanulasi-terkep.md",
     "json_path": "curricula/angol-a1-b2-tanulasi-terkep.json",
     "explanation_language": "hu",
-    "primary_learning_platform": "Duolingo"
+    "primary_learning_platform": "Duolingo",
+    "prompt_path": "prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md"
   }
 }
