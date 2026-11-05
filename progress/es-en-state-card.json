@@ -1,5 +1,5 @@
 {
-  "card_version": 3,
+  "card_version": 4,
   "course_key": "es-en",
   "course_id": "DUOLINGO_ES_EN",
   "updated_at": null,
@@ -23,6 +23,14 @@
       "observed_once": false,
       "last_example": null,
       "stage": "none"
+    },
+    "choice_task": {
+      "task_id": null,
+      "stage": "none",
+      "question": null,
+      "options": [],
+      "status": "not_asked",
+      "selected_option": null
     }
   },
   "mastery": [],
