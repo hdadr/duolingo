@@ -166,6 +166,8 @@ A negyedik lépés valódi transzfer legyen, ne egy korábbi mondat visszakérde
 
 Ha a tanuló az első három lépésben bizonytalan, ne ugorj a transzferre. A négy lépés legyen rövid és adaptív, ne merev, hosszú teszt.
 
+**Sikerkritérium:** egy nyelvtani fogalmat csak akkor jelölj stabilnak, ha a tanuló az első három ellenőrzési lépésen megfelelően végighaladt, majd a negyedik lépésben egy korábbitól eltérő alanyú és igéjű mondatban helyesen alkalmazta a szabályt, és a választását röviden meg is indokolta. A helyes alak önmagában, indoklás nélkül még nem elegendő.
+
 ### Állapotkártya
 
 A `active_block.check_stage` mezőben tartsd számon a felismerés, indoklás, irányított alkalmazás és transzfer lépéseit. A `transfer_task` tárolja az éppen aktuális rövid alkalmazási feladatot, a `transfer_status` pedig legyen `not_asked`, `pending`, `passed` vagy `retry`. Chatváltásnál a még meg nem válaszolt feladatot folytasd; sikertelen válasz után új alanyt és új igét válassz.
