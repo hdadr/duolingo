@@ -285,5 +285,79 @@
       }
     ],
     "note": "The source lists unit topics, not official unit grammar coverage. grammar_points intentionally remains null until Guidebook or lesson examples confirm it."
+  },
+  "section_overviews": [
+    {
+      "section": 1,
+      "cefr": "Intro",
+      "unit_count": 10,
+      "spanish_heading": "¡Hola!",
+      "description_hu": "Alapvető kifejezések és egyszerű nyelvtani fogalmak.",
+      "description_en": "Essential phrases and simple grammar concepts."
+    },
+    {
+      "section": 2,
+      "cefr": "A1",
+      "unit_count": 31,
+      "spanish_heading": "Quiero aprender español.",
+      "description_hu": "Szavak, kifejezések és nyelvtani alapok az egyszerű mindennapi kommunikációhoz.",
+      "description_en": "Words, phrases, and grammar concepts for basic interactions."
+    },
+    {
+      "section": 3,
+      "cefr": "A1",
+      "unit_count": 30,
+      "spanish_heading": "Sé algunas palabras.",
+      "description_hu": "Az alapfogalmak és az egyszerű társalgáshoz szükséges mondatok továbbépítése.",
+      "description_en": "More foundational concepts and sentences for basic conversations."
+    },
+    {
+      "section": 4,
+      "cefr": "A2",
+      "unit_count": 60,
+      "spanish_heading": "Puedo hablar un poco de español con mis amigos.",
+      "description_hu": "Hétköznapi témákról szóló beszélgetésekben használt mondatok.",
+      "description_en": "Sentences for conversations about everyday topics."
+    },
+    {
+      "section": 5,
+      "cefr": "B1",
+      "unit_count": 250,
+      "spanish_heading": "Soy capaz de usar español en mi vida cotidiana.",
+      "description_hu": "Mondatalkotás a korábbinál sokkal változatosabb témákban.",
+      "description_en": "Form sentences about a wider variety of topics."
+    },
+    {
+      "section": 6,
+      "cefr": "B1",
+      "unit_count": 250,
+      "spanish_heading": "Puedo usar expresiones diferentes de acuerdo al contexto social.",
+      "description_hu": "Összetettebb gondolatok kifejezése különböző társas helyzetekben.",
+      "description_en": "Communicate more complex ideas in conversations."
+    },
+    {
+      "section": 7,
+      "cefr": "B2",
+      "unit_count": 180,
+      "spanish_heading": "Puedo discutir temas abstractos como mis sueños, metas y proyectos de vida.",
+      "description_hu": "Absztrakt érzések és vélemények megvitatása.",
+      "description_en": "Talk about abstract feelings and opinions."
+    },
+    {
+      "section": 8,
+      "cefr": "B2",
+      "unit_count": 180,
+      "spanish_heading": "Me resulta fácil conversar en español sobre diferentes temas incluso en situaciones imprevistas.",
+      "description_hu": "Magabiztos beszélgetés különféle, akár speciális témákról és váratlan helyzetekben.",
+      "description_en": "Converse confidently, even about some specialized topics."
+    }
+  ],
+  "section_overviews_source": {
+    "name": "Duolingo Data community curriculum index",
+    "url": "https://duolingodata.com/dat/esfen991.html",
+    "page_date": "2026-03-02",
+    "checked_at": "2026-11-05",
+    "status": "third_party_curriculum_metadata_not_official_Duolingo_API",
+    "note": "Section descriptions are concise paraphrases. The page's own unit topic list is not copied wholesale into this repository. These descriptions are useful for broad learning progression, not enough to assert exact grammar in a lesson."
   }
 }
