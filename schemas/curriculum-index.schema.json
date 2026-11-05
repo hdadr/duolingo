@@ -109,7 +109,12 @@
               "explicit_and_theme",
               "reference_plus_theme",
               "theme_aligned",
-              "reference"
+              "reference",
+              "guidebook_explicit_label",
+              "observed_unit_example",
+              "theme_plus_reference",
+              "cefr_reference_only",
+              "insufficient_source"
             ]
           },
           "evidence_note": {
