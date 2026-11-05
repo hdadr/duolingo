@@ -1,0 +1,23 @@
+{
+  "card_version": 1,
+  "course_key": "es-en",
+  "course_id": "DUOLINGO_ES_EN",
+  "updated_at": null,
+  "current_position": {
+    "section": null,
+    "unit": null,
+    "unit_title": null
+  },
+  "active_block": {
+    "module_id": null,
+    "status": "not_started",
+    "current_subtopic": null,
+    "completed_subtopics": [],
+    "next_subtopic": null
+  },
+  "mastery": [],
+  "review_queue": [],
+  "recurring_error_patterns": [],
+  "next_action": "Kérdezd meg a tanuló aktuális Duolingo-szekcióját és egységét.",
+  "last_session_note": null
+}
