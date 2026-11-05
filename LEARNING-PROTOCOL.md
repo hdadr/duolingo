@@ -65,7 +65,7 @@ Ha a tanuló a Duolingóban már új egységnél jár, de az ahhoz szükséges k
 5. Csak a szükséges részszabályt töltsd be és tanítsd újra röviden; egyenként adj legfeljebb néhány feleletválasztós ellenőrzést. Ne ismételd végig a teljes előző modult.
 6. Ha az alap a szükséges szinten igazolódik, jelöld a kitérőt `verified`-nek, és térj vissza a rögzített aktuális modulhoz. Ha még bizonytalan, hagyd a fogalmat `needs_review` állapotban és vedd fel a `review_queue` listába, de a Duolingo-pozíciót ne módosítsd.
 
-Ha a tanuló ténylegesen továbblépett a Duolingóban, az előző ChatGPT-s nyelvtani modul befejezetlen maradhat. Tedd el a szükséges ismétlést a tudástérképbe, és az új egységhez kapcsolódó tanítást folytasd a releváns előfeltétel rövid támogatásával.
+Ha a tanuló ténylegesen továbblépett a Duolingóban, az előző ChatGPT-s nyelvtani modul befejezetlen maradhat. Soha ne jelöld késznek pusztán az új Duolingo-pozíció miatt. A még nyitott, később szükséges részfogalmat röviden vidd át a `review_queue` listába; az új egységhez kapcsolódó aktív blokkot csak a tényleges tanulói igény alapján válaszd ki. A rövid előfeltétel-áttekintést és a visszatérési pontot a `prerequisite_review` tárolja. Tedd el a szükséges ismétlést a tudástérképbe, és az új egységhez kapcsolódó tanítást folytasd a releváns előfeltétel rövid támogatásával.
 
 ## Modulhatárok és biztonságos feldarabolás
 
