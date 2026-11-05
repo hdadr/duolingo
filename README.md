@@ -4,6 +4,14 @@ Ez a privát repó két Duolingo-kurzushoz tartalmaz magyar nyelvű magyarázó 
 
 **A Duolingo az elsődleges tanulófelület.** A ChatGPT nem helyettesíti a szókincs-, hallásértés- és mondatgyakorlást. A feladata, hogy megmagyarázza a nyelvtani és nyelvhasználati logikát, különösen a magyar és a tanult nyelv közötti eltéréseket, majd ellenőrizze a megértést.
 
+## Ajánlott kezdés Free ChatGPT-ben
+
+A Free csomaghoz készített, rövidített projektcsomag az elsődleges ajánlott út: [free-chatgpt/README.md](free-chatgpt/README.md). Két külön Projektet hozz létre (spanyol és angol), és mindegyikbe csak a közös rövid protokollt, a megfelelő kurzus-routert és az állapotkártyát töltsd fel. A teljes kurzusadatokat, a régi hosszú promptokat és az összes modulbankot ne töltsd be induláskor.
+
+## Haladó / GitHub-integrációs kezdés
+
+Ha olyan ChatGPT-felületet használsz, amely közvetlenül hozzáfér a privát repóhoz, a régi, részletes indító promptok továbbra is elérhetők. Free csomagban azonban ne építs kizárólag a GitHub-integrációra; szükség esetén az aktuális modulblokkot másold be a beszélgetésbe.
+
 ## Kezdés új ChatGPT-beszélgetésben
 
 1. Nyisd meg a [START-HERE.md](START-HERE.md) útmutatót.
