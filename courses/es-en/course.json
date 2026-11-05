@@ -268,5 +268,15 @@
       "Pontos nyelvtani cél csak az aktuális Guidebook vagy feladatpélda alapján lesz megerősítve.",
       "A nyers leckeszövegeket nem tároljuk; csak saját, magyar nyelvű következtetéseket és tanítási jegyzeteket."
     ]
+  },
+  "hungarian_companion_curriculum": {
+    "status": "created",
+    "level_range": "A1-B2",
+    "grammar_module_count": 32,
+    "markdown_path": "curricula/espanol-a1-b2-tanulasi-terkep.md",
+    "json_path": "curricula/espanol-a1-b2-tanulasi-terkep.json",
+    "language_of_explanation": "hu",
+    "method": "Duolingo public path themes + Instituto Cervantes PCIC/AVE Global reference; unit-level grammar is marked as confirmed only when supported by the current Guidebook or learner examples.",
+    "raw_duolingo_lesson_text_stored": false
   }
 }
