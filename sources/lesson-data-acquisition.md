@@ -1,49 +1,47 @@
-# Lesson data acquisition and provenance
+# Lesson data acquisition and derived teaching map
 
-## Current public sources
+## Goal
 
-### Duolingo app course catalogue
+Use the learner's current Duolingo progression to infer what language structures are being introduced, practiced, and reinforced. The repository stores only original Hungarian-language conclusions and teaching notes, not copied lesson or Guidebook text.
 
-- Endpoint: https://www.duolingo.com/api/1/version_info
-- Use: confirms which learning/base-language directions are supported.
-- It does not provide the complete unit or exercise corpus.
-
-### Community-maintained curriculum index
+## Public course map
 
 - Spanish from English: https://duolingodata.com/dat/esfen991.html
 - English from Hungarian: https://duolingodata.com/dat/enfhu305.html
 - Main course index: https://duolingodata.com/
-- Use: unit counts, section/CEFR structure, high-level unit topics and course-version observations.
-- It is not an official Duolingo API and can lag the app or show different counts between snapshots.
 
-## Server-driven content
+These are community-maintained curriculum indexes, not official Duolingo APIs. They can help identify broad sections, CEFR bands, unit counts and unit themes. The derived progression in each course file is a teaching hypothesis, not an official grammar syllabus.
 
-The uploaded APK exposes app code and model names for course paths and Guidebook resources. The exact full course content is not stored locally in the APK.
+## APK/API findings
 
-The app includes the Guidebook resource path prefix:
+The uploaded APK contains the supported course catalogue and application models for course paths, lessons and Guidebook resources. It also contains the Android API hostnames. However:
 
-`rest/guidebooks/resource-`
+- The local APK does not contain the complete course lesson corpus.
+- The app's Guidebook URL is supplied by the server; there is no documented public API to bulk-download all Guidebook pages.
+- Community documentation of legacy profile endpoints indicates that course-path data can describe sections, units and level metadata, but this is not the same as a complete text lesson corpus.
+- Lesson-session endpoints may create a live lesson session rather than act as read-only course-text export endpoints.
 
-The user's active course path is represented by app models such as `CoursePathInfo`, `CoursePathSectionData` and Guidebook resource models. A complete, account-specific path or Guidebook export is not available from the APK alone.
+Duolingo's published Terms and Conditions prohibit reverse engineering the app and using automated scraping or similar data-gathering methods to obtain Service Content (Sections 9 and 17): https://www-prod.duolingo.com/terms
 
-## Required source priority when teaching
+For that reason, this project does not bulk-call undocumented app endpoints or crawl every lesson. No login token, cookie, password or bearer credential is requested or stored.
 
-1. Current in-app Guidebook page for the exact course/module/unit.
-2. User-provided screenshot or lesson examples.
-3. Verified course path or a legitimate account data export provided by the user.
-4. Community curriculum index, for identifying unit names and approximate sequence only.
-5. General language knowledge, used to explain verified examples—not to invent the unit's syllabus.
+## How to build the teaching map
 
-## Future lesson-record workflow
+1. Use the public curriculum index to understand the broad progression and unit themes.
+2. Use the learner's current in-app Guidebook/screenshot as the immediate evidence for the unit being studied.
+3. Analyze relevant examples transiently in the conversation.
+4. Save only derived knowledge: grammar concepts, vocabulary categories, skill progression, common Hungarian-speaker errors, prerequisites, and Hungarian explanations.
+5. Mark every claim as confirmed, likely, or unknown. A unit title alone is insufficient to confirm a grammar rule.
 
-For each lesson, store:
-- exact course key and Duolingo course ID;
-- section/module and unit number;
-- localized unit title and original title when available;
-- source type (Guidebook, screenshot, API export, curriculum index);
-- date observed;
-- exact examples supplied by the user;
-- grammar points confirmed by the Guidebook or examples;
-- separate fields for new grammar, previously learned grammar, vocabulary, and open questions.
+## Evidence levels
 
-Never mark inferred grammar as officially taught. Use `confidence` or `verification_status` fields when the evidence is incomplete.
+- `confirmed`: directly shown in the current Guidebook or lesson examples.
+- `likely`: a pedagogical hypothesis inferred from multiple public topic descriptions or repeated examples.
+- `unknown`: insufficient evidence; do not teach as a new official unit objective.
+
+## Supported study tracks
+
+- Spanish from English: `DUOLINGO_ES_EN`
+- English from Hungarian: `DUOLINGO_EN_HU`
+
+Both are explained in Hungarian.
