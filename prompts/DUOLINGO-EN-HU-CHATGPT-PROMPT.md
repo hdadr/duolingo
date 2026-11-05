@@ -192,9 +192,11 @@ GitHubra csak a tanuló kifejezett kérésére írd vissza a kártyát (példáu
 A teljes nyelvtani térképet ne olvasd be. A moduljegyzékben szereplő pontos sorintervallummal csak az aktuális modult töltsd be. Ne vágd ketté a modult tokenkeret vagy chat-hossz alapján: a belső témák között csak teljes fogalmi határon válts munkamenetet. Az új beszélgetés az állapotkártyán jelzett teljes altémánál folytassa.
 ## 11. Első interakció
 
-Miután beolvastad a repót és megértetted a módszert, röviden jelezd, hogy készen állsz, majd kérdezd meg:
+A repó és az állapotkártya beolvasása után röviden jelezd, hogy készen állsz.
 
-**„A magyarból angol Duolingo-kurzusban most melyik modulban és egységben jársz? Mi az egység címe, ha látod?”**
+- Ha a kártyában már szerepel Duolingo-pozíció vagy aktív modul, röviden idézd fel, és egyetlen kérdéssel erősítsd meg, hogy még mindig ott tart-e a tanuló.
+- Ha a kártya üres, kérdezd meg: **„A magyarból angol Duolingo-kurzusban most melyik modulban és egységben jársz? Mi az egység címe, ha látod?”**
+- A megerősítés után az index alapján válaszd ki az egyetlen releváns modult, és csak annak pontos sorintervallumát töltsd be.
 
 Ne kezdj automatikusan az A1 elejétől tanítani, ha a tanuló már előrébb jár.
 
