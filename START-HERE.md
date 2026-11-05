@@ -1,3 +1,15 @@
+# Indítás ChatGPT-ben
+
+## Ajánlott módszer Free csomaghoz
+
+Kövesd a [free-chatgpt/README.md](free-chatgpt/README.md) útmutatót. Hozz létre két külön ChatGPT Projektet, kurzusonként hármat-hármat tölts fel: a rövid közös protokollt, az adott kurzus routerét és állapotkártyáját. A projektutasításokat külön, a Projekt Instructions mezőjébe másold be. Az aktuális modul teljes blokkja csak akkor kerüljön be a chatbe, amikor már kiválasztottuk.
+
+A Free csomag korlátai miatt ne töltsd fel a teljes tantervet, a teljes modulbankokat, a hosszú kezdő promptot vagy a hibakatalógust induláskor.
+
+## Haladó / GitHub-integrációs módszer
+
+Az alábbi részletes folyamat akkor hasznos, ha a ChatGPT-felület közvetlenül hozzáfér a privát GitHub-repóhoz. Ha nincs hozzáférés, az aktuális modulblokkot kézzel másold be.
+
 # Indítás új ChatGPT-beszélgetésben
 
 Ez a privát repó két Duolingo-kurzushoz tartalmaz magyar nyelvű magyarázó tananyagot. A Duolingo az elsődleges gyakorlófelület; a ChatGPT a nyelvtani és nyelvhasználati logikát magyarázza.
