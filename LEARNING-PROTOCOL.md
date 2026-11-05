@@ -167,7 +167,7 @@ Az állapotkártya `active_block.choice_task` mezője tartalmazza az aktuális f
 - Ha `choice_task.status = answered`, a `selected_option` alapján értékeld a választ, és csak utána készítsd el a következő kérdést.
 - A már megválaszolt kérdést ne kérdezd újra, kivéve ha a tanuló kifejezetten ismétlést kér.
 - A transzferfeladat pontos szövegét és opcióit a `choice_task` őrizze meg; a `transfer_task` rövid összefoglalóként maradhat.
-- A kártya célmérete kb. 500 token. A kérdés és az opciók együttesen legyenek rövidek; hosszú magyarázatot ne tárolj.
+- A kártya célmérete kb. 500 token. A v4 kártya `active_block.choice_task` mezője a függőben lévő kérdés pontos szövegét és A/B/C/D opcióit tárolja. A helyes válasz betűjelét soha ne tedd bele a kártyába. V1–v3 kártyák migrálásakor minden meglévő adatot őrizz meg, és csak a hiányzó `choice_task` mezőt add hozzá üres alapértékekkel; a `card_version` legyen 4. A kérdés és az opciók együttesen legyenek rövidek; hosszú magyarázatot ne tárolj.
 
 ### Lezárás
 
