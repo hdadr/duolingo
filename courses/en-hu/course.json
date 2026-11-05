@@ -446,5 +446,6 @@
     "explanation_language": "hu",
     "primary_learning_platform": "Duolingo",
     "prompt_path": "prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md"
-  }
+  },
+  "max_duolingo_score": 130
 }
