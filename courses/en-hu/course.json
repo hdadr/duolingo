@@ -6,228 +6,444 @@
   "explanation_language": "hu",
   "course_level": "CEFR B2",
   "curriculum": {
-    "total_units": 305,
+    "total_units": 1005,
     "sections": [
       {
         "section": 1,
         "cefr": "Intro",
-        "units": 10
+        "units": 10,
+        "title_hu": "Alapmondatok és bemutatkozás"
       },
       {
         "section": 2,
         "cefr": "A1",
-        "units": 30
+        "units": 30,
+        "title_hu": "Kezdő angol kommunikáció"
       },
       {
         "section": 3,
         "cefr": "A1",
-        "units": 30
+        "units": 30,
+        "title_hu": "További alapmondatok és hétköznapi helyzetek"
       },
       {
         "section": 4,
         "cefr": "A2",
-        "units": 60
+        "units": 60,
+        "title_hu": "Hétköznapi beszélgetések és összetettebb nyelvtan"
       },
       {
         "section": 5,
         "cefr": "B1",
-        "units": 51
+        "units": 255,
+        "title_hu": "Önálló kommunikáció a mindennapi életben"
       },
       {
         "section": 6,
         "cefr": "B1",
-        "units": 52
+        "units": 260,
+        "title_hu": "Helyzethez illő és árnyalt társalgás"
       },
       {
         "section": 7,
         "cefr": "B2",
-        "units": 36
+        "units": 180,
+        "title_hu": "Elvontabb témák, célok és projektek"
       },
       {
         "section": 8,
         "cefr": "B2",
-        "units": 36
+        "units": 180,
+        "title_hu": "Magabiztos, spontán kommunikáció"
       }
     ]
   },
-  "detailed_curriculum_page_snapshot": {
-    "source": "https://duolingodata.com/dat/enfhu305.html",
-    "page_date": "2025-08-13",
-    "reported_units": 305,
-    "reported_lessons": 7948,
-    "reported_stories": 766,
-    "reported_radio_lessons": 1257,
-    "reported_vocabulary_size": 7014
+  "public_index_snapshot": {
+    "source": "https://duolingodata.com/dat/enfhu1005.html",
+    "course_name": "English from Hungarian",
+    "page_version_date": "2026-02-20",
+    "checked_at": "2026-11-05",
+    "reported_units": 1005,
+    "reported_lessons": 8423,
+    "reported_stories": 1193,
+    "reported_radio_lessons": 1281,
+    "distinct_lesson_labels": 3479,
+    "note": "This is the newer public community-maintained curriculum snapshot. It supersedes the previously stored 305-unit record."
+  },
+  "explicit_grammar_milestones": [
+    {
+      "module": 1,
+      "unit": 5,
+      "topic_hu": "Főnevek melléknevekkel történő leírása",
+      "grammar": [
+        "adjective position",
+        "noun phrases"
+      ]
+    },
+    {
+      "module": 1,
+      "unit": 7,
+      "topic_hu": "Jelen idő foglalkozások bemutatására",
+      "grammar": [
+        "present simple",
+        "to be"
+      ]
+    },
+    {
+      "module": 1,
+      "unit": 8,
+      "topic_hu": "Jelen idő",
+      "grammar": [
+        "present simple"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 3,
+      "topic_hu": "A to be jelen ideje",
+      "grammar": [
+        "am/is/are"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 4,
+      "topic_hu": "A to be összevont alakjai",
+      "grammar": [
+        "contractions"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 7,
+      "topic_hu": "Jelen idő érzelmek kifejezésére",
+      "grammar": [
+        "present simple"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 9,
+      "topic_hu": "Időkifejezések",
+      "grammar": [
+        "time expressions"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 12,
+      "topic_hu": "Gyakorisági határozók",
+      "grammar": [
+        "adverbs of frequency"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 15,
+      "topic_hu": "Névelők",
+      "grammar": [
+        "a/an/the"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 20,
+      "topic_hu": "Rendhagyó többes számú főnevek",
+      "grammar": [
+        "irregular plurals"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 22,
+      "topic_hu": "Tagadás jelen időben",
+      "grammar": [
+        "present simple negative",
+        "do/does support"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 24,
+      "topic_hu": "Kérdések to be igével jelen időben",
+      "grammar": [
+        "be questions"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 25,
+      "topic_hu": "Folyamatos jelen",
+      "grammar": [
+        "present continuous"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 27,
+      "topic_hu": "Kérdésalkotás folyamatos jelenben",
+      "grammar": [
+        "present continuous questions"
+      ]
+    },
+    {
+      "module": 2,
+      "unit": 29,
+      "topic_hu": "Állító felszólítás",
+      "grammar": [
+        "imperatives"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 2,
+      "topic_hu": "Parancsok és udvarias kérések",
+      "grammar": [
+        "imperatives",
+        "polite requests",
+        "can/could"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 5,
+      "topic_hu": "Összetett mondatok",
+      "grammar": [
+        "compound/complex sentences"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 9,
+      "topic_hu": "There is és there are",
+      "grammar": [
+        "there is/are"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 12,
+      "topic_hu": "A to be múlt ideje",
+      "grammar": [
+        "was/were"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 15,
+      "topic_hu": "Mennyiségjelzők",
+      "grammar": [
+        "quantifiers"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 20,
+      "topic_hu": "Főnévi igenév bizonyos igék után",
+      "grammar": [
+        "verb + infinitive"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 24,
+      "topic_hu": "Múlt idejű tagadás",
+      "grammar": [
+        "past simple negative",
+        "did/didn't"
+      ]
+    },
+    {
+      "module": 3,
+      "unit": 29,
+      "topic_hu": "Határozatlan névmások",
+      "grammar": [
+        "indefinite pronouns"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 4,
+      "topic_hu": "Első típusú feltételes mód",
+      "grammar": [
+        "first conditional"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 5,
+      "topic_hu": "Módbeli segédigék tagadása",
+      "grammar": [
+        "modal negative forms"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 9,
+      "topic_hu": "Közép- és felsőfok",
+      "grammar": [
+        "comparatives",
+        "superlatives"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 15,
+      "topic_hu": "Mennyiségekről szóló kérdések",
+      "grammar": [
+        "quantifiers",
+        "how much/how many"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 17,
+      "topic_hu": "Számhatározók",
+      "grammar": [
+        "quantifiers",
+        "numbers"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 23,
+      "topic_hu": "Határozószók és középfok",
+      "grammar": [
+        "adverbs",
+        "comparative forms"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 27,
+      "topic_hu": "Befejezett jelen",
+      "grammar": [
+        "present perfect"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 30,
+      "topic_hu": "Vonzatos igék",
+      "grammar": [
+        "prepositional verbs"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 36,
+      "topic_hu": "Elválasztható phrasal verbs",
+      "grammar": [
+        "separable phrasal verbs"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 42,
+      "topic_hu": "Folyamatos múlt",
+      "grammar": [
+        "past continuous"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 46,
+      "topic_hu": "Függő beszéd",
+      "grammar": [
+        "reported speech"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 48,
+      "topic_hu": "Ugye-kérdések",
+      "grammar": [
+        "question tags"
+      ]
+    },
+    {
+      "module": 4,
+      "unit": 58,
+      "topic_hu": "Vonatkozói mellékmondatok",
+      "grammar": [
+        "relative clauses"
+      ]
+    }
+  ],
+  "topic_clusters": {
+    "module_5": [
+      "utazás és közlekedés",
+      "ételrendelés és preferenciák",
+      "iskola és tanulás",
+      "állásinterjú és munkatapasztalat",
+      "házimunka és felelősség",
+      "értekezletek és technikai segítség",
+      "emlékek és gyerekkor",
+      "kapcsolatok és társas élet",
+      "technológia és szolgáltatások",
+      "közlekedés és vezetés",
+      "természet és időjárás",
+      "vásárlás és turizmus"
+    ],
+    "module_6": [
+      "hála és társas kapcsolatok",
+      "lakhatás és szomszédok",
+      "kultúra és történelem",
+      "vélemény és reakciók",
+      "egészség és tanácsadás",
+      "irodai egyeztetés",
+      "környezet és ökológia",
+      "technológia és banki ügyek",
+      "sport és események",
+      "problémamegoldás"
+    ],
+    "module_7": [
+      "engedély és szabályok",
+      "egészség és tanács",
+      "munka és felelősség",
+      "kert és fenntarthatóság",
+      "kampány és választás",
+      "időjárás és kockázat",
+      "motiváció és célok",
+      "pletyka és bizonytalanság",
+      "remények és hipotézisek"
+    ],
+    "module_8": [
+      "reklám és termékelőnyök",
+      "szívességek és meggyőzés",
+      "visszatérítés és panasz",
+      "érvelés és bizonyíték",
+      "jogi és bűnügyi helyzetek",
+      "csalás és tisztességtelenség",
+      "eseménytervezés és kompromisszum",
+      "rejtélyek és következtetések",
+      "színház, sport és társas helyzetek"
+    ]
   },
   "data_limitations": [
-    "The source is a community-maintained curriculum index.",
-    "The listed unit topics do not contain every sentence or exercise.",
-    "Current availability and exact ordering should be checked against the user's in-app course path.",
-    "Do not infer grammar coverage beyond what the in-app Guidebook or lesson examples confirm."
+    "The source is a community-maintained curriculum map, not a Duolingo-published export.",
+    "Module 1-4 include several unit titles explicitly naming grammar topics.",
+    "Modules 5-8 are largely scenario- and communication-goal based; grammar associations are pedagogical candidates, not confirmed Duolingo objectives.",
+    "The course path may change; the learner's current in-app path takes precedence.",
+    "This repository stores original Hungarian teaching conclusions, not copied lesson exercises or raw course text."
   ],
   "sources": [
-    "https://duolingodata.com/dat/enfhu305.html",
-    "https://duolingodata.com/",
-    "https://www.duolingo.com/api/1/version_info"
+    "https://duolingodata.com/dat/enfhu1005.html",
+    "https://duolingodata.com/dat/enfhu1005-d.html",
+    "https://englishprofile.org/?menu=english-grammar-profile",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2",
+    "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+    "https://real.mtak.hu/229141/",
+    "https://pp.bme.hu/so/article/view/6504"
   ],
-  "unit_topics_snapshot": {
-    "source": "https://duolingodata.com/dat/enfhu305.html",
-    "source_type": "community-maintained curriculum index",
-    "observed_at": "2026-11-05",
-    "section": 2,
-    "cefr": "A1",
-    "topics": [
-      {
-        "unit": 1,
-        "title": "Ruhavásárlás",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 2,
-        "title": "Az otthon bemutatása",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 3,
-        "title": "A „lenni” ige jelen idejének használata",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 4,
-        "title": "A „lenni” jelen idejű összevont alakjai",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 5,
-        "title": "Étel- és italrendelés",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 6,
-        "title": "Kommunikáció a munkahelyen",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 7,
-        "title": "Jelen idő használata az érzelmekhez",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 8,
-        "title": "Segítségkérés órán",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 9,
-        "title": "Segítségkérés vásárláskor",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 10,
-        "title": "Időkifejezések használata",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 11,
-        "title": "Társalgás a sportokról",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 12,
-        "title": "Gyakorisági határozók használata",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 13,
-        "title": "Napi rutin leírása",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 14,
-        "title": "Szállodai szoba foglalása",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 15,
-        "title": "Névelők használata",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 16,
-        "title": "Családtagok leírása",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 17,
-        "title": "Dolgaid leírása",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 18,
-        "title": "Talált tárgyak rendszerezése",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 19,
-        "title": "Ruhavásárlás",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 20,
-        "title": "Rendhagyó többes számú főnevek képzése",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 21,
-        "title": "Tájékozódás ismeretlen városban",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 22,
-        "title": "Tagadás jelen időben",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 23,
-        "title": "Társalgás a tünetekről",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 24,
-        "title": "Kérdések a „lenni” igével jelen időben",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 25,
-        "title": "A folyamatos jelen idő használata",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 26,
-        "title": "Társalgás az időjárásról és a természetről",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 27,
-        "title": "Kérdésalkotás folyamatos jelenben",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 28,
-        "title": "Társalgás az iskoláról",
-        "explicit_grammar_topic": false
-      },
-      {
-        "unit": 29,
-        "title": "Megerősítő felszólítások használata",
-        "explicit_grammar_topic": true
-      },
-      {
-        "unit": 30,
-        "title": "Biztonsági tanácsok adása",
-        "explicit_grammar_topic": false
-      }
-    ],
-    "note": "This is the community index's unit-title metadata, not a complete list of official exercises. Explicit grammar_topic is a title classification only and is not equivalent to all lesson grammar."
+  "companion_curriculum": {
+    "status": "created",
+    "level_range": "A1-B2",
+    "grammar_module_count": 35,
+    "markdown_path": "curricula/angol-a1-b2-tanulasi-terkep.md",
+    "json_path": "curricula/angol-a1-b2-tanulasi-terkep.json",
+    "explanation_language": "hu",
+    "primary_learning_platform": "Duolingo"
   }
 }
