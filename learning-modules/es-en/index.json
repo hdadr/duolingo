@@ -536,5 +536,7 @@
       "evidence_basis": "reference",
       "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
     }
-  ]
+  ],
+  "evidence_policy": "duolingo_grammar_evidence records the strength of a grammar-to-unit link: explicit (named in public course data), observed (seen in an actual unit example but not named as a target), inferred (probable from theme/reference), reference_only (CEFR/reference mapping only), or unknown. It is separate from learner mastery.",
+  "mastery_policy": "Learner grammar mastery is tracked only in the per-course state card from learning evidence. Never infer or advance mastery from Duolingo unit position."
 }
