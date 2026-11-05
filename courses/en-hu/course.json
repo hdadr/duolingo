@@ -1,0 +1,73 @@
+{
+  "course_id": "DUOLINGO_EN_HU",
+  "key": "en-hu",
+  "learning_language": "en",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "course_level": "CEFR B2",
+  "curriculum": {
+    "total_units": 305,
+    "sections": [
+      {
+        "section": 1,
+        "cefr": "Intro",
+        "units": 10
+      },
+      {
+        "section": 2,
+        "cefr": "A1",
+        "units": 30
+      },
+      {
+        "section": 3,
+        "cefr": "A1",
+        "units": 30
+      },
+      {
+        "section": 4,
+        "cefr": "A2",
+        "units": 60
+      },
+      {
+        "section": 5,
+        "cefr": "B1",
+        "units": 51
+      },
+      {
+        "section": 6,
+        "cefr": "B1",
+        "units": 52
+      },
+      {
+        "section": 7,
+        "cefr": "B2",
+        "units": 36
+      },
+      {
+        "section": 8,
+        "cefr": "B2",
+        "units": 36
+      }
+    ]
+  },
+  "detailed_curriculum_page_snapshot": {
+    "source": "https://duolingodata.com/dat/enfhu305.html",
+    "page_date": "2025-08-13",
+    "reported_units": 305,
+    "reported_lessons": 7948,
+    "reported_stories": 766,
+    "reported_radio_lessons": 1257,
+    "reported_vocabulary_size": 7014
+  },
+  "data_limitations": [
+    "The source is a community-maintained curriculum index.",
+    "The listed unit topics do not contain every sentence or exercise.",
+    "Current availability and exact ordering should be checked against the user's in-app course path.",
+    "Do not infer grammar coverage beyond what the in-app Guidebook or lesson examples confirm."
+  ],
+  "sources": [
+    "https://duolingodata.com/dat/enfhu305.html",
+    "https://duolingodata.com/",
+    "https://www.duolingo.com/api/1/version_info"
+  ]
+}
