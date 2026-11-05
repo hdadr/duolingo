@@ -1,0 +1,791 @@
+{
+  "schema_version": "1.0",
+  "curriculum_id": "english-a1-b2-duolingo-hungarian-companion",
+  "course_id": "DUOLINGO_EN_HU",
+  "learning_language": "en",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "generated_at": "2026-11-05",
+  "status": "derived_reference_map",
+  "source_snapshot": {
+    "source": "https://duolingodata.com/dat/enfhu1005.html",
+    "observed_date": "2026-11-05",
+    "page_version_date": "2026-02-20",
+    "total_units": 1005,
+    "lessons": 8423,
+    "stories": 1193,
+    "radio_lessons": 1281,
+    "note_hu": "A korábbi 305 egységes bejegyzés elavult volt, és nem ezt kell aktuális útvonalként használni."
+  },
+  "progression": [
+    {
+      "duolingo_module": 1,
+      "cefr": "Intro",
+      "units": 10,
+      "title_hu": "Alapmondatok és bemutatkozás",
+      "focus_hu": "Italok, származás, bemutatkozás, család, repülőtér, melléknevek, rendelés, foglalkozások, jelen idő, időjárás és háziállatok."
+    },
+    {
+      "duolingo_module": 2,
+      "cefr": "A1",
+      "units": 30,
+      "title_hu": "Kezdő angol kommunikáció",
+      "focus_hu": "Ruházat, otthon, létige, étel, munka, érzelmek, segítségkérés, idő, sport, gyakoriság, rutin, hotel, névelők, család, többes szám, tagadás, folyamatos jelen és felszólítás."
+    },
+    {
+      "duolingo_module": 3,
+      "cefr": "A1",
+      "units": 30,
+      "title_hu": "További alapmondatok és hétköznapi helyzetek",
+      "focus_hu": "Fitnesz, kérések, utazás, összetett mondatok, there is/are, menetrend, otthoni munka, múlt idejű be, mennyiség, infinitive, múlt tagadása és határozatlan névmások."
+    },
+    {
+      "duolingo_module": 4,
+      "cefr": "A2",
+      "units": 60,
+      "title_hu": "Hétköznapi beszélgetés",
+      "focus_hu": "Ünnepek, egészség, stressz, munka, feltétel, modális igék, összehasonlítás, mennyiségek, present perfect, phrasal verbs, past continuous, reported speech, question tags és relative clauses."
+    },
+    {
+      "duolingo_module": 5,
+      "cefr": "B1",
+      "units": 255,
+      "title_hu": "Részvétel a mindennapi életben angolul",
+      "focus_hu": "Utazás, ételrendelés, iskola, állásinterjú, házimunka, munka, emlékek, kapcsolatok, technológia, közlekedés, természet, vásárlás és turizmus."
+    },
+    {
+      "duolingo_module": 6,
+      "cefr": "B1",
+      "units": 260,
+      "title_hu": "Helyzethez illő és árnyalt kommunikáció",
+      "focus_hu": "Hála, otthon, kapcsolatok, kultúra, történelem, vélemény, egészség, tanács, környezet, technológia, bankügyek, sport és munkahelyi problémamegoldás."
+    },
+    {
+      "duolingo_module": 7,
+      "cefr": "B2",
+      "units": 180,
+      "title_hu": "Elvontabb témák és célok",
+      "focus_hu": "Engedély, szabályok, egészség, munka, kert, kampány, időjárás, kockázat, motiváció, remények és hipotetikus helyzetek."
+    },
+    {
+      "duolingo_module": 8,
+      "cefr": "B2",
+      "units": 180,
+      "title_hu": "Spontán kommunikáció változatos témákban",
+      "focus_hu": "Termékek, reklám, szívességek, visszatérítés, meggyőzés, bizonyíték, jogi és társas helyzetek, csalás, kompromisszum, rejtélyek, eseményszervezés."
+    }
+  ],
+  "grammar_modules": [
+    {
+      "id": "A1-01",
+      "cefr": "A1",
+      "title_hu": "Mondatváz, személyes névmások és to be",
+      "topics": [
+        "alany-ige-állítmány",
+        "I am/you are/he is",
+        "személyes névmások",
+        "kötelező alany",
+        "létige jelen ideje"
+      ],
+      "prerequisites": [],
+      "duolingo_alignment": "module-1",
+      "evidence": "reference_plus_theme"
+    },
+    {
+      "id": "A1-02",
+      "cefr": "A1",
+      "title_hu": "To be: tagadás, kérdés és összevont alakok",
+      "topics": [
+        "am not/isn't/aren't",
+        "Are you?/Is she?",
+        "short answers",
+        "contractions",
+        "kérdő szórend"
+      ],
+      "prerequisites": [
+        "A1-01"
+      ],
+      "duolingo_alignment": "module-2-units-2-4",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A1-03",
+      "cefr": "A1",
+      "title_hu": "Present Simple",
+      "topics": [
+        "szokás és tény",
+        "-s/-es harmadik személy",
+        "do/does",
+        "kérdés és tagadás",
+        "to be vs do"
+      ],
+      "prerequisites": [
+        "A1-01",
+        "A1-02"
+      ],
+      "duolingo_alignment": "modules-1-2",
+      "evidence": "explicit_and_theme"
+    },
+    {
+      "id": "A1-04",
+      "cefr": "A1",
+      "title_hu": "Főnevek, többes szám, melléknevek és névelők",
+      "topics": [
+        "szabályos és rendhagyó plurals",
+        "a/an/the",
+        "zero article alapjai",
+        "adjective position",
+        "possessive 's",
+        "possessive adjectives"
+      ],
+      "prerequisites": [
+        "A1-01"
+      ],
+      "duolingo_alignment": "module-2-units-1-20",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A1-05",
+      "cefr": "A1",
+      "title_hu": "Kérdésalkotás és tagadás do/does segítségével",
+      "topics": [
+        "Do you...? Does he...?",
+        "don't/doesn't",
+        "wh-questions",
+        "short answers",
+        "auxiliary support"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "module-2",
+      "evidence": "explicit_and_reference"
+    },
+    {
+      "id": "A1-06",
+      "cefr": "A1",
+      "title_hu": "Gyakoriság és időhatározók",
+      "topics": [
+        "always/usually/often/sometimes/never",
+        "frequency adverb position",
+        "every day/on Mondays",
+        "in/on/at időre"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "module-2-units-9-13",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A1-07",
+      "cefr": "A1",
+      "title_hu": "There is/are, hely és mennyiség",
+      "topics": [
+        "there is/are",
+        "some/any",
+        "a lot of/much/many alapjai",
+        "helyhatározói prepositions",
+        "this/that/these/those"
+      ],
+      "prerequisites": [
+        "A1-01",
+        "A1-04"
+      ],
+      "duolingo_alignment": "module-3-unit-9",
+      "evidence": "explicit_unit_title"
+    },
+    {
+      "id": "A1-08",
+      "cefr": "A1",
+      "title_hu": "Present Continuous",
+      "topics": [
+        "am/is/are + ing",
+        "folyamatban lévő cselekvés",
+        "állító/tagadó/kérdő alak",
+        "present simple vs continuous",
+        "spelling changes"
+      ],
+      "prerequisites": [
+        "A1-02",
+        "A1-03"
+      ],
+      "duolingo_alignment": "module-2-units-25-27",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A1-09",
+      "cefr": "A1",
+      "title_hu": "Felszólítások és udvarias kérések",
+      "topics": [
+        "imperative",
+        "negative imperative",
+        "can/can't képességre és engedélyre",
+        "can/could requests",
+        "please"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "module-3-units-2; module-2-unit-29",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A1-10",
+      "cefr": "A1",
+      "title_hu": "Múltbeli alapok, mennyiségek és infinitive",
+      "topics": [
+        "was/were",
+        "past simple regular verbs",
+        "did/didn't",
+        "some/any/no/every compounds",
+        "want/need/plan + to infinitive",
+        "and/but/because/so"
+      ],
+      "prerequisites": [
+        "A1-03",
+        "A1-07"
+      ],
+      "duolingo_alignment": "module-3-units-12-24",
+      "evidence": "explicit_and_reference"
+    },
+    {
+      "id": "A2-01",
+      "cefr": "A2",
+      "title_hu": "Past Simple: cselekvő igék és tagadás",
+      "topics": [
+        "regular -ed",
+        "irregular past forms",
+        "did/didn't",
+        "past questions",
+        "yesterday/last/ago"
+      ],
+      "prerequisites": [
+        "A1-10"
+      ],
+      "duolingo_alignment": "module-3-unit-24",
+      "evidence": "explicit_unit_title"
+    },
+    {
+      "id": "A2-02",
+      "cefr": "A2",
+      "title_hu": "Past Continuous és múltbeli elbeszélés",
+      "topics": [
+        "was/were + ing",
+        "past simple vs continuous",
+        "when/while",
+        "background and interruption"
+      ],
+      "prerequisites": [
+        "A2-01"
+      ],
+      "duolingo_alignment": "module-4-unit-42",
+      "evidence": "explicit_unit_title"
+    },
+    {
+      "id": "A2-03",
+      "cefr": "A2",
+      "title_hu": "Present Perfect alapjai",
+      "topics": [
+        "have/has + past participle",
+        "regular/irregular participles",
+        "ever/never/already/yet/just",
+        "experience and result",
+        "present perfect vs past simple"
+      ],
+      "prerequisites": [
+        "A2-01"
+      ],
+      "duolingo_alignment": "module-4-unit-27",
+      "evidence": "explicit_unit_title"
+    },
+    {
+      "id": "A2-04",
+      "cefr": "A2",
+      "title_hu": "Jövőbeli tervek és szándékok",
+      "topics": [
+        "be going to",
+        "present continuous for arrangements",
+        "will for decisions/predictions",
+        "present simple for schedules"
+      ],
+      "prerequisites": [
+        "A1-03",
+        "A1-08"
+      ],
+      "duolingo_alignment": "modules-3-4-themes",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-05",
+      "cefr": "A2",
+      "title_hu": "Feltételes mondatok és modális igék",
+      "topics": [
+        "zero conditional",
+        "first conditional",
+        "can/could/must/have to/should/might",
+        "modal negatives",
+        "advice/obligation/permission"
+      ],
+      "prerequisites": [
+        "A1-09",
+        "A2-04"
+      ],
+      "duolingo_alignment": "module-4-units-4-6",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A2-06",
+      "cefr": "A2",
+      "title_hu": "Összehasonlítás, mennyiség és határozószók",
+      "topics": [
+        "comparative/superlative",
+        "as...as",
+        "much/many/a lot of",
+        "enough/too much/too many",
+        "few/a few/little/a little",
+        "adjective vs adverb"
+      ],
+      "prerequisites": [
+        "A1-04",
+        "A1-07"
+      ],
+      "duolingo_alignment": "module-4-units-9;15;17;23",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A2-07",
+      "cefr": "A2",
+      "title_hu": "Vonzatos igék és phrasal verbs",
+      "topics": [
+        "verb + preposition",
+        "separable/inseparable phrasal verbs",
+        "pronoun position",
+        "want to/enjoy doing",
+        "gerund vs infinitive"
+      ],
+      "prerequisites": [
+        "A1-10"
+      ],
+      "duolingo_alignment": "module-4-units-30;36",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "A2-08",
+      "cefr": "A2",
+      "title_hu": "Reported speech, question tags és relative clauses",
+      "topics": [
+        "say/tell/ask",
+        "reported statements/questions",
+        "basic backshift",
+        "question tags",
+        "who/which/that/where"
+      ],
+      "prerequisites": [
+        "A2-01",
+        "A1-05"
+      ],
+      "duolingo_alignment": "module-4-units-46;48;58",
+      "evidence": "explicit_unit_titles"
+    },
+    {
+      "id": "B1-01",
+      "cefr": "B1",
+      "title_hu": "Igeidők integrált használata",
+      "topics": [
+        "present simple/continuous",
+        "past simple/continuous",
+        "present perfect/past simple",
+        "present perfect continuous",
+        "for/since",
+        "past perfect"
+      ],
+      "prerequisites": [
+        "A2-02",
+        "A2-03"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-02",
+      "cefr": "B1",
+      "title_hu": "Múltbeli szokások és elbeszélés",
+      "topics": [
+        "used to",
+        "would for repeated past actions",
+        "past perfect",
+        "narrative sequencing",
+        "already/yet/still/anymore"
+      ],
+      "prerequisites": [
+        "A2-01",
+        "A2-02"
+      ],
+      "duolingo_alignment": "module-5-memories-and-experience-themes",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-03",
+      "cefr": "B1",
+      "title_hu": "Jövőformák és előrejelzés",
+      "topics": [
+        "will/going to/present continuous/present simple",
+        "future continuous",
+        "plans/intention/prediction",
+        "probability"
+      ],
+      "prerequisites": [
+        "A2-04"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-04",
+      "cefr": "B1",
+      "title_hu": "Modális igék és árnyalt jelentés",
+      "topics": [
+        "must/have to/need to",
+        "should/ought to",
+        "may/might/could",
+        "mustn't/don't have to/needn't",
+        "deduction and advice"
+      ],
+      "prerequisites": [
+        "A2-05"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-05",
+      "cefr": "B1",
+      "title_hu": "Feltételes szerkezetek",
+      "topics": [
+        "zero/first/second conditional",
+        "unless/as long as/provided that",
+        "real vs hypothetical situations",
+        "wish/if only basics"
+      ],
+      "prerequisites": [
+        "A2-05"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-06",
+      "cefr": "B1",
+      "title_hu": "Passzív szerkezet",
+      "topics": [
+        "be + past participle",
+        "present/past passive",
+        "by-agent",
+        "active/passive transformation"
+      ],
+      "prerequisites": [
+        "A2-03"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-07",
+      "cefr": "B1",
+      "title_hu": "Gerund, infinitive és phrasal verbs",
+      "topics": [
+        "gerund/infinitive patterns",
+        "meaning changes",
+        "phrasal/prepositional verbs",
+        "dependent prepositions",
+        "collocations"
+      ],
+      "prerequisites": [
+        "A2-07"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-08",
+      "cefr": "B1",
+      "title_hu": "Reported speech és összetett mellékmondatok",
+      "topics": [
+        "reported speech",
+        "reporting verbs",
+        "relative clauses",
+        "question tags",
+        "time/reason clauses"
+      ],
+      "prerequisites": [
+        "A2-08"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-09",
+      "cefr": "B1",
+      "title_hu": "Összefüggő beszéd és nyelvi pontosság",
+      "topics": [
+        "although/however/despite/therefore",
+        "so/such/too/enough",
+        "intensifiers",
+        "formal/informal register",
+        "discourse organisation"
+      ],
+      "prerequisites": [
+        "B1-01",
+        "B1-04"
+      ],
+      "duolingo_alignment": "modules-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-01",
+      "cefr": "B2",
+      "title_hu": "Harmadik és vegyes feltételes mondatok",
+      "topics": [
+        "third conditional",
+        "mixed conditionals",
+        "wish/if only",
+        "would rather",
+        "hypothetical past consequences"
+      ],
+      "prerequisites": [
+        "B1-05"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-02",
+      "cefr": "B2",
+      "title_hu": "Modális igék múltbeli következtetésre",
+      "topics": [
+        "must have/might have/could have/can't have",
+        "should have/needn't have",
+        "past deduction/regret/criticism"
+      ],
+      "prerequisites": [
+        "B1-04",
+        "B2-01"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-03",
+      "cefr": "B2",
+      "title_hu": "Passzív változatok és causative",
+      "topics": [
+        "passive across tenses",
+        "passive modals",
+        "have/get something done",
+        "it is said that",
+        "focus shift"
+      ],
+      "prerequisites": [
+        "B1-06"
+      ],
+      "duolingo_alignment": "module-8-formal-problem-solving-themes",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-04",
+      "cefr": "B2",
+      "title_hu": "Függő beszéd haladó használata",
+      "topics": [
+        "reporting verbs",
+        "backshift",
+        "indirect questions",
+        "reported commands/requests",
+        "meaning differences"
+      ],
+      "prerequisites": [
+        "B1-08"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-05",
+      "cefr": "B2",
+      "title_hu": "Összetett mellékmondatok",
+      "topics": [
+        "defining/non-defining relatives",
+        "preposition + relative pronoun",
+        "participle clauses",
+        "reduced relatives",
+        "complex subordinate clauses"
+      ],
+      "prerequisites": [
+        "B1-08"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-06",
+      "cefr": "B2",
+      "title_hu": "Haladó igeidők és aspektus",
+      "topics": [
+        "past perfect continuous",
+        "present perfect continuous nuance",
+        "future continuous/perfect",
+        "time duration and completion",
+        "narrative tense consistency"
+      ],
+      "prerequisites": [
+        "B1-01"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-07",
+      "cefr": "B2",
+      "title_hu": "Kiemelés és összetett mondatszerkesztés",
+      "topics": [
+        "cleft sentences",
+        "inversion",
+        "focus and word order",
+        "ellipsis and substitution",
+        "parallel structures"
+      ],
+      "prerequisites": [
+        "B2-05"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-08",
+      "cefr": "B2",
+      "title_hu": "Stílus, árnyalat és érvelés",
+      "topics": [
+        "hedging",
+        "gradable/non-gradable adjectives",
+        "collocations and idioms",
+        "register",
+        "argumentation and discourse markers"
+      ],
+      "prerequisites": [
+        "B1-09",
+        "B2-04"
+      ],
+      "duolingo_alignment": "modules-7-8",
+      "evidence": "reference"
+    }
+  ],
+  "hungarian_transfer_focus": [
+    {
+      "topic": "to_be",
+      "priority": "high",
+      "explanation_hu": "A magyar jelen idejű harmadik személyű névszói állítmányból hiányozhat a létige, az angolban viszont szükséges az am/is/are."
+    },
+    {
+      "topic": "do_support",
+      "priority": "high",
+      "explanation_hu": "Az angol egyszerű jelen/múlt kérdései és tagadásai do/does/did segédigét használnak; a magyar szórendi kérdésképzés nem helyettesíti ezt."
+    },
+    {
+      "topic": "articles",
+      "priority": "very_high",
+      "explanation_hu": "A magyar és angol névelők használata nem fedi egymást; különösen fontos a zero article általános jelentése megszámlálhatatlan és többes számú főnevekkel."
+    },
+    {
+      "topic": "word_order",
+      "priority": "high",
+      "explanation_hu": "Az angol kötöttebb SVO szórendű és rendszerint kifejezett alanyt igényel; a magyar rugalmasabb információs szerkezete nem vihető át szó szerint."
+    },
+    {
+      "topic": "tense_aspect",
+      "priority": "very_high",
+      "explanation_hu": "A magyar egyetlen múlt idejű fő alakja több angol nézőpontnak felelhet meg; különösen a Present Perfect és a folyamatos alakok igényelnek kontrasztív magyarázatot."
+    },
+    {
+      "topic": "prepositions",
+      "priority": "high",
+      "explanation_hu": "A magyar esetragok és az angol elöljárószavak nem feleltethetők meg mindig egy az egyben; az in/on/at és az igei vonzatok külön gyakorlást igényelnek."
+    },
+    {
+      "topic": "countability",
+      "priority": "high",
+      "explanation_hu": "A megszámlálhatóság befolyásolja a névelőket és a mennyiségjelölőket: much/many, few/little, some/any."
+    },
+    {
+      "topic": "verb_patterns",
+      "priority": "medium",
+      "explanation_hu": "Az angol igék meghatározott gerund vagy infinitive mintát vonzhatnak; a magyar megfelelőt nem lehet automatikusan behelyettesíteni."
+    },
+    {
+      "topic": "phrasal_verbs",
+      "priority": "medium",
+      "explanation_hu": "A phrasal verbs jelentése gyakran nem szó szerinti; a partikula és az ige együtt alkot egységet."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Duolingo Data — English from Hungarian course",
+      "url": "https://duolingodata.com/dat/enfhu1005.html",
+      "type": "community_course_map",
+      "used_for": "module and unit sequence, learning objectives and explicitly named grammar topics"
+    },
+    {
+      "name": "Duolingo Data — distinct lesson names",
+      "url": "https://duolingodata.com/dat/enfhu1005-d.html",
+      "type": "community_course_map",
+      "used_for": "lesson objective labels and course taxonomy"
+    },
+    {
+      "name": "English Grammar Profile",
+      "url": "https://englishprofile.org/?menu=english-grammar-profile",
+      "type": "learner_corpus_reference",
+      "used_for": "English grammar structures mapped to CEFR levels"
+    },
+    {
+      "name": "British Council A1-A2 Grammar",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2",
+      "type": "official_teaching_reference",
+      "used_for": "beginner grammar explanations and scope"
+    },
+    {
+      "name": "British Council B1-B2 Grammar",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2",
+      "type": "official_teaching_reference",
+      "used_for": "intermediate and upper-intermediate grammar"
+    },
+    {
+      "name": "Council of Europe CEFR levels",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "type": "official_framework",
+      "used_for": "communicative targets and grammatical accuracy descriptors"
+    },
+    {
+      "name": "Kovács Éva 2023 — English/Hungarian article use",
+      "url": "https://real.mtak.hu/229141/",
+      "type": "academic_contrastive_reference",
+      "used_for": "article system and zero article"
+    },
+    {
+      "name": "Aradi András 1997 — Hungarian-English word order",
+      "url": "https://pp.bme.hu/so/article/view/6504",
+      "type": "academic_contrastive_reference",
+      "used_for": "SVO word order and Hungarian information structure"
+    },
+    {
+      "name": "Nagy Tünde — Teaching the Present Perfect to Native Hungarian Learners",
+      "url": "https://real.mtak.hu/104006/1/Pletl-Kovacs_Soknyelvuseg%20es%20tobbnyelvuseg.pdf",
+      "type": "academic_contrastive_reference",
+      "used_for": "present perfect and Hungarian tense/aspect differences"
+    }
+  ],
+  "caveats": [
+    "The public course map is a community-maintained snapshot, not a live official Duolingo export.",
+    "The previous 305-unit course file was stale; use the 1005-unit snapshot dated 2026-02-20.",
+    "Grammar topics named explicitly in the path are stronger evidence than inferred topics.",
+    "B1/B2 units are mostly communication-situation based; grammar associations are CEFR-aligned teaching references, not verified unit-level Duolingo objectives."
+  ]
+}
