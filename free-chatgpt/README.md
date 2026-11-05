@@ -1,21 +1,23 @@
-# Free ChatGPT – telepítési útmutató
+# Free ChatGPT – telepítési és használati útmutató
 
-Két külön ChatGPT Projektet hozz létre: egyet a spanyol, egyet az angol kurzusnak. A Free csomagban egy projekt legfeljebb **5 fájlt** tartalmazhat, ezért az induláshoz pontosan három állandó fájlt használunk. A projektutasításokat a Projekt beállításainál külön szövegként kell beilleszteni; ne töltsd fel őket fájlként.
+Két külön ChatGPT Projektet hozz létre: egyet a spanyol, egyet az angol kurzusnak. A két projekt ugyanazt a tanítási módszert használja, de a tananyaguk és tanulói előzményeik külön maradnak.
 
-## 1. Spanyol projekt
+A Free csomagban egy projekt legfeljebb **5 fájlt** tartalmazhat, ezért az induláshoz pontosan három állandó fájlt használunk. A projektutasításokat a Projekt beállításainál külön szövegként kell beilleszteni; ne töltsd fel őket fájlként.
+
+## 1. Spanyol projekt létrehozása
 
 Projekt neve: **Duolingo – Spanyol angolból**
 
 A projekt Instructions mezőjébe másold be a [spanyol projektutasításokat](es-en/PROJECT-INSTRUCTIONS.md).
 
 A projektbe töltsd fel ezt a három fájlt:
+1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md) – a közös tanítási, folytonossági és chatváltási szabályok.
+2. [COURSE-ROUTER.json](es-en/COURSE-ROUTER.json) – spanyol egység-/modulválasztó térkép.
+3. [STATE-CARD.json](es-en/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
 
 (A router szerkezetét a [free-course-router.schema.json](../schemas/free-course-router.schema.json) ellenőrzi; ez nem projektfájl, nem kell feltölteni.)
-1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md) – rövid tanítási és kontextuskezelési szabályok.
-2. [COURSE-ROUTER.json](es-en/COURSE-ROUTER.json) – spanyol egység-/modulválasztó térkép.
-3. [STATE-CARD.json](es-en/STATE-CARD.json) – spanyol v5 tanulói állapotkártya.
 
-## 2. Angol projekt
+## 2. Angol projekt létrehozása
 
 Projekt neve: **Duolingo – Angol magyarból**
 
@@ -24,27 +26,61 @@ A projekt Instructions mezőjébe másold be az [angol projektutasításokat](en
 A projektbe töltsd fel ezt a három fájlt:
 1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md).
 2. [COURSE-ROUTER.json](en-hu/COURSE-ROUTER.json).
-3. [STATE-CARD.json](en-hu/STATE-CARD.json).
+3. [STATE-CARD.json](en-hu/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
 
 A két kurzust külön projektben kezeld, ne töltsd fel a másik kurzus routerét vagy állapotkártyáját.
 
-## 3. Minden tanulási alkalom
+## 3. Memória beállítása – fontos a chatváltáshoz
 
-1. A projektben indíts új beszélgetést, vagy folytasd a meglévőt. Új beszélgetés első üzeneteként másold be a megfelelő [spanyol indítóüzenetet](es-en/FREE-STARTER.md) vagy [angol indítóüzenetet](en-hu/FREE-STARTER.md). Ezek rövid üzenetek, nem projektfájlok.
-2. Add meg a jelenlegi Duolingo-pozíciódat (szekció/modul, egység, cím). A pozíciót ne találja ki az asszisztens.
-3. Az asszisztens válassza ki a routerből az 1–3 releváns nyelvtani modult.
-4. Csak az aktív modul pontos tartományát add át. Ha a GitHub-fájl nem olvasható a chatben, nyisd meg a routerben szereplő útvonalat, és másold be csak a megadott sorok közötti modult. Ne töltsd fel a teljes A1–B2 tananyagot.
-5. A tanítás végén az asszisztens adjon friss, teljes v5 JSON-állapotkártyát. Új beszélgetés indításakor a legutóbbi kártyát másold be, vagy cseréld le a Projektben tárolt `STATE-CARD.json` fájlt.
+A projekt korábbi beszélgetéseiből való folytatáshoz engedélyezni kell a ChatGPT memóriafunkcióit:
+1. Nyisd meg a ChatGPT **Beállítások → Személyre szabás** részét.
+2. Kapcsold be a **Mentett memóriák hivatkozása** és a **Csevegési előzmények hivatkozása** lehetőséget, ha megjelennek a fiókodban.
+3. A projekt saját beállításainál válaszd a **Projektmemória / csak projektmemória** módot, ha elérhető. Így a spanyol projekt nem keveredik az angol vagy más beszélgetésekkel.
+4. Megosztott projektek automatikusan csak projektmemóriát használnak. A projekt résztvevői hozzáférhetnek a projekt beszélgetéseihez és fájljaihoz.
 
-## 4. Öt fájlos keret és feltöltési keret
+A menüpontok és a lehetőségek fiókonként változhatnak. A memória segíti a korábbi beszélgetések felhasználását, de nem helyettesít garantált, strukturált adatbázist. Ezért marad meg az opcionális állapotkártya.
 
-Az induló három projektfájl szándékosan kevés. Így két szabad hely marad:
-- **Aktuális modul:** ha fájlként szeretnéd átadni, ez lehet a negyedik fájl. Alternatívaként egyszerűen másold be a chatbe, így nem fogyaszt projektfájl-helyet.
-- **Hibakatalógus:** csak akkor add hozzá ötödik fájlként, ha egy hiba visszatér vagy nehezen diagnosztizálható. Alapértelmezésként ne töltsd fel.
+## 4. A tanuló napi használata
 
-A Free csomagban a projektfájlok száma legfeljebb 5. A fájlfeltöltés napi kerete külön korlát lehet; a jelenlegi hivatalos súgó 3 feltöltést jelez naponta Free felhasználóknak. Ezért a három alapfájlt érdemes egyszerre feltölteni, az aktuális modult pedig inkább üzenetként bemásolni. A limitek változhatnak.
+A tanulónak nem kell minden alkalommal indítópromptot vagy JSON-t másolnia. Lépjen be a megfelelő projektbe, és ugyanabban a beszélgetésben folytassa a tanulást, amíg az kényelmes.
 
-## 5. Mit ne tölts fel?
+Elég néhány egyszerű mondat:
+
+| Mit írjon? | Mit tesz a ChatGPT? |
+|---|---|
+| „Kezdjük!” | Első alkalommal azonosítja a szintet és a Duolingo-egységet; később az aktuális állapot alapján indít. |
+| „Folytassuk!” | Megpróbálja visszaállítani a projekt legutóbbi tanulási pontját, és onnan folytatja. |
+| „Ezt nem értem.” | Egyszerűbb magyarázatot és új példát ad. |
+| „Mára ennyi.” | Rövid, a projektbeszélgetésben maradó folytonossági jegyzetet készít. |
+| „Kérem az állapotkártyát.” | Teljes, másolható v5 JSON-mentést ad. |
+
+A tanuló a legtöbb alkalom után egyszerűen kiléphet. Nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
+
+## 5. Mikor kell új beszélgetést nyitni?
+
+Alapértelmezés szerint maradjon ugyanabban a chatben. Egy modul vagy altéma befejezése önmagában nem indokol új beszélgetést.
+
+Új chatet csak akkor érdemes nyitni, ha a régi beszélgetés már nagyon hosszú, összekeveredtek benne a témák, vagy a ChatGPT ezt javasolja. Ilyenkor:
+1. Nyisson új beszélgetést **ugyanabban a kurzusprojektben**.
+2. Első üzenetként írja: „Folytassuk!”
+3. A ChatGPT először próbálja a projekt korábbi beszélgetéseiből visszaállítani a haladást. Ha ez elég pontos, nincs további teendő.
+
+### Opcionális biztosíték: állapotkártya másolása
+
+Ha a ChatGPT nem tudja megbízhatóan visszaállítani a pontos tanulási állapotot, vagy a tanuló külön biztonsági mentést szeretne:
+1. A régi beszélgetésben írja: „Kérem az állapotkártyát.”
+2. A ChatGPT egyetlen kódblokkban megadja a teljes v5 JSON-t.
+3. Az új beszélgetés első üzenetébe illessze be, ezzel: „Folytassuk ebből.”
+
+Ez csak tartalékmegoldás. A projektbe feltöltött `STATE-CARD.json` fájlt nem kell minden alkalommal frissíteni; az induló sablonként szolgál.
+
+## 6. Tananyag és további fájlok
+
+A kiválasztott aktuális modul pontos szövegét csak akkor kell a chatbe bemásolni, amikor a ChatGPT kiválasztotta. A teljes modultárat ne töltsd fel.
+
+A két szabad projektfájl-hely:
+- **Aktuális modul:** ha fájlként szeretnéd átadni, ez lehet a negyedik fájl. Egyszerűbb a pontos modulblokkot a chatbe illeszteni, így nem fogyaszt projektfájl-helyet.
+- **Hibakatalógus:** csak visszatérő vagy nehezen diagnosztizálható hiba esetén add hozzá ötödik fájlként.
 
 Ne töltsd fel induláskor:
 - a teljes `courses/*.json` kurzusadatokat;
@@ -53,17 +89,9 @@ Ne töltsd fel induláskor:
 - a két hosszú, régi kezdő promptot;
 - a hibakatalógust, ha még nincs rá szükség.
 
-Ezek a GitHub-repóban megmaradnak részletes háttéranyagként, de nem részei az alapértelmezett Free projektkontextusnak.
+A Free csomagban a projektfájlok száma legfeljebb 5. A fájlfeltöltés napi kerete külön korlát lehet; ezért a három alapfájlt érdemes egyszerre feltölteni, az aktív modult pedig inkább üzenetként bemásolni.
 
-## 6. Folytonosság
-
-A GitHub állapotkártyái és a Projektben feltöltött kártyák egymástól külön példányok. Ha a ChatGPT friss JSON-t ad vissza:
-- másold be az új beszélgetésbe, vagy
-- frissítsd vele a Projektben feltöltött `STATE-CARD.json` fájlt, illetve a GitHubon a megfelelő `progress/*-state-card.json` fájlt.
-
-GitHubra csak külön kérésre írjon az asszisztens. A projekt emlékezete segíthet a korábbi beszélgetések összekapcsolásában, de a legutóbbi JSON-kártya maradjon a tanulási állapot egyértelmű forrása.
-
-## Hivatalos ChatGPT-korlátok
+## Hivatalos ChatGPT-tájékoztatók
 
 - [Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)
 - [File uploads](https://help.openai.com/en/articles/8555545-uploading-files-and-audio-to-chatgpt)
