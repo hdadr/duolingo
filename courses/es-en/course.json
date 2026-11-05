@@ -90,202 +90,6 @@
     "https://duolingodata.com/dat/esfen991.html",
     "https://www.duolingo.com/api/1/version_info"
   ],
-  "unit_topics_snapshot": {
-    "source": "https://duolingodata.com/dat/esfen991.html",
-    "source_type": "community-maintained curriculum index",
-    "observed_at": "2026-11-05",
-    "section": 2,
-    "cefr": "A1",
-    "topics": [
-      {
-        "unit": 1,
-        "title": "Describe your home",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 2,
-        "title": "Talk about your interests",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 3,
-        "title": "Talk about sports",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 4,
-        "title": "Discuss hobbies",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 5,
-        "title": "Participate in class",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 6,
-        "title": "Talk about food",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 7,
-        "title": "Evaluate food and service",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 8,
-        "title": "Ask for directions",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 9,
-        "title": "Ask about clothes in a store",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 10,
-        "title": "Talk about work",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 11,
-        "title": "Buy groceries",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 12,
-        "title": "Discuss household chores",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 13,
-        "title": "Talk about a school project",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 14,
-        "title": "Ask how someone feels",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 15,
-        "title": "Ask for directions",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 16,
-        "title": "Ask about ingredients",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 17,
-        "title": "Introduce yourself at a party",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 18,
-        "title": "Describe people's appearance",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 19,
-        "title": "Make plans for the weekend",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 20,
-        "title": "Introduce yourself formally",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 21,
-        "title": "Express your feelings",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 22,
-        "title": "Discuss your diet",
-        "unit_22": true,
-        "grammar_points": null
-      },
-      {
-        "unit": 23,
-        "title": "Ask about wildlife",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 24,
-        "title": "Describe your daily routine",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 25,
-        "title": "Talk about others' lives",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 26,
-        "title": "Discuss your interests",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 27,
-        "title": "Talk about music preferences",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 28,
-        "title": "Talk about activities you enjoy",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 29,
-        "title": "Describe your symptoms",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 30,
-        "title": "Say how you commute",
-        "unit_22": false,
-        "grammar_points": null
-      },
-      {
-        "unit": 31,
-        "title": "Talk about birthdays",
-        "unit_22": false,
-        "grammar_points": null
-      }
-    ],
-    "note": "The source lists unit topics, not official unit grammar coverage. grammar_points intentionally remains null until Guidebook or lesson examples confirm it."
-  },
   "section_overviews": [
     {
       "section": 1,
@@ -359,5 +163,119 @@
     "checked_at": "2026-11-05",
     "status": "third_party_curriculum_metadata_not_official_Duolingo_API",
     "note": "Section descriptions are concise paraphrases. The page's own unit topic list is not copied wholesale into this repository. These descriptions are useful for broad learning progression, not enough to assert exact grammar in a lesson."
+  },
+  "derived_learning_map": {
+    "status": "provisional",
+    "derived_from": "public community curriculum section descriptions and broad unit-topic categories",
+    "raw_duolingo_text_stored": false,
+    "sections": [
+      {
+        "section": 1,
+        "cefr": "Intro",
+        "focus_hu": "Alapvető társalgási panelek: üdvözlés, bemutatkozás, származás, család, tárgyak és helyek, nyelvek, időjárás, vásárlás.",
+        "grammar_hypotheses": [
+          "egyszerű jelen idejű alapszerkezetek",
+          "főnevek és névelők",
+          "ser/estar és hay/estar alapvető funkciói",
+          "egyszerű kérdések"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 2,
+        "cefr": "A1",
+        "focus_hu": "Mindennapi témák: otthon, érdeklődés, sport, hobbi, étel, vásárlás, munka, házimunka, érzések, étrend, napi rutin és egészség.",
+        "grammar_hypotheses": [
+          "jelen idejű gyakori igék és személyragozás",
+          "főnevek, névelők, melléknevek egyeztetése",
+          "kérdőszavak és kérdésalkotás",
+          "mennyiségek és gyakoriság",
+          "birtoklás és egyszerű névmási szerkezetek"
+        ],
+        "confidence": "medium_for_functional_focus_low_for_exact_grammar",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 3,
+        "cefr": "A1",
+        "focus_hu": "Alapvető társalgási készségek kiterjesztése: programok, utazás, város, ételek, ruházat, egészség, munkahely és hétköznapi ügyintézés.",
+        "grammar_hypotheses": [
+          "jelen idejű szerkezetek megszilárdítása",
+          "közeli jövő kifejezése és tervezés",
+          "kérések, javaslatok, egyszerű utasítások",
+          "korábbi nyelvtani elemek bővítése"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 4,
+        "cefr": "A2",
+        "focus_hu": "Hosszabb hétköznapi beszélgetések: kapcsolatok, munka, lakhatás, utazás, múltbeli tapasztalatok, egészség, vélemények és társadalmi témák.",
+        "grammar_hypotheses": [
+          "múlt idejű elbeszélés bevezetése vagy bővítése",
+          "összetettebb kérdések és válaszok",
+          "összehasonlítás és véleménynyilvánítás",
+          "névmások és kötőszavak fokozatos bővítése"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 5,
+        "cefr": "B1",
+        "focus_hu": "Változatos élethelyzetek részletesebb leírása: közösség, internet, kapcsolatok, döntések, utazás, munka, egészség, tapasztalatok és múltbeli események.",
+        "grammar_hypotheses": [
+          "múlt idők közötti különbségek megszilárdítása",
+          "jövőre és feltételességre utaló szerkezetek",
+          "összetett mondatok",
+          "kötőmód előkészítése vagy használata"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 6,
+        "cefr": "B1",
+        "focus_hu": "Összetettebb gondolatok és társas helyzetek: részletes beszámolók, érvelés, személyes és közösségi témák.",
+        "grammar_hypotheses": [
+          "igeidők és aspektusok rugalmas használata",
+          "vélemény, feltétel, ok és következmény kifejezése",
+          "kötőszók és összetett mondatok"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 7,
+        "cefr": "B2",
+        "focus_hu": "Absztraktabb témák, célok, tervek, vélemények és árnyaltabb társalgás.",
+        "grammar_hypotheses": [
+          "kötőmód és feltételes szerkezetek bővítése",
+          "regiszter és árnyalatok",
+          "összetett mondatszerkesztés"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      },
+      {
+        "section": 8,
+        "cefr": "B2",
+        "focus_hu": "Magabiztos, rugalmas kommunikáció különféle és váratlan helyzetekben, akár speciálisabb témákról is.",
+        "grammar_hypotheses": [
+          "haladó kötőmódhasználat",
+          "összetett igeidő- és módválasztás",
+          "idiomatikus fordulatok és diskurzusjelölők"
+        ],
+        "confidence": "broad_only",
+        "not_official_grammar_list": true
+      }
+    ],
+    "rules": [
+      "A grammar_hypotheses mezők saját pedagógiai hipotézisek, nem Duolingo által közölt nyelvtani tematikák.",
+      "Pontos nyelvtani cél csak az aktuális Guidebook vagy feladatpélda alapján lesz megerősítve.",
+      "A nyers leckeszövegeket nem tároljuk; csak saját, magyar nyelvű következtetéseket és tanítási jegyzeteket."
+    ]
   }
 }
