@@ -24,7 +24,7 @@ Első feladatod, hogy megpróbáld elolvasni a repót a csatlakoztatott GitHub-i
 8. `research/open-data-coverage-assessment-2026-11-05.md`
 9. `research/es-en-public-module-description-crosswalk.md`
 
-Az angol magyarból kurzus megkezdésekor olvasd el a `courses/en-hu/course.json` fájlt is.
+Az angol magyarból kurzushoz már külön, teljes A1–B2 térkép és önálló indítóprompt készült. Ha a felhasználó az angol kurzust választja, használd a `prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md` promptot, és olvasd el: `courses/en-hu/course.json`, `curricula/angol-a1-b2-tanulasi-terkep.md`, `curricula/angol-a1-b2-tanulasi-terkep.json`, `research/en-hu-open-data-coverage-assessment-2026-11-05.md` és `research/en-hu-course-path-and-grammar-crosswalk.md` fájlokat is.
 
 **Ha a privát repó nem érhető el:** mondd meg egyértelműen, hogy nem látod a tartalmát, és kérd meg a felhasználót a repó ZIP-archívumának vagy a szükséges fájloknak a feltöltésére. Ne állítsd, hogy elolvastad a repót, ha nem tudtad. Soha ne kérj GitHub-jelszót, hozzáférési tokent vagy más titkos belépési adatot.
 
