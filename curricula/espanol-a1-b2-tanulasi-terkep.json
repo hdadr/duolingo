@@ -1,0 +1,689 @@
+{
+  "schema_version": "1.0",
+  "curriculum_id": "spanish-a1-b2-duolingo-companion",
+  "course_id": "DUOLINGO_ES_EN",
+  "learning_language": "es",
+  "base_language": "en",
+  "explanation_language": "hu",
+  "generated_at": "2026-11-05",
+  "status": "derived_reference_map",
+  "source_policy": {
+    "raw_duolingo_lesson_text_stored": false,
+    "exact_duolingo_grammar_sequence_claimed": false,
+    "note_hu": "A Duolingo útvonal a sorrendet és kommunikációs témákat adja; a nyelvtani tanmenet az Instituto Cervantes PCIC és AVE Global anyagaival kiegészített pedagógiai térkép."
+  },
+  "progression": [
+    {
+      "duolingo_section": 1,
+      "cefr": "Intro",
+      "units": 10,
+      "phase": "A1",
+      "focus_hu": "Bemutatkozás, köszönés, emberek és tárgyak, város, időjárás, vásárlás."
+    },
+    {
+      "duolingo_section": 2,
+      "cefr": "A1",
+      "units": 31,
+      "phase": "A1",
+      "focus_hu": "Otthon, érdeklődés, étel, rutin, érzések, vásárlás és egészség."
+    },
+    {
+      "duolingo_section": 3,
+      "cefr": "A1",
+      "units": 30,
+      "phase": "A1",
+      "focus_hu": "Mindennapi ügyintézés, utazás, város, egészség, programok."
+    },
+    {
+      "duolingo_section": 4,
+      "cefr": "A2",
+      "units": 60,
+      "phase": "A2",
+      "focus_hu": "Tapasztalatok, múlt idejű elbeszélés, vásárlás, utazás, vélemény."
+    },
+    {
+      "duolingo_section": 5,
+      "cefr": "B1",
+      "units": 250,
+      "phase": "B1",
+      "focus_hu": "Összefüggő történetek, életutak, múlt, munka és kapcsolatok."
+    },
+    {
+      "duolingo_section": 6,
+      "cefr": "B1",
+      "units": 250,
+      "phase": "B1",
+      "focus_hu": "Vélemény, hipotézis, feltétel, szolgáltatások, környezet, társadalom."
+    },
+    {
+      "duolingo_section": 7,
+      "cefr": "B2",
+      "units": 180,
+      "phase": "B2",
+      "focus_hu": "Összetett társas és elvont témák, javaslat, érvelés."
+    },
+    {
+      "duolingo_section": 8,
+      "cefr": "B2",
+      "units": 180,
+      "phase": "B2",
+      "focus_hu": "Formális kommunikáció, hipotézisek, közvetett beszéd és árnyalt érvelés."
+    }
+  ],
+  "grammar_modules": [
+    {
+      "id": "A1-01",
+      "cefr": "A1",
+      "title_hu": "Kiejtés, hangsúly és alapvető helyesírás",
+      "topics": [
+        "magánhangzók",
+        "hangsúlyszabályok",
+        "ékezet",
+        "h/j/g/c/z/ll/y/ch/r/rr",
+        "kérdő- és felkiáltójelek"
+      ],
+      "prerequisites": [],
+      "duolingo_alignment": "intro",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-02",
+      "cefr": "A1",
+      "title_hu": "Főnevek, nem, szám és névelők",
+      "topics": [
+        "hímnem és nőnem",
+        "egyes és többes szám",
+        "határozott névelők",
+        "határozatlan névelők",
+        "névelőhasználat"
+      ],
+      "prerequisites": [
+        "A1-01"
+      ],
+      "duolingo_alignment": "sections-1-2",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-03",
+      "cefr": "A1",
+      "title_hu": "Személyes névmások és jelen idejű igeragozás",
+      "topics": [
+        "személyes névmások",
+        "alany elhagyása",
+        "szabályos -ar/-er/-ir",
+        "ser/estar/tener/ir/hacer",
+        "kérdőszavak"
+      ],
+      "prerequisites": [
+        "A1-02"
+      ],
+      "duolingo_alignment": "sections-1-2",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-04",
+      "cefr": "A1",
+      "title_hu": "Ser, estar és hay",
+      "topics": [
+        "ser azonosításra és származásra",
+        "estar helyre és állapotra",
+        "hay létezésre",
+        "hay vs estar",
+        "gyakori jelentéskülönbségek"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "sections-1-3",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-05",
+      "cefr": "A1",
+      "title_hu": "Melléknevek, birtokosok és mutató szavak",
+      "topics": [
+        "melléknévi egyeztetés",
+        "melléknevek helye",
+        "mi/tu/su/nuestro",
+        "este/ese/aquel",
+        "alapfokú összehasonlítás"
+      ],
+      "prerequisites": [
+        "A1-02",
+        "A1-03"
+      ],
+      "duolingo_alignment": "sections-1-2",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-06",
+      "cefr": "A1",
+      "title_hu": "Kedvelés, mennyiség és étkezés",
+      "topics": [
+        "gustar",
+        "encantar",
+        "preferir/querer/poder/recomendar",
+        "me/te/le/nos/os/les",
+        "mucho/poco/algo/nada/cuánto",
+        "muy vs mucho",
+        "étel és értékelés",
+        "impersonal se alapjai"
+      ],
+      "prerequisites": [
+        "A1-03",
+        "A1-05"
+      ],
+      "duolingo_alignment": "section-2-food-diet",
+      "evidence": "theme_aligned"
+    },
+    {
+      "id": "A1-07",
+      "cefr": "A1",
+      "title_hu": "Napi rutin és gyakoriság",
+      "topics": [
+        "visszaható igék",
+        "gyakorisági határozók",
+        "időpontok",
+        "soler + infinitivo",
+        "empezar a/terminar de"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "sections-2-3",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-08",
+      "cefr": "A1",
+      "title_hu": "Hely, irány, felszólítás és közeli jövő",
+      "topics": [
+        "helyviszonyok",
+        "ir/seguir/girar",
+        "egyszerű felszólító alakok",
+        "ir a + infinitivo",
+        "antes/después de + infinitivo"
+      ],
+      "prerequisites": [
+        "A1-03",
+        "A1-04"
+      ],
+      "duolingo_alignment": "sections-2-3",
+      "evidence": "reference"
+    },
+    {
+      "id": "A1-09",
+      "cefr": "A1",
+      "title_hu": "Tagadás és egyszerű mondatkapcsolás",
+      "topics": [
+        "no",
+        "nada/nadie/nunca/tampoco",
+        "kettős tagadás",
+        "y/o/pero/porque",
+        "alguien/nadie"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "sections-1-3",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-01",
+      "cefr": "A2",
+      "title_hu": "Pretérito perfecto és indefinido",
+      "topics": [
+        "haber + participio",
+        "szabályos és rendhagyó participiumok",
+        "perfecto időkerete",
+        "indefinido szabályos és rendhagyó alakok",
+        "lezárt múlt időhatározók"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-02",
+      "cefr": "A2",
+      "title_hu": "Perfecto és indefinido összehasonlítása",
+      "topics": [
+        "jelenhez kapcsolódó múlt",
+        "lezárt múltbeli időszak",
+        "időhatározók",
+        "regionális különbségek"
+      ],
+      "prerequisites": [
+        "A2-01"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-03",
+      "cefr": "A2",
+      "title_hu": "Imperfecto és múltbeli elbeszélés",
+      "topics": [
+        "imperfecto képzése",
+        "szokás/leírás/háttér",
+        "imperfecto vs indefinido",
+        "időrendi kapcsolók"
+      ],
+      "prerequisites": [
+        "A2-01"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-04",
+      "cefr": "A2",
+      "title_hu": "Folyamatos jelen és igekörülírások",
+      "topics": [
+        "gerundio",
+        "estar + gerundio",
+        "poder + infinitivo",
+        "tener que + infinitivo",
+        "hacer falta",
+        "kezdés/folytatás/befejezés"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-05",
+      "cefr": "A2",
+      "title_hu": "Közvetlen és közvetett tárgyas névmások",
+      "topics": [
+        "lo/la/los/las",
+        "me/te/le/nos/os/les",
+        "névmás helye",
+        "infinitivo/gerundio melletti elhelyezés",
+        "le/les → se"
+      ],
+      "prerequisites": [
+        "A1-03"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-06",
+      "cefr": "A2",
+      "title_hu": "Vélemény, összehasonlítás és pontosabb ser/estar",
+      "topics": [
+        "encantar/interesar/faltar/parecer",
+        "pensar/creer + indicativo",
+        "lo semleges névmás",
+        "felsőfok",
+        "muy/mucho/ningún",
+        "ser/estar"
+      ],
+      "prerequisites": [
+        "A1-04",
+        "A1-06"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "A2-07",
+      "cefr": "A2",
+      "title_hu": "Tervek és egyszerű összetett mondatok",
+      "topics": [
+        "ir a + infinitivo",
+        "jövő értékű jelen",
+        "cuando/antes/después",
+        "porque/como",
+        "para + infinitivo",
+        "vonatkozó mellékmondatok indikativusszal"
+      ],
+      "prerequisites": [
+        "A1-08",
+        "A1-09"
+      ],
+      "duolingo_alignment": "section-4",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-01",
+      "cefr": "B1",
+      "title_hu": "A múlt idők integrált használata",
+      "topics": [
+        "perfecto/indefinido/imperfecto",
+        "pluscuamperfecto",
+        "háttér és esemény",
+        "időbeli kapcsolók",
+        "igei körülírások"
+      ],
+      "prerequisites": [
+        "A2-01",
+        "A2-03"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-02",
+      "cefr": "B1",
+      "title_hu": "Jövő, hipotézis és udvariasság",
+      "topics": [
+        "futuro simple",
+        "jövő mint jelenbeli feltevés",
+        "condicional simple",
+        "udvarias kérés/tanács",
+        "si + presente",
+        "valószínűség"
+      ],
+      "prerequisites": [
+        "A2-07"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-03",
+      "cefr": "B1",
+      "title_hu": "Presente de subjuntivo képzése",
+      "topics": [
+        "indicativo vs subjuntivo",
+        "szabályos képzés",
+        "rendhagyó alakok",
+        "tőhangváltás",
+        "helyesírási változások"
+      ],
+      "prerequisites": [
+        "A2-07"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-04",
+      "cefr": "B1",
+      "title_hu": "Subjuntivo kívánság, kérés, érzelem és értékelés után",
+      "topics": [
+        "querer que/esperar que",
+        "recomendar que/aconsejar que/pedir que",
+        "érzelmi és személytelen szerkezetek",
+        "gustar que",
+        "indikativusz és subjuntivo"
+      ],
+      "prerequisites": [
+        "B1-03"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-05",
+      "cefr": "B1",
+      "title_hu": "Vonatkozó mellékmondatok: indikativusz vagy subjuntivo",
+      "topics": [
+        "ismert referens",
+        "keresett/nem létező referens",
+        "que/quien/donde",
+        "cuando + subjuntivo jövőre utalva"
+      ],
+      "prerequisites": [
+        "B1-03"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-06",
+      "cefr": "B1",
+      "title_hu": "Személytelen se és névmáselhelyezés",
+      "topics": [
+        "se impersonal",
+        "pasiva refleja",
+        "visszaható se elkülönítése",
+        "tárgyas/részes névmások",
+        "felszólító mód"
+      ],
+      "prerequisites": [
+        "A2-05",
+        "A1-06"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-07",
+      "cefr": "B1",
+      "title_hu": "Ok, cél, feltétel és engedmény",
+      "topics": [
+        "okhatározói kötőszók",
+        "para que + subjuntivo",
+        "aunque + indicativo/subjuntivo",
+        "en caso de que",
+        "siempre que/a no ser que",
+        "időbeli subjuntivo"
+      ],
+      "prerequisites": [
+        "B1-03",
+        "B1-04"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B1-08",
+      "cefr": "B1",
+      "title_hu": "Állapotváltoztató igék és árnyalt leírás",
+      "topics": [
+        "ponerse",
+        "volverse",
+        "quedarse",
+        "hacerse",
+        "ser/estar finomítás"
+      ],
+      "prerequisites": [
+        "A1-04",
+        "A1-05"
+      ],
+      "duolingo_alignment": "sections-5-6",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-01",
+      "cefr": "B2",
+      "title_hu": "A subjuntivo további igeidői",
+      "topics": [
+        "pretérito perfecto de subjuntivo",
+        "imperfecto de subjuntivo",
+        "pluscuamperfecto de subjuntivo",
+        "időegyeztetés",
+        "jelentésárnyalatok"
+      ],
+      "prerequisites": [
+        "B1-03",
+        "B1-04"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-02",
+      "cefr": "B2",
+      "title_hu": "Valós és irreális feltételes mondatok",
+      "topics": [
+        "si + presente",
+        "si + imperfecto de subjuntivo",
+        "si + pluscuamperfecto de subjuntivo",
+        "condicional simple/compuesto",
+        "de + infinitivo compuesto"
+      ],
+      "prerequisites": [
+        "B1-02",
+        "B2-01"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-03",
+      "cefr": "B2",
+      "title_hu": "Hipotézis és valószínűség",
+      "topics": [
+        "futuro simple/compuesto feltevésre",
+        "es posible/probable que",
+        "puede que",
+        "tal vez/quizá(s)",
+        "összetett okhatározói kapcsolók"
+      ],
+      "prerequisites": [
+        "B1-02",
+        "B2-01"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-04",
+      "cefr": "B2",
+      "title_hu": "Összetett mellékmondatok és kötőszók",
+      "topics": [
+        "vonatkozó névmások elöljárószóval",
+        "quien/cuyo/lo que",
+        "indicativo/subjuntivo referens szerint",
+        "engedő szerkezetek",
+        "időbeli mellékmondatok",
+        "cél- és feltételes kötőszók"
+      ],
+      "prerequisites": [
+        "B1-05",
+        "B1-07",
+        "B2-01"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-05",
+      "cefr": "B2",
+      "title_hu": "Közvetett beszéd és időegyeztetés",
+      "topics": [
+        "reported speech",
+        "igeidők visszaléptetése",
+        "személyes/birtokos/hely/idő változása",
+        "kérések és tanácsok közvetítése"
+      ],
+      "prerequisites": [
+        "B1-01",
+        "B1-04"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-06",
+      "cefr": "B2",
+      "title_hu": "Formális kérés, javaslat és panasz",
+      "topics": [
+        "condicional udvariassághoz",
+        "állító/tagadó felszólítás",
+        "névmások helye",
+        "engedély és visszautasítás",
+        "formális levél/panasz"
+      ],
+      "prerequisites": [
+        "B1-02",
+        "B1-06"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    },
+    {
+      "id": "B2-07",
+      "cefr": "B2",
+      "title_hu": "Érvelés, stílus és diskurzusszervezés",
+      "topics": [
+        "érvelés szerkezete",
+        "ok/következmény/ellentét/engedmény",
+        "formális és semleges regiszter",
+        "átfogalmazás",
+        "összefüggő beszámoló"
+      ],
+      "prerequisites": [
+        "B1-07",
+        "B2-04",
+        "B2-05"
+      ],
+      "duolingo_alignment": "sections-7-8",
+      "evidence": "reference"
+    }
+  ],
+  "special_contrasts": [
+    {
+      "topic": "ser-estar-hay",
+      "principle_hu": "ser: azonosítás és besorolás; estar: hely és állapot; hay: létezés/jelenlét."
+    },
+    {
+      "topic": "perfecto-indefinido-imperfecto",
+      "principle_hu": "perfecto: jelenhez kapcsolódó időkeret; indefinido: lezárt esemény; imperfecto: háttér, szokás, leírás."
+    },
+    {
+      "topic": "indicativo-subjuntivo",
+      "principle_hu": "A módválasztást a főmondat jelentése, bizonyossága, a beszélő hozzáállása és a mellékmondat referense határozza meg; nem egyszerű tény/nem tény szabály."
+    },
+    {
+      "topic": "gustar",
+      "principle_hu": "A tetsző dolog a nyelvtani alany; a személy részes esetű névmással jelenik meg, az ige a tetsző dolog számához igazodik."
+    },
+    {
+      "topic": "object_pronouns",
+      "principle_hu": "A közvetlen és közvetett tárgy különül el; le/les a lo/la/los/las előtt se alakra vált, ez nem azonos a visszaható se-vel."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Duolingo Data — Spanish from English path",
+      "url": "https://duolingodata.com/dat/esfen991.html",
+      "type": "community_course_map",
+      "used_for": "section/unit structure and topic progression"
+    },
+    {
+      "name": "Duolingo Data — lesson names and objective labels",
+      "url": "https://duolingodata.com/dat/esfen991-d.html",
+      "type": "community_course_map",
+      "used_for": "additional communication and objective tags"
+    },
+    {
+      "name": "Instituto Cervantes — Plan Curricular",
+      "url": "https://cervantes.org/es/sobre-nosotros/publicaciones/plan-curricular-instituto-cervantes-niveles-referencia-espanol",
+      "type": "official_reference_curriculum",
+      "used_for": "CEFR grammar inventories"
+    },
+    {
+      "name": "Instituto Cervantes — PCIC contents index",
+      "url": "https://cvc.cervantes.es/ensenanza/biblioteca_ele/plan_curricular/indice.htm",
+      "type": "official_reference_curriculum",
+      "used_for": "grammar and communicative inventories"
+    },
+    {
+      "name": "Instituto Cervantes — AVE Global",
+      "url": "https://shanghai.cervantes.es/es/cursos_espanol/cursos_en_linea_espanol/cursos_ave.htm",
+      "type": "official_teaching_course_reference",
+      "used_for": "topic-to-grammar/vocabulary mapping"
+    },
+    {
+      "name": "Instituto Cervantes Berlin — B1 topic syllabus",
+      "url": "https://berlin.cervantes.es/imagenes/temas%20del%20nivel%20b1%20con%20bit%C3%A1cora%20-%20copia1.pdf",
+      "type": "official_teaching_course_reference",
+      "used_for": "B1 grammar sequencing"
+    },
+    {
+      "name": "Instituto Cervantes Berlin — B2 topic syllabus",
+      "url": "https://berlin.cervantes.es/imagenes/temas%20del%20nivel%20b2%20con%20bit%C3%A1cora.pdf",
+      "type": "official_teaching_course_reference",
+      "used_for": "B2 grammar sequencing"
+    }
+  ]
+}
