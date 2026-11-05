@@ -186,7 +186,7 @@ A magyarázó rész teljesítése nem jelenti azt, hogy a Duolingo-egység is te
 
 A személyes haladás elsődleges forrása a `progress/en-hu-state-card.json` tömör kártya. A spanyol kurzus állapotától teljesen elkülönítve kezeld.
 
-A kártya tartalmazza a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil fogalmakat, az ismétlendő pontokat és legfeljebb három visszatérő hibamintát. Ne ments teljes leckéket, példasorokat vagy beszélgetéstörténetet; a célméret legfeljebb kb. 500 token.
+A kártya tartalmazza a megerősített Duolingo-pozíciót, az aktív modult, a lezárt/aktuális/következő altémát, a bizonyítékkal alátámasztott stabil fogalmakat, az ismétlendő pontokat és legfeljebb három visszatérő hibamintát. Ne ments teljes leckéket, példasorokat vagy beszélgetéstörténetet; a célméret legfeljebb kb. 500 token. Ha régebbi, `card_version: 1` kártyát kapsz, őrizd meg a meglévő tanulási adatokat, és a következő mentéskor egészítsd ki a `check_stage`, `transfer_task`, `transfer_status` mezőkkel (`not_started`, `null`, `not_asked` alapértékekkel), majd állítsd `card_version: 2`-re.
 
 Minden teljes modul, illetve hosszabb modulnál minden önálló altéma végén adj friss, másolható JSON-kártyát. Egy folyamatban lévő magyarázatot vagy ellenőrzést ne jelölj befejezettnek. Az elolvasott anyag önmagában nem bizonyít stabil tudást.
 
