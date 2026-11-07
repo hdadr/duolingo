@@ -487,6 +487,21 @@
         "have for possession"
       ],
       "caution": "Observed examples are not proof of complete grammar instruction or learner mastery."
+    },
+    {
+      "module": 2,
+      "unit_range": [
+        11,
+        40
+      ],
+      "local_unit_range": [
+        1,
+        30
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-02.json",
+      "source_type": "user_supplied_guidebook",
+      "notes": "30 egység feldolgozva; a 30., 34., 35. és 37. résznél eltérő vagy vegyes cími/példa-bizonyíték."
     }
   ],
   "source_conflicts": [
@@ -496,6 +511,34 @@
       "public_map_title": "Főnevek melléknevekkel történő leírása",
       "current_guidebook_title": "Boldog születésnapot, Anna!",
       "action": "Keep both provenance records; prefer the directly observed current Guidebook title for current learner routing."
+    },
+    {
+      "module": 2,
+      "unit": 30,
+      "guidebook_title": "Képezz rendhagyó többesszámú főneveket",
+      "issue": "A példákban nincs jellegzetes rendhagyó többes szám; cherries szabályos -y → -ies alak.",
+      "resolution": "A cím megőrizve, de a konkrét rendhagyó alakok tanítása nem igazolt."
+    },
+    {
+      "module": 2,
+      "unit": 34,
+      "guidebook_title": "Kérdezz a 'lenni' igével a jelen időben",
+      "issue": "A bemutatott mondatok do/does segédigés Present Simple kérdések, nem to be-kérdések.",
+      "resolution": "A cím/példák eltérését külön rögzítettük; a példákhoz do-support illesztendő."
+    },
+    {
+      "module": 2,
+      "unit": 35,
+      "guidebook_title": "Használd a folyamatos jelent",
+      "issue": "A példák Present Simple és Present Continuous alakokat kevernek.",
+      "resolution": "Kontrasztív mintaként kezelendő."
+    },
+    {
+      "module": 2,
+      "unit": 37,
+      "guidebook_title": "Képezz kérdéseket a folyamatos jelenben",
+      "issue": "A példák mellett Present Simple példák is megjelennek.",
+      "resolution": "A cím szerinti fókusz Present Continuous kérdésalkotás; a további mondatok kontrasztpéldák."
     }
   ]
 }
