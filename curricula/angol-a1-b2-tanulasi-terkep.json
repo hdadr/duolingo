@@ -71,8 +71,8 @@
       "duolingo_module": 8,
       "cefr": "B2",
       "units": 180,
-      "title_hu": "Spontán kommunikáció változatos témákban",
-      "focus_hu": "Termékek, reklám, szívességek, visszatérítés, meggyőzés, bizonyíték, jogi és társas helyzetek, csalás, kompromisszum, rejtélyek, eseményszervezés."
+      "title_hu": "Érvelés, következtetés és árnyalt kommunikáció",
+      "focus_hu": "Indoklás és érvelés; udvarias és enyhített kérések; vásárlási reklamáció és tárgyalás; helyi hírek és zene története; Present Perfect Progressive; társadalmi változások; nézeteltérés és ellenérvek; frusztráció és munkahelyi események; következtetés és múltbeli bizonyosság; történetmesélés; nagyvárosi élet és utazás; közös házimunka és tervezés; bizonyosság és információmegerősítés; jókívánság és utazási tervek; Future Perfect Progressive; garázsvásári tranzakciók; udvarias visszautasítás; háztartási feladatok; régi kapcsolatok; Past Perfect Passive; korlátozások és sportesemények; idegenvezetés és rejtélyek; gyerekkori emlékek; összetett helyzetek elmagyarázása; megkönnyebbülés és gratuláció."
     }
   ],
   "grammar_modules": [
@@ -889,6 +889,21 @@
       "source_file": "guidebooks/en-hu/module-07.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "180 egység, 36 ötegységes ismétlődő témablokk, 187 egyedi angol példa. Magyar fordítás nem érkezett. A nyelvtani elemek a példákból megfigyeltek; B2-01–B2-08 és kapcsolódó B1-modulokhoz crosswalkolva."
+    },
+    {
+      "duolingo_module": 8,
+      "unit_range": [
+        826,
+        1005
+      ],
+      "local_unit_range": [
+        1,
+        180
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-08.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "180 egység, 36 ötegységes ismétlődő témablokk, 195 egyedi angol példa. Magyar fordítás nem érkezett. Három nyelvtani cím közvetlenül megnevezi a Present Perfect Progressive, Future Perfect Progressive és Past Perfect Passive szerkezeteket; egyéb nyelvtani elemek példákból megfigyeltek."
     }
   ],
   "source_conflicts": [
@@ -1127,6 +1142,26 @@
       ],
       "issue": "A 180 helyi egység 36 egymást követő ötegységes blokkban ismétli a címeket és példamondatokat.",
       "resolution": "36 phrase_set tárolja a témacsoportokat, miközben mind a 180 egység külön kurzuspozícióval szerepel."
+    },
+    {
+      "module": 8,
+      "type": "missing_translations",
+      "unit_range": [
+        826,
+        1005
+      ],
+      "issue": "A 8. modulhoz csak angol Guidebook-kulcskifejezések érkeztek, magyar fordítások nélkül.",
+      "resolution": "Az angol példák változtatás nélkül tárolva; magyar fordítás nem generálva."
+    },
+    {
+      "module": 8,
+      "type": "repeated_guidebook_content",
+      "unit_range": [
+        826,
+        1005
+      ],
+      "issue": "180 egység 36 egymást követő ötegységes blokkban ismétli a címet és a mondatanyagot.",
+      "resolution": "36 phrase_set és 180 külön egységrekord őrzi a tartalmat és pozíciót."
     }
   ]
 }
