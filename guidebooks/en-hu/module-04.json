@@ -59,7 +59,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 72,
@@ -129,7 +131,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 74,
@@ -164,7 +168,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-05",
+      "grammar_links": [
+        "A2-05"
+      ],
       "explicit_guidebook_focus": [
         "first conditional"
       ]
@@ -202,7 +208,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-05",
+      "grammar_links": [
+        "A2-05"
+      ],
       "explicit_guidebook_focus": [
         "modal negation"
       ]
@@ -240,7 +248,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 77,
@@ -275,7 +285,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 78,
@@ -310,7 +322,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 79,
@@ -345,7 +359,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-06",
+      "grammar_links": [
+        "A2-06"
+      ],
       "explicit_guidebook_focus": [
         "comparatives and superlatives"
       ]
@@ -383,7 +399,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-06"
+      "grammar_links": [
+        "A2-06"
+      ]
     },
     {
       "unit": 81,
@@ -418,7 +436,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 82,
@@ -453,7 +473,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 83,
@@ -488,7 +510,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 84,
@@ -523,7 +547,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 85,
@@ -666,7 +692,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 89,
@@ -701,7 +729,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 90,
@@ -736,7 +766,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A1-04"
+      "grammar_links": [
+        "A1-04"
+      ]
     },
     {
       "unit": 91,
@@ -771,7 +803,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-06"
+      "grammar_links": [
+        "A2-06"
+      ]
     },
     {
       "unit": 92,
@@ -806,7 +840,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-06"
+      "grammar_links": [
+        "A2-06"
+      ]
     },
     {
       "unit": 93,
@@ -841,7 +877,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-06",
+      "grammar_links": [
+        "A2-06"
+      ],
       "explicit_guidebook_focus": [
         "adverbs and comparatives"
       ]
@@ -879,7 +917,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 95,
@@ -952,7 +992,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 97,
@@ -983,7 +1025,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-03",
+      "grammar_links": [
+        "A2-03"
+      ],
       "explicit_guidebook_focus": [
         "present perfect"
       ]
@@ -1021,7 +1065,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-03"
+      "grammar_links": [
+        "A2-03"
+      ]
     },
     {
       "unit": 99,
@@ -1056,7 +1102,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-03"
+      "grammar_links": [
+        "A2-03"
+      ]
     },
     {
       "unit": 100,
@@ -1091,7 +1139,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-07",
+      "grammar_links": [
+        "A2-07"
+      ],
       "explicit_guidebook_focus": [
         "phrasal verbs"
       ]
@@ -1129,7 +1179,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 102,
@@ -1164,7 +1216,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-03"
+      "grammar_links": [
+        "A2-03"
+      ]
     },
     {
       "unit": 103,
@@ -1199,7 +1253,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-03"
+      "grammar_links": [
+        "A2-03"
+      ]
     },
     {
       "unit": 104,
@@ -1234,7 +1290,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-03"
+      "grammar_links": [
+        "A2-03"
+      ]
     },
     {
       "unit": 105,
@@ -1269,7 +1327,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 106,
@@ -1304,7 +1364,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-07",
+      "grammar_links": [
+        "A2-07"
+      ],
       "explicit_guidebook_focus": [
         "separable phrasal verbs"
       ]
@@ -1342,7 +1404,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07",
+      "grammar_links": [
+        "A2-07"
+      ],
       "source_title_missing": true,
       "source_note": "A bemásolt részletben a KULCSKIFEJEZÉSEK után közvetlenül az első angol példamondat következik; külön témacím nem szerepelt."
     },
@@ -1414,7 +1478,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 110,
@@ -1449,7 +1515,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 111,
@@ -1484,7 +1552,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-01"
+      "grammar_links": [
+        "A2-01"
+      ]
     },
     {
       "unit": 112,
@@ -1519,7 +1589,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-02",
+      "grammar_links": [
+        "A2-02"
+      ],
       "explicit_guidebook_focus": [
         "past continuous"
       ]
@@ -1557,7 +1629,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-02"
+      "grammar_links": [
+        "A2-02"
+      ]
     },
     {
       "unit": 114,
@@ -1592,7 +1666,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-06"
+      "grammar_links": [
+        "A2-06"
+      ]
     },
     {
       "unit": 115,
@@ -1627,7 +1703,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 116,
@@ -1692,7 +1770,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 118,
@@ -1719,7 +1799,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-05",
+      "grammar_links": [
+        "A2-05"
+      ],
       "explicit_guidebook_focus": [
         "question tags"
       ]
@@ -1757,7 +1839,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-02"
+      "grammar_links": [
+        "A2-02"
+      ]
     },
     {
       "unit": 120,
@@ -1788,7 +1872,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 121,
@@ -1819,7 +1905,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-02"
+      "grammar_links": [
+        "A2-02"
+      ]
     },
     {
       "unit": 122,
@@ -1854,7 +1942,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 123,
@@ -1889,7 +1979,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-08",
+      "grammar_links": [
+        "A2-08"
+      ],
       "explicit_guidebook_focus": [
         "passive voice"
       ]
@@ -1927,7 +2019,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-06"
+      "grammar_links": [
+        "A2-06"
+      ]
     },
     {
       "unit": 125,
@@ -1962,7 +2056,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 126,
@@ -1997,7 +2093,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     },
     {
       "unit": 127,
@@ -2032,7 +2130,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": [
+        "A2-07"
+      ]
     },
     {
       "unit": 128,
@@ -2067,7 +2167,9 @@
           "evidence": "explicit_guidebook_heading"
         }
       ],
-      "grammar_links": "A2-08",
+      "grammar_links": [
+        "A2-08"
+      ],
       "explicit_guidebook_focus": [
         "relative clauses"
       ]
@@ -2105,7 +2207,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-03"
+      "grammar_links": [
+        "A2-03"
+      ]
     },
     {
       "unit": 130,
@@ -2140,7 +2244,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-05"
+      "grammar_links": [
+        "A2-05"
+      ]
     }
   ],
   "source_conflicts": [
