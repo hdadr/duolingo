@@ -402,6 +402,77 @@ A témák között szerepelnek: hála és társas kapcsolatok, otthon és szomsz
 
 **Nyelvtani következtetés:** udvarias kérés és javaslat, modális igék árnyalt jelentései, passzív és aktív mondatok, múltbeli tapasztalatok, feltételes mondatok, függő beszéd, vonatkozói mellékmondatok, ok és következmény, diskurzusjelölők.
 
+### 2.6.1 Guidebook-alapú egységtérkép – 6. modul (2026-11-07)
+
+A 6. modul 260 helyi egysége a kurzus #386–645. részeit fedi le. A bemásolt tartalom 52 egymást követő, egyenként öt egységben ismétlődő témablokkot tartalmaz. Összesen 280 egyedi angol példamondatot tárolunk; magyar fordítás nem érkezett.
+
+| Helyi egységek | Kurzus-részek | Guidebook-cél | Példákból megfigyelhető nyelvtan |
+|---:|---:|---|---|
+| 1–5 | 386–390 | Express gratitude | appreciate + noun; thanks for + gerund; it was nice of you to + infinitive |
+| 6–10 | 391–395 | Talk about your home | didn't use to; comparative smaller than; relative clause who |
+| 11–15 | 396–400 | Talk about interests | Present Perfect Continuous; wh-question in PPC; Past Simple |
+| 16–20 | 401–405 | Lead a conversation | there are; would like + object + infinitive; Present Continuous |
+| 21–25 | 406–410 | Share anecdotes | relative time clause when; choose + infinitive; instead of + gerund |
+| 26–30 | 411–415 | Recount your latest trip | Past Perfect; Past Simple; so result |
+| 31–35 | 416–420 | Talk about news | indirect yes/no question if; future passive; be going to |
+| 36–40 | 421–425 | Talk about television | Present Perfect with so far/ever; superlative greatest; Past Simple |
+| 41–45 | 426–430 | Talk about history | passive was born/were invented/was built; Past Simple; did-question |
+| 46–50 | 431–435 | Make plans with friends | Why don't suggestion; have got to obligation; next time clause |
+| 51–55 | 436–440 | Refer to extended family | compound family nouns; Past Perfect negative + tag; since |
+| 56–60 | 441–445 | Make complaints | exclamatory what; Present Perfect question; phrasal put away/hang up/take back |
+| 61–65 | 446–450 | Report what someone said | reported questions; embedded wh/if clauses; backshift was |
+| 66–70 | 451–455 | Talk about religion | Past Perfect question with ever/before; Past Simple; should |
+| 71–75 | 456–460 | Make suggestions | would advise + object + infinitive; suggest + clause; could |
+| 76–80 | 461–465 | Plan a move | reported statement said; Present Continuous; move out phrasal verb |
+| 81–85 | 466–470 | Apologize | sorry for + gerund; excuse for + noun/clause; want to |
+| 86–90 | 471–475 | Talk about your goals | will; after/as soon as time clauses; Present Simple in time clause |
+| 91–95 | 476–480 | Arrange auto maintenance | Present Perfect passive question; since; will |
+| 96–100 | 481–485 | Comment on food | would like; would rather + infinitive; comparative spicier |
+| 101–105 | 486–490 | Communicate with doctors | it is + adjective + infinitive; when/after clauses; will |
+| 106–110 | 491–495 | Talk about life at school | Past Simple; so...that; reported speech that + backshift |
+| 111–115 | 496–500 | Plan a party | negative tag question; phrasal set up/dress up; have to |
+| 116–120 | 501–505 | Talk about news | Present Perfect there has been; there was; passive was involved/was destroyed |
+| 121–125 | 506–510 | Talk about traffic | stop + gerund; allow + object; Present Continuous |
+| 126–130 | 511–515 | Describe nature | there are; geographical adjectives; Present Perfect never |
+| 131–135 | 516–520 | Ask for and give advice | second conditional if + past, would; were for hypothetical; negative would |
+| 136–140 | 521–525 | Talk about professional life | will; second conditional; Past Simple |
+| 141–145 | 526–530 | Talk about places | Present Simple; there has been; Present Perfect + time phrase |
+| 146–150 | 531–535 | Talk about famous people | superlative; Past Perfect negative; until clause |
+| 151–155 | 536–540 | Talk about food | if clause; make sure to; passive made with |
+| 156–160 | 541–545 | Maintain a conversation | before clause; let + object + infinitive; Past Simple wanted |
+| 161–165 | 546–550 | Return an item | gerund after for; can/can't; passive adjective damaged |
+| 166–170 | 551–555 | Make announcements | could; Let's; infinitive after pleasure |
+| 171–175 | 556–560 | Describe your home | would + infinitive; each of; more than |
+| 176–180 | 561–565 | Talk about mistakes | third conditional if + Past Perfect/would have; might; Past Simple |
+| 181–185 | 566–570 | Express fear | used to; must; so...that |
+| 186–190 | 571–575 | Use the internet | Why don't suggestion; be used to + noun; when clause |
+| 191–195 | 576–580 | Talk about the arts | Present Perfect ever/never; be supposed to; was going to |
+| 196–200 | 581–585 | Describe traditions | used to; Present Simple habits; be full of |
+| 201–205 | 586–590 | Eat at a restaurant | any; doesn't; would be interested in |
+| 206–210 | 591–595 | Discuss the environment | Present Continuous passive; passive question; future passive |
+| 211–215 | 596–600 | Express preferences | would have + past participle; prefer + infinitive; choose |
+| 216–220 | 601–605 | Talk about beauty | relative clause that; Past Simple; because |
+| 221–225 | 606–610 | Shop for sales | Present Continuous; more than what clause; afford + infinitive |
+| 226–230 | 611–615 | Comment on sports | should not; any; superlative best |
+| 231–235 | 616–620 | Talk about wellness | need to; plan is to; be into |
+| 236–240 | 621–625 | Collaborate at work | can/could request; phrasal send back/call back; Past Simple |
+| 241–245 | 626–630 | Resolve problems | can request; Past Perfect negative + tag; passive are canceled |
+| 246–250 | 631–635 | Talk about news | will + likely; Past Simple; couldn't |
+| 251–255 | 636–640 | Talk about history | Past Simple; how to infinitive; Past Perfect |
+| 256–260 | 641–645 | Express wishes | wish + past/subjunctive; wish + would; stop + gerund |
+
+#### Nyelvtani súlypontok
+
+- **Igeidők és időviszonyok:** Present Perfect Continuous (#396–400), Past Perfect (#411–415, #436–440, #531–535), Past Continuous (#541–545), Present Perfect / Present Perfect Passive, valamint jövőformák.
+- **Feltételes és hipotetikus szerkezetek:** második feltételes mód (#516–520, #521–525), harmadik feltételes mód (#561–565), `wish` + múlt idejű és Past Perfect alakok (#641–645).
+- **Passzív szerkezetek:** Past Simple Passive (#416–420, #426–430), Present Perfect Passive (#476–480, #586–590), Present Continuous Passive és future passive (#591–595).
+- **Reported speech és beágyazott kérdések:** különösen #446–450, továbbá #416–420, #491–495 és #621–625.
+- **Phrasal verbs, gerund és infinitive:** `put away`, `hang up`, `move out`, `set up`, `turn down`, `fill up`, `meet up`, `call back`; `stop + -ing`, `would mind + -ing`, `look forward to + -ing`, valamint több object + infinitive szerkezet.
+- **Egyéb haladóbb formák:** question tags (#436–440, #496–500, #536–540, #626–630), causative `get something done` (#601–605), `had better` (#506–510), modális perfect és múltbeli hipotetikus preferenciák (#556–565, #596–600).
+
+#### Adatkezelés
+
+A témák és mondatok a bemásolt Guidebook tartalmát követik. A nyelvtani elemeket a példákból figyeltem meg, nem külön nyelvtani címekből. A `units` mező mind a 260 külön egységet megőrzi; az 52 közös példasor a `phrase_sets` mezőben egyszer szerepel. A részletes fájl: `guidebooks/en-hu/module-06.json`.
 ### 2.7 B2 – 7. modul
 
 Fő témák: engedélykérés és szabályok, egészség, munka, kertészkedés, kampány és választás, időjárás, kockázatok, motiváció, pletyka, furcsa események, remények, tervek és történetszerű helyzetek.
