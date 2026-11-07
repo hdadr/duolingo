@@ -10,7 +10,7 @@
     "received_date": "2026-11-07",
     "source_description": "A tanuló által bemásolt Duolingo webes Guidebook-szöveg, 4. modul, 1–60. rész (#71–#130).",
     "coverage": "Duolingo 4. modul, 1–60. rész; kurzuskoordináta 71–130",
-    "note": "A cím és kommunikációs cél közvetlen Guidebook-adat; a példákban látható szerkezet megfigyelt előfordulás. A példák nem bizonyítják automatikusan a teljes szabály tanítását vagy a tanuló mastery-jét."
+    "note": "A cím és kommunikációs cél közvetlen Guidebook-adat; a példákban látható szerkezet megfigyelt előfordulás. A példák nem bizonyítják automatikusan a teljes szabály tanítását vagy a tanuló mastery-jét. A 107. egységnél a bemásolt szövegben nem szerepelt külön témacím; az első kulcskifejezést nem kezeljük témacímként."
   },
   "module": {
     "number": 4,
@@ -161,7 +161,7 @@
       "grammar_observations": [
         {
           "topic": "First Conditional: if/when + Present Simple, will + alapalak; Let's javaslat",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-05",
@@ -199,7 +199,7 @@
       "grammar_observations": [
         {
           "topic": "should not modális tagadás; might bizonytalanság; be going to terv; igei alapalak",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-05",
@@ -342,7 +342,7 @@
       "grammar_observations": [
         {
           "topic": "superlative: the most famous; want + tárgy; adjectives",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-06",
@@ -625,7 +625,7 @@
       "grammar_observations": [
         {
           "topic": "there is no; half a cup of mérték; past participle expired; felszólító mód",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": [],
@@ -838,7 +838,7 @@
       "grammar_observations": [
         {
           "topic": "ever gyakorisági határozó; gerund skiing/snowboarding/spending; enjoy + -ing",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-06",
@@ -911,7 +911,7 @@
       "grammar_observations": [
         {
           "topic": "indefinite pronouns everyone/anything; does kérdés; prefer + noun",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": [],
@@ -980,7 +980,7 @@
       "grammar_observations": [
         {
           "topic": "Present Perfect: have lived/have traveled; since; Past Simple kontraszt; do you collect",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-03",
@@ -1088,12 +1088,12 @@
       "grammar_observations": [
         {
           "topic": "phrasal verbs find out/look up/follow up; speak to/about; can kérés",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-07",
       "explicit_guidebook_focus": [
-        "verb + particle / phrasal verbs"
+        "phrasal verbs"
       ]
     },
     {
@@ -1301,7 +1301,7 @@
       "grammar_observations": [
         {
           "topic": "phrasal verb try on separable object placement (try it on); demonstrative; any",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-07",
@@ -1312,8 +1312,8 @@
     {
       "unit": 107,
       "section_unit": 37,
-      "title_hu": "Unmute yourself before you speak, please.",
-      "communication_goal": "Unmute yourself before you speak, please.",
+      "title_hu": "Mikrofonhasználat és önmagunkra visszautalás",
+      "communication_goal": "A mikrofon némítása és bekapcsolása; reflexive pronoun yourself",
       "phrases": [
         [
           "Unmute yourself before you speak, please.",
@@ -1342,7 +1342,9 @@
           "evidence": "observed_example"
         }
       ],
-      "grammar_links": "A2-07"
+      "grammar_links": "A2-07",
+      "source_title_missing": true,
+      "source_note": "A bemásolt részletben a KULCSKIFEJEZÉSEK után közvetlenül az első angol példamondat következik; külön témacím nem szerepelt."
     },
     {
       "unit": 108,
@@ -1514,7 +1516,7 @@
       "grammar_observations": [
         {
           "topic": "Past Continuous were talking; Past Simple event background contrast observed only partly",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-02",
@@ -1653,7 +1655,7 @@
       "grammar_observations": [
         {
           "topic": "Past Simple; passive was made; Did-kérdés; oldest superlative; no reported speech example",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": [],
@@ -1714,7 +1716,7 @@
       "grammar_observations": [
         {
           "topic": "Do you mind if...? embedded conditional question; modal practice; want to play",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-05",
@@ -1884,7 +1886,7 @@
       "grammar_observations": [
         {
           "topic": "passive voice was stolen/was found/were covered/was seen; could polite request",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-08",
@@ -2062,7 +2064,7 @@
       "grammar_observations": [
         {
           "topic": "relative clauses who; reduced relative clause brownies I made; can polite request",
-          "evidence": "observed_example"
+          "evidence": "explicit_guidebook_heading"
         }
       ],
       "grammar_links": "A2-08",
