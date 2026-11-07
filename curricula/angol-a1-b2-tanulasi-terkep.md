@@ -234,6 +234,86 @@ Fő témacsoportok: ünnepek, egészség, stressz, munka, projektek, önfejleszt
 
 Ez a modul különösen fontos: itt sok, a magyarban másképp kifejezett angol igeidő- és segédigehasználat jelenik meg.
 
+### 2.4.1 Guidebook-alapú egységtérkép – 4. modul (2026-11-07)
+
+A 4. modul 60 egységét a tanuló által megadott Guidebook 71–130. kurzusrészei alapján dolgoztuk fel. A részletes JSON 293 angol–magyar példapárt tartalmaz.
+
+| Helyi egység | Kurzus # | Guidebook-cél | Megfigyelhető nyelvtani fókusz |
+|---:|---:|---|---|
+| 1 | 71 | Ünnepek | Past Simple; Did-kérdés; idősor |
+| 2 | 72 | Orvosi időpont | would like; can/could; felszólítás |
+| 3 | 73 | Stressz kezelése | when/if + Present Simple |
+| 4 | 74 | Első feltételes mód | if/when + Present Simple, will + ige |
+| 5 | 75 | Módbeli igék tagadása | should not; might; going to |
+| 6 | 76 | Orvosi tanács | must/must not; gyakoriság |
+| 7 | 77 | Születésnapi buli | Past Simple rendhagyó alakok; tárgyas szerkezet |
+| 8 | 78 | Munkafeladatok | can; Past Simple; will |
+| 9 | 79 | Összehasonlítás és szuperlatívusz | the most famous; comparative-példa hiányzik |
+| 10 | 80 | Munkaprojektek | was/had; should; better |
+| 11 | 81 | Önfejlesztés | should; before/after/while |
+| 12 | 82 | Technikai problémák | Past Simple; when/after; did-kérdés |
+| 13 | 83 | Kapcsolatok | Present Continuous; that-mellékmondat; each other |
+| 14 | 84 | Wellness | Present Continuous jövőre; should; hope |
+| 15 | 85 | Mennyiségek kérdésekben | how much; countability; a box of |
+| 16 | 86 | Szomszédok | there are; all of; birtokos determináns |
+| 17 | 87 | Számhatározók/mennyiségek | no; half a cup; mértékegységek |
+| 18 | 88 | Vásárlási élmények | there was/were; wasn't; Were there...? |
+| 19 | 89 | Meghívás ünneplésre | there will be; will there be; if |
+| 20 | 90 | Tárgyak azonosítása | hers/his/mine; whose |
+| 21 | 91 | Helyek és kultúrák | as...as; tárgyesetű névmás |
+| 22 | 92 | Áruk értékelése | less...than; either; birtokos névmás |
+| 23 | 93 | Határozószók és középfokok | ever/often; gerund; comparative-példa hiányzik |
+| 24 | 94 | Munkahelyi javaslatok | Why don't we; mind/stop + -ing |
+| 25 | 95 | Határozatlan névmások | everyone; anything; prefer |
+| 26 | 96 | Választások | will; Past Simple; think + clause |
+| 27 | 97 | Present Perfect | have lived/traveled; since |
+| 28 | 98 | Családtörténet | have had/flown/visited; times |
+| 29 | 99 | Állásinterjú | Present Perfect; infinitive; Present Continuous |
+| 30 | 100 | Vonzatos igék | find out; look up; follow up; speak to/about |
+| 31 | 101 | Szabadidőközpont | like to; Present Simple; Let's |
+| 32 | 102 | Utazási élmények | Present Perfect ever/never; Past Simple |
+| 33 | 103 | Költözés | has returned/have paid yet; can |
+| 34 | 104 | Előléptetés | haven't + past participle; for/since |
+| 35 | 105 | Útbaigazítás | when/after; felszólítás; take ... out |
+| 36 | 106 | Elválasztható phrasal verbs | try it on |
+| 37 | 107 | Mikrofonhasználat | yourself; felszólítás; Present Continuous |
+| 38 | 108 | Tévéműsorok | How about; can't believe + clause; Let's |
+| 39 | 109 | Kulturális helyek | Past Simple; will; excited to |
+| 40 | 110 | Tanulmányok | hope; want + object + infinitive; should |
+| 41 | 111 | Történelem | Past Simple; was; because |
+| 42 | 112 | Past Continuous | were talking; Past Continuous-példa korlátozott |
+| 43 | 113 | Orvosi segítség | fell; while I was climbing; so |
+| 44 | 114 | Könyvek értékelése | prefer; Past Simple; Let's |
+| 45 | 115 | Kempingezés | before/when; will; there are |
+| 46 | 116 | Függő beszéd | a példákban nem szerepel reported speech |
+| 47 | 117 | Beteg családtag vigasztalása | will; look after; felszólítás |
+| 48 | 118 | Ugye-kérdések | a példákban nincs question tag; később #127 |
+| 49 | 119 | Érzelmek | start + -ing; because; make up; did |
+| 50 | 120 | Piknik | so/because; can't; let's; tagadó felszólítás |
+| 51 | 121 | Edzési tervek | was running; was going to; had to; gerund |
+| 52 | 122 | Egyetemi élet | either; Past Simple; but; look at |
+| 53 | 123 | Bűncselekmény bejelentése | passive voice: was stolen/found; were covered |
+| 54 | 124 | Városi helyek | can; thousands of; Let's |
+| 55 | 125 | Házi feladat | it is + adjective + infinitive; superlative; spend + -ing |
+| 56 | 126 | Recept | a few; how many; should; to buy |
+| 57 | 127 | Iskolai jelentkezés | question tags; enough; if clause; gerund |
+| 58 | 128 | Vonatkozói mellékmondatok | who; reduced/zero relative clause |
+| 59 | 129 | Eseménymegfigyelés | Present Perfect; Past Simple; too...to; may |
+| 60 | 130 | Bankügyek | need to; would like to; can; some; when-clause |
+
+#### Kiemelt forráskritikai megjegyzések
+
+- **9. egység (#79):** a cím összehasonlításokat és szuperlatívuszokat ígér, de a példákban csak a `the most famous` szuperlatívusz egyértelmű.
+- **17. egység (#87):** a cím „számhatározókat” nevez meg; a példák inkább mennyiségeket és mértékegységeket mutatnak (`no milk`, `half a cup`).
+- **23. egység (#93):** a határozószók megfigyelhetők, de nincs egyértelmű középfokú példa.
+- **30. egység (#100):** a `find out`, `look up`, `follow up` phrasal verb; a `speak to/about` inkább ige + prepozíciós vonzat.
+- **36. egység (#106):** az elválasztható phrasal verb egyértelmű példája a `try it on`; a többi mondat nem ezt gyakoroltatja.
+- **46. egység (#116):** a „függő beszéd” cím ellenére a példasor nem tartalmaz reported speech-et.
+- **48. egység (#118):** a question tags cím alatt nincs ilyen példa. Konkrét tag question a 57. egységben (#127) szerepel: `won't you?`, `can't I?`.
+- **37. egység (#107):** a bemásolt Guidebook-részletben nem szerepelt külön témacím, csak az első kulcskifejezés.
+
+A 4. modul részletes, angol–magyar példamondatai és egységenkénti nyelvtani megfigyelései: `guidebooks/en-hu/module-04.json`.
+
 ### 2.5 B1 – 5. modul
 
 A kurzus témasorozatai változatos mindennapi élethelyzetek köré szerveződnek, például:
