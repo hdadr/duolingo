@@ -65,7 +65,7 @@
       "cefr": "B2",
       "units": 180,
       "title_hu": "Elvontabb témák és célok",
-      "focus_hu": "Engedély, szabályok, egészség, munka, kert, kampány, időjárás, kockázat, motiváció, remények és hipotetikus helyzetek."
+      "focus_hu": "Engedélykérés és szabályok; egészség és tünetek; költözés és felújítás; tanácsadás és múltbeli megbánás; projektek és munkahelyi tárgyalás; kertészkedés, utazás, politika és időjárás; kockázatok és kötelezettségek; amerikai sztereotípiák, egyetem és múltidézés; preferenciák, etikett és kapcsolatok; történetmesélés, célok és pletykák; múltbeli események, panaszok és ok-okozat; televízió, hírek, vélemények, vigasztalás és társalgásvezetés; hibáztatás és hipotetikus helyzetek."
     },
     {
       "duolingo_module": 8,
@@ -874,6 +874,21 @@
       "source_file": "guidebooks/en-hu/module-06.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "260 egység, 52 ötegységes ismétlődő témablokk, 280 angol példamondat. Magyar fordítás nem érkezett. B1-01–B1-09 modulokhoz kapcsolt megfigyelt nyelvtani előfordulások; a témacímek kommunikációs célok, nem expliciten nyelvtani címek."
+    },
+    {
+      "duolingo_module": 7,
+      "unit_range": [
+        646,
+        825
+      ],
+      "local_unit_range": [
+        1,
+        180
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-07.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "180 egység, 36 ötegységes ismétlődő témablokk, 187 egyedi angol példa. Magyar fordítás nem érkezett. A nyelvtani elemek a példákból megfigyeltek; B2-01–B2-08 és kapcsolódó B1-modulokhoz crosswalkolva."
     }
   ],
   "source_conflicts": [
@@ -1092,6 +1107,26 @@
       ],
       "issue": "A 260 helyi egység 52 egymást követő ötös blokkban ismétli a címet és a példasorokat.",
       "resolution": "52 phrase_set és 260 külön egységrekord tárolja a tartalmat és a kurzuspozíciót."
+    },
+    {
+      "module": 7,
+      "type": "missing_translations",
+      "unit_range": [
+        646,
+        825
+      ],
+      "issue": "A 7. modulhoz a tanuló csak angol kulcskifejezéseket adott meg, magyar fordításokat nem.",
+      "resolution": "Az angol példákat változtatás nélkül tároljuk; magyar fordításokat nem generálunk."
+    },
+    {
+      "module": 7,
+      "type": "repeated_guidebook_content",
+      "unit_range": [
+        646,
+        825
+      ],
+      "issue": "A 180 helyi egység 36 egymást követő ötegységes blokkban ismétli a címeket és példamondatokat.",
+      "resolution": "36 phrase_set tárolja a témacsoportokat, miközben mind a 180 egység külön kurzuspozícióval szerepel."
     }
   ]
 }
