@@ -580,5 +580,19 @@
     }
   ],
   "evidence_policy": "duolingo_grammar_evidence records the strength of a grammar-to-unit link: explicit (named in public course data), observed (seen in an actual unit example but not named as a target), inferred (probable from theme/reference), reference_only (CEFR/reference mapping only), or unknown. It is separate from learner mastery.",
-  "mastery_policy": "Learner grammar mastery is tracked only in the per-course state card from learning evidence. Never infer or advance mastery from Duolingo unit position."
+  "mastery_policy": "Learner grammar mastery is tracked only in the per-course state card from learning evidence. Never infer or advance mastery from Duolingo unit position.",
+  "guidebook_modules": [
+    {
+      "module": 1,
+      "unit_range": [
+        1,
+        10
+      ],
+      "path": "guidebooks/en-hu/module-01.json",
+      "status": "processed",
+      "source": "user_supplied_current_guidebook",
+      "evidence_policy": "Treat unit goals and headings as direct Guidebook evidence; grammar seen only in phrases is observed, not necessarily explicitly taught. Do not infer mastery."
+    }
+  ],
+  "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing."
 }
