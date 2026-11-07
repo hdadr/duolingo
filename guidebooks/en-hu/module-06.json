@@ -1,0 +1,4619 @@
+{
+  "schema_version": "1.0",
+  "course_id": "DUOLINGO_EN_HU",
+  "course_key": "en-hu",
+  "learning_language": "en",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "source": {
+    "kind": "user_supplied_guidebook_transcription",
+    "received_date": "2026-11-07",
+    "source_description": "A tanuló által bemásolt Duolingo webes Guidebook-szöveg, 6. modul, 1–260. rész (#386–#645).",
+    "coverage": "Duolingo 6. modul, 1–260. rész; kurzuskoordináta 386–645",
+    "note": "A forrás angol kulcskifejezéseket tartalmaz, magyar fordításokat nem. A 260 egység 52 ötös blokkban ismétli a címeket és példamondatokat; mindegyik egység külön azonosítóval szerepel, a közös mondatanyag deduplikált phrase_sets alatt van."
+  },
+  "module": {
+    "number": 6,
+    "cefr": "B1",
+    "unit_range": [
+      386,
+      645
+    ],
+    "section_unit_range": [
+      1,
+      260
+    ],
+    "title_hu": "Összetettebb társas, szakmai, múltbeli és elvont kommunikáció",
+    "topic_group_count": 52,
+    "unique_phrase_sets": 52,
+    "units_with_repeated_phrase_sets": 260
+  },
+  "units": [
+    {
+      "unit": 386,
+      "section_unit": 1,
+      "phrase_set_ref": "m6-topic-01",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 387,
+      "section_unit": 2,
+      "phrase_set_ref": "m6-topic-01",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 388,
+      "section_unit": 3,
+      "phrase_set_ref": "m6-topic-01",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 389,
+      "section_unit": 4,
+      "phrase_set_ref": "m6-topic-01",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 390,
+      "section_unit": 5,
+      "phrase_set_ref": "m6-topic-01",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 391,
+      "section_unit": 6,
+      "phrase_set_ref": "m6-topic-02",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 392,
+      "section_unit": 7,
+      "phrase_set_ref": "m6-topic-02",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 393,
+      "section_unit": 8,
+      "phrase_set_ref": "m6-topic-02",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 394,
+      "section_unit": 9,
+      "phrase_set_ref": "m6-topic-02",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 395,
+      "section_unit": 10,
+      "phrase_set_ref": "m6-topic-02",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 396,
+      "section_unit": 11,
+      "phrase_set_ref": "m6-topic-03",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 397,
+      "section_unit": 12,
+      "phrase_set_ref": "m6-topic-03",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 398,
+      "section_unit": 13,
+      "phrase_set_ref": "m6-topic-03",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 399,
+      "section_unit": 14,
+      "phrase_set_ref": "m6-topic-03",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 400,
+      "section_unit": 15,
+      "phrase_set_ref": "m6-topic-03",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 401,
+      "section_unit": 16,
+      "phrase_set_ref": "m6-topic-04",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 402,
+      "section_unit": 17,
+      "phrase_set_ref": "m6-topic-04",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 403,
+      "section_unit": 18,
+      "phrase_set_ref": "m6-topic-04",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 404,
+      "section_unit": 19,
+      "phrase_set_ref": "m6-topic-04",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 405,
+      "section_unit": 20,
+      "phrase_set_ref": "m6-topic-04",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 406,
+      "section_unit": 21,
+      "phrase_set_ref": "m6-topic-05",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 407,
+      "section_unit": 22,
+      "phrase_set_ref": "m6-topic-05",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 408,
+      "section_unit": 23,
+      "phrase_set_ref": "m6-topic-05",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 409,
+      "section_unit": 24,
+      "phrase_set_ref": "m6-topic-05",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 410,
+      "section_unit": 25,
+      "phrase_set_ref": "m6-topic-05",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 411,
+      "section_unit": 26,
+      "phrase_set_ref": "m6-topic-06",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 412,
+      "section_unit": 27,
+      "phrase_set_ref": "m6-topic-06",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 413,
+      "section_unit": 28,
+      "phrase_set_ref": "m6-topic-06",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 414,
+      "section_unit": 29,
+      "phrase_set_ref": "m6-topic-06",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 415,
+      "section_unit": 30,
+      "phrase_set_ref": "m6-topic-06",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 416,
+      "section_unit": 31,
+      "phrase_set_ref": "m6-topic-07",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 417,
+      "section_unit": 32,
+      "phrase_set_ref": "m6-topic-07",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 418,
+      "section_unit": 33,
+      "phrase_set_ref": "m6-topic-07",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 419,
+      "section_unit": 34,
+      "phrase_set_ref": "m6-topic-07",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 420,
+      "section_unit": 35,
+      "phrase_set_ref": "m6-topic-07",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 421,
+      "section_unit": 36,
+      "phrase_set_ref": "m6-topic-08",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 422,
+      "section_unit": 37,
+      "phrase_set_ref": "m6-topic-08",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 423,
+      "section_unit": 38,
+      "phrase_set_ref": "m6-topic-08",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 424,
+      "section_unit": 39,
+      "phrase_set_ref": "m6-topic-08",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 425,
+      "section_unit": 40,
+      "phrase_set_ref": "m6-topic-08",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 426,
+      "section_unit": 41,
+      "phrase_set_ref": "m6-topic-09",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 427,
+      "section_unit": 42,
+      "phrase_set_ref": "m6-topic-09",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 428,
+      "section_unit": 43,
+      "phrase_set_ref": "m6-topic-09",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 429,
+      "section_unit": 44,
+      "phrase_set_ref": "m6-topic-09",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 430,
+      "section_unit": 45,
+      "phrase_set_ref": "m6-topic-09",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 431,
+      "section_unit": 46,
+      "phrase_set_ref": "m6-topic-10",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 432,
+      "section_unit": 47,
+      "phrase_set_ref": "m6-topic-10",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 433,
+      "section_unit": 48,
+      "phrase_set_ref": "m6-topic-10",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 434,
+      "section_unit": 49,
+      "phrase_set_ref": "m6-topic-10",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 435,
+      "section_unit": 50,
+      "phrase_set_ref": "m6-topic-10",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 436,
+      "section_unit": 51,
+      "phrase_set_ref": "m6-topic-11",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 437,
+      "section_unit": 52,
+      "phrase_set_ref": "m6-topic-11",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 438,
+      "section_unit": 53,
+      "phrase_set_ref": "m6-topic-11",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 439,
+      "section_unit": 54,
+      "phrase_set_ref": "m6-topic-11",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 440,
+      "section_unit": 55,
+      "phrase_set_ref": "m6-topic-11",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 441,
+      "section_unit": 56,
+      "phrase_set_ref": "m6-topic-12",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 442,
+      "section_unit": 57,
+      "phrase_set_ref": "m6-topic-12",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 443,
+      "section_unit": 58,
+      "phrase_set_ref": "m6-topic-12",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 444,
+      "section_unit": 59,
+      "phrase_set_ref": "m6-topic-12",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 445,
+      "section_unit": 60,
+      "phrase_set_ref": "m6-topic-12",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 446,
+      "section_unit": 61,
+      "phrase_set_ref": "m6-topic-13",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 447,
+      "section_unit": 62,
+      "phrase_set_ref": "m6-topic-13",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 448,
+      "section_unit": 63,
+      "phrase_set_ref": "m6-topic-13",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 449,
+      "section_unit": 64,
+      "phrase_set_ref": "m6-topic-13",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 450,
+      "section_unit": 65,
+      "phrase_set_ref": "m6-topic-13",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 451,
+      "section_unit": 66,
+      "phrase_set_ref": "m6-topic-14",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 452,
+      "section_unit": 67,
+      "phrase_set_ref": "m6-topic-14",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 453,
+      "section_unit": 68,
+      "phrase_set_ref": "m6-topic-14",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 454,
+      "section_unit": 69,
+      "phrase_set_ref": "m6-topic-14",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 455,
+      "section_unit": 70,
+      "phrase_set_ref": "m6-topic-14",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 456,
+      "section_unit": 71,
+      "phrase_set_ref": "m6-topic-15",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 457,
+      "section_unit": 72,
+      "phrase_set_ref": "m6-topic-15",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 458,
+      "section_unit": 73,
+      "phrase_set_ref": "m6-topic-15",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 459,
+      "section_unit": 74,
+      "phrase_set_ref": "m6-topic-15",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 460,
+      "section_unit": 75,
+      "phrase_set_ref": "m6-topic-15",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 461,
+      "section_unit": 76,
+      "phrase_set_ref": "m6-topic-16",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 462,
+      "section_unit": 77,
+      "phrase_set_ref": "m6-topic-16",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 463,
+      "section_unit": 78,
+      "phrase_set_ref": "m6-topic-16",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 464,
+      "section_unit": 79,
+      "phrase_set_ref": "m6-topic-16",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 465,
+      "section_unit": 80,
+      "phrase_set_ref": "m6-topic-16",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 466,
+      "section_unit": 81,
+      "phrase_set_ref": "m6-topic-17",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 467,
+      "section_unit": 82,
+      "phrase_set_ref": "m6-topic-17",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 468,
+      "section_unit": 83,
+      "phrase_set_ref": "m6-topic-17",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 469,
+      "section_unit": 84,
+      "phrase_set_ref": "m6-topic-17",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 470,
+      "section_unit": 85,
+      "phrase_set_ref": "m6-topic-17",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 471,
+      "section_unit": 86,
+      "phrase_set_ref": "m6-topic-18",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 472,
+      "section_unit": 87,
+      "phrase_set_ref": "m6-topic-18",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 473,
+      "section_unit": 88,
+      "phrase_set_ref": "m6-topic-18",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 474,
+      "section_unit": 89,
+      "phrase_set_ref": "m6-topic-18",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 475,
+      "section_unit": 90,
+      "phrase_set_ref": "m6-topic-18",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 476,
+      "section_unit": 91,
+      "phrase_set_ref": "m6-topic-19",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 477,
+      "section_unit": 92,
+      "phrase_set_ref": "m6-topic-19",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 478,
+      "section_unit": 93,
+      "phrase_set_ref": "m6-topic-19",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 479,
+      "section_unit": 94,
+      "phrase_set_ref": "m6-topic-19",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 480,
+      "section_unit": 95,
+      "phrase_set_ref": "m6-topic-19",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 481,
+      "section_unit": 96,
+      "phrase_set_ref": "m6-topic-20",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 482,
+      "section_unit": 97,
+      "phrase_set_ref": "m6-topic-20",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 483,
+      "section_unit": 98,
+      "phrase_set_ref": "m6-topic-20",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 484,
+      "section_unit": 99,
+      "phrase_set_ref": "m6-topic-20",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 485,
+      "section_unit": 100,
+      "phrase_set_ref": "m6-topic-20",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 486,
+      "section_unit": 101,
+      "phrase_set_ref": "m6-topic-21",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 487,
+      "section_unit": 102,
+      "phrase_set_ref": "m6-topic-21",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 488,
+      "section_unit": 103,
+      "phrase_set_ref": "m6-topic-21",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 489,
+      "section_unit": 104,
+      "phrase_set_ref": "m6-topic-21",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 490,
+      "section_unit": 105,
+      "phrase_set_ref": "m6-topic-21",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 491,
+      "section_unit": 106,
+      "phrase_set_ref": "m6-topic-22",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 492,
+      "section_unit": 107,
+      "phrase_set_ref": "m6-topic-22",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 493,
+      "section_unit": 108,
+      "phrase_set_ref": "m6-topic-22",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 494,
+      "section_unit": 109,
+      "phrase_set_ref": "m6-topic-22",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 495,
+      "section_unit": 110,
+      "phrase_set_ref": "m6-topic-22",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 496,
+      "section_unit": 111,
+      "phrase_set_ref": "m6-topic-23",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 497,
+      "section_unit": 112,
+      "phrase_set_ref": "m6-topic-23",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 498,
+      "section_unit": 113,
+      "phrase_set_ref": "m6-topic-23",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 499,
+      "section_unit": 114,
+      "phrase_set_ref": "m6-topic-23",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 500,
+      "section_unit": 115,
+      "phrase_set_ref": "m6-topic-23",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 501,
+      "section_unit": 116,
+      "phrase_set_ref": "m6-topic-24",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 502,
+      "section_unit": 117,
+      "phrase_set_ref": "m6-topic-24",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 503,
+      "section_unit": 118,
+      "phrase_set_ref": "m6-topic-24",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 504,
+      "section_unit": 119,
+      "phrase_set_ref": "m6-topic-24",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 505,
+      "section_unit": 120,
+      "phrase_set_ref": "m6-topic-24",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 506,
+      "section_unit": 121,
+      "phrase_set_ref": "m6-topic-25",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 507,
+      "section_unit": 122,
+      "phrase_set_ref": "m6-topic-25",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 508,
+      "section_unit": 123,
+      "phrase_set_ref": "m6-topic-25",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 509,
+      "section_unit": 124,
+      "phrase_set_ref": "m6-topic-25",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 510,
+      "section_unit": 125,
+      "phrase_set_ref": "m6-topic-25",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 511,
+      "section_unit": 126,
+      "phrase_set_ref": "m6-topic-26",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 512,
+      "section_unit": 127,
+      "phrase_set_ref": "m6-topic-26",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 513,
+      "section_unit": 128,
+      "phrase_set_ref": "m6-topic-26",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 514,
+      "section_unit": 129,
+      "phrase_set_ref": "m6-topic-26",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 515,
+      "section_unit": 130,
+      "phrase_set_ref": "m6-topic-26",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 516,
+      "section_unit": 131,
+      "phrase_set_ref": "m6-topic-27",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 517,
+      "section_unit": 132,
+      "phrase_set_ref": "m6-topic-27",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 518,
+      "section_unit": 133,
+      "phrase_set_ref": "m6-topic-27",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 519,
+      "section_unit": 134,
+      "phrase_set_ref": "m6-topic-27",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 520,
+      "section_unit": 135,
+      "phrase_set_ref": "m6-topic-27",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 521,
+      "section_unit": 136,
+      "phrase_set_ref": "m6-topic-28",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 522,
+      "section_unit": 137,
+      "phrase_set_ref": "m6-topic-28",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 523,
+      "section_unit": 138,
+      "phrase_set_ref": "m6-topic-28",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 524,
+      "section_unit": 139,
+      "phrase_set_ref": "m6-topic-28",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 525,
+      "section_unit": 140,
+      "phrase_set_ref": "m6-topic-28",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 526,
+      "section_unit": 141,
+      "phrase_set_ref": "m6-topic-29",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 527,
+      "section_unit": 142,
+      "phrase_set_ref": "m6-topic-29",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 528,
+      "section_unit": 143,
+      "phrase_set_ref": "m6-topic-29",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 529,
+      "section_unit": 144,
+      "phrase_set_ref": "m6-topic-29",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 530,
+      "section_unit": 145,
+      "phrase_set_ref": "m6-topic-29",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 531,
+      "section_unit": 146,
+      "phrase_set_ref": "m6-topic-30",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 532,
+      "section_unit": 147,
+      "phrase_set_ref": "m6-topic-30",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 533,
+      "section_unit": 148,
+      "phrase_set_ref": "m6-topic-30",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 534,
+      "section_unit": 149,
+      "phrase_set_ref": "m6-topic-30",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 535,
+      "section_unit": 150,
+      "phrase_set_ref": "m6-topic-30",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 536,
+      "section_unit": 151,
+      "phrase_set_ref": "m6-topic-31",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 537,
+      "section_unit": 152,
+      "phrase_set_ref": "m6-topic-31",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 538,
+      "section_unit": 153,
+      "phrase_set_ref": "m6-topic-31",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 539,
+      "section_unit": 154,
+      "phrase_set_ref": "m6-topic-31",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 540,
+      "section_unit": 155,
+      "phrase_set_ref": "m6-topic-31",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 541,
+      "section_unit": 156,
+      "phrase_set_ref": "m6-topic-32",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 542,
+      "section_unit": 157,
+      "phrase_set_ref": "m6-topic-32",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 543,
+      "section_unit": 158,
+      "phrase_set_ref": "m6-topic-32",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 544,
+      "section_unit": 159,
+      "phrase_set_ref": "m6-topic-32",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 545,
+      "section_unit": 160,
+      "phrase_set_ref": "m6-topic-32",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 546,
+      "section_unit": 161,
+      "phrase_set_ref": "m6-topic-33",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 547,
+      "section_unit": 162,
+      "phrase_set_ref": "m6-topic-33",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 548,
+      "section_unit": 163,
+      "phrase_set_ref": "m6-topic-33",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 549,
+      "section_unit": 164,
+      "phrase_set_ref": "m6-topic-33",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 550,
+      "section_unit": 165,
+      "phrase_set_ref": "m6-topic-33",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 551,
+      "section_unit": 166,
+      "phrase_set_ref": "m6-topic-34",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 552,
+      "section_unit": 167,
+      "phrase_set_ref": "m6-topic-34",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 553,
+      "section_unit": 168,
+      "phrase_set_ref": "m6-topic-34",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 554,
+      "section_unit": 169,
+      "phrase_set_ref": "m6-topic-34",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 555,
+      "section_unit": 170,
+      "phrase_set_ref": "m6-topic-34",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 556,
+      "section_unit": 171,
+      "phrase_set_ref": "m6-topic-35",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 557,
+      "section_unit": 172,
+      "phrase_set_ref": "m6-topic-35",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 558,
+      "section_unit": 173,
+      "phrase_set_ref": "m6-topic-35",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 559,
+      "section_unit": 174,
+      "phrase_set_ref": "m6-topic-35",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 560,
+      "section_unit": 175,
+      "phrase_set_ref": "m6-topic-35",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 561,
+      "section_unit": 176,
+      "phrase_set_ref": "m6-topic-36",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 562,
+      "section_unit": 177,
+      "phrase_set_ref": "m6-topic-36",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 563,
+      "section_unit": 178,
+      "phrase_set_ref": "m6-topic-36",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 564,
+      "section_unit": 179,
+      "phrase_set_ref": "m6-topic-36",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 565,
+      "section_unit": 180,
+      "phrase_set_ref": "m6-topic-36",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 566,
+      "section_unit": 181,
+      "phrase_set_ref": "m6-topic-37",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 567,
+      "section_unit": 182,
+      "phrase_set_ref": "m6-topic-37",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 568,
+      "section_unit": 183,
+      "phrase_set_ref": "m6-topic-37",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 569,
+      "section_unit": 184,
+      "phrase_set_ref": "m6-topic-37",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 570,
+      "section_unit": 185,
+      "phrase_set_ref": "m6-topic-37",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 571,
+      "section_unit": 186,
+      "phrase_set_ref": "m6-topic-38",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 572,
+      "section_unit": 187,
+      "phrase_set_ref": "m6-topic-38",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 573,
+      "section_unit": 188,
+      "phrase_set_ref": "m6-topic-38",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 574,
+      "section_unit": 189,
+      "phrase_set_ref": "m6-topic-38",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 575,
+      "section_unit": 190,
+      "phrase_set_ref": "m6-topic-38",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 576,
+      "section_unit": 191,
+      "phrase_set_ref": "m6-topic-39",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 577,
+      "section_unit": 192,
+      "phrase_set_ref": "m6-topic-39",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 578,
+      "section_unit": 193,
+      "phrase_set_ref": "m6-topic-39",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 579,
+      "section_unit": 194,
+      "phrase_set_ref": "m6-topic-39",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 580,
+      "section_unit": 195,
+      "phrase_set_ref": "m6-topic-39",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 581,
+      "section_unit": 196,
+      "phrase_set_ref": "m6-topic-40",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 582,
+      "section_unit": 197,
+      "phrase_set_ref": "m6-topic-40",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 583,
+      "section_unit": 198,
+      "phrase_set_ref": "m6-topic-40",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 584,
+      "section_unit": 199,
+      "phrase_set_ref": "m6-topic-40",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 585,
+      "section_unit": 200,
+      "phrase_set_ref": "m6-topic-40",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 586,
+      "section_unit": 201,
+      "phrase_set_ref": "m6-topic-41",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 587,
+      "section_unit": 202,
+      "phrase_set_ref": "m6-topic-41",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 588,
+      "section_unit": 203,
+      "phrase_set_ref": "m6-topic-41",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 589,
+      "section_unit": 204,
+      "phrase_set_ref": "m6-topic-41",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 590,
+      "section_unit": 205,
+      "phrase_set_ref": "m6-topic-41",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 591,
+      "section_unit": 206,
+      "phrase_set_ref": "m6-topic-42",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 592,
+      "section_unit": 207,
+      "phrase_set_ref": "m6-topic-42",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 593,
+      "section_unit": 208,
+      "phrase_set_ref": "m6-topic-42",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 594,
+      "section_unit": 209,
+      "phrase_set_ref": "m6-topic-42",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 595,
+      "section_unit": 210,
+      "phrase_set_ref": "m6-topic-42",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 596,
+      "section_unit": 211,
+      "phrase_set_ref": "m6-topic-43",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 597,
+      "section_unit": 212,
+      "phrase_set_ref": "m6-topic-43",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 598,
+      "section_unit": 213,
+      "phrase_set_ref": "m6-topic-43",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 599,
+      "section_unit": 214,
+      "phrase_set_ref": "m6-topic-43",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 600,
+      "section_unit": 215,
+      "phrase_set_ref": "m6-topic-43",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 601,
+      "section_unit": 216,
+      "phrase_set_ref": "m6-topic-44",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 602,
+      "section_unit": 217,
+      "phrase_set_ref": "m6-topic-44",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 603,
+      "section_unit": 218,
+      "phrase_set_ref": "m6-topic-44",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 604,
+      "section_unit": 219,
+      "phrase_set_ref": "m6-topic-44",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 605,
+      "section_unit": 220,
+      "phrase_set_ref": "m6-topic-44",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 606,
+      "section_unit": 221,
+      "phrase_set_ref": "m6-topic-45",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 607,
+      "section_unit": 222,
+      "phrase_set_ref": "m6-topic-45",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 608,
+      "section_unit": 223,
+      "phrase_set_ref": "m6-topic-45",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 609,
+      "section_unit": 224,
+      "phrase_set_ref": "m6-topic-45",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 610,
+      "section_unit": 225,
+      "phrase_set_ref": "m6-topic-45",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 611,
+      "section_unit": 226,
+      "phrase_set_ref": "m6-topic-46",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 612,
+      "section_unit": 227,
+      "phrase_set_ref": "m6-topic-46",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 613,
+      "section_unit": 228,
+      "phrase_set_ref": "m6-topic-46",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 614,
+      "section_unit": 229,
+      "phrase_set_ref": "m6-topic-46",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 615,
+      "section_unit": 230,
+      "phrase_set_ref": "m6-topic-46",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 616,
+      "section_unit": 231,
+      "phrase_set_ref": "m6-topic-47",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 617,
+      "section_unit": 232,
+      "phrase_set_ref": "m6-topic-47",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 618,
+      "section_unit": 233,
+      "phrase_set_ref": "m6-topic-47",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 619,
+      "section_unit": 234,
+      "phrase_set_ref": "m6-topic-47",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 620,
+      "section_unit": 235,
+      "phrase_set_ref": "m6-topic-47",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 621,
+      "section_unit": 236,
+      "phrase_set_ref": "m6-topic-48",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 622,
+      "section_unit": 237,
+      "phrase_set_ref": "m6-topic-48",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 623,
+      "section_unit": 238,
+      "phrase_set_ref": "m6-topic-48",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 624,
+      "section_unit": 239,
+      "phrase_set_ref": "m6-topic-48",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 625,
+      "section_unit": 240,
+      "phrase_set_ref": "m6-topic-48",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 626,
+      "section_unit": 241,
+      "phrase_set_ref": "m6-topic-49",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 627,
+      "section_unit": 242,
+      "phrase_set_ref": "m6-topic-49",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 628,
+      "section_unit": 243,
+      "phrase_set_ref": "m6-topic-49",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 629,
+      "section_unit": 244,
+      "phrase_set_ref": "m6-topic-49",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 630,
+      "section_unit": 245,
+      "phrase_set_ref": "m6-topic-49",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 631,
+      "section_unit": 246,
+      "phrase_set_ref": "m6-topic-50",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 632,
+      "section_unit": 247,
+      "phrase_set_ref": "m6-topic-50",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 633,
+      "section_unit": 248,
+      "phrase_set_ref": "m6-topic-50",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 634,
+      "section_unit": 249,
+      "phrase_set_ref": "m6-topic-50",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 635,
+      "section_unit": 250,
+      "phrase_set_ref": "m6-topic-50",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 636,
+      "section_unit": 251,
+      "phrase_set_ref": "m6-topic-51",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 637,
+      "section_unit": 252,
+      "phrase_set_ref": "m6-topic-51",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 638,
+      "section_unit": 253,
+      "phrase_set_ref": "m6-topic-51",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 639,
+      "section_unit": 254,
+      "phrase_set_ref": "m6-topic-51",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 640,
+      "section_unit": 255,
+      "phrase_set_ref": "m6-topic-51",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 641,
+      "section_unit": 256,
+      "phrase_set_ref": "m6-topic-52",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 642,
+      "section_unit": 257,
+      "phrase_set_ref": "m6-topic-52",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 643,
+      "section_unit": 258,
+      "phrase_set_ref": "m6-topic-52",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 644,
+      "section_unit": 259,
+      "phrase_set_ref": "m6-topic-52",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    },
+    {
+      "unit": 645,
+      "section_unit": 260,
+      "phrase_set_ref": "m6-topic-52",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true
+    }
+  ],
+  "phrase_sets": [
+    {
+      "id": "m6-topic-01",
+      "title_source": "Express gratitude",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        386,
+        390
+      ],
+      "english_examples": [
+        "I appreciate your help around the house.",
+        "Thanks for watching my dog while I was on vacation.",
+        "It was nice of you to offer your help.",
+        "I'm so grateful for this wonderful opportunity.",
+        "Your gift made my day!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "appreciate + noun",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "thanks for + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "it was nice of you to + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-02",
+      "title_source": "Talk about your home",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        391,
+        395
+      ],
+      "english_examples": [
+        "Didn't you use to live in that neighborhood?",
+        "My neighbor's property is smaller than mine.",
+        "The people who live next door have a dog.",
+        "The dishwasher doesn't normally sound like that!",
+        "The guest room has its own bathroom.",
+        "I live next door to a café, so my house smells like coffee!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "didn't use to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "comparative smaller than",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "relative clause who",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Simple negative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "sound/smell like",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal/location expression next door to",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-03",
+      "title_source": "Talk about interests",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        396,
+        400
+      ],
+      "english_examples": [
+        "Peter has been telling me about your rugby club.",
+        "Where have you been playing tennis these days?",
+        "When I saw her comic collection, I think I fell in love!",
+        "Do you want to do yoga with me?",
+        "Yes, practicing yoga is a great way to feel less stressed.",
+        "We do lots of leisure activities, like hiking and painting."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Perfect Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "wh-question in PPC",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "want to + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "gerund subject",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "like + gerund examples",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-04",
+      "title_source": "Lead a conversation",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        401,
+        405
+      ],
+      "english_examples": [
+        "There are some people I'd like you to meet.",
+        "Sorry to interrupt, but are you talking about cooking shows?",
+        "Are there any other topics you would like to discuss?",
+        "As I was saying, my kids also go to that school.",
+        "Hang on, could you say that again?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "there are",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would like + object + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "discourse markers",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "could polite request",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07",
+        "B1-08",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-05",
+      "title_source": "Share anecdotes",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        406,
+        410
+      ],
+      "english_examples": [
+        "Do you remember the winter when the river froze?",
+        "Yes, we chose to spend the day relaxing instead of exploring.",
+        "Monica went home because she wasn't feeling well.",
+        "I heard that you saw my cousin at the game!",
+        "Mr. Lee has caught a cold three times this winter!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "relative time clause when",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "choose + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "instead of + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "reported content clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-06",
+      "title_source": "Recount your latest trip",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        411,
+        415
+      ],
+      "english_examples": [
+        "Your mom made a strange comment about the hotel.",
+        "It had been a long drive, but we got there safely.",
+        "The hotel breakfast was just a banana, so I complained!",
+        "Look, we clearly didn't intend to miss the flight.",
+        "The lady in customs made me open my suitcase."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Perfect",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "so result",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "intend + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "make + object + bare infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "adverb safely",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-07",
+      "title_source": "Talk about news",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        416,
+        420
+      ],
+      "english_examples": [
+        "I wonder if that story in the newspaper is true.",
+        "Will the president be defeated in the next election?",
+        "The mayor is going to open the new library.",
+        "Did you hear about the boy who was rescued from the jungle?",
+        "The earthquake in Japan was a terrible disaster.",
+        "When I saw the news, I wondered if everyone was ok."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indirect yes/no question if",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "future passive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be going to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "relative clause who + passive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indirect if question",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-08",
+      "title_source": "Talk about television",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        421,
+        425
+      ],
+      "english_examples": [
+        "This cartoon is based on a popular children's movie.",
+        "We've only seen three episodes so far.",
+        "I can't believe this is the final season!",
+        "This is the greatest cooking show they've ever made!",
+        "Is this lead actor the same one we saw in that comedy?",
+        "The ending was a huge surprise."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Perfect with so far/ever",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "superlative greatest",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "relative one",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "passive-like based on",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-09",
+      "title_source": "Talk about history",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        426,
+        430
+      ],
+      "english_examples": [
+        "She was born before planes were invented.",
+        "In the seventies, many people moved to the capital city.",
+        "The city's newest high school was built in 1984.",
+        "How did life change in 2020?",
+        "Many people started to work from home."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "passive was born/were invented/was built",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "did-question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "before clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "start + infinitive",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-10",
+      "title_source": "Make plans with friends",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        431,
+        435
+      ],
+      "english_examples": [
+        "Why don't you join us?",
+        "You've got to come over the next time we have a barbecue.",
+        "I'd like to go someplace with outdoor tables.",
+        "We'll have to get together one of these days.",
+        "I'll call you sometime soon and we'll make plans.",
+        "I've got to run, can I call you later?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Why don't suggestion",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have got to obligation",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "next time clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would like + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal get together",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-11",
+      "title_source": "Refer to extended family",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        436,
+        440
+      ],
+      "english_examples": [
+        "Your daughter and son-in-law are such a cute couple!",
+        "My in-laws are great, especially my mother-in-law.",
+        "You hadn't seen them since the wedding, had you?",
+        "He's the great-grandson of a famous artist.",
+        "Your great-grandfather looks like you in this photo!",
+        "We moved to Lima because my stepmother is from there.",
+        "We meet up with our extended family every Thanksgiving."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "compound family nouns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Perfect negative + tag",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "since",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "great-grandson",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "look like",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "because",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal meet up",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-12",
+      "title_source": "Make complaints",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        441,
+        445
+      ],
+      "english_examples": [
+        "What a mess!",
+        "How many times have I asked you to put away those shoes?",
+        "Stop hanging up on our customers, Kevin!",
+        "I'm disappointed that they never have any shoes in my size.",
+        "Please take my soup back, it's cold.",
+        "I'm trying to book it, but the website is so out-of-date!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "exclamatory what",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal put away/hang up/take back",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "stop + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "that-clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-07",
+        "B1-08",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-13",
+      "title_source": "Report what someone said",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        446,
+        450
+      ],
+      "english_examples": [
+        "The couple asked how to get a loan to buy a new house.",
+        "We asked how much the house was worth.",
+        "They asked when we planned to move.",
+        "Did you ask if the salesperson could confirm the price?",
+        "He asked how much money we needed for the loan.",
+        "They asked for my driver's license to confirm who I was."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "reported questions",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "embedded wh/if clauses",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "backshift was",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitive purpose",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ask for",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-08",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-14",
+      "title_source": "Talk about religion",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        451,
+        455
+      ],
+      "english_examples": [
+        "My grandpa is Muslim, and he prays five times a day.",
+        "Had you ever studied Jewish traditions before?",
+        "Yes, I grew up in a Jewish neighborhood.",
+        "Should I cover my head before I go into the temple?",
+        "In my religion, we believe in more than one god.",
+        "When I was a child, this was a very Catholic country."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Perfect question with ever/before",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "should",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "before/when clauses",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "more than",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-15",
+      "title_source": "Make suggestions",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        456,
+        460
+      ],
+      "english_examples": [
+        "I would advise you to get there early.",
+        "We'd suggest you email us if you can't come to class.",
+        "We could unpack now so we don't need to do it later.",
+        "Let's get there early so we can relax a bit before dinner.",
+        "I'd recommend the roasted lamb with rice."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "would advise + object + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "suggest + clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "could",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "if clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "so purpose/result",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "recommend + noun",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-05",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-16",
+      "title_source": "Plan a move",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        461,
+        465
+      ],
+      "english_examples": [
+        "The real estate agent said now is the best time to sell.",
+        "We're just moving across town, not to another country!",
+        "I have to move out of my apartment before December 15th.",
+        "She doesn't like the house, but she does like the location.",
+        "Tomorrow, I'll sign the lease for my new apartment.",
+        "Is the lease for six months or twelve?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "reported statement said",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "move out phrasal verb",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "do-emphasis",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will future",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ellipsis",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-17",
+      "title_source": "Apologize",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        466,
+        470
+      ],
+      "english_examples": [
+        "Sorry for calling so late, but I have some news.",
+        "There's no excuse for what I did, so I want to apologize.",
+        "I'm sorry for telling everyone, but I can't keep secrets!",
+        "Look, I messed up, and I'm sorry.",
+        "I have no excuses, Laura, what can I say?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "sorry for + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "excuse for + noun/clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "want to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal mess up",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no + plural",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-18",
+      "title_source": "Talk about your goals",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        471,
+        475
+      ],
+      "english_examples": [
+        "I'll find a job in the education industry after I graduate.",
+        "Antonio's dream is to be the world's greatest athlete.",
+        "My current goal is to earn a million dollars this year.",
+        "As soon as I get my certificate, I'll open my own business."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "will",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "after/as soon as time clauses",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Simple in time clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be/to be",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "superlative greatest",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-19",
+      "title_source": "Arrange auto maintenance",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        476,
+        480
+      ],
+      "english_examples": [
+        "Has the oil been changed since last year?",
+        "Will your insurance cover the problem with the windshield?",
+        "Can you fill up the tank, please?",
+        "But I filled up the tank yesterday evening!",
+        "The windows haven't been fixed yet, so you can't drive it.",
+        "How much do I owe you for the headlight repairs?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Perfect passive question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "since",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal fill up",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect passive negative + yet",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "can",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "owe",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-06"
+      ]
+    },
+    {
+      "id": "m6-topic-20",
+      "title_source": "Comment on food",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        481,
+        485
+      ],
+      "english_examples": [
+        "Yum, are those slices of peach on the chocolate cake?",
+        "Would you like scrambled eggs for breakfast?",
+        "No, I would rather order something spicier.",
+        "There's nothing better than the smell of fresh lime.",
+        "I wouldn't advise you to order the tuna salad."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "would like",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would rather + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "comparative spicier",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinite pronoun nothing",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "better than",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would advise + object + infinitive",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-21",
+      "title_source": "Communicate with doctors",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        486,
+        490
+      ],
+      "english_examples": [
+        "It's normal to have a few aches when you're pregnant.",
+        "What other symptoms do you have?",
+        "I feel pain in my ear after I swim.",
+        "We'll need your health insurance information, please.",
+        "It's too early to start the treatment.",
+        "Your results will be uploaded to the website tomorrow."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "it is + adjective + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "when/after clauses",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "too + adjective + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "future passive",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-22",
+      "title_source": "Talk about life at school",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        491,
+        495
+      ],
+      "english_examples": [
+        "I failed the midterm, so I have to pass the final exam!",
+        "I wasn't very happy with my report card.",
+        "My handwriting is so bad that I can't read my own sentences!",
+        "My teacher said that I needed to rewrite my assignment.",
+        "I like to read aloud to practice my pronunciation.",
+        "The university lost my forms, so I'll need to reapply."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "so...that",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "reported speech that + backshift",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "like + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitive purpose",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "reapply",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-23",
+      "title_source": "Plan a party",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        496,
+        500
+      ],
+      "english_examples": [
+        "I won't have to set up the party by myself, will I?",
+        "I can't set up the party until I know when everyone's free.",
+        "It's their anniversary, so we're supposed to dress up.",
+        "We should bring a gift, shouldn't we?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "negative tag question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal set up/dress up",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "until clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indirect when clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be supposed to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "should tag",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-24",
+      "title_source": "Talk about news",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        501,
+        505
+      ],
+      "english_examples": [
+        "There has been an increase in the price of gas.",
+        "Everyone at the protest is against the mayor's decision.",
+        "There was a flood warning on the news this evening.",
+        "Police think that more than one person was involved.",
+        "Most of the building was destroyed."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Perfect there has been",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "there was",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "passive was involved/was destroyed",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quantifiers",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "that clause",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-25",
+      "title_source": "Talk about traffic",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        506,
+        510
+      ],
+      "english_examples": [
+        "Stop looking at your phone, and concentrate on the road!",
+        "The city doesn't allow cars in parks or other green zones.",
+        "Why aren't they wearing their seatbelts?",
+        "That car in front of us had better speed up!",
+        "It's illegal to go over 25 miles per hour in a school zone.",
+        "Excuse me, you're not allowed to park here."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "stop + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "allow + object",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "had better",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "it is + adjective + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be allowed to",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-26",
+      "title_source": "Describe nature",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        511,
+        515
+      ],
+      "english_examples": [
+        "The grass is totally brown on the southern side of the hill.",
+        "There are wild horses in the southern part of the country.",
+        "The region has an amazing forest and lots of sandy beaches.",
+        "These flowers only grow in the eastern part of the state.",
+        "I've never seen a more beautiful landscape."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "there are",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "geographical adjectives",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect never",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "comparative more beautiful",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quantifiers",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-27",
+      "title_source": "Ask for and give advice",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        516,
+        520
+      ],
+      "english_examples": [
+        "If I were him, I wouldn't go out the night before a test.",
+        "The science department is using a new curriculum this year.",
+        "If you were in charge of curriculum, what would you change?",
+        "If I were you, I wouldn't wear anything too fancy.",
+        "If you were me, where would you go on vacation?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "second conditional if + past, would",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "were for hypothetical",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "negative would",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-05",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-28",
+      "title_source": "Talk about professional life",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        521,
+        525
+      ],
+      "english_examples": [
+        "In my new role, I'll be responsible for staff training.",
+        "If I had more experience, I would make more money.",
+        "Is the meeting online or face-to-face?",
+        "At my first job, I earned a low hourly wage.",
+        "Working as a vet was stressful, so I changed careers.",
+        "I saw your presentation at the tech conference last week!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "will",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "second conditional",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "gerund subject",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "so result",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-05",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-29",
+      "title_source": "Talk about places",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        526,
+        530
+      ],
+      "english_examples": [
+        "The golf course at this resort is beautiful.",
+        "Our hotel has a spa, a pool, and tennis courts.",
+        "Their room has a hot tub on the balcony!",
+        "That region has huge cliffs and spectacular caves.",
+        "There's been more tourism here in the past five years.",
+        "The atmosphere here is so relaxing."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "there has been",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect + time phrase",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "adjective -ing",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-07",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-30",
+      "title_source": "Talk about famous people",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        531,
+        535
+      ],
+      "english_examples": [
+        "He is well-known as the best director of all time.",
+        "The actor had never starred in an American film before.",
+        "I never knew about his childhood until I read his biography.",
+        "Of all the actors on that show, she has the most fans.",
+        "Have you heard any good celebrity gossip lately?",
+        "My friend thinks Sofia is going to leave the show."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "superlative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Perfect negative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "until clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indirect statement",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "going to",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-31",
+      "title_source": "Talk about food",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        536,
+        540
+      ],
+      "english_examples": [
+        "If you're grilling chicken, make sure to cook it well.",
+        "Are these noodles made with rice flour?",
+        "It wasn't completely raw, but it was still a little pink.",
+        "Would you like some lime in your sparkling water?",
+        "Organic tomatoes are much tastier, aren't they?",
+        "I need a dozen eggs, but I only have seven."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "if clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "make sure to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "passive made with",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple be",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would like",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "much + comparative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tag question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quantities",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-05",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-32",
+      "title_source": "Maintain a conversation",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        541,
+        545
+      ],
+      "english_examples": [
+        "Before I forget, let me tell you about Anna's party.",
+        "I just wanted to ask you a few questions.",
+        "Wait just a moment, someone is knocking at the door.",
+        "Where did you learn how to do that?",
+        "So, is your cousin Fred dating anyone at the moment?",
+        "Anyway, how's your brother doing?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "before clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "let + object + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple wanted",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "wh-question + how to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinite pronoun anyone",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-07",
+        "B1-08",
+        "B1-09"
+      ]
+    },
+    {
+      "id": "m6-topic-33",
+      "title_source": "Return an item",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        546,
+        550
+      ],
+      "english_examples": [
+        "Is this the line for making returns?",
+        "You can't return any damaged items after 30 days.",
+        "My tent is damaged, so I would like to exchange it, please.",
+        "You can exchange it, or we can give you store credit."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "gerund after for",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "can/can't",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "passive adjective damaged",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would like + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "so/or",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-06",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-34",
+      "title_source": "Make announcements",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        551,
+        555
+      ],
+      "english_examples": [
+        "Ladies and gentlemen, I'm so glad you all could come.",
+        "Let's make a toast to the beautiful couple.",
+        "It's my pleasure to welcome our next guest to the stage.",
+        "Please listen, I have an important announcement.",
+        "Now, we'll take a fifteen-minute break."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "could",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitive after pleasure",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will future",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-35",
+      "title_source": "Describe your home",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        556,
+        560
+      ],
+      "english_examples": [
+        "Wow, anything would fit in this huge garage!",
+        "Each of the bedrooms is twelve feet wide.",
+        "The pipes in this house are more than a hundred years old.",
+        "These cupboards have plenty of space for all our dishes.",
+        "This wall is three meters long, so the sofa should fit here.",
+        "He would have replaced the whole roof, but it cost too much."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "would + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "each of",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "more than",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "plenty of",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "should",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would have + past participle counterfactual",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-05",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-36",
+      "title_source": "Talk about mistakes",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        561,
+        565
+      ],
+      "english_examples": [
+        "If I had gone to bed earlier, I would have woken up on time.",
+        "I might be mistaken, but I think we missed the exit.",
+        "I have an important test, but I forgot my lucky pencil!",
+        "I feel so guilty for forgetting your birthday!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "third conditional if + Past Perfect/would have",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "might",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "guilty for + gerund",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-05",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-37",
+      "title_source": "Express fear",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        566,
+        570
+      ],
+      "english_examples": [
+        "I never used to get scared at night, but now I do.",
+        "It must be frightening to have such a risky job.",
+        "I got so scared that I could hardly breathe!",
+        "We told ghost stories and all the kids were frightened.",
+        "To face my fears, I volunteered to make a speech at work."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "used to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "must",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "so...that",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "-ing/-ed adjectives",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitive purpose",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "volunteer + infinitive",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-04",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-38",
+      "title_source": "Use the internet",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        571,
+        575
+      ],
+      "english_examples": [
+        "Why don't you delete the app and install it again?",
+        "I'm not used to the new software yet.",
+        "When I press the keys, nothing appears on the screen.",
+        "Be patient and stop pressing all the buttons!",
+        "Click here to share your document with other users.",
+        "Oh, there's something wrong with my webcam."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Why don't suggestion",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be used to + noun",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "when clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nothing",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "stop + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitive purpose",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-39",
+      "title_source": "Talk about the arts",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        576,
+        580
+      ],
+      "english_examples": [
+        "Have you heard of the small art museum on Fourth Street?",
+        "I've never been there, but it's supposed to be amazing.",
+        "He was going to show us his most famous works of art.",
+        "Can I read you this poem?",
+        "I thought you'd enjoy this book of short stories."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Perfect ever/never",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be supposed to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "was going to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "superlative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indirect object",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would/enjoy",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-40",
+      "title_source": "Describe traditions",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        581,
+        585
+      ],
+      "english_examples": [
+        "We used to paint Easter eggs at school in the springtime.",
+        "We always put Christmas decorations in the front yard.",
+        "The supermarket is always full of pumpkins in the fall.",
+        "Let's carve a pumpkin to make a jack-o-lantern!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "used to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Simple habits",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be full of",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitive purpose",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-02",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-41",
+      "title_source": "Eat at a restaurant",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        586,
+        590
+      ],
+      "english_examples": [
+        "Does the white sauce have any dairy?",
+        "It's like milk, but it doesn't actually have any dairy.",
+        "Would you be interested in any appetizers tonight?",
+        "Could I get a side of bacon as an appetizer?",
+        "We're definitely going to need more napkins!",
+        "Excuse me, we haven't been brought our chicken wings yet."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "any",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "doesn't",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "would be interested in",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "could polite request",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "going to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Perfect passive negative",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-06"
+      ]
+    },
+    {
+      "id": "m6-topic-42",
+      "title_source": "Discuss the environment",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        591,
+        595
+      ],
+      "english_examples": [
+        "The forests are being destroyed, which is terrible!",
+        "What is being done to protect this natural habitat?",
+        "Over ten thousand trees will be planted here this year.",
+        "Global warming is one of today's biggest problems.",
+        "Our land is being polluted by the factory."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Continuous passive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "passive question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "future passive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "relative which",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "superlative/one of",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-43",
+      "title_source": "Express preferences",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        596,
+        600
+      ],
+      "english_examples": [
+        "Dad would have preferred to watch a drama.",
+        "I would have chosen a different actress to play the queen.",
+        "How was the concert?",
+        "I liked it, but I would have preferred different music.",
+        "I generally dislike the circus, but this one is amazing!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "would have + past participle",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "prefer + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "choose",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "dislike + noun",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-05",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-44",
+      "title_source": "Talk about beauty",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        601,
+        605
+      ],
+      "english_examples": [
+        "Is there a salon in the area that you'd recommend?",
+        "No, I cut my own hair because the salon is too expensive.",
+        "I get my nails done at a place on Green Street.",
+        "I learned how to do my own makeup by watching online videos.",
+        "For the wedding, I got my makeup done by a professional."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "relative clause that",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "because",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "causative get + object + past participle",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "how to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "by + gerund",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-45",
+      "title_source": "Shop for sales",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        606,
+        610
+      ],
+      "english_examples": [
+        "I'm saving my money for the sales after Christmas.",
+        "That's more than what we can afford to spend right now.",
+        "Do you have to pay for shipping?",
+        "The ad didn't mention anything about shipping fees.",
+        "With the discount code, the price is very reasonable.",
+        "I can't afford to go shopping at these expensive stores!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Continuous",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "more than what clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "afford + infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "anything",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "can't afford to",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-46",
+      "title_source": "Comment on sports",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        611,
+        615
+      ],
+      "english_examples": [
+        "Gymnastics is a difficult sport!",
+        "There should not be any swimmers in the diving area.",
+        "They have the best offense in the league.",
+        "And their defense is better than their offense!",
+        "Do you think anyone can beat his record?",
+        "No one will ever beat that record!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "should not",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "any",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "superlative best",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "comparative better than",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "anyone/no one",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will future",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-06"
+      ]
+    },
+    {
+      "id": "m6-topic-47",
+      "title_source": "Talk about wellness",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        616,
+        620
+      ],
+      "english_examples": [
+        "Do you need to take a sick day?",
+        "My fitness plan is to do three workouts a week.",
+        "What hobbies are you into?",
+        "I'm really into sports and fitness.",
+        "My wife tells me not to have too much salt."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "need to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "plan is to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "be into",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tell + object + not to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "too much",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-04",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "m6-topic-48",
+      "title_source": "Collaborate at work",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        621,
+        625
+      ],
+      "english_examples": [
+        "Can you sign the contract and send it back to us?",
+        "Um, you got my name wrong on the contract.",
+        "Did you say you're the person who deals with complaints?",
+        "Could you give me some tips about how to write this report?",
+        "Let me see whether I can answer that question.",
+        "Just a minute, I'll call you back!"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "can/could request",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "phrasal send back/call back",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "relative who",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "about how to",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "whether embedded question",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-49",
+      "title_source": "Resolve problems",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        626,
+        630
+      ],
+      "english_examples": [
+        "Can you ask the flight attendant for help?",
+        "They hadn't brought all their documents, had they?",
+        "All flights from Central America are canceled due to storms.",
+        "How did your flight go?",
+        "The self-service system wouldn't let us check our bags."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "can request",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Perfect negative + tag",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "passive are canceled",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "wouldn't let + object + infinitive",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-06",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-50",
+      "title_source": "Talk about news",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        631,
+        635
+      ],
+      "english_examples": [
+        "She'll likely go to jail for a minimum of six months.",
+        "What were the criminal's demands?",
+        "His demands included a helicopter and a million dollars!",
+        "The jury couldn't agree, which was a big surprise to me.",
+        "Why isn't there more support for the protest?"
+      ],
+      "grammar_observations": [
+        {
+          "topic": "will + likely",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "couldn't",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "relative which",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "there is question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quantifier more",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-51",
+      "title_source": "Talk about history",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        636,
+        640
+      ],
+      "english_examples": [
+        "Humans learned how to control fire and cook their food.",
+        "By the 4th century, their ancient society had disappeared.",
+        "Despite the war, trade continued between the two countries.",
+        "They won the war, even though they had a smaller army."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "how to infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Past Perfect",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "by + time point",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "despite + noun",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "even though + clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "comparative smaller",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "m6-topic-52",
+      "title_source": "Express wishes",
+      "source_language": "en",
+      "translation_status": "not_provided",
+      "source_unit_range": [
+        641,
+        645
+      ],
+      "english_examples": [
+        "I wish it weren't raining right now.",
+        "I wish you would stop singing that silly song!",
+        "Do you have any regrets about how you acted?",
+        "I wish I had remembered to call you.",
+        "I'm hopeful that next year will be better."
+      ],
+      "grammar_observations": [
+        {
+          "topic": "wish + past/subjunctive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "wish + would",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "stop + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indirect how clause",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "wish + Past Perfect",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "that clause",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-05",
+        "B1-08"
+      ]
+    }
+  ],
+  "source_structure": {
+    "repetition_pattern": "52 egymást követő témacsoport, mindegyik 5 egységben azonos Guidebook-címet és példamondatokat ismétel.",
+    "example_translation_policy": "not_provided; do not generate or assume Hungarian translations.",
+    "unit_indexing": "All 260 course-local parts and course-wide ids are preserved individually."
+  },
+  "source_conflicts": [
+    {
+      "type": "missing_translations",
+      "unit_range": [
+        386,
+        645
+      ],
+      "note": "A bemásolt angol kulcskifejezésekhez nem érkezett magyar fordítás."
+    },
+    {
+      "type": "repeated_content",
+      "unit_range": [
+        386,
+        645
+      ],
+      "note": "52 egymást követő ötös egységblokk ismétli a címeket és a példamondatokat. A phrase_sets 52 egyedi mondatblokkot, a units mind a 260 egyedi részt tartalmazza."
+    }
+  ]
+}
