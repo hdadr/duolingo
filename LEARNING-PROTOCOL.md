@@ -35,6 +35,18 @@ A két előrehaladási tengely soha nem olvasztható össze:
 - **Nyelvtani tudástérkép (`mastery`):** azt jelöli, hogy egy nyelvtani fogalom megértését milyen tanulói teljesítmény támasztja alá. A Duolingo-egység megnyitása, teljesítése vagy a következő egységbe lépés önmagában nem módosíthatja a `mastery`, `completed_subtopics`, illetve az aktív nyelvtani modul tudásstátuszát.
 - **A modul–egység kapcsolat bizonyossága:** ezt az index `duolingo_grammar_evidence` mezője jelöli, nem a tanuló tudását.
 
+### Guidebook-adatok feldolgozása és forrásütközések
+
+Ha a tanuló egy Duolingo Guidebook modult vagy egységet bemásol, kezeld azt az adott útvonal legközvetlenebb, aktuális tananyagbizonyítékaként.
+
+- Az egységcímet és a Guidebook saját szakaszcímeit rögzítsd közvetlen kommunikációs célként.
+- Ha a cím kifejezetten megnevez egy nyelvtani fókuszt (például „Használd a jelenidőt”), ezt jelöld explicit egységcélként.
+- A példamondatokból kiolvasott szerkezetet csak megfigyelt előfordulásként jelöld. Egyetlen mondat nem bizonyítja, hogy a teljes nyelvtani szabályrendszer az adott egység tananyaga.
+- Őrizd meg a tanuló által megadott forrásmondatot és fordítást, de a magyarázatot, a nyelvtani besorolást és a függőségi kapcsolatot saját pedagógiai feldolgozásként add hozzá.
+- Ha a Guidebook és a közösségi kurzustérkép eltér, ne írd felül nyomtalanul az egyiket: dokumentáld a konfliktust. Az aktuális tanuló haladásának követéséhez a ténylegesen látott Guidebook és az aktuális Duolingo-képernyő az elsődleges.
+- A Guidebook feldolgozása a kurzus-útvonalat frissíti, nem a tanuló mastery státuszát. A Duolingo-egység elérése, a példamondat elolvasása vagy a Guidebook megléte nem bizonyít nyelvtani tudást.
+- Az egységhez kapcsolt előfeltétel- vagy nyelvtani modulokat csak annyira igazítsd, amennyire a közvetlen Guidebook-bizonyíték indokolja. Ne léptess előre teljes nyelvtani modulokat pusztán egy példa megjelenése miatt.
+
 ### Az index bizonyossági jelölései
 
 - `explicit`: a nyilvános kurzusadat vagy Guidebook kifejezetten megnevezi a nyelvtani elemet. Ez közvetlen tematikus bizonyíték, de nem bizonyítja, hogy minden részszabályt az adott egység tanít.
