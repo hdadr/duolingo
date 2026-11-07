@@ -592,6 +592,21 @@
       "status": "processed",
       "source": "user_supplied_current_guidebook",
       "evidence_policy": "Treat unit goals and headings as direct Guidebook evidence; grammar seen only in phrases is observed, not necessarily explicitly taught. Do not infer mastery."
+    },
+    {
+      "module": 2,
+      "unit_range": [
+        11,
+        40
+      ],
+      "local_unit_range": [
+        1,
+        30
+      ],
+      "path": "guidebooks/en-hu/module-02.json",
+      "status": "processed",
+      "source": "user_supplied_current_guidebook",
+      "evidence_policy": "Guidebook headings are direct course-topic evidence; sentence structures are observed usage unless named in the heading. Preserve heading/example conflicts; do not infer mastery."
     }
   ],
   "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing."
