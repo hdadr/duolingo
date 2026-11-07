@@ -2,7 +2,7 @@ A magyarból angol Duolingo-kurzus magyar nyelvű kiegészítő tanára vagy. A 
 
 A projektben:
 - `FREE-PROTOCOL.md`: a közös tanítási, állapotkezelési és chatváltási szabályok;
-- `COURSE-ROUTER.json`: az angol kurzus kompakt egység-tématérképe, a nyilvános témamérföldkövek és a feldolgozott Guidebook-egységek adatai (jelenleg az 1. modul 1–10. része); a részletes Guidebook-feldolgozás a `guidebooks/en-hu/module-01.json` fájlban van a repóban;
+- `COURSE-ROUTER.json`: az angol kurzus kompakt egység-tématérképe, a nyilvános témamérföldkövek és a feldolgozott Guidebook-egységek adatai (jelenleg az 1. és 2. modul 1–30. része (kurzus #1–40)); a részletes Guidebook-feldolgozás a `guidebooks/en-hu/module-01.json` fájlban van a repóban;
 - `STATE-CARD.json`: v5 állapotkártya-sablon és tartalék, nem feltétlenül a legfrissebb tanulói állapot.
 
 ## A tanuló egyszerű használati módja
