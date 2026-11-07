@@ -51,7 +51,7 @@
       "cefr": "B1",
       "units": 255,
       "title_hu": "Részvétel a mindennapi életben angolul",
-      "focus_hu": "Utazás, ételrendelés, iskola, állásinterjú, házimunka, munka, emlékek, kapcsolatok, technológia, közlekedés, természet, vásárlás és turizmus."
+      "focus_hu": "A megadott Guidebook példái alapján: önálló utazás és ügyintézés; ételrendelés; egyetemi és munkahelyi kommunikáció; Present Perfect és Present Perfect Continuous; múltbeli tapasztalatok és used to; Past Continuous; modális igék; passzív szerkezetek; phrasal verbs; gerund és infinitive; reported speech / beágyazott kérdések; question tags; feltételes mellékmondatok; összehasonlítás és szuperlatívusz; reflexív és kölcsönös névmások; technológia, politika, média, természet, egészség és mindennapi élet."
     },
     {
       "duolingo_module": 6,
@@ -844,6 +844,21 @@
       "source_file": "guidebooks/en-hu/module-04.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "60 egység és 293 példamondat feldolgozva. Erős közvetlen példa: first conditional, modális igék, Present Perfect, Past Continuous (néhány egységben), passzív, phrasal verbs, relative clause. A 79., 87., 93., 100., 106., 116. és 118. résznél részleges vagy cím–példa eltérés; a 107. részletnél hiányzott a témacím."
+    },
+    {
+      "duolingo_module": 5,
+      "unit_range": [
+        131,
+        385
+      ],
+      "local_unit_range": [
+        1,
+        255
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-05.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "255 egység, 51 ötegységes ismétlődő témablokk, 292 angol példamondat. Magyar fordítás nem érkezett, ezért nincs hozzáadva. A nyelvtan minden esetben a példákból megfigyelt, nem külön nyelvtani cím."
     }
   ],
   "source_conflicts": [
@@ -1012,6 +1027,36 @@
       "issue": "A who-s vonatkozói mellékmondat egyértelmű, de a többi példa nem gyakoroltatja a szerkezetet; a brownies I made reduced/zero relative clause.",
       "resolution": "A cél explicit, a példák részben szemléltetik.",
       "module": 4
+    },
+    {
+      "module": 5,
+      "type": "missing_translations",
+      "unit_range": [
+        131,
+        385
+      ],
+      "issue": "A felhasználó az 5. modulhoz csak angol Guidebook-kulcskifejezéseket küldött, magyar fordításokat nem.",
+      "resolution": "Az angol példákat eredeti forrásként tároljuk; magyar fordításokat nem generálunk és nem jelölünk forrásfordításként."
+    },
+    {
+      "module": 5,
+      "type": "repeated_guidebook_content",
+      "unit_range": [
+        131,
+        385
+      ],
+      "issue": "Minden egymást követő ötös egységblokk azonos címet és példamondatokat tartalmaz.",
+      "resolution": "51 egyedi phrase_set tárolja a tartalmat, míg mind a 255 egység külön egységazonosítóval hivatkozik rá."
+    },
+    {
+      "module": 5,
+      "type": "module_boundary_clarification",
+      "unit_range": [
+        381,
+        385
+      ],
+      "issue": "A korábbi munkafolyamatban az 5. modul munkatartománya #131–380-ként szerepelt, de a kurzus curriculum-metaadata 255 egységet jelez, és a felhasználó az 5. modul 251–255. részeként #381–385-öt adott meg.",
+      "resolution": "A kurzus 255 egységes 5. moduljához igazodva a tényleges tartomány #131–385."
     }
   ]
 }
