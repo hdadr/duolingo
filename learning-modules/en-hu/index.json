@@ -659,9 +659,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 7,
       "end_line": 18,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "observed_guidebook_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Third/mixed conditional structures occur in module 8 examples, especially the counterfactual and limitations topics."
     },
     {
       "id": "B2-02",
@@ -676,9 +676,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 20,
       "end_line": 30,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "observed_guidebook_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Modal perfect deduction is directly visible in the news-report and deduction phrase sets."
     },
     {
       "id": "B2-03",
@@ -692,9 +692,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 32,
       "end_line": 43,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "explicit_guidebook_heading_and_observed_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Past Perfect Passive is explicitly named at #961–965; other passive variants are also observed."
     },
     {
       "id": "B2-04",
@@ -708,9 +708,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 45,
       "end_line": 56,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "observed_guidebook_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Reported statements, embedded questions and reporting clauses are visible in examples."
     },
     {
       "id": "B2-05",
@@ -724,9 +724,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 58,
       "end_line": 69,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "observed_guidebook_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Multiple subordinate clauses, embedded questions, relatives, conditionals and concessive clauses appear in examples."
     },
     {
       "id": "B2-06",
@@ -740,9 +740,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 71,
       "end_line": 82,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "explicit_guidebook_headings_and_observed_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Present Perfect Progressive (#851–855) and Future Perfect Progressive (#926–930) are explicitly named Guidebook grammar topics."
     },
     {
       "id": "B2-07",
@@ -756,9 +756,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 84,
       "end_line": 95,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "observed_guidebook_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Cleft sentence and negative inversion are visible in the counterargument and campfire-story phrase sets."
     },
     {
       "id": "B2-08",
@@ -773,9 +773,9 @@
       "path": "learning-modules/en-hu/b2.md",
       "start_line": 97,
       "end_line": 113,
-      "duolingo_grammar_evidence": "reference_only",
+      "duolingo_grammar_evidence": "observed_guidebook_examples",
       "evidence_basis": "reference",
-      "evidence_note": "This module is included as a CEFR/grammar reference. No direct public course evidence establishes that this exact grammar point is taught in the mapped unit."
+      "evidence_note": "Discourse markers, hedging, counter-argument, disagreement and softened requests occur throughout module 8."
     }
   ],
   "evidence_policy": "duolingo_grammar_evidence records the strength of a grammar-to-unit link: explicit (named in public course data), observed (seen in an actual unit example but not named as a target), inferred (probable from theme/reference), reference_only (CEFR/reference mapping only), or unknown. It is separate from learner mastery.",
@@ -887,7 +887,29 @@
       "topic_group_count": 36,
       "translation_status": "not_provided",
       "evidence_policy": "Guidebook titles are direct topic evidence; grammar in English examples is observed usage, not necessarily explicit instruction. Five sequential units repeat a common phrase set. Preserve all 180 coordinates; do not invent Hungarian translations or infer learner mastery."
+    },
+    {
+      "module": 8,
+      "unit_range": [
+        826,
+        1005
+      ],
+      "local_unit_range": [
+        1,
+        180
+      ],
+      "path": "guidebooks/en-hu/module-08.json",
+      "status": "processed",
+      "source": "user_supplied_current_guidebook",
+      "topic_group_count": 36,
+      "translation_status": "not_provided",
+      "explicit_grammar_headings": [
+        "Present Perfect Progressive (#851–855)",
+        "Future Perfect Progressive (#926–930)",
+        "Past Perfect Passive (#961–965)"
+      ],
+      "evidence_policy": "Only the explicitly named Present Perfect Progressive, Future Perfect Progressive and Past Perfect Passive headings count as direct grammar-heading evidence. Grammar in other examples is observed usage. Preserve all 180 unit coordinates; do not invent Hungarian translations or infer mastery."
     }
   ],
-  "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing. A 7. modul feldolgozott Guidebook-forrása a guidebooks/en-hu/module-07.json (#646–825; 180 egység, 36 ismétlődő ötegységes témacsoport, magyar fordítás nélkül). A nyelvtani címkéket a példamondatokból megfigyelt előfordulásként kezeld, ne mastery-adatként."
+  "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing. A 7. modul feldolgozott Guidebook-forrása a guidebooks/en-hu/module-07.json (#646–825; 180 egység, 36 ismétlődő ötegységes témacsoport, magyar fordítás nélkül). A nyelvtani címkéket a példamondatokból megfigyelt előfordulásként kezeld, ne mastery-adatként. 8. modul: guidebooks/en-hu/module-08.json, 180 egység (#826–1005), 36 ötös témacsoport. Explicit nyelvtani címek: Present Perfect Progressive, Future Perfect Progressive, Past Perfect Passive; a többi nyelvtan példákból megfigyelt."
 }
