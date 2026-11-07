@@ -479,6 +479,62 @@ Fő témák: engedélykérés és szabályok, egészség, munka, kertészkedés,
 
 **Nyelvtani következtetés:** összetettebb feltételes mondatok, modális igék következtetéshez, jövő és hipotézis, árnyalt vélemény, függő beszéd, összetett mellékmondatok és kötőszók.
 
+### 2.7.1 Guidebook-alapú egységtérkép – 7. modul (2026-11-07)
+
+A 7. modul 180 helyi egysége a kurzus #646–825. részeit fedi le. A bemásolt Guidebook 36 egymást követő, egyenként öt egységben ismétlődő témablokkot tartalmaz. A deduplikált forrásanyag 187 egyedi angol példamondatot tartalmaz; magyar fordítás nem érkezett.
+
+| Helyi egységek | Kurzus-részek | Guidebook-cél | Példákból megfigyelhető nyelvtan |
+|---:|---:|---|---|
+| 1–5 | #646–#650 | Give and get permission | be allowed to + infinitive; as long as: feltételes/időbeli mellékmondat; can I...? engedélykérés; be able to; tell + object + not to infinitive |
+| 6–10 | #651–#655 | Give health advice | reported speech: could recommend / said she could; can képességre/lehetőségre; to-infinitive célhatározói használata; imperative tanácsadás; supposedly: álláspontot jelölő határozószó; gerund alanyként |
+| 11–15 | #656–#660 | Discuss moving | Present Continuous jövőbeli tervre; tagadó kérdés: wouldn't you...?; reported speech / would backshift; would love + noun phrase |
+| 16–20 | #661–#665 | Give advice | should have + past participle: múltbeli kritika/tanács; could have + past participle: elmulasztott lehetőség; Let's not + infinitive; Are you saying (that)...? beágyazott kérdés |
+| 21–25 | #666–#670 | Take on a project | adjective + to-infinitive; without a doubt: nyomatékosító fordulat; can + definitely: bizonyosság; now that: ok/idő kapcsolat; let's + infinitive; could udvarias javaslatra/kérésre; maybe: óvatosítás |
+| 26–30 | #671–#675 | Talk about gardening | modal + be + past participle: passzív kérdés; imperative tiltás; to-infinitive célra/alkalmasságra; comparative: bigger; too + adjective + to-infinitive |
+| 31–35 | #676–#680 | Plan a trip | somewhere + adjective; tagadó kérdés; imperative + so that cél/következmény; comparative adverb: more quickly; first conditional; future passive: will be sold out |
+| 36–40 | #681–#685 | Catch up at a reunion | Present Perfect: időtartam/tapasztalat; get over + wh-clause; engaged to: participle/adjectival construction; whose: birtokos vonatkozó névmás; make + object + adjective + to-infinitive; whose + noun relative clause |
+| 41–45 | #686–#690 | Talk about politics | Future Continuous; Future Perfect: by + future time; be going to in embedded clause; relative clause: a law that...; question tag; issue/campaign political vocabulary |
+| 46–50 | #691–#695 | Predict the weather | first conditional / if-clause; might: possibility; future passive: will be covered/canceled; it's possible that + clause; be going to; second conditional: it'd be fun if...; because-clause |
+| 51–55 | #696–#700 | Discuss potential risks | could: lehetséges következmény; be careful not to + infinitive; risk + noun / gerund; reported speech: said he'd; have to: kötelezettség; not to-infinitive |
+| 56–60 | #701–#705 | Discuss obligations | imperative request; Past Simple; should + be + -ing: elvárt/valószínű cselekvés; gerund alanyként; any chance + could: udvarias kérés; phrasal verb: fill up |
+| 61–65 | #706–#710 | Debunk American clichés | it is a myth that + clause; noun + that-clause; comparative: more diverse; it seems that + clause; except + object; not necessarily: árnyalás |
+| 66–70 | #711–#715 | Express regret | wish + would: kívánt változás/múltbeli eseményre utaló alak; if only + Past Perfect; wish + Past Perfect: múltbeli megbánás; instead of + gerund; it turns out that + clause |
+| 71–75 | #716–#720 | Talk about college | be able to múlt ideje; Present Perfect + yet; embedded how-clause; Present Perfect in embedded clause; have to: kötelezettség; right? megerősítést kérő tag |
+| 76–80 | #721–#725 | Reminisce about the past | remember when + clause; Past Simple; would: ismétlődő múltbeli szokás; wh-question; to-infinitive célra |
+| 81–85 | #726–#730 | Express preferences | exclamative how + adjective; but kontraszt; in style: állandósult kifejezés; nothing better than + noun/gerund; comparative + than; gerund after than |
+| 86–90 | #731–#735 | Communicate at work | the reason that + clause / purpose infinitive; Past Simple passive: were cut; elliptical evaluative utterance; the point is (that); it is time to + infinitive; once time clause + future main clause; reflexive/emphatic itself |
+| 91–95 | #736–#740 | Discuss etiquette | Present Simple for conventions; after having + past participle: perfect gerund; make + object + bare infinitive + adjective; make sure that + clause; after + perfect gerund |
+| 96–100 | #741–#745 | Describe symptoms | Past Simple + current result; as though + clause; Present Simple habitual; any + uncountable noun; Present Perfect Continuous / PPC |
+| 101–105 | #746–#750 | Talk about (home) renovations | Past Simple negative; until time clause; worried that + clause; first conditional-like if + present, could consequence; relative clause: that went...; Present Perfect passive; now that: cause/time clause |
+| 106–110 | #751–#755 | Talk about relationships | would + infinitive: hypothetical/habitual; have to: obligation; it looks like + clause; Present Perfect; imperative + try to + infinitive |
+| 111–115 | #756–#760 | Tell stories | after + gerund/participle clause; Past Continuous + Past Simple; until + clause; embedded question; Present Perfect Continuous |
+| 116–120 | #761–#765 | Talk about goals | gerund as subject; second conditional / hypothetical if + Past Simple, would; work at + gerund; Present Perfect of have to; the more..., the more... correlative comparative |
+| 121–125 | #766–#770 | Exchange gossip/talk about rumors | reported speech with multiple backshifts; embedded why-question; reported claim + Past Perfect; swear + reported clause; hear + clause |
+| 126–130 | #771–#775 | Narrate past events | Past Perfect Continuous; Past Continuous; Past Simple narrative sequence; so result clause; after + Past Perfect Continuous |
+| 131–135 | #776–#780 | Make complaints | Present Continuous + constantly for irritation; must: strong inference; always + Present Continuous complaint; the issue is that + clause; be going to question |
+| 136–140 | #781–#785 | Discuss cause and effect | because + cause clause; gerund subject; consequently: result linker; make + object + bare infinitive; the more..., the less... correlative comparative |
+| 141–145 | #786–#790 | Talk about television | sort of / kind of: hedging; relative clause with where; relative clause with that; Present Continuous in relative clause; should + infinitive; Past Simple relative clause |
+| 146–150 | #791–#795 | Talk about news | Present Continuous active; Past Simple passive; in spite of + noun phrase: concession; Past Simple |
+| 151–155 | #796–#800 | Express opinions | Present Perfect + always; that-clause complement; indefinite pronoun + relative clause; from my point of view: stance phrase; negative/positive indefinite pronouns; question for evaluation |
+| 156–160 | #801–#805 | Comfort somebody | indefinite pronouns everyone/everybody; gerund subject; phrasal verb cheer up; relative clause with that; believe in: prepositional verb |
+| 161–165 | #806–#810 | Maintain a conversation | discourse marker: let me add; Past Continuous; get back to + noun/gerund; tell + clause; contrast with but; that reminds me: topic shift; double genitive: a student of your mom's |
+| 166–170 | #811–#815 | Negotiate at work | can: ability/possibility; get-passive: get paid; first conditional; will need to: necessity; benefits of + gerund; get + past participle |
+| 171–175 | #816–#820 | Blame someone | could in reproachful question; hear + object + -ing; admit + that-clause; Past Simple; contrastive not me; what in the world: emphatic wh-expression |
+| 176–180 | #821–#825 | Discuss hypotheticals | second conditional; third conditional; mixed conditional: past result + present condition; mixed conditional: would have + if + Past Simple; were in hypothetical clause; would have + past participle |
+
+#### Nyelvtani súlypontok
+
+- **Feltételes és hipotetikus szerkezetek:** first, second és third conditional, mixed conditionals; if only / wish + Past Perfect; feltételes mondatok jövőbeli következményekkel.
+- **Múltbeli és haladó igeidők:** Past Perfect Continuous, Past Continuous, Future Continuous, Future Perfect, Present Perfect és Present Perfect Continuous; múltbeli szokást kifejező would.
+- **Modális igék és tanácsadás:** should have / could have, could/might, be able to, be allowed to, have to, should, must; engedélykérés, kötelezettség, kritika és lehetőség.
+- **Passzív és függő beszéd:** modal passive, future passive, Past Simple passive, Present Perfect passive, get-passive; reported statements és kérdések.
+- **Összetett mondatok:** vonatkozói és beágyazott kérdő mellékmondatok, idő- és okhatározói tagmondatok, concessive szerkezetek, gerund és participle clauses.
+- **Munkahelyi és társas kommunikáció:** udvarias kérés, tárgyalás, panasz, hibáztatás, véleményárnyalás, társalgás fenntartása, discourse markerek és hedging.
+
+#### Adatkezelés és bizonyosság
+
+A témacímek közvetlen Guidebook-adatok; a nyelvtani megfigyelések a hozzájuk tartozó angol példamondatokból származnak. A témacímek nem nyelvtani leckecímek, ezért a nyelvtani elemeket megfigyelt előfordulásként, nem minden esetben explicit tanítási célként kell kezelni. A példák nem bizonyítják a tanuló elsajátítását. A `units` mind a 180 külön kurzuspozíciót megőrzi, a 36 ismétlődő mondatblokk pedig a `phrase_sets` alatt szerepel. A részletes forrás: `guidebooks/en-hu/module-07.json`.
+
 ### 2.8 B2 – 8. modul
 
 Fő témák: termékek és reklám, szívességek, visszatérítés és panasz, meggyőzés, bíróság és bizonyíték, csalás, rendezvényszervezés, rejtélyek, táborozás, színház, sport, társas helyzetek és történelem.
