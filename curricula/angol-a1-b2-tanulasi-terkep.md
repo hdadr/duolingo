@@ -107,6 +107,52 @@ A modul első része a ruházat, otthon, munka, érzelmek, étel, sport, rutin, 
 - folyamatos jelen és a folyamatos jelen kérdései;
 - állító felszólítások és biztonsági tanácsok.
 
+### 2.2.1 Guidebook-alapú egységtérkép – 2. modul (2026-11-07)
+
+A tanuló által bemásolt aktuális Guidebook a kurzus 11–40. részeit (a 2. modul helyi 1–30. egységét) fedi le. Az egységcélok közvetlenül a Guidebookból származnak; az alábbi nyelvtani megfigyelések a címekből és példamondatokból készültek.
+
+| Modul 2. egység | Kurzus-rész (#) | Guidebook-cél | Fő nyelvtani kapcsolódás |
+|---:|---:|---|---|
+| 1. | 11 | Ruhavásárlás | `this`, `need`, `How much is...?`, `open/closed` to be |
+| 2. | 12 | Otthon bemutatása | birtokos `my/your`, `Where is...?`, felszólítás |
+| 3. | 13 | A `to be` jelen ideje | `am/is/are` |
+| 4. | 14 | A `to be` összevont alakjai | `I'm/you're/they're` |
+| 5. | 15 | Éttermi rendelés | `I'd like`, be-kérdés és do-kérdés |
+| 6. | 16 | Munkahelyi kommunikáció | `Is your job...? Are these...?`, birtokos alakok |
+| 7. | 17 | Érzelmek a jelenben | `to be`, tagadás: `am not`, kérdések |
+| 8. | 18 | Segítségkérés az órán | `do` kérdés, `too + adjective`, helyviszony |
+| 9. | 19 | Segítségkérés vásárláskor | `How much are...?`, többes szám |
+| 10. | 20 | Időkifejezések | óra, `now`, `where is...?` |
+| 11. | 21 | Sportok | `like` mint főige, `both`, `who)-kérdés |
+| 12. | 22 | Gyakorisági határozók | `usually/always`, `every day/Friday` |
+| 13. | 23 | Napi rutin | Present Simple, időpontok, `usually` |
+| 14. | 24 | Szállodai szoba foglalása | `need`, `Are you...?`, `travel`, időhatározók |
+| 15. | 25 | Névelők | `the`, zéró névelő, mértékegység, `a/an` |
+| 16. | 26 | Családtagok leírása | `Do you have...?`, birtokosok, többes szám |
+| 17. | 27 | Személyes tárgyak | `this/these`, `my/your`, `have`, melléknevek |
+| 18. | 28 | Talált tárgyak | `that/those`, birtokos `'s`, be-kérdések |
+| 19. | 29 | Ruhavásárlás | `those/this`, melléknevek, do-kérdés |
+| 20. | 30 | Rendhagyó többes szám | többes szám; a példákban nincs jellegzetes rendhagyó alak |
+| 21. | 31 | Tájékozódás ismeretlen városban | `I'm lost`, `where is`, `do not live`, felszólítás |
+| 22. | 32 | Jelen idejű tagadás | `don't + alapalak`, harmadik személyű `-s` |
+| 23. | 33 | Tünetek | `Do/Does`, `feel/hurt/need` |
+| 24. | 34 | A cím szerint be-kérdések | a példák valójában do/does Present Simple kérdések |
+| 25. | 35 | Folyamatos jelen | Present Simple és Present Continuous kontraszt |
+| 26. | 36 | Időjárás és természet | Present Continuous, `those`, helyviszonyok |
+| 27. | 37 | Folyamatos jelen kérdései | `What are you doing?`, `Are you studying?` |
+| 28. | 38 | Iskolai témák | `What is...?`, `Do you like...?`, rutin |
+| 29. | 39 | Megerősítő felszólítások | `Let's + verb`, felszólító mód |
+| 30. | 40 | Biztonsági tanácsok | `Be careful`, `Don't forget`, `Hurry` |
+
+#### Fontos cím–példa eltérések
+
+- **2. modul 20. egység (#30):** a cím rendhagyó többes számot ígér, de a példákban a `cherries` szabályos `-y → -ies` alak, a többi pedig szabályos többes szám vagy mennyiségi szerkezet. A klasszikus rendhagyó alakok tanítása nem igazolható ebből a példasorból.
+- **2. modul 24. egység (#34):** a cím a `to be` kérdéseit említi, de a példák: `When does the store open?`, `What do you sell here?`, `How much does this cost?`, `Do you want a plastic bag?` – mind do/does segédigés kérdések.
+- **2. modul 25. egység (#35):** a példák keverik a szokást kifejező Present Simple-t (`On Saturdays, they play`, `I love weekends`) és a folyamatban lévő Present Continuous-t (`Mom is cooking`, `Anna and Tom are playing`).
+- **2. modul 27. egység (#37):** a cím szerinti Present Continuous kérdések mellett Present Simple mondatok (`Our project is about music`, `We learn new words`) is szerepelnek.
+
+A részletes, teljes példamondatokat és fordításokat tartalmazó forrásfeldolgozás: `guidebooks/en-hu/module-02.json`.
+
 ### 2.3 A1 – 3. modul
 
 Fő témacsoportok: fitnesz, udvarias kérések és parancsok, utazás és programok, munkahely, étterem, menetrend, otthon, egyetem, vásárlás, posta, házimunka, időjárás, gyerekkor, egészség, zene, híres emberek és történetek.
