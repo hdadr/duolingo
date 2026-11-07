@@ -537,6 +537,67 @@ A témacímek közvetlen Guidebook-adatok; a nyelvtani megfigyelések a hozzáju
 
 ### 2.8 B2 – 8. modul
 
+A 8. modul témái az indoklástól, udvarias kérésektől és vásárlási tárgyalásoktól a haladó következtetésen, érvelésen és hipotetikus helyzeteken át a változásokról, hírekről és történetekről szóló kommunikációig terjednek.
+
+**Nyelvtani súlypontok:** Present Perfect Progressive, Future Perfect Progressive, Past Perfect Passive, modális perfect alakok, feltételes szerkezetek, inversion, cleft sentences, függő beszéd és összetett mellékmondatok.
+
+### 2.8.1 Guidebook-alapú egységtérkép – 8. modul (2026-11-07)
+
+A 8. modul 180 helyi egysége a kurzus #826–1005. részeit fedi le. A bemásolt anyag 36 egymást követő, egyenként öt egységben ismétlődő témacsoportot tartalmaz; a deduplikált adatokban 195 különböző angol példamondat szerepel. Magyar fordítás nem érkezett.
+
+| Helyi egységek | Kurzus-részek | Guidebook-cél | Nyelvtani bizonyíték |
+|---:|---:|---|---|
+| 1–5 | #826–#830 | Give reasons and justifications | I guess: vélemény óvatos megfogalmazása; but: ellentét; would you need: hipotetikus kérdés; Past Simple; otherwise + would have: implicit feltételes következmény |
+| 6–10 | #831–#835 | Ask for things in a softened way | would you mind + gerund; can: lehetőség/felajánlás; be supposed to: elvárás/kötelezettség; if-clause; too much trouble: udvarias enyhítés; could: udvarias kérés |
+| 11–15 | #836–#840 | Negotiate while shopping | first conditional: if + present, will; can: lehetőség/képesség; so: következmény; gerund alanyként; Past Simple; softening phrases: unfortunately / I'm afraid; negative adjective unavailable |
+| 16–20 | #841–#845 | Understand a local news report | will: műsorvezetői előrejelzés; Let's + infinitive; embedded how-clause; Present Continuous; Past Simple narrative; must have + past participle: múltbeli következtetés |
+| 21–25 | #846–#850 | Talk about music history | date back to: eredet/időbeli kezdet; Past Simple és időhatározók; comparative: slower; Past Simple passive; still + adjective / jelenlegi relevancia |
+| 26–30 | #851–#855 | Use the present perfect progressive | Present Perfect Progressive: has/have been + -ing; kérdő alak; időtartam és közelmúltbeli trendek; fokozó határozószók |
+| 31–35 | #856–#860 | Talk about how things have changed | third conditional: would have + past participle / if + Past Perfect; Present Perfect + since; Past Simple + finished time; there have been; compared with: összehasonlítás |
+| 36–40 | #861–#865 | Express disagreement | if-clause + present; gerund subject; would: hipotetikus következmény; Let's + infinitive; superlative: the best; personally: véleményjelölő; not exactly: enyhített ellentmondás |
+| 41–45 | #866–#870 | Present a counter-argument | cleft sentence: It was X who...; that-clause; Past Continuous in reported thought; as a matter of fact: discourse marker; mixed conditional / unreal present + past result; might be + -ing: present possibility |
+| 46–50 | #871–#875 | Express frustration | when-clause + Past Simple; Past Continuous passive-like progressive with be: was being dishonest; too: agreement/addition; hard not to + infinitive; frankly: stance marker; so-called: skeptical distancing |
+| 51–55 | #876–#880 | Discuss plans for a work party | there are question; Let's + infinitive; request that + subject + base verb (subjunctive); hear someone out phrasal verb; suggestion sounds + adjective; that-clause complement |
+| 56–60 | #881–#885 | Make conclusions and deductions | may have + past participle: múltbeli lehetőség; must: erős következtetés; could: lehetőség; considering + wh-clause; only + focus; must have been: múltbeli következtetés |
+| 61–65 | #886–#890 | Tell stories around a campfire | Let's + infinitive; there is; no sooner + Past Perfect + than + Past Simple inversion; be dying to + infinitive; embedded what-clause; reported speech |
+| 66–70 | #891–#895 | Describe a move to the big city | Present Continuous; get used to + noun; superlative: fastest; make a living idiom; as...as comparison; reported thought / would |
+| 71–75 | #896–#900 | Navigate a trip to a theme park | second conditional: would... if + Past Simple; Let's + infinitive; refuse to + infinitive; relative clause that; when-clause; Past Simple sequence; so result clause |
+| 76–80 | #901–#905 | Negotiate chores with roommates | ask + object + to-infinitive; if + could: udvarias feltételes kérés; would be great: softened result; try to + infinitive; leave + object + adjective; first conditional / if + present |
+| 81–85 | #906–#910 | Express how certain or uncertain you are | I'm sure + clause; be supposed to; chances are that: probability; you never know: uncertainty; be going to future; there's no question + clause |
+| 86–90 | #911–#915 | Confirm information | Past Simple question; confirmation that-clause; will: promise/future; just to-infinitive purpose; weren't we going to: past plan / confirmation tag-like question |
+| 91–95 | #916–#920 | Express good wishes for someone | would love + infinitive; will future negative; be going to future; Present Perfect: shared past to present; wish + noun phrase; imperative; when-clause |
+| 96–100 | #921–#925 | Talk about your plans for a trip | plan on + gerund; intend to + infinitive; first conditional; in order to: purpose; think of + gerund; could: alternative; non-defining relative clause which |
+| 101–105 | #926–#930 | Use the future perfect progressive | Future Perfect Progressive: will have been + -ing; for + időtartam; by then: jövőbeli viszonyítás; kérdő alak |
+| 106–110 | #931–#935 | Make plans for a Friday night | would rather + subject + Past Simple; mind + gerund; could: javaslat; because clause; should: suggestion; whichever + noun embedded free relative clause |
+| 111–115 | #936–#940 | Navigate transactions at a garage sale | Present Perfect passive question; embedded if-question; softened past progressive reporting phrase; be willing to + infinitive; first conditional; Present Perfect passive; look like + clause |
+| 116–120 | #941–#945 | Respond to a command or request | be going to need to: future necessity; feel like + noun; make + object + bare infinitive; would rather not + infinitive; can: ability; honestly: stance adverb |
+| 121–125 | #946–#950 | Politely decline an offer or proposal | would you care for: formal offer; thanks anyway: polite decline; feel like + gerund; maybe some other time: softening; be in the mood to/for; turn down: phrasal verb; going to have to: future obligation |
+| 126–130 | #951–#955 | Talk about household chores | what is left: passive/result adjective; has to be fixed: modal passive; needs to be cleaned: need + passive infinitive; when was the last time: Past Simple question; too / but contrast; Past Simple with already; tidy up phrasal verb |
+| 131–135 | #956–#960 | Catch up with an old friend | look who's: exclamative embedded clause; Present Perfect Progressive; since + Past Simple; Present Perfect; catch someone up: phrasal verb; Present Continuous for future; so result; it sounds like + clause |
+| 136–140 | #961–#965 | Use the past perfect passive | Past Perfect Passive: had been + past participle; positive, negative and interrogative forms; reported thought; that-clause; passive phrasal verb: sent out |
+| 141–145 | #966–#970 | Express limitations or caveats | but: concession/contrast; without + noun; second conditional; so long as + present clause; too + adjective + to-infinitive; right? tag-like confirmation |
+| 146–150 | #971–#975 | Talk about sporting events | ordinal position; need to + infinitive / purpose to; impersonal passive: it is anticipated that; future passive: will be set; be set to + infinitive; be expected to + infinitive; definitely: certainty adverb |
+| 151–155 | #976–#980 | Understand a guided tour | past participle clause as reduced relative/adverbial; used to: past state; would like + infinitive; imperative; will future; when-clause; in particular: focus marker |
+| 156–160 | #981–#985 | Speculate about mysteries | couldn't have + past participle: past possibility/deduction; would: hypothetical motive; could have been: past possibility; that-clause; Present Continuous; wh-question |
+| 161–165 | #986–#990 | Interact at a magic show | negative statement + question tag; embedded which-question; Past Simple; polite could request; embedded where/how clauses; second conditional |
+| 166–170 | #991–#995 | Reminisce about childhood | used to: past habit; perfect for + gerund; always + Past Continuous: repeated irritating event; relative clause who; comparative: cooler; gerund subject; make + object + infinitive |
+| 171–175 | #996–#1000 | Explain a complicated situation | Past Continuous background + Past Simple; when-clause; that-clause; sorry to + infinitive; break down phrasal verb; Past Simple passive; so result clause; had to obligation in past |
+| 176–180 | #1001–#1005 | Express relief and congratulations | relative clause: everything that...; Present Perfect; gerund as subject; exclamative what + noun; perfect infinitive: to have completed; although concession clause; wishing: participle formula |
+
+#### Nyelvtani súlypontok
+
+- **Kifejezetten megnevezett nyelvtani címek:** Present Perfect Progressive (#851–855), Future Perfect Progressive (#926–930), Past Perfect Passive (#961–965). Ezek közvetlen Guidebook-nyelvtani célként vannak megnevezve.
+- **Feltételes és hipotetikus szerkezetek:** first, second, third és mixed conditional; otherwise + would have; would rather; so long as; hipotetikus jövőbeli következmények.
+- **Modális igék és következtetés:** must have, may have, could have, should, could, would, be supposed to, be expected to; múltbeli bizonyosság és lehetőség.
+- **Haladó igeidők:** Present Perfect Progressive; Future Perfect Progressive; Past Perfect Passive; Present Perfect és Past Perfect különböző aktív/passzív alakjai; Past Continuous és narratív múlt.
+- **Passzív és függő beszéd:** Past Perfect Passive; Present Perfect Passive; imperszonális passzív (It's anticipated that...); reported thought/speech, embedded questions.
+- **Összetett mondatok és stílus:** cleft sentence (It was Mr Nelson who...), inversion (No sooner had...), vonatkozói és beágyazott mellékmondatok, gerund/participle clauses, diskurzusjelölők, bizonyosság és óvatos állítás.
+
+#### Adatkezelés és bizonyosság
+
+A témacímek közvetlen Guidebook-adatok. Három cím kifejezetten nyelvtani szerkezetet nevez meg; a többi nyelvtani címke a példamondatokban megfigyelt használatot írja le. A példák nem bizonyítják a tanuló elsajátítását. A `units` mind a 180 külön kurzuspozíciót megőrzi, a 36 ismétlődő példablokk a `phrase_sets` alatt szerepel. A részletes forrás: `guidebooks/en-hu/module-08.json`.
+
+
 Fő témák: termékek és reklám, szívességek, visszatérítés és panasz, meggyőzés, bíróság és bizonyíték, csalás, rendezvényszervezés, rejtélyek, táborozás, színház, sport, társas helyzetek és történelem.
 
 **Nyelvtani következtetés:** érvelés és bizonyítékok értékelése, modalitás és bizonyosság, passzív szerkezetek, összetett feltételek, közvetett és függő beszéd, udvarias és formális regiszter, összetett diskurzuskapcsolók.
