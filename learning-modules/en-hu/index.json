@@ -870,7 +870,24 @@
       "topic_group_count": 52,
       "translation_status": "not_provided",
       "evidence_policy": "Grammar is observed in examples, not explicit grammar headings. Five sequential units repeat a common topic phrase set. Preserve all 260 unit coordinates and do not invent Hungarian translations or infer mastery."
+    },
+    {
+      "module": 7,
+      "unit_range": [
+        646,
+        825
+      ],
+      "local_unit_range": [
+        1,
+        180
+      ],
+      "path": "guidebooks/en-hu/module-07.json",
+      "status": "processed",
+      "source": "user_supplied_current_guidebook",
+      "topic_group_count": 36,
+      "translation_status": "not_provided",
+      "evidence_policy": "Guidebook titles are direct topic evidence; grammar in English examples is observed usage, not necessarily explicit instruction. Five sequential units repeat a common phrase set. Preserve all 180 coordinates; do not invent Hungarian translations or infer learner mastery."
     }
   ],
-  "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing."
+  "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing. A 7. modul feldolgozott Guidebook-forrása a guidebooks/en-hu/module-07.json (#646–825; 180 egység, 36 ismétlődő ötegységes témacsoport, magyar fordítás nélkül). A nyelvtani címkéket a példamondatokból megfigyelt előfordulásként kezeld, ne mastery-adatként."
 }
