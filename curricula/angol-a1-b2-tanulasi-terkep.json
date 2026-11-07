@@ -5,7 +5,7 @@
   "learning_language": "en",
   "base_language": "hu",
   "explanation_language": "hu",
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-07",
   "status": "derived_reference_map",
   "source_snapshot": {
     "source": "https://duolingodata.com/dat/enfhu1005.html",
@@ -23,7 +23,7 @@
       "cefr": "Intro",
       "units": 10,
       "title_hu": "Alapmondatok és bemutatkozás",
-      "focus_hu": "Italok, származás, bemutatkozás, család, repülőtér, melléknevek, rendelés, foglalkozások, jelen idő, időjárás és háziállatok."
+      "focus_hu": "A Guidebook alapján: italok felajánlása és elfogadása, származás, bemutatkozás és család, repülőtéri útlevél/jegy, születésnap, ételrendelés, foglalkozások, nyelvek és Present Simple, időjárás, háziállatok. Megfigyelt nyelvtan: to be, birtokos determinánsok, a/an, melléknevek, udvarias formulák, korai do-support kérdések; múlt idejű alakok is előfordulnak, de teljes múltidő-tanítás nem igazolt."
     },
     {
       "duolingo_module": 2,
@@ -787,5 +787,26 @@
     "The previous 305-unit course file was stale; use the 1005-unit snapshot dated 2026-02-20.",
     "Grammar topics named explicitly in the path are stronger evidence than inferred topics.",
     "B1/B2 units are mostly communication-situation based; grammar associations are CEFR-aligned teaching references, not verified unit-level Duolingo objectives."
+  ],
+  "guidebook_coverage": [
+    {
+      "duolingo_module": 1,
+      "unit_range": [
+        1,
+        10
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-01.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "A tényleges Guidebook kommunikációs céljai és példái alapján. Az explicit egységcímeket és a példákból megfigyelt nyelvtant külön kezeljük; nem mastery-adat."
+    }
+  ],
+  "source_conflicts": [
+    {
+      "location": "DUOLINGO_EN_HU / 1. modul / 5. rész",
+      "community_public_course_map": "Főnevek melléknevekkel történő leírása",
+      "current_guidebook": "Boldog születésnapot, Anna!",
+      "resolution": "A régi közösségi térképi cím és a tanuló aktuális Guidebookja eltér. A tényleges haladási útvonal követésénél a Guidebook az elsődleges; a konfliktus nem törlendő, hanem forráseltérésként őrzendő."
+    }
   ]
 }
