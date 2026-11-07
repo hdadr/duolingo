@@ -69,6 +69,29 @@ A modul elején a kommunikációs helyzetek:
 
 **Nyelvtani következtetés:** `to be`, személyes névmások, egyszerű jelen, főnevek és melléknevek, alapszintű kérdések, egyszerű szórend. A kurzuslista a témákat mutatja, nem bizonyítja minden pont pontos bevezetési sorrendjét.
 
+### 2.1.1 Guidebook-alapú egységtérkép – 1. modul (2026-11-07)
+
+A tanuló által megadott, aktuális Guidebook-adat 10 egységet fed le. A címek/kommunikációs célok közvetlenül a Guidebookból származnak; a nyelvtani témák közül csak az egységcímben megnevezett elemek kapnak explicit jelölést, a példamondatokból kiolvasottak „megfigyelt előfordulások”.
+
+| Egység | Guidebook-cél | Megfigyelt nyelvtani fókusz |
+|---:|---|---|
+| 1. | Italok felajánlása és elfogadása | Udvarias formulák, választást kínáló rövid kérdés, `please` |
+| 2. | Származás | `to be` (`I am from`), `from`, `and you?`, `too` |
+| 3. | Bemutatkozás és család | `my`, `this is`, `to be`, származás |
+| 4. | Repülőtér | `Is this ...?`, `this`, `my/your`, `please` |
+| 5. | Születésnap | `Do we need ...?`, életkor `to be`-vel; `brought/sang/danced` múlt idejű alakok csak megfigyelésként |
+| 6. | Étel- és italrendelés | `I'd like` udvarias rendelési formula, `where is ...?`, `a`, melléknévi állítmány |
+| 7. | Jelen idő foglalkozásoknál | A Guidebook-cím explicit jelenidő-célt nevez meg; a példák `to be`, foglalkozások előtti `a`, `I'm` |
+| 8. | Jelen idő | Present Simple cselekvő igékkel: `speak, study, understand` |
+| 9. | Időjárás | `it's`, `Is it ...?`, időjárási melléknevek, `need + tárgy` |
+| 10. | Háziállatok | `Do you have ...?`, `have` főige, `my/your`, `very + melléknév` |
+
+**Forrásütközés:** a korábbi közösségi kurzustérkép az 1. modul 5. egységét „Főnevek melléknevekkel történő leírása” címmel jelölte, míg a mostani, tényleges Guidebook „Boldog születésnapot, Anna!” témát mutat. Az aktuális tanulási útvonalnál a tanuló által látott Guidebookot kövessük, de a korábbi cím eltérésként maradjon dokumentálva.
+
+**Fontos értelmezés:** a `Do we need ...?` és `Do you have ...?` korai do-support példák; önmagukban nem jelentik a teljes `do/does` kérdés- és tagadórendszer megtanítását. Hasonlóképpen a `brought, sang, danced` múlt idejű alakok előfordulása nem bizonyít teljes Past Simple leckét. Az `I'd like` itt udvarias rendelési formula, nem feltételes mondat tanítása.
+
+A részletes, mondatpárokat és egységenkénti bizonyítékot tartalmazó feldolgozás: `guidebooks/en-hu/module-01.json`.
+
 ### 2.2 A1 – 2. modul
 
 A modul első része a ruházat, otthon, munka, érzelmek, étel, sport, rutin, hotel, család, tárgyak és városi tájékozódás témái köré épül.
