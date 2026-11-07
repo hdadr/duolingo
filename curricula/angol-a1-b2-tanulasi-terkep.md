@@ -167,6 +167,54 @@ Fő témacsoportok: fitnesz, udvarias kérések és parancsok, utazás és progr
 - határozatlan névmások;
 - udvarias kérés és felszólítás.
 
+### 2.3.1 Guidebook-alapú egységtérkép – 3. modul (2026-11-07)
+
+A tanuló által megadott Guidebook a kurzus 41–70. részeit (a 3. modul helyi 1–30. egységét) fedi le. Több korábban csak referencia alapján feltételezett nyelvtani elem most konkrét példákkal is megfigyelhető.
+
+| Modul 3. egység | Kurzus-rész (#) | Guidebook-cél | Fő nyelvtani kapcsolódás |
+|---:|---:|---|---|
+| 1. | 41 | Fitnesz | `can` képességre, tagadó felszólítás, Present Simple |
+| 2. | 42 | Parancsok és udvarias kérések | `could/can you...?`, `let's`, felszólítás |
+| 3. | 43 | Utazási tervek | `will + ige`, jövő idejű kérdés |
+| 4. | 44 | Vidámparki látogatás | `will be`, jövőre vonatkozó állítás |
+| 5. | 45 | Összetett mondatok | `and`-del kapcsolt tagmondat; egyszerű és modális kérdések |
+| 6. | 46 | Super Bowl | `prefer/love/like + -ing` |
+| 7. | 47 | Értekezletek | `can`, `don't`, `let's`, `will`, `to be` |
+| 8. | 48 | Éttermi rendelés | `would like`, `will`, `can we`, mértékegység |
+| 9. | 49 | „Van/vannak” | `there is/there are` |
+| 10. | 50 | Menetrendek | Present Simple menetrendre, `because`, jövőre utaló időhatározó |
+| 11. | 51 | Otthoni munka | Present Simple, `How do I...?`, felszólítás |
+| 12. | 52 | A `to be` múlt ideje | `was`, múlt idejű kérdés |
+| 13. | 53 | Otthon leírása | `was/were`, helyviszonyok |
+| 14. | 54 | Egyetemi élet | Present Simple, `will`, időhatározók |
+| 15. | 55 | Mennyiségjelzők | `how much`, megszámlálhatatlan `jewelry/information` |
+| 16. | 56 | Élelmiszerek | `some/any/enough`, mennyiségi szerkezetek |
+| 17. | 57 | Hotel | `can I`, `will you`, felszólítás, `for + -ing` |
+| 18. | 58 | Postai ügyintézés | `would like`, `would you like`, infinitive, Present Continuous |
+| 19. | 59 | Házimunka | `something`, `have to`, do-kérdés, `let's` |
+| 20. | 60 | Gerund és infinitive | `want to talk`, `feel + adjective/-ing` |
+| 21. | 61 | Utazási terv | `be going to`, `will` |
+| 22. | 62 | Programtervezés | `be going to` kérdés és előrejelzés, `want to` |
+| 23. | 63 | Időjárás | Past Simple, `was`, Present Simple szokás |
+| 24. | 64 | Múlt idejű tagadás | a cím ezt jelöli; a példákban Past Simple állítás szerepel, tagadó alak nem |
+| 25. | 65 | Gyerekkor | Past Simple, `Did you...?`, gerund |
+| 26. | 66 | Orvosi vészhelyzet | Past Simple kérdések és igék |
+| 27. | 67 | Zenei fesztivál | középfok, `will`, `let's` |
+| 28. | 68 | Híres emberek | felsőfok, gerund |
+| 29. | 69 | Határozatlan névmások | `something`, Past Simple kérdés |
+| 30. | 70 | Rablás leírása | Past Simple elbeszélés, `did you see`, felszólítás |
+
+#### Fontos cím–példa eltérések
+
+- **5. egység (#45):** a cím összetett mondatokat ígér, de a példák közül egyetlen mondat mutat egyértelműen két tagmondatot az `and` kötőszóval.
+- **15. egység (#55):** a mennyiségjelzők közül főként a `how much` és a megszámlálhatatlan `jewelry` figyelhető meg.
+- **20. egység (#60):** a cím gerund/infinitive szerkezeteket nevez meg; a legtisztább infinitive példa: `Do you want to talk?`.
+- **24. egység (#64):** a cím múlt idejű tagadást ígér, de a példák között nincs Past Simple tagadó mondat.
+- **29. egység (#69):** a `something` valódi határozatlan névmás; a `possible challenges` melléknév + főnév szerkezet, nem névmás.
+- **30. egység (#70):** a cím kommunikációs cél; a példák Past Simple elbeszélést, kérdést és felszólítást tartalmaznak.
+
+A részletes példamondatok és nyelvtani besorolások: `guidebooks/en-hu/module-03.json`.
+
 ### 2.4 A2 – 4. modul
 
 Fő témacsoportok: ünnepek, egészség, stressz, munka, projektek, önfejlesztés, technikai problémák, kapcsolatok, wellness, szomszédok, vásárlás, utazás, tanulmányok, történelem, kempingezés, orvosi segítség, könyvek, család és banki ügyek.
