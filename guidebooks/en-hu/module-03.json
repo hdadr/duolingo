@@ -1,0 +1,1820 @@
+{
+  "schema_version": "1.0",
+  "course_id": "DUOLINGO_EN_HU",
+  "course_key": "en-hu",
+  "learning_language": "en",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "source": {
+    "kind": "user_supplied_guidebook_transcription",
+    "received_date": "2026-11-07",
+    "source_description": "A tanuló által bemásolt Duolingo webes Guidebook-szöveg, 3. modul, 1–30. rész (#41–#70).",
+    "coverage": "Duolingo 3. modul, 1–30. rész; kurzuskoordináta 41–70",
+    "note": "Az egységcím és kommunikációs cél közvetlen Guidebook-adat. A példamondatokban látható szerkezet megfigyelt előfordulás. A példák részlegesek lehetnek, és nem bizonyítják automatikusan a teljes szabály tanítását vagy a tanuló mastery-jét."
+  },
+  "module": {
+    "number": 3,
+    "cefr": "A1",
+    "unit_range": [
+      41,
+      70
+    ],
+    "section_unit_range": [
+      1,
+      30
+    ],
+    "title_hu": "További alapmondatok és hétköznapi helyzetek"
+  },
+  "units": [
+    {
+      "unit": 41,
+      "section_unit": 1,
+      "title_hu": "Beszélj a fitneszről",
+      "communication_goal": "Beszélj a fitneszről",
+      "phrases": [
+        [
+          "I can run fast.",
+          "Gyorsan tudok futni."
+        ],
+        [
+          "Can you lift weights?",
+          "Tudsz súlyzókat emelni?"
+        ],
+        [
+          "She can swim.",
+          "Tud úszni."
+        ],
+        [
+          "Don't eat your meals too fast.",
+          "Ne edd túl gyorsan az ételeidet."
+        ],
+        [
+          "We do yoga from five to six.",
+          "Öttől hatig jógázunk."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "can + ige alapalak: can run/lift/swim",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Do-support főige do yoga",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Don't + alapalak tagadó felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "fast határozószó",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-09",
+        "A1-03"
+      ],
+      "explicit_guidebook_focus": [
+        "can/can't képességre és engedélyre (kérdés és állítás)"
+      ]
+    },
+    {
+      "unit": 42,
+      "section_unit": 2,
+      "title_hu": "Parancsokat és kérj udvariasan",
+      "communication_goal": "Parancsokat és kérj udvariasan",
+      "phrases": [
+        [
+          "Could you water the flowers?",
+          "Meg tudnád öntözni a virágokat?"
+        ],
+        [
+          "Please park my truck in the garage.",
+          "Kérlek, parkold be a teherautómat a garázsba."
+        ],
+        [
+          "Can you check the mail every day?",
+          "Meg tudod nézni a postát mindennap?"
+        ],
+        [
+          "Let's walk the dog together.",
+          "Sétáltassuk meg együtt a kutyát."
+        ],
+        [
+          "Put food outside for the rabbits.",
+          "Tegyél ki ételt a nyulaknak."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Could you...? udvarias kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Can you...? képesség/kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Please + felszólító mód",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's + alapalak közös javaslat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Put food... felszólító mód",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-09"
+      ],
+      "explicit_guidebook_focus": [
+        "felszólítások és udvarias kérések"
+      ]
+    },
+    {
+      "unit": 43,
+      "section_unit": 3,
+      "title_hu": "Tervezd meg az utazásaidat",
+      "communication_goal": "Tervezd meg az utazásaidat",
+      "phrases": [
+        [
+          "I will be in Mexico next month.",
+          "A következő hónapban én Mexikóban fogok lenni."
+        ],
+        [
+          "First, we will go to Brazil.",
+          "Mi először Brazíliába fogunk menni."
+        ],
+        [
+          "You'll love the beaches in Brazil.",
+          "Te szeretni fogod a tengerpartokat Brazíliában."
+        ],
+        [
+          "Will you travel to Europe next week?",
+          "Te Európába fogsz utazni a következő héten?"
+        ],
+        [
+          "She will take a flight to Tokyo.",
+          "Ő repülővel fog Tokióba menni."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "will + alapalak jövő idő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will be létigei alak",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Will you...? jövő idejű kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "next month/next week időhatározók",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 44,
+      "section_unit": 4,
+      "title_hu": "Tervezz vidámparki látogatást",
+      "communication_goal": "Tervezz vidámparki látogatást",
+      "phrases": [
+        [
+          "This theme park will be fun.",
+          "Ez a vidámpark szórakoztató lesz."
+        ],
+        [
+          "How about this weekend?",
+          "Mit szólnál ehhez a hétvégéhez?"
+        ],
+        [
+          "I love theme parks!",
+          "Szeretem a vidámparkokat!"
+        ],
+        [
+          "The rides will be fun!",
+          "A játékok szórakoztatóak lesznek!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "will be + melléknév jövőbeli állapotra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will + alapalak előrejelzésre",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "How about...? javaslat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "this weekend időhatározó",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 45,
+      "section_unit": 5,
+      "title_hu": "Alkoss összetett mondatokat",
+      "communication_goal": "Alkoss összetett mondatokat",
+      "phrases": [
+        [
+          "I need pills for the flu.",
+          "Tablettákra van szükségem az influenza miatt."
+        ],
+        [
+          "Do you sell masks?",
+          "Árulsz maszkokat?"
+        ],
+        [
+          "My throat really hurts!",
+          "Nagyon fáj a torkom!"
+        ],
+        [
+          "Can I use this coupon?",
+          "Használhatom ezt a kupont?"
+        ],
+        [
+          "The medicine is on aisle two, and snacks are on aisle ten.",
+          "A gyógyszer a kettes soron van és a harapnivalók a tízes soron vannak."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "and két tagmondat kapcsolására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Do you...? jelen idejű kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Can I...? modális kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "need + főnévi tárgy",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "because itt nem szerepel",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-05",
+        "A1-09",
+        "A1-10"
+      ],
+      "explicit_guidebook_focus": [
+        "összetett mondatok"
+      ]
+    },
+    {
+      "unit": 46,
+      "section_unit": 6,
+      "title_hu": "Beszélj a Super Bowlról",
+      "communication_goal": "Beszélj a Super Bowlról",
+      "phrases": [
+        [
+          "I'm excited about the big game!",
+          "Izgatott vagyok a nagy mérközés miatt!"
+        ],
+        [
+          "Do you prefer watching big events on TV?",
+          "Jobban szereted a nagy eseményeket a tévében nézni?"
+        ],
+        [
+          "We love watching events on TV together.",
+          "Szeretünk együtt eseményeket nézni."
+        ],
+        [
+          "My grandma likes watching football.",
+          "A nagymamám szeret amerikai focit nézni."
+        ],
+        [
+          "Yay, I love football!",
+          "Hurrá, szeretem az amerikai focit!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "be + excited érzelmi állapot",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "prefer + gerund (watching)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "love/like + gerund",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "watching events together",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-10"
+      ]
+    },
+    {
+      "unit": 47,
+      "section_unit": 7,
+      "title_hu": "Kommunikálj értekezleteken",
+      "communication_goal": "Kommunikálj értekezleteken",
+      "phrases": [
+        [
+          "Can you hear me?",
+          "Hallasz engem?"
+        ],
+        [
+          "I don't quite understand.",
+          "Nem teljesen értem."
+        ],
+        [
+          "Let's discuss it tomorrow.",
+          "Beszéljük meg holnap azt."
+        ],
+        [
+          "You're on mute.",
+          "Le vagy némítva."
+        ],
+        [
+          "I'll finish it tomorrow.",
+          "Holnap fogom befejezni azt."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "can kérés/képesség",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "don't + ige tagadás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's + ige",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will + alapalak (I'll finish)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tomorrow időhatározó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be: You're on mute",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-05",
+        "A1-09",
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 48,
+      "section_unit": 8,
+      "title_hu": "Rendelj ételt és italt",
+      "communication_goal": "Rendelj ételt és italt",
+      "phrases": [
+        [
+          "The bill, please.",
+          "A számlát, kérem."
+        ],
+        [
+          "Do you have apple pie today?",
+          "Van ma almás pitéd?"
+        ],
+        [
+          "I'll order extra cake for you.",
+          "Rendelni fogok még egy tortát számodra."
+        ],
+        [
+          "Can we order more bread?",
+          "Rendelhetünk még kenyeret?"
+        ],
+        [
+          "I'd like a glass of wine, please.",
+          "Szeretnék egy pohár bort, kérem."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Do you have...?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will jövőbeli rendelés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Can we...? modális kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "I'd like udvarias kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a glass of wine mértékegység",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-05",
+        "A1-07",
+        "A1-09",
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 49,
+      "section_unit": 9,
+      "title_hu": "Használd a 'van'-t és 'vannak'-ot",
+      "communication_goal": "Használd a 'van'-t és 'vannak'-ot",
+      "phrases": [
+        [
+          "Look, there is a concert at that bar!",
+          "Nézd, van egy koncert abban a bárban!"
+        ],
+        [
+          "Do you like dancing?",
+          "Szeretsz táncolni?"
+        ],
+        [
+          "There is a nice café over there.",
+          "Ott van egy szép kávézó."
+        ],
+        [
+          "Let's order some drinks.",
+          "Rendeljünk néhány italt."
+        ],
+        [
+          "There are lots of people here.",
+          "Sok ember van itt."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "there is egyes szám",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "there are többes szám",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Do you like + gerund (dancing)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's + alapalak",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "some + főnév",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-07",
+        "A1-03",
+        "A1-09"
+      ],
+      "explicit_guidebook_focus": [
+        "there is / there are"
+      ]
+    },
+    {
+      "unit": 50,
+      "section_unit": 10,
+      "title_hu": "Beszélj a menetrendekről",
+      "communication_goal": "Beszélj a menetrendekről",
+      "phrases": [
+        [
+          "When does the next train get here?",
+          "Mikor ér ide a következő vonat?"
+        ],
+        [
+          "I'm in a hurry because brunch is at ten!",
+          "Sietek, mert a villásreggeli tízkor van!"
+        ],
+        [
+          "Can we walk to the station?",
+          "El tudunk sétálni az állomásra?"
+        ],
+        [
+          "The train gets to this station at two.",
+          "A vonat kettőkor ér erre az állomásra."
+        ],
+        [
+          "Our trip ends tomorrow.",
+          "A kirándulásunk holnap ér véget."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "When does...? do-support jelen idejű kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Simple menetrend szerinti jövő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "because tagmondat kapcsolásra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Can we...?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ends tomorrow jövőbeli időhatározóval",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-05",
+        "A1-10",
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 51,
+      "section_unit": 11,
+      "title_hu": "Dolgozz otthonról",
+      "communication_goal": "Dolgozz otthonról",
+      "phrases": [
+        [
+          "I work from home now.",
+          "Most otthonról dolgozom."
+        ],
+        [
+          "Please send an email to James.",
+          "Kérlek, küldj egy e-mailt Jamesnek."
+        ],
+        [
+          "How do I use the webcam?",
+          "Hogy használom a webkamerát?"
+        ],
+        [
+          "The meeting is online.",
+          "Az értekezlet online van."
+        ],
+        [
+          "See you tomorrow!",
+          "Viszlát holnap!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Simple: work/use",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Please send felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "How do I...? do-support",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be: is online",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tomorrow időhatározó",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-09"
+      ]
+    },
+    {
+      "unit": 52,
+      "section_unit": 12,
+      "title_hu": "Használd a 'lenni' múlt idejét",
+      "communication_goal": "Használd a 'lenni' múlt idejét",
+      "phrases": [
+        [
+          "Are you nervous?",
+          "Ideges vagy?"
+        ],
+        [
+          "I was a manager there.",
+          "Menedzser voltam ott."
+        ],
+        [
+          "What was your main responsibility?",
+          "Mi volt a legfőbb felelősséged?"
+        ],
+        [
+          "My last job was OK.",
+          "A legutóbbi munkám rendben volt."
+        ],
+        [
+          "I'm interested in this position.",
+          "Érdekel ez az állás."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "was egyes szám",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "was kérdésben wh-szó után",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "present be és past be kontraszt",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "interested in melléknévi vonzat",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-10"
+      ],
+      "explicit_guidebook_focus": [
+        "to be múlt ideje"
+      ]
+    },
+    {
+      "unit": 53,
+      "section_unit": 13,
+      "title_hu": "Írd le az otthonodat",
+      "communication_goal": "Írd le az otthonodat",
+      "phrases": [
+        [
+          "The kids were in the kitchen.",
+          "A gyerekek a konyhában voltak."
+        ],
+        [
+          "My cat was under the bed.",
+          "A macskám az ágy alatt volt."
+        ],
+        [
+          "Why was the snake in your bed?",
+          "Miért volt a kígyó az ágyadban?"
+        ],
+        [
+          "The fridge was empty!",
+          "A hűtő üres volt!"
+        ],
+        [
+          "The picture was on the floor.",
+          "A kép a padlón volt."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "were többes szám",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "was egyes szám",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "where prepozíciós helyviszonyok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Why was...? kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10",
+        "A1-07"
+      ]
+    },
+    {
+      "unit": 54,
+      "section_unit": 14,
+      "title_hu": "Tájékozódj az egyetemi életben",
+      "communication_goal": "Tájékozódj az egyetemi életben",
+      "phrases": [
+        [
+          "Do you go to college?",
+          "Jársz főiskolára?"
+        ],
+        [
+          "My college is in Canada.",
+          "A főiskolám Kanadában van."
+        ],
+        [
+          "I have a history class on Tuesdays.",
+          "Keddenként van egy történelemórám."
+        ],
+        [
+          "Where is your college?",
+          "Hol van a főiskolád?"
+        ],
+        [
+          "We will listen to our professor.",
+          "Meg fogjuk hallgatni a professzorunkat."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Do you go...? Present Simple kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be: is in Canada",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have a class",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "on Tuesdays időhatározó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will listen",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-06",
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 55,
+      "section_unit": 15,
+      "title_hu": "Használj mennyiségjelzőket",
+      "communication_goal": "Használj mennyiségjelzőket",
+      "phrases": [
+        [
+          "Can I return this item?",
+          "Visszavihetem ezt a terméket?"
+        ],
+        [
+          "My laptop has a problem.",
+          "A laptopomnak van egy problémája."
+        ],
+        [
+          "How much jewelry does she need?",
+          "Mennyi ékszerre van szüksége?"
+        ],
+        [
+          "I need a refund.",
+          "Szükségem van visszatérítésre."
+        ],
+        [
+          "This information is wrong.",
+          "Ez az információ helytelen."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "How much + megszámlálhatatlan jewelry",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "does + alapalak need",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "information uncountable noun",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a problem countable noun",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "this item demonstrative",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-04",
+        "A1-05",
+        "A1-07"
+      ],
+      "explicit_guidebook_focus": [
+        "mennyiségjelzők – címben"
+      ]
+    },
+    {
+      "unit": 56,
+      "section_unit": 16,
+      "title_hu": "Találd meg az élelmiszereket",
+      "communication_goal": "Találd meg az élelmiszereket",
+      "phrases": [
+        [
+          "What kind of soda do you want?",
+          "Milyen üdítőt akarsz?"
+        ],
+        [
+          "Do you want any potato chips?",
+          "Akarsz bármennyi burgonyaszirmot?"
+        ],
+        [
+          "Let's buy some olives.",
+          "Vegyünk néhány olajbogyót."
+        ],
+        [
+          "We don't have enough salt.",
+          "Nincs elég sónk."
+        ],
+        [
+          "Can you buy a bottle of olive oil?",
+          "Tudsz venni egy üveg olívaolajat?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "what kind of kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "any kérdésben",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "some állító mondatban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "don't have tagadás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "enough + főnév",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a bottle of + anyag",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-07",
+        "A1-05"
+      ]
+    },
+    {
+      "unit": 57,
+      "section_unit": 17,
+      "title_hu": "Szállj meg egy szállodában",
+      "communication_goal": "Szállj meg egy szállodában",
+      "phrases": [
+        [
+          "Can I see your ID, please?",
+          "Láthatom a személyi igazolványát, kérem?"
+        ],
+        [
+          "The front desk is over there.",
+          "A recepció ott van."
+        ],
+        [
+          "Will you bring more towels?",
+          "Hoz még törülközőket?"
+        ],
+        [
+          "Please go upstairs.",
+          "Kérem, menjen fel az emeletre."
+        ],
+        [
+          "Thank you for staying here.",
+          "Köszönöm, hogy itt maradsz."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Can I...?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Will you...? jövő/kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Please go upstairs felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Thank you for + gerund (staying)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be: is over there",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-09",
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 58,
+      "section_unit": 18,
+      "title_hu": "Kérj valamit a postán",
+      "communication_goal": "Kérj valamit a postán",
+      "phrases": [
+        [
+          "I would like to buy two envelopes.",
+          "Szeretnék vásárolni két borítékot."
+        ],
+        [
+          "Would you like to send this today?",
+          "Szeretnéd elküldeni ezt ma?"
+        ],
+        [
+          "How can I help you today?",
+          "Miben segíthetek ma önnek?"
+        ],
+        [
+          "I'm sending a present to my cousin.",
+          "Ajándékot küldök az unokatestvéremnek."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "would like / would you like udvarias kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to infinitive buy",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "How can I help...? modális",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Continuous: I'm sending",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to + címzett",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-09",
+        "A1-08",
+        "A1-10"
+      ]
+    },
+    {
+      "unit": 59,
+      "section_unit": 19,
+      "title_hu": "Végezz házimunkát",
+      "communication_goal": "Végezz házimunkát",
+      "phrases": [
+        [
+          "Ew, something smells bad!",
+          "Pfuj, valaminek rossz szaga van!"
+        ],
+        [
+          "I have to clean the sink.",
+          "Ki kell takarítanom a mosogatót."
+        ],
+        [
+          "Where do you put your dirty laundry?",
+          "Hová teszed a koszos ruháidat?"
+        ],
+        [
+          "Let's do some chores.",
+          "Végezzünk egy kis házimunkát."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "something határozatlan névmás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "smells bad érzékelést kifejező ige",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have to + alapalak kötelezettség",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Where do you put...? do-support",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's do some chores",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-05",
+        "A1-09"
+      ]
+    },
+    {
+      "unit": 60,
+      "section_unit": 20,
+      "title_hu": "Használj főnévi igeneveket bizonyos igékkel",
+      "communication_goal": "Használj főnévi igeneveket bizonyos igékkel",
+      "phrases": [
+        [
+          "Are you feeling upset?",
+          "Feldúltnak érzed magad?"
+        ],
+        [
+          "I feel sad.",
+          "Szomorúnak érzem magam."
+        ],
+        [
+          "Why do you feel angry?",
+          "Miért érzed magad mérgesnek?"
+        ],
+        [
+          "I'm worried about you.",
+          "Aggódok miattad."
+        ],
+        [
+          "Do you want to talk?",
+          "Akarsz beszélni?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "feel + melléknév",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "feel + -ing (Are you feeling upset?)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "want + to infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "feel + adjective",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "worried about vonzat",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10",
+        "A1-03"
+      ],
+      "explicit_guidebook_focus": [
+        "főnévi igenév bizonyos igékkel – címben"
+      ]
+    },
+    {
+      "unit": 61,
+      "section_unit": 21,
+      "title_hu": "Tervezz egy utazást",
+      "communication_goal": "Tervezz egy utazást",
+      "phrases": [
+        [
+          "I am going to travel this summer.",
+          "Utazni fogok ezen a nyáron."
+        ],
+        [
+          "She is going to bring her headphones.",
+          "Hozni fogja a fejhallgatóját."
+        ],
+        [
+          "Will you fly or drive?",
+          "Repülni vagy vezetni fogsz?"
+        ],
+        [
+          "We are going to travel to two countries.",
+          "Két országba fogunk utazni."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "be going to + alapalak tervezett jövő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will + alapalak döntés/jövő kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "going to többes és egyes szám",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A2-04"
+      ]
+    },
+    {
+      "unit": 62,
+      "section_unit": 22,
+      "title_hu": "Tervezd meg a programokat",
+      "communication_goal": "Tervezd meg a programokat",
+      "phrases": [
+        [
+          "Let's have a picnic in the park!",
+          "Piknikezzünk a parkban!"
+        ],
+        [
+          "Are you going to see your friends later?",
+          "Fogsz találkozni később a barátaiddal?"
+        ],
+        [
+          "It is going to rain.",
+          "Esni fog."
+        ],
+        [
+          "I want to attend the wedding on Sunday.",
+          "Részt akarok venni az esküvőn vasárnap."
+        ],
+        [
+          "When is the storm going to start?",
+          "Mikor fog kezdődni a vihar?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "be going to jövőbeli terv és előrejelzés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Are you going to...? kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "is going to rain előrejelzés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "want + to infinitive",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's + alapalak",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A2-04",
+        "A1-10",
+        "A1-09"
+      ]
+    },
+    {
+      "unit": 63,
+      "section_unit": 23,
+      "title_hu": "Beszélj az időjárásról",
+      "communication_goal": "Beszélj az időjárásról",
+      "phrases": [
+        [
+          "It rained a lot in April.",
+          "Áprilisban sokat esett."
+        ],
+        [
+          "We hike in the mountains every spring.",
+          "Minden tavasszal túrázunk a hegyekben."
+        ],
+        [
+          "It's always hot in June, right?",
+          "Mindig meleg van júniusban, igaz?"
+        ],
+        [
+          "It snowed last weekend!",
+          "Havazott múlt hétvégén!"
+        ],
+        [
+          "Yesterday, it was so cold outside.",
+          "Tegnap olyan hideg volt kint."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Simple: rained/snowed",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present Simple szokás: hike",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Present be: it's hot/was cold",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "yesterday/last weekend múlt időjelölők",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "always gyakoriság",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10",
+        "A1-06"
+      ]
+    },
+    {
+      "unit": 64,
+      "section_unit": 24,
+      "title_hu": "Tagadd a múlt idejű mondatokat",
+      "communication_goal": "Tagadd a múlt idejű mondatokat",
+      "phrases": [
+        [
+          "Do I need to go to the hospital?",
+          "Kórházba kell mennem?"
+        ],
+        [
+          "I stayed home because I was sick.",
+          "Otthon maradtam, mert beteg voltam."
+        ],
+        [
+          "What are your symptoms?",
+          "Mik a tüneteid?"
+        ],
+        [
+          "Please see a doctor, Kevin!",
+          "Kérlek, menj el orvoshoz, Kevin!"
+        ],
+        [
+          "My arm hurts.",
+          "Fáj a karom."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "stayed Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "was sick Past be",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "because összetett mondat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "please + felszólító",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Do I need...? jelen idejű do-kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10",
+        "A1-09"
+      ],
+      "explicit_guidebook_focus": [
+        "múlt idejű tagadás – címben"
+      ]
+    },
+    {
+      "unit": 65,
+      "section_unit": 25,
+      "title_hu": "Beszélj a gyerekkorodról",
+      "communication_goal": "Beszélj a gyerekkorodról",
+      "phrases": [
+        [
+          "As a child, I loved playing rugby.",
+          "Gyerekként szerettem rögbizni."
+        ],
+        [
+          "Did you play video games after school?",
+          "Videójátékoztál iskola után?"
+        ],
+        [
+          "I loved pasta with tomato sauce!",
+          "Szerettem a tésztát paradicsomszósszal!"
+        ],
+        [
+          "My favorite show was at six o'clock.",
+          "A kedvenc műsorom hat órakor volt."
+        ],
+        [
+          "I lived in Brazil as a child.",
+          "Gyerekként Brazíliában éltem."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Simple: loved/lived",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Did you play...? múlt idejű kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "love + gerund (playing)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "was létige múltban",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10"
+      ]
+    },
+    {
+      "unit": 66,
+      "section_unit": 26,
+      "title_hu": "Kezelj orvosi vészhelyzetet",
+      "communication_goal": "Kezelj orvosi vészhelyzetet",
+      "phrases": [
+        [
+          "What happened after the accident?",
+          "Mi történt a baleset után?"
+        ],
+        [
+          "Did you call the insurance company?",
+          "Felhívtad a biztosítótársaságot?"
+        ],
+        [
+          "Where did the accident happen?",
+          "Hol történt a baleset?"
+        ],
+        [
+          "How did you hurt your leg?",
+          "Hogy sérült meg a lábad?"
+        ],
+        [
+          "Get well soon!",
+          "Jobbulást!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Past Simple: happened/called/happen/hurt",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Did you call...?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Where did... happen?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "How did you hurt...?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperative: Get well soon",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10"
+      ]
+    },
+    {
+      "unit": 67,
+      "section_unit": 27,
+      "title_hu": "Vegyél részt egy zenei fesztiválon",
+      "communication_goal": "Vegyél részt egy zenei fesztiválon",
+      "phrases": [
+        [
+          "Do you want to see the rock show?",
+          "Meg akarod nézni a rockelőadást?"
+        ],
+        [
+          "The festival is larger this year.",
+          "Idén nagyobb a fesztivál."
+        ],
+        [
+          "This music festival is cooler.",
+          "Ez a zenei fesztivál menőbb."
+        ],
+        [
+          "The punk band will perform twelve songs!",
+          "A punkzenekar tizenkét dalt fog előadni!"
+        ],
+        [
+          "Let's go home after the jazz concert!",
+          "Menjünk haza a dzsesszkoncert után!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "comparative: larger/cooler",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "will perform jövő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Do you want...?",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's go... felszólító javaslat",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-04",
+        "A1-09",
+        "A2-04",
+        "A2-06"
+      ]
+    },
+    {
+      "unit": 68,
+      "section_unit": 28,
+      "title_hu": "Beszélj híres emberekről",
+      "communication_goal": "Beszélj híres emberekről",
+      "phrases": [
+        [
+          "Who is your favorite celebrity?",
+          "Ki a kedvenc hírességed?"
+        ],
+        [
+          "That actor is the coolest.",
+          "Az a színész a legmenőbb."
+        ],
+        [
+          "She's a rich celebrity.",
+          "Ő egy gazdag híresség."
+        ],
+        [
+          "I love watching music videos.",
+          "Szeretek videóklipeket nézni."
+        ],
+        [
+          "Which band member is the cutest?",
+          "Melyik zenekari tag a legaranyosabb?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "superlative: the coolest/cutest",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a celebrity / a rich celebrity",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "love + gerund (watching)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Who/Which kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-04",
+        "A1-10",
+        "A2-06"
+      ]
+    },
+    {
+      "unit": 69,
+      "section_unit": 29,
+      "title_hu": "Használj határozatlan névmásokat",
+      "communication_goal": "Használj határozatlan névmásokat",
+      "phrases": [
+        [
+          "Do you need something?",
+          "Szükséged van valamire?"
+        ],
+        [
+          "The project is due on Friday.",
+          "A projekt pénteken esedékes."
+        ],
+        [
+          "Let's discuss possible challenges.",
+          "Beszéljük meg a lehetséges kihívásokat."
+        ],
+        [
+          "Oops, did I make a mistake?",
+          "Hoppá, hibát követtem el?"
+        ],
+        [
+          "Can you explain the plans again?",
+          "El tudod magyarázni újra a terveket?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "something",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "possible adjective not pronoun",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Did I make...? Past Simple question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Let's discuss",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Can you explain...? modális kérés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10",
+        "A1-09"
+      ],
+      "explicit_guidebook_focus": [
+        "határozatlan névmások – címben"
+      ]
+    },
+    {
+      "unit": 70,
+      "section_unit": 30,
+      "title_hu": "Írj le egy rablást",
+      "communication_goal": "Írj le egy rablást",
+      "phrases": [
+        [
+          "Did you see the robbers?",
+          "Láttad a rablókat?"
+        ],
+        [
+          "My new headphones are missing!",
+          "Az új fejhallgatóm eltűnt!"
+        ],
+        [
+          "Please describe your bag.",
+          "Kérem, írja le a táskáját."
+        ],
+        [
+          "I noticed a strange truck outside.",
+          "Észrevettem egy furcsa teherautót kint."
+        ],
+        [
+          "Call the police!",
+          "Hívd a rendőrséget!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Did you see...? Past Simple question",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "are missing be + adjective/passive ambiguity",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Please describe imperative",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "noticed Past Simple",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "Call the police imperative",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-10",
+        "A1-09"
+      ]
+    }
+  ],
+  "grammar_crosswalk": [
+    {
+      "grammar_module": "A1-07",
+      "units": [
+        49,
+        55,
+        56
+      ],
+      "evidence": "explicit_and_observed",
+      "focus": "there is/are; much/jewelry; some/any/enough"
+    },
+    {
+      "grammar_module": "A1-09",
+      "units": [
+        41,
+        42,
+        45,
+        47,
+        48,
+        50,
+        51,
+        57,
+        58,
+        59,
+        62,
+        64,
+        66,
+        67,
+        69,
+        70
+      ],
+      "evidence": "observed",
+      "focus": "can/could kérések és képesség, felszólítás, Let's, please"
+    },
+    {
+      "grammar_module": "A1-10",
+      "units": [
+        45,
+        46,
+        54,
+        58,
+        60,
+        63,
+        64,
+        65,
+        66,
+        69,
+        70
+      ],
+      "evidence": "observed",
+      "focus": "and/because összetett mondat, gerund, infinitive, Past Simple, did-kérdés, to be múlt"
+    },
+    {
+      "grammar_module": "A2-01",
+      "units": [
+        63,
+        64,
+        65,
+        66,
+        69,
+        70
+      ],
+      "evidence": "explicit_and_observed",
+      "focus": "Past Simple igék, did/didn't és múltbeli kérdés; a 64. cím tagadást nevez, de példában nincs múlt tagadás"
+    },
+    {
+      "grammar_module": "A2-04",
+      "units": [
+        43,
+        44,
+        47,
+        48,
+        50,
+        54,
+        57,
+        61,
+        62,
+        67
+      ],
+      "evidence": "observed",
+      "focus": "will és be going to jövőbeli tervek/előrejelzések"
+    },
+    {
+      "grammar_module": "A2-06",
+      "units": [
+        67,
+        68
+      ],
+      "evidence": "observed",
+      "focus": "comparative és superlative fokozás"
+    },
+    {
+      "grammar_module": "A2-07",
+      "units": [
+        46,
+        58,
+        60,
+        68
+      ],
+      "evidence": "observed",
+      "focus": "prefer/love/like + gerund; want + infinitive; thank you for + gerund"
+    }
+  ],
+  "source_conflicts": [
+    {
+      "unit": 45,
+      "guidebook_title": "Alkoss összetett mondatokat",
+      "examples": [
+        "I need pills for the flu.",
+        "Do you sell masks?",
+        "My throat really hurts!",
+        "Can I use this coupon?",
+        "The medicine is on aisle two, and snacks are on aisle ten."
+      ],
+      "issue": "A példák többsége önálló egyszerű mondat; az utolsó példa mutat egyértelmű összetett, and-del kapcsolt mondatot.",
+      "resolution": "A fókusz igazolható, de a bemutatott példák csak korlátozottan szemléltetik."
+    },
+    {
+      "unit": 55,
+      "guidebook_title": "Használj mennyiségjelzőket",
+      "examples": [
+        "How much jewelry does she need?",
+        "a problem",
+        "this information"
+      ],
+      "issue": "A példák egyértelműen mutatják a much + uncountable jewelry szerkezetet, de a quantifier rendszer többi elemét nem.",
+      "resolution": "A cím szerinti fókuszt megtartjuk; a jelenlegi példák alapján főleg countability és how much látható."
+    },
+    {
+      "unit": 60,
+      "guidebook_title": "Használj főnévi igeneveket bizonyos igékkel",
+      "examples": [
+        "Are you feeling upset?",
+        "I feel sad.",
+        "Do you want to talk?"
+      ],
+      "issue": "A példákban a want + to infinitive csak egy mondatban jelenik meg; a többi főként feel + adjective / continuous forma.",
+      "resolution": "A cím explicit, de csak a want to talk világos infinitive példa; ne terjesszük ki minden példára."
+    },
+    {
+      "unit": 64,
+      "guidebook_title": "Tagadd a múlt idejű mondatokat",
+      "examples": [
+        "Do I need to go to the hospital?",
+        "I stayed home because I was sick.",
+        "What are your symptoms?",
+        "Please see a doctor!",
+        "My arm hurts."
+      ],
+      "issue": "A példasorban nincs Past Simple tagadó mondat; csak stayed a múlt idejű cselekvő ige.",
+      "resolution": "A cím szerinti nyelvtani célt közvetlenül nem támasztják alá a felsorolt példák."
+    },
+    {
+      "unit": 69,
+      "guidebook_title": "Használj határozatlan névmásokat",
+      "examples": [
+        "Do you need something?",
+        "possible challenges",
+        "did I make a mistake?"
+      ],
+      "issue": "A something egyértelmű határozatlan névmás; possible melléknév, a mistake határozott főnévi csoport.",
+      "resolution": "A cím fókusza részben igazolható, de a bemutatott példák csak korlátozott sorozatot adnak."
+    },
+    {
+      "unit": 70,
+      "guidebook_title": "Írj le egy rablást",
+      "examples": [
+        "Did you see the robbers?",
+        "My new headphones are missing!",
+        "I noticed a strange truck outside."
+      ],
+      "issue": "A missing form melléknévi állapot vagy passzívhoz hasonló jelentés; a past simple did see/noticed a múltbeli elbeszélés.",
+      "resolution": "Kommunikációs cél; a nyelvtan a példákból figyelhető meg, nem explicit címfókusz."
+    }
+  ],
+  "data_policy": {
+    "mastery_rule": "Guidebook-olvasás, kifejezésmegértés vagy Duolingo-egységteljesítés nem módosítja automatikusan a mastery állapotot.",
+    "evidence_values": [
+      "explicit_guidebook_heading",
+      "observed_example",
+      "heading_example_mismatch",
+      "partial_example_coverage"
+    ],
+    "conflict_rule": "Az explicit Guidebook-címet és a példák valós nyelvtani tartalmát külön kezeld. Ha nem egyeznek, dokumentáld, és az alkalmazási magyarázat a tényleges példákat kövesse."
+  }
+}
