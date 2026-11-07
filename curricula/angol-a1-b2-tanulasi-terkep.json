@@ -44,7 +44,7 @@
       "cefr": "A2",
       "units": 60,
       "title_hu": "Hétköznapi beszélgetés",
-      "focus_hu": "Ünnepek, egészség, stressz, munka, feltétel, modális igék, összehasonlítás, mennyiségek, present perfect, phrasal verbs, past continuous, reported speech, question tags és relative clauses."
+      "focus_hu": "A tényleges Guidebook alapján: ünnepek és élmények; orvosi időpontok; when/if mellékmondatok és első feltételes mód; should/must/might/can/may; tanács és tiltás; összehasonlítás és szuperlatívusz; mennyiségek és kvantorok; Present Perfect (since/for/yet, ever/never, tapasztalat); phrasal verbs és elválasztható igekötős igék; reflexive pronouns; Past Continuous; passzív szerkezetek; question tags; vonatkozói mellékmondatok; múltbeli elbeszélés és összetett mondatok."
     },
     {
       "duolingo_module": 5,
@@ -829,6 +829,21 @@
       "source_file": "guidebooks/en-hu/module-03.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "30 egység feldolgozva. A will/going to, was/were, there is/are, quantifiers, gerund/infinitive, Past Simple, comparatives/superlatives példákban megfigyelhetők. A 45., 55., 60., 64. és 69. résznél részleges vagy eltérő példabizonyíték van."
+    },
+    {
+      "duolingo_module": 4,
+      "unit_range": [
+        71,
+        130
+      ],
+      "local_unit_range": [
+        1,
+        60
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-04.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "60 egység és 293 példamondat feldolgozva. Erős közvetlen példa: first conditional, modális igék, Present Perfect, Past Continuous (néhány egységben), passzív, phrasal verbs, relative clause. A 79., 87., 93., 100., 106., 116. és 118. résznél részleges vagy cím–példa eltérés; a 107. részletnél hiányzott a témacím."
     }
   ],
   "source_conflicts": [
@@ -941,6 +956,62 @@
       "issue": "A missing form melléknévi állapot vagy passzívhoz hasonló jelentés; a past simple did see/noticed a múltbeli elbeszélés.",
       "resolution": "Kommunikációs cél; a nyelvtan a példákból figyelhető meg, nem explicit címfókusz.",
       "module": 3
+    },
+    {
+      "unit": 79,
+      "guidebook_title": "Használj összehasonlításokat és szuperlatívuszokat",
+      "issue": "A példák között csak szuperlatívusz szerepel explicit módon (the most famous); nincs egyértelmű comparative alak.",
+      "resolution": "A cím tágabb a mintapéldáknál; a comparative előfordulás itt nem bizonyított.",
+      "module": 4
+    },
+    {
+      "unit": 87,
+      "guidebook_title": "Használj számhatározókat",
+      "issue": "A példák mennyiségi kifejezéseket és mértékeket mutatnak (no, half a cup), de a 'number adverbs' pontos terminusa a címből nem egyértelmű; a többi példa sem mutat klasszikus számhatározót.",
+      "resolution": "Őrizzük a címet, a tanulási leírásban csak a tényleges mennyiség- és mértékkifejezéseket állítsuk biztosan.",
+      "module": 4
+    },
+    {
+      "unit": 93,
+      "guidebook_title": "Használj határozószókat és középfokokat",
+      "issue": "A példákban ever/often/időhatározók láthatók, de nincs középfokú összehasonlító melléknév vagy határozószó.",
+      "resolution": "A cím szerinti két fókuszból a határozószók igazolhatók; a comparative részt a példák nem támasztják alá.",
+      "module": 4
+    },
+    {
+      "unit": 100,
+      "guidebook_title": "Használj vonzatos igéket",
+      "issue": "A find out, look up és follow up világos phrasal verb példák, de a speak to/about inkább ige + elöljárószó vonzat.",
+      "resolution": "A példák phrasal verbeket és prepozíciós vonzatokat vegyesen mutatnak.",
+      "module": 4
+    },
+    {
+      "unit": 106,
+      "guidebook_title": "Használj elválasztható igekötős igéket",
+      "issue": "Csak a try it on példa mutat egyértelmű elválasztható phrasal verbet; a többi mondat nem tartalmaz ilyet.",
+      "resolution": "A cím explicit, de a példasor csak egy célzott példával támasztja alá.",
+      "module": 4
+    },
+    {
+      "unit": 116,
+      "guidebook_title": "Használj függő beszédet",
+      "issue": "A példák múlt idejű elbeszélést, kérdést és passzív szerkezetet tartalmaznak, de nincs idézett vagy függő beszédet mutató mondat.",
+      "resolution": "Cím–példa eltérés; reported speech tanítása a felsorolt példákból nem igazolható.",
+      "module": 4
+    },
+    {
+      "unit": 118,
+      "guidebook_title": "Használj ugye-kérdéseket",
+      "issue": "A három példában nincs question tag; a tényleges tag kérdések (won't you? / can't I?) csak a 127. egységben jelennek meg.",
+      "resolution": "A címet megtartjuk, a példákat pedig a 118. egységre vonatkozó bizonyítékként nem kezeljük.",
+      "module": 4
+    },
+    {
+      "unit": 128,
+      "guidebook_title": "Használj vonatkozói mellékmondatokat",
+      "issue": "A who-s vonatkozói mellékmondat egyértelmű, de a többi példa nem gyakoroltatja a szerkezetet; a brownies I made reduced/zero relative clause.",
+      "resolution": "A cél explicit, a példák részben szemléltetik.",
+      "module": 4
     }
   ]
 }
