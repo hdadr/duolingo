@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.0",
+  "course_id": "DUOLINGO_EN_HU",
+  "course_key": "en-hu",
+  "learning_language": "en",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "source": {
+    "kind": "user_supplied_guidebook_transcription",
+    "received_date": "2026-11-07",
+    "source_description": "A tanuló által bemásolt Duolingo webes Guidebook-tartalom. A példamondatok és magyar fordítások forrásadatok; a nyelvtani besorolások pedagógiai feldolgozások.",
+    "coverage": "Duolingo 1. modul, 1–10. rész",
+    "total_course_units": 1005,
+    "note": "A Guidebook címe/kommunikációs célja közvetlen forrásadat. Az egyes példákban látható nyelvtan megfigyelt előfordulás, nem bizonyítja önmagában az adott teljes nyelvtani szabály expliciten tanítását vagy a tanuló elsajátítását."
+  },
+  "module": {
+    "number": 1,
+    "cefr": "Intro",
+    "unit_range": [
+      1,
+      10
+    ],
+    "title_hu": "Alapmondatok és bemutatkozás"
+  },
+  "units": [
+    {
+      "unit": 1,
+      "title_hu": "Italok felajánlása és elfogadása",
+      "communication_goal": "Italok felajánlása és elfogadása",
+      "phrases": [
+        [
+          "Welcome!",
+          "Üdvözöllek!"
+        ],
+        [
+          "Coffee or tea?",
+          "Kávét vagy teát?"
+        ],
+        [
+          "Water, please.",
+          "Vizet, kérlek."
+        ],
+        [
+          "Thank you, goodbye!",
+          "Köszönöm, viszontlátásra!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "üdvözlő és elköszönő formulák",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "választást felkínáló elliptikus kérdés (Coffee or tea?)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "please használata rövid, udvarias kérésben",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-09"
+      ],
+      "notes": "A példák kész kommunikációs formulákat mutatnak; teljes kérdés- és felszólítórendszer nem következtethető ki belőlük."
+    },
+    {
+      "unit": 2,
+      "title_hu": "Mondd, honnan jöttél",
+      "communication_goal": "Származás, országok és visszakérdezés",
+      "phrases": [
+        [
+          "I am from Japan.",
+          "Japánból származom."
+        ],
+        [
+          "I am from Brazil, and you?",
+          "Brazíliából származom, és te?"
+        ],
+        [
+          "I am from France too.",
+          "Én is Franciaországból származom."
+        ],
+        [
+          "China and Mexico",
+          "Kína és Mexikó"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "to be jelen ideje (I am)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "from elöljárószó származás kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "and you? visszakérdezés és too jelentése",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01"
+      ],
+      "notes": "Az országnevek itt szókincsbeli példák; az országnevek előtti névelőhasználatot ez a lista nem tanítja meg."
+    },
+    {
+      "unit": 3,
+      "title_hu": "Mutatkozz be és mutasd be a családod",
+      "communication_goal": "Név és családtag bemutatása",
+      "phrases": [
+        [
+          "Hi, my name is Anna.",
+          "Szia, a nevem Anna."
+        ],
+        [
+          "This is my mom.",
+          "Ő az anyukám."
+        ],
+        [
+          "My dad is from Japan.",
+          "Az apukám Japánból származik."
+        ],
+        [
+          "Lisa is from Paris.",
+          "Lisa Párizsból származik."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "my birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "this is bemutató szerkezet",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be jelen ideje személyekkel és származással",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-04"
+      ]
+    },
+    {
+      "unit": 4,
+      "title_hu": "Tájékozódj a repülőtéren",
+      "communication_goal": "Útlevél és jegy azonosítása, udvarias felszólítás",
+      "phrases": [
+        [
+          "Is this your passport?",
+          "Ez az ön útlevele?"
+        ],
+        [
+          "Welcome to Japan!",
+          "Üdvözöljük Japánban!"
+        ],
+        [
+          "This is my ticket.",
+          "Ez a jegyem."
+        ],
+        [
+          "Your passport, please.",
+          "Az útlevelét, kérem."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "to be kérdő szórendje (Is this ...?)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "this bemutató/mutató névmás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "my/your birtokos determinánsok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "please udvariassági jelölő",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-04",
+        "A1-09"
+      ]
+    },
+    {
+      "unit": 5,
+      "title_hu": "Boldog születésnapot, Anna!",
+      "communication_goal": "Születésnap, életkor, kellékek és múltbeli események",
+      "phrases": [
+        [
+          "Happy birthday, Anna!",
+          "Boldog születésnapot, Anna!"
+        ],
+        [
+          "Do we need more balloons?",
+          "Szükségünk van még lufikra?"
+        ],
+        [
+          "I brought chips!",
+          "Hoztam csipszet!"
+        ],
+        [
+          "How old are you now?",
+          "Hány éves vagy most?"
+        ],
+        [
+          "We sang and danced.",
+          "Énekeltünk és táncoltunk."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "do-support jelen idejű kérdésben (Do we need ...?)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "need mint főige",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be életkor kérdésében (How old are you?)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "brought, sang és danced múlt idejű igealakok",
+          "evidence": "observed_example",
+          "caution": "A múlt idejű alakok előfordulása nem bizonyítja, hogy a Past Simple teljes szabályrendszerét ez a rész tanítja."
+        },
+        {
+          "topic": "more + többes számú főnév",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-10"
+      ],
+      "source_conflict": "A korábbi közösségi kurzustérkép az 1. modul 5. egységéhez 'Főnevek melléknevekkel történő leírása' címet rendelt. A tanuló aktuális Guidebookja ehelyett születésnapi kommunikációs célt mutat. Az aktuális haladási térképben a felhasználó által megadott Guidebook az elsődleges; a régi térképcím eltérésként megőrzendő."
+    },
+    {
+      "unit": 6,
+      "title_hu": "Rendelj ételt és italt",
+      "communication_goal": "Étel és ital rendelése étteremben",
+      "phrases": [
+        [
+          "I'd like a menu, please.",
+          "Szeretnék egy étlapot, kérlek."
+        ],
+        [
+          "This restaurant is expensive!",
+          "Ez az étterem drága!"
+        ],
+        [
+          "Excuse me, where is my burger?",
+          "Elnézést, hol van a hamburgerem?"
+        ],
+        [
+          "Here is your pizza.",
+          "Itt van a pizzád."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "I'd like = I would like udvarias rendelési formula",
+          "evidence": "observed_example",
+          "caution": "Ezt ne tanítsd feltételes mondatként; itt udvarias kérésként funkcionál."
+        },
+        {
+          "topic": "a névelő egyes számú megszámlálható főnév előtt",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "this demonstratív determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be állító és where-kérdő szerkezetben",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "expensive melléknév névszói állítmányban",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-04",
+        "A1-09"
+      ]
+    },
+    {
+      "unit": 7,
+      "title_hu": "Használd a jelenidőt foglalkozásoknál",
+      "communication_goal": "Foglalkozások és családtagok bemutatása",
+      "phrases": [
+        [
+          "I'm a nurse.",
+          "Ápoló vagyok."
+        ],
+        [
+          "Is your husband a nurse?",
+          "A férjed ápoló?"
+        ],
+        [
+          "My mom is a great lawyer.",
+          "Az anyukám egy nagyszerű ügyvéd."
+        ],
+        [
+          "Yes, my sister is a doctor.",
+          "Igen, a lánytestvérem orvos."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "a létige jelen ideje foglalkozások és szerepek megadására",
+          "evidence": "explicit_heading_and_observed_example"
+        },
+        {
+          "topic": "to be kérdő szórendje",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a/an névelő foglalkozás előtt",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "great melléknév főnévi szerkezetben",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "összevont alak I'm",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-04"
+      ],
+      "notes": "A jelen idejű célmegnevezés explicit; a példák elsősorban a létigét mutatják, nem a cselekvő igés Present Simple teljes ragozását."
+    },
+    {
+      "unit": 8,
+      "title_hu": "Használd a jelenidőt",
+      "communication_goal": "Nyelvekről és tanulásról beszélni",
+      "phrases": [
+        [
+          "I speak English and Spanish.",
+          "Én beszélek angolul és spanyolul."
+        ],
+        [
+          "I study French and Spanish at school.",
+          "Én franciául és spanyolul tanulok az iskolában."
+        ],
+        [
+          "I understand a little Hindi.",
+          "Én egy kicsit értek hindiül."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "Present Simple cselekvő igékkel (speak, study, understand)",
+          "evidence": "explicit_heading_and_observed_example"
+        },
+        {
+          "topic": "alany + ige + tárgy/kiegészítő alapmondat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a little mennyiségjelölő",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03"
+      ]
+    },
+    {
+      "unit": 9,
+      "title_hu": "Beszélj az időjárásról",
+      "communication_goal": "Időjárás és öltözködési szükségletek",
+      "phrases": [
+        [
+          "It's sunny today.",
+          "Napos idő van ma."
+        ],
+        [
+          "Is it rainy in your city?",
+          "Esős idő van a városodban?"
+        ],
+        [
+          "I need a hat and a jacket.",
+          "Szükségem van egy sapkára és egy kabátra."
+        ],
+        [
+          "It's very windy today!",
+          "Nagyon szeles idő van ma!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "it is / it's időjárás kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "to be kérdő alakja (Is it ...?)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknévi állítmány (sunny, rainy, windy)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "need + főnévi tárgy",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a/an egyes számú megszámlálható főnevek előtt",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-01",
+        "A1-03",
+        "A1-04"
+      ]
+    },
+    {
+      "unit": 10,
+      "title_hu": "Beszélj a háziállataidról",
+      "communication_goal": "Háziállatok és tulajdonságaik",
+      "phrases": [
+        [
+          "Do you have a pet?",
+          "Neked van házikedvenced?"
+        ],
+        [
+          "Yes, I have a dog.",
+          "Igen, nekem van egy kutyám."
+        ],
+        [
+          "My cat is very cute.",
+          "A macskám nagyon aranyos."
+        ],
+        [
+          "Your snake is very smart!",
+          "A kígyód nagyon okos!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "do-support kérdésben főige (have) előtt",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "have mint birtoklást kifejező főige",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a/an egyes számú megszámlálható főnevek előtt",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "my/your birtokos determinánsok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "very + melléknév",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    }
+  ],
+  "grammar_crosswalk": [
+    {
+      "grammar_module": "A1-01",
+      "units": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "evidence": "observed",
+      "focus": "to be kijelentés, kérdés, származás, bemutatás, életkor, foglalkozás, időjárás"
+    },
+    {
+      "grammar_module": "A1-03",
+      "units": [
+        5,
+        8,
+        9,
+        10
+      ],
+      "evidence": "explicit_and_observed",
+      "focus": "egyszerű jelen cselekvő igékkel; need/have; Do-support kérdések korai példái"
+    },
+    {
+      "grammar_module": "A1-04",
+      "units": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10
+      ],
+      "evidence": "observed",
+      "focus": "my/your, this, a/an, melléknevek, többes számú főnevek"
+    },
+    {
+      "grammar_module": "A1-05",
+      "units": [
+        5,
+        10
+      ],
+      "evidence": "observed_preview",
+      "focus": "Do we need...? és Do you have...? kérdések; a teljes do/does rendszer később külön is előkerülhet"
+    },
+    {
+      "grammar_module": "A1-09",
+      "units": [
+        1,
+        4,
+        6
+      ],
+      "evidence": "observed",
+      "focus": "please és I'd like udvarias kommunikációban; teljes imperatívuszrendszer nem igazolt"
+    },
+    {
+      "grammar_module": "A1-10",
+      "units": [
+        5
+      ],
+      "evidence": "observed_forms_only",
+      "focus": "brought, sang, danced múlt idejű alakok; ez korai előfordulás, nem a teljes Past Simple modul bevezetése"
+    }
+  ],
+  "data_policy": {
+    "grammar_evidence_values": [
+      "explicit_heading_and_observed_example",
+      "observed_example",
+      "inferred"
+    ],
+    "mastery_rule": "A Guidebook-példa vagy egységteljesítés nem bizonyítja a tanuló nyelvtani elsajátítását. A mastery státuszt külön, ChatGPT-s megértésellenőrzéssel kell mérni.",
+    "conflict_rule": "Ha a ténylegesen látott, felhasználó által megadott aktuális Guidebook eltér a közösségi kurzustérképtől, mindkét forrást őrizd meg, de az aktuális tanulási útvonalnál a Guidebook-megfigyelést részesítsd előnyben."
+  }
+}
