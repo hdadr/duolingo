@@ -519,7 +519,7 @@
       ]
     }
   ],
-  "route_rule": "Válassz 1–3 releváns modult az aktuális egység címe/témája és – ha feldolgozott – Guidebook-adata alapján. Guidebookban szereplő egységcél közvetlen útvonaladat; a példamondatból kiolvasott nyelvtan csak megfigyelt előfordulás, kivéve ha az egységcím maga nevezi meg a nyelvtant. Forrásütközésnél őrizd meg mindkét forrást, de az aktuális, tanuló által megadott Guidebookot részesítsd előnyben. A hiányzó közvetlen adatot ne találd ki. A kiválasztott modul fájlja: learning-modules/{course}/a1.md (a bank mező szerint); csak a lines zárt sorintervallumát olvasd be. A feldolgozott Guidebook-részekhez a `guidebooks/{course}/module-NN.json` fájlt használd, ha hozzáférhető. A Guidebook-alapú, feldolgozott 2. modul-egységeknél a guidebooks/en-hu/module-02.json a részletes közvetlen forrás. A feldolgozott 3. modul egységeinél a guidebooks/en-hu/module-03.json részletes Guidebook-forrásként használandó; a cím és példák eltéréseit ne simítsd el. A 4. modul feldolgozott egységeihez a guidebooks/en-hu/module-04.json a közvetlen forrás; a 116. és 118. részek cím–példa eltérését, valamint a 107. rész témacímének hiányát őrizd meg. Az 5. modul Guidebook-forrása a guidebooks/en-hu/module-05.json. A 255 egység 51 ötegységes ismétlődő témablokkra mutat; a source phrase setek angol nyelvűek, magyar fordítás nincs. A példákból megfigyelt nyelvtant ne kezeld explicit nyelvtani Guidebook-célként. A 6. modul Guidebook-forrása a guidebooks/en-hu/module-06.json. A router 260 külön egységankort tárol, amelyek 52 közös angol phrase_setre mutatnak; magyar fordítás nem érkezett, a nyelvtani címkéket csak megfigyelt példaként kezeld. A 7. modul feldolgozott Guidebook-forrása a `guidebooks/en-hu/module-07.json` (#646–825). A router 180 külön egységankort őriz meg, 36 ismétlődő angol phrase_setre hivatkozva; magyar fordítás nem érkezett. A nyelvtani címkék a példákból megfigyeltek, nem feltétlenül explicit Guidebook-célok.",
+  "route_rule": "Válassz 1–3 releváns modult az aktuális egység címe/témája és – ha feldolgozott – Guidebook-adata alapján. Guidebookban szereplő egységcél közvetlen útvonaladat; a példamondatból kiolvasott nyelvtan csak megfigyelt előfordulás, kivéve ha az egységcím maga nevezi meg a nyelvtant. Forrásütközésnél őrizd meg mindkét forrást, de az aktuális, tanuló által megadott Guidebookot részesítsd előnyben. A hiányzó közvetlen adatot ne találd ki. A kiválasztott modul fájlja: learning-modules/{course}/a1.md (a bank mező szerint); csak a lines zárt sorintervallumát olvasd be. A feldolgozott Guidebook-részekhez a `guidebooks/{course}/module-NN.json` fájlt használd, ha hozzáférhető. A Guidebook-alapú, feldolgozott 2. modul-egységeknél a guidebooks/en-hu/module-02.json a részletes közvetlen forrás. A feldolgozott 3. modul egységeinél a guidebooks/en-hu/module-03.json részletes Guidebook-forrásként használandó; a cím és példák eltéréseit ne simítsd el. A 4. modul feldolgozott egységeihez a guidebooks/en-hu/module-04.json a közvetlen forrás; a 116. és 118. részek cím–példa eltérését, valamint a 107. rész témacímének hiányát őrizd meg. Az 5. modul Guidebook-forrása a guidebooks/en-hu/module-05.json. A 255 egység 51 ötegységes ismétlődő témablokkra mutat; a source phrase setek angol nyelvűek, magyar fordítás nincs. A példákból megfigyelt nyelvtant ne kezeld explicit nyelvtani Guidebook-célként. A 6. modul Guidebook-forrása a guidebooks/en-hu/module-06.json. A router 260 külön egységankort tárol, amelyek 52 közös angol phrase_setre mutatnak; magyar fordítás nem érkezett, a nyelvtani címkéket csak megfigyelt példaként kezeld. A 7. modul feldolgozott Guidebook-forrása a `guidebooks/en-hu/module-07.json` (#646–825). A router 180 külön egységankort őriz meg, 36 ismétlődő angol phrase_setre hivatkozva; magyar fordítás nem érkezett. A nyelvtani címkék a példákból megfigyeltek, nem feltétlenül explicit Guidebook-célok. A 8. modul részletes Guidebook-forrása a `guidebooks/en-hu/module-08.json` (#826–1005), amely 180 ankort és 36 ötegységes phrase_setet tartalmaz. Közvetlen nyelvtani címként csak a Present Perfect Progressive (#851–855), Future Perfect Progressive (#926–930) és Past Perfect Passive (#961–965) szerepel; az egyéb nyelvtani címkék példákból megfigyeltek.",
   "unit_anchors": [
     [
       1,
@@ -10192,7 +10192,2382 @@
         "were in hypothetical clause",
         "would have + past participle"
       ]
+    ],
+    [
+      8,
+      1,
+      "Give reasons and justifications",
+      [
+        "I guess: vélemény óvatos megfogalmazása",
+        "but: ellentét",
+        "would you need: hipotetikus kérdés",
+        "Past Simple",
+        "otherwise + would have: implicit feltételes következmény"
+      ]
+    ],
+    [
+      8,
+      2,
+      "Give reasons and justifications",
+      [
+        "I guess: vélemény óvatos megfogalmazása",
+        "but: ellentét",
+        "would you need: hipotetikus kérdés",
+        "Past Simple",
+        "otherwise + would have: implicit feltételes következmény"
+      ]
+    ],
+    [
+      8,
+      3,
+      "Give reasons and justifications",
+      [
+        "I guess: vélemény óvatos megfogalmazása",
+        "but: ellentét",
+        "would you need: hipotetikus kérdés",
+        "Past Simple",
+        "otherwise + would have: implicit feltételes következmény"
+      ]
+    ],
+    [
+      8,
+      4,
+      "Give reasons and justifications",
+      [
+        "I guess: vélemény óvatos megfogalmazása",
+        "but: ellentét",
+        "would you need: hipotetikus kérdés",
+        "Past Simple",
+        "otherwise + would have: implicit feltételes következmény"
+      ]
+    ],
+    [
+      8,
+      5,
+      "Give reasons and justifications",
+      [
+        "I guess: vélemény óvatos megfogalmazása",
+        "but: ellentét",
+        "would you need: hipotetikus kérdés",
+        "Past Simple",
+        "otherwise + would have: implicit feltételes következmény"
+      ]
+    ],
+    [
+      8,
+      6,
+      "Ask for things in a softened way",
+      [
+        "would you mind + gerund",
+        "can: lehetőség/felajánlás",
+        "be supposed to: elvárás/kötelezettség",
+        "if-clause",
+        "too much trouble: udvarias enyhítés",
+        "could: udvarias kérés"
+      ]
+    ],
+    [
+      8,
+      7,
+      "Ask for things in a softened way",
+      [
+        "would you mind + gerund",
+        "can: lehetőség/felajánlás",
+        "be supposed to: elvárás/kötelezettség",
+        "if-clause",
+        "too much trouble: udvarias enyhítés",
+        "could: udvarias kérés"
+      ]
+    ],
+    [
+      8,
+      8,
+      "Ask for things in a softened way",
+      [
+        "would you mind + gerund",
+        "can: lehetőség/felajánlás",
+        "be supposed to: elvárás/kötelezettség",
+        "if-clause",
+        "too much trouble: udvarias enyhítés",
+        "could: udvarias kérés"
+      ]
+    ],
+    [
+      8,
+      9,
+      "Ask for things in a softened way",
+      [
+        "would you mind + gerund",
+        "can: lehetőség/felajánlás",
+        "be supposed to: elvárás/kötelezettség",
+        "if-clause",
+        "too much trouble: udvarias enyhítés",
+        "could: udvarias kérés"
+      ]
+    ],
+    [
+      8,
+      10,
+      "Ask for things in a softened way",
+      [
+        "would you mind + gerund",
+        "can: lehetőség/felajánlás",
+        "be supposed to: elvárás/kötelezettség",
+        "if-clause",
+        "too much trouble: udvarias enyhítés",
+        "could: udvarias kérés"
+      ]
+    ],
+    [
+      8,
+      11,
+      "Negotiate while shopping",
+      [
+        "first conditional: if + present, will",
+        "can: lehetőség/képesség",
+        "so: következmény",
+        "gerund alanyként",
+        "Past Simple",
+        "softening phrases: unfortunately / I'm afraid",
+        "negative adjective unavailable"
+      ]
+    ],
+    [
+      8,
+      12,
+      "Negotiate while shopping",
+      [
+        "first conditional: if + present, will",
+        "can: lehetőség/képesség",
+        "so: következmény",
+        "gerund alanyként",
+        "Past Simple",
+        "softening phrases: unfortunately / I'm afraid",
+        "negative adjective unavailable"
+      ]
+    ],
+    [
+      8,
+      13,
+      "Negotiate while shopping",
+      [
+        "first conditional: if + present, will",
+        "can: lehetőség/képesség",
+        "so: következmény",
+        "gerund alanyként",
+        "Past Simple",
+        "softening phrases: unfortunately / I'm afraid",
+        "negative adjective unavailable"
+      ]
+    ],
+    [
+      8,
+      14,
+      "Negotiate while shopping",
+      [
+        "first conditional: if + present, will",
+        "can: lehetőség/képesség",
+        "so: következmény",
+        "gerund alanyként",
+        "Past Simple",
+        "softening phrases: unfortunately / I'm afraid",
+        "negative adjective unavailable"
+      ]
+    ],
+    [
+      8,
+      15,
+      "Negotiate while shopping",
+      [
+        "first conditional: if + present, will",
+        "can: lehetőség/képesség",
+        "so: következmény",
+        "gerund alanyként",
+        "Past Simple",
+        "softening phrases: unfortunately / I'm afraid",
+        "negative adjective unavailable"
+      ]
+    ],
+    [
+      8,
+      16,
+      "Understand a local news report",
+      [
+        "will: műsorvezetői előrejelzés",
+        "Let's + infinitive",
+        "embedded how-clause",
+        "Present Continuous",
+        "Past Simple narrative",
+        "must have + past participle: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      17,
+      "Understand a local news report",
+      [
+        "will: műsorvezetői előrejelzés",
+        "Let's + infinitive",
+        "embedded how-clause",
+        "Present Continuous",
+        "Past Simple narrative",
+        "must have + past participle: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      18,
+      "Understand a local news report",
+      [
+        "will: műsorvezetői előrejelzés",
+        "Let's + infinitive",
+        "embedded how-clause",
+        "Present Continuous",
+        "Past Simple narrative",
+        "must have + past participle: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      19,
+      "Understand a local news report",
+      [
+        "will: műsorvezetői előrejelzés",
+        "Let's + infinitive",
+        "embedded how-clause",
+        "Present Continuous",
+        "Past Simple narrative",
+        "must have + past participle: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      20,
+      "Understand a local news report",
+      [
+        "will: műsorvezetői előrejelzés",
+        "Let's + infinitive",
+        "embedded how-clause",
+        "Present Continuous",
+        "Past Simple narrative",
+        "must have + past participle: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      21,
+      "Talk about music history",
+      [
+        "date back to: eredet/időbeli kezdet",
+        "Past Simple és időhatározók",
+        "comparative: slower",
+        "Past Simple passive",
+        "still + adjective / jelenlegi relevancia"
+      ]
+    ],
+    [
+      8,
+      22,
+      "Talk about music history",
+      [
+        "date back to: eredet/időbeli kezdet",
+        "Past Simple és időhatározók",
+        "comparative: slower",
+        "Past Simple passive",
+        "still + adjective / jelenlegi relevancia"
+      ]
+    ],
+    [
+      8,
+      23,
+      "Talk about music history",
+      [
+        "date back to: eredet/időbeli kezdet",
+        "Past Simple és időhatározók",
+        "comparative: slower",
+        "Past Simple passive",
+        "still + adjective / jelenlegi relevancia"
+      ]
+    ],
+    [
+      8,
+      24,
+      "Talk about music history",
+      [
+        "date back to: eredet/időbeli kezdet",
+        "Past Simple és időhatározók",
+        "comparative: slower",
+        "Past Simple passive",
+        "still + adjective / jelenlegi relevancia"
+      ]
+    ],
+    [
+      8,
+      25,
+      "Talk about music history",
+      [
+        "date back to: eredet/időbeli kezdet",
+        "Past Simple és időhatározók",
+        "comparative: slower",
+        "Past Simple passive",
+        "still + adjective / jelenlegi relevancia"
+      ]
+    ],
+    [
+      8,
+      26,
+      "Use the present perfect progressive",
+      [
+        "Present Perfect Progressive: has/have been + -ing",
+        "kérdő alak",
+        "időtartam és közelmúltbeli trendek",
+        "fokozó határozószók"
+      ]
+    ],
+    [
+      8,
+      27,
+      "Use the present perfect progressive",
+      [
+        "Present Perfect Progressive: has/have been + -ing",
+        "kérdő alak",
+        "időtartam és közelmúltbeli trendek",
+        "fokozó határozószók"
+      ]
+    ],
+    [
+      8,
+      28,
+      "Use the present perfect progressive",
+      [
+        "Present Perfect Progressive: has/have been + -ing",
+        "kérdő alak",
+        "időtartam és közelmúltbeli trendek",
+        "fokozó határozószók"
+      ]
+    ],
+    [
+      8,
+      29,
+      "Use the present perfect progressive",
+      [
+        "Present Perfect Progressive: has/have been + -ing",
+        "kérdő alak",
+        "időtartam és közelmúltbeli trendek",
+        "fokozó határozószók"
+      ]
+    ],
+    [
+      8,
+      30,
+      "Use the present perfect progressive",
+      [
+        "Present Perfect Progressive: has/have been + -ing",
+        "kérdő alak",
+        "időtartam és közelmúltbeli trendek",
+        "fokozó határozószók"
+      ]
+    ],
+    [
+      8,
+      31,
+      "Talk about how things have changed",
+      [
+        "third conditional: would have + past participle / if + Past Perfect",
+        "Present Perfect + since",
+        "Past Simple + finished time",
+        "there have been",
+        "compared with: összehasonlítás"
+      ]
+    ],
+    [
+      8,
+      32,
+      "Talk about how things have changed",
+      [
+        "third conditional: would have + past participle / if + Past Perfect",
+        "Present Perfect + since",
+        "Past Simple + finished time",
+        "there have been",
+        "compared with: összehasonlítás"
+      ]
+    ],
+    [
+      8,
+      33,
+      "Talk about how things have changed",
+      [
+        "third conditional: would have + past participle / if + Past Perfect",
+        "Present Perfect + since",
+        "Past Simple + finished time",
+        "there have been",
+        "compared with: összehasonlítás"
+      ]
+    ],
+    [
+      8,
+      34,
+      "Talk about how things have changed",
+      [
+        "third conditional: would have + past participle / if + Past Perfect",
+        "Present Perfect + since",
+        "Past Simple + finished time",
+        "there have been",
+        "compared with: összehasonlítás"
+      ]
+    ],
+    [
+      8,
+      35,
+      "Talk about how things have changed",
+      [
+        "third conditional: would have + past participle / if + Past Perfect",
+        "Present Perfect + since",
+        "Past Simple + finished time",
+        "there have been",
+        "compared with: összehasonlítás"
+      ]
+    ],
+    [
+      8,
+      36,
+      "Express disagreement",
+      [
+        "if-clause + present",
+        "gerund subject",
+        "would: hipotetikus következmény",
+        "Let's + infinitive",
+        "superlative: the best",
+        "personally: véleményjelölő",
+        "not exactly: enyhített ellentmondás"
+      ]
+    ],
+    [
+      8,
+      37,
+      "Express disagreement",
+      [
+        "if-clause + present",
+        "gerund subject",
+        "would: hipotetikus következmény",
+        "Let's + infinitive",
+        "superlative: the best",
+        "personally: véleményjelölő",
+        "not exactly: enyhített ellentmondás"
+      ]
+    ],
+    [
+      8,
+      38,
+      "Express disagreement",
+      [
+        "if-clause + present",
+        "gerund subject",
+        "would: hipotetikus következmény",
+        "Let's + infinitive",
+        "superlative: the best",
+        "personally: véleményjelölő",
+        "not exactly: enyhített ellentmondás"
+      ]
+    ],
+    [
+      8,
+      39,
+      "Express disagreement",
+      [
+        "if-clause + present",
+        "gerund subject",
+        "would: hipotetikus következmény",
+        "Let's + infinitive",
+        "superlative: the best",
+        "personally: véleményjelölő",
+        "not exactly: enyhített ellentmondás"
+      ]
+    ],
+    [
+      8,
+      40,
+      "Express disagreement",
+      [
+        "if-clause + present",
+        "gerund subject",
+        "would: hipotetikus következmény",
+        "Let's + infinitive",
+        "superlative: the best",
+        "personally: véleményjelölő",
+        "not exactly: enyhített ellentmondás"
+      ]
+    ],
+    [
+      8,
+      41,
+      "Present a counter-argument",
+      [
+        "cleft sentence: It was X who...",
+        "that-clause",
+        "Past Continuous in reported thought",
+        "as a matter of fact: discourse marker",
+        "mixed conditional / unreal present + past result",
+        "might be + -ing: present possibility"
+      ]
+    ],
+    [
+      8,
+      42,
+      "Present a counter-argument",
+      [
+        "cleft sentence: It was X who...",
+        "that-clause",
+        "Past Continuous in reported thought",
+        "as a matter of fact: discourse marker",
+        "mixed conditional / unreal present + past result",
+        "might be + -ing: present possibility"
+      ]
+    ],
+    [
+      8,
+      43,
+      "Present a counter-argument",
+      [
+        "cleft sentence: It was X who...",
+        "that-clause",
+        "Past Continuous in reported thought",
+        "as a matter of fact: discourse marker",
+        "mixed conditional / unreal present + past result",
+        "might be + -ing: present possibility"
+      ]
+    ],
+    [
+      8,
+      44,
+      "Present a counter-argument",
+      [
+        "cleft sentence: It was X who...",
+        "that-clause",
+        "Past Continuous in reported thought",
+        "as a matter of fact: discourse marker",
+        "mixed conditional / unreal present + past result",
+        "might be + -ing: present possibility"
+      ]
+    ],
+    [
+      8,
+      45,
+      "Present a counter-argument",
+      [
+        "cleft sentence: It was X who...",
+        "that-clause",
+        "Past Continuous in reported thought",
+        "as a matter of fact: discourse marker",
+        "mixed conditional / unreal present + past result",
+        "might be + -ing: present possibility"
+      ]
+    ],
+    [
+      8,
+      46,
+      "Express frustration",
+      [
+        "when-clause + Past Simple",
+        "Past Continuous passive-like progressive with be: was being dishonest",
+        "too: agreement/addition",
+        "hard not to + infinitive",
+        "frankly: stance marker",
+        "so-called: skeptical distancing"
+      ]
+    ],
+    [
+      8,
+      47,
+      "Express frustration",
+      [
+        "when-clause + Past Simple",
+        "Past Continuous passive-like progressive with be: was being dishonest",
+        "too: agreement/addition",
+        "hard not to + infinitive",
+        "frankly: stance marker",
+        "so-called: skeptical distancing"
+      ]
+    ],
+    [
+      8,
+      48,
+      "Express frustration",
+      [
+        "when-clause + Past Simple",
+        "Past Continuous passive-like progressive with be: was being dishonest",
+        "too: agreement/addition",
+        "hard not to + infinitive",
+        "frankly: stance marker",
+        "so-called: skeptical distancing"
+      ]
+    ],
+    [
+      8,
+      49,
+      "Express frustration",
+      [
+        "when-clause + Past Simple",
+        "Past Continuous passive-like progressive with be: was being dishonest",
+        "too: agreement/addition",
+        "hard not to + infinitive",
+        "frankly: stance marker",
+        "so-called: skeptical distancing"
+      ]
+    ],
+    [
+      8,
+      50,
+      "Express frustration",
+      [
+        "when-clause + Past Simple",
+        "Past Continuous passive-like progressive with be: was being dishonest",
+        "too: agreement/addition",
+        "hard not to + infinitive",
+        "frankly: stance marker",
+        "so-called: skeptical distancing"
+      ]
+    ],
+    [
+      8,
+      51,
+      "Discuss plans for a work party",
+      [
+        "there are question",
+        "Let's + infinitive",
+        "request that + subject + base verb (subjunctive)",
+        "hear someone out phrasal verb",
+        "suggestion sounds + adjective",
+        "that-clause complement"
+      ]
+    ],
+    [
+      8,
+      52,
+      "Discuss plans for a work party",
+      [
+        "there are question",
+        "Let's + infinitive",
+        "request that + subject + base verb (subjunctive)",
+        "hear someone out phrasal verb",
+        "suggestion sounds + adjective",
+        "that-clause complement"
+      ]
+    ],
+    [
+      8,
+      53,
+      "Discuss plans for a work party",
+      [
+        "there are question",
+        "Let's + infinitive",
+        "request that + subject + base verb (subjunctive)",
+        "hear someone out phrasal verb",
+        "suggestion sounds + adjective",
+        "that-clause complement"
+      ]
+    ],
+    [
+      8,
+      54,
+      "Discuss plans for a work party",
+      [
+        "there are question",
+        "Let's + infinitive",
+        "request that + subject + base verb (subjunctive)",
+        "hear someone out phrasal verb",
+        "suggestion sounds + adjective",
+        "that-clause complement"
+      ]
+    ],
+    [
+      8,
+      55,
+      "Discuss plans for a work party",
+      [
+        "there are question",
+        "Let's + infinitive",
+        "request that + subject + base verb (subjunctive)",
+        "hear someone out phrasal verb",
+        "suggestion sounds + adjective",
+        "that-clause complement"
+      ]
+    ],
+    [
+      8,
+      56,
+      "Make conclusions and deductions",
+      [
+        "may have + past participle: múltbeli lehetőség",
+        "must: erős következtetés",
+        "could: lehetőség",
+        "considering + wh-clause",
+        "only + focus",
+        "must have been: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      57,
+      "Make conclusions and deductions",
+      [
+        "may have + past participle: múltbeli lehetőség",
+        "must: erős következtetés",
+        "could: lehetőség",
+        "considering + wh-clause",
+        "only + focus",
+        "must have been: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      58,
+      "Make conclusions and deductions",
+      [
+        "may have + past participle: múltbeli lehetőség",
+        "must: erős következtetés",
+        "could: lehetőség",
+        "considering + wh-clause",
+        "only + focus",
+        "must have been: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      59,
+      "Make conclusions and deductions",
+      [
+        "may have + past participle: múltbeli lehetőség",
+        "must: erős következtetés",
+        "could: lehetőség",
+        "considering + wh-clause",
+        "only + focus",
+        "must have been: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      60,
+      "Make conclusions and deductions",
+      [
+        "may have + past participle: múltbeli lehetőség",
+        "must: erős következtetés",
+        "could: lehetőség",
+        "considering + wh-clause",
+        "only + focus",
+        "must have been: múltbeli következtetés"
+      ]
+    ],
+    [
+      8,
+      61,
+      "Tell stories around a campfire",
+      [
+        "Let's + infinitive",
+        "there is",
+        "no sooner + Past Perfect + than + Past Simple inversion",
+        "be dying to + infinitive",
+        "embedded what-clause",
+        "reported speech"
+      ]
+    ],
+    [
+      8,
+      62,
+      "Tell stories around a campfire",
+      [
+        "Let's + infinitive",
+        "there is",
+        "no sooner + Past Perfect + than + Past Simple inversion",
+        "be dying to + infinitive",
+        "embedded what-clause",
+        "reported speech"
+      ]
+    ],
+    [
+      8,
+      63,
+      "Tell stories around a campfire",
+      [
+        "Let's + infinitive",
+        "there is",
+        "no sooner + Past Perfect + than + Past Simple inversion",
+        "be dying to + infinitive",
+        "embedded what-clause",
+        "reported speech"
+      ]
+    ],
+    [
+      8,
+      64,
+      "Tell stories around a campfire",
+      [
+        "Let's + infinitive",
+        "there is",
+        "no sooner + Past Perfect + than + Past Simple inversion",
+        "be dying to + infinitive",
+        "embedded what-clause",
+        "reported speech"
+      ]
+    ],
+    [
+      8,
+      65,
+      "Tell stories around a campfire",
+      [
+        "Let's + infinitive",
+        "there is",
+        "no sooner + Past Perfect + than + Past Simple inversion",
+        "be dying to + infinitive",
+        "embedded what-clause",
+        "reported speech"
+      ]
+    ],
+    [
+      8,
+      66,
+      "Describe a move to the big city",
+      [
+        "Present Continuous",
+        "get used to + noun",
+        "superlative: fastest",
+        "make a living idiom",
+        "as...as comparison",
+        "reported thought / would"
+      ]
+    ],
+    [
+      8,
+      67,
+      "Describe a move to the big city",
+      [
+        "Present Continuous",
+        "get used to + noun",
+        "superlative: fastest",
+        "make a living idiom",
+        "as...as comparison",
+        "reported thought / would"
+      ]
+    ],
+    [
+      8,
+      68,
+      "Describe a move to the big city",
+      [
+        "Present Continuous",
+        "get used to + noun",
+        "superlative: fastest",
+        "make a living idiom",
+        "as...as comparison",
+        "reported thought / would"
+      ]
+    ],
+    [
+      8,
+      69,
+      "Describe a move to the big city",
+      [
+        "Present Continuous",
+        "get used to + noun",
+        "superlative: fastest",
+        "make a living idiom",
+        "as...as comparison",
+        "reported thought / would"
+      ]
+    ],
+    [
+      8,
+      70,
+      "Describe a move to the big city",
+      [
+        "Present Continuous",
+        "get used to + noun",
+        "superlative: fastest",
+        "make a living idiom",
+        "as...as comparison",
+        "reported thought / would"
+      ]
+    ],
+    [
+      8,
+      71,
+      "Navigate a trip to a theme park",
+      [
+        "second conditional: would... if + Past Simple",
+        "Let's + infinitive",
+        "refuse to + infinitive",
+        "relative clause that",
+        "when-clause",
+        "Past Simple sequence",
+        "so result clause"
+      ]
+    ],
+    [
+      8,
+      72,
+      "Navigate a trip to a theme park",
+      [
+        "second conditional: would... if + Past Simple",
+        "Let's + infinitive",
+        "refuse to + infinitive",
+        "relative clause that",
+        "when-clause",
+        "Past Simple sequence",
+        "so result clause"
+      ]
+    ],
+    [
+      8,
+      73,
+      "Navigate a trip to a theme park",
+      [
+        "second conditional: would... if + Past Simple",
+        "Let's + infinitive",
+        "refuse to + infinitive",
+        "relative clause that",
+        "when-clause",
+        "Past Simple sequence",
+        "so result clause"
+      ]
+    ],
+    [
+      8,
+      74,
+      "Navigate a trip to a theme park",
+      [
+        "second conditional: would... if + Past Simple",
+        "Let's + infinitive",
+        "refuse to + infinitive",
+        "relative clause that",
+        "when-clause",
+        "Past Simple sequence",
+        "so result clause"
+      ]
+    ],
+    [
+      8,
+      75,
+      "Navigate a trip to a theme park",
+      [
+        "second conditional: would... if + Past Simple",
+        "Let's + infinitive",
+        "refuse to + infinitive",
+        "relative clause that",
+        "when-clause",
+        "Past Simple sequence",
+        "so result clause"
+      ]
+    ],
+    [
+      8,
+      76,
+      "Negotiate chores with roommates",
+      [
+        "ask + object + to-infinitive",
+        "if + could: udvarias feltételes kérés",
+        "would be great: softened result",
+        "try to + infinitive",
+        "leave + object + adjective",
+        "first conditional / if + present"
+      ]
+    ],
+    [
+      8,
+      77,
+      "Negotiate chores with roommates",
+      [
+        "ask + object + to-infinitive",
+        "if + could: udvarias feltételes kérés",
+        "would be great: softened result",
+        "try to + infinitive",
+        "leave + object + adjective",
+        "first conditional / if + present"
+      ]
+    ],
+    [
+      8,
+      78,
+      "Negotiate chores with roommates",
+      [
+        "ask + object + to-infinitive",
+        "if + could: udvarias feltételes kérés",
+        "would be great: softened result",
+        "try to + infinitive",
+        "leave + object + adjective",
+        "first conditional / if + present"
+      ]
+    ],
+    [
+      8,
+      79,
+      "Negotiate chores with roommates",
+      [
+        "ask + object + to-infinitive",
+        "if + could: udvarias feltételes kérés",
+        "would be great: softened result",
+        "try to + infinitive",
+        "leave + object + adjective",
+        "first conditional / if + present"
+      ]
+    ],
+    [
+      8,
+      80,
+      "Negotiate chores with roommates",
+      [
+        "ask + object + to-infinitive",
+        "if + could: udvarias feltételes kérés",
+        "would be great: softened result",
+        "try to + infinitive",
+        "leave + object + adjective",
+        "first conditional / if + present"
+      ]
+    ],
+    [
+      8,
+      81,
+      "Express how certain or uncertain you are",
+      [
+        "I'm sure + clause",
+        "be supposed to",
+        "chances are that: probability",
+        "you never know: uncertainty",
+        "be going to future",
+        "there's no question + clause"
+      ]
+    ],
+    [
+      8,
+      82,
+      "Express how certain or uncertain you are",
+      [
+        "I'm sure + clause",
+        "be supposed to",
+        "chances are that: probability",
+        "you never know: uncertainty",
+        "be going to future",
+        "there's no question + clause"
+      ]
+    ],
+    [
+      8,
+      83,
+      "Express how certain or uncertain you are",
+      [
+        "I'm sure + clause",
+        "be supposed to",
+        "chances are that: probability",
+        "you never know: uncertainty",
+        "be going to future",
+        "there's no question + clause"
+      ]
+    ],
+    [
+      8,
+      84,
+      "Express how certain or uncertain you are",
+      [
+        "I'm sure + clause",
+        "be supposed to",
+        "chances are that: probability",
+        "you never know: uncertainty",
+        "be going to future",
+        "there's no question + clause"
+      ]
+    ],
+    [
+      8,
+      85,
+      "Express how certain or uncertain you are",
+      [
+        "I'm sure + clause",
+        "be supposed to",
+        "chances are that: probability",
+        "you never know: uncertainty",
+        "be going to future",
+        "there's no question + clause"
+      ]
+    ],
+    [
+      8,
+      86,
+      "Confirm information",
+      [
+        "Past Simple question",
+        "confirmation that-clause",
+        "will: promise/future",
+        "just to-infinitive purpose",
+        "weren't we going to: past plan / confirmation tag-like question"
+      ]
+    ],
+    [
+      8,
+      87,
+      "Confirm information",
+      [
+        "Past Simple question",
+        "confirmation that-clause",
+        "will: promise/future",
+        "just to-infinitive purpose",
+        "weren't we going to: past plan / confirmation tag-like question"
+      ]
+    ],
+    [
+      8,
+      88,
+      "Confirm information",
+      [
+        "Past Simple question",
+        "confirmation that-clause",
+        "will: promise/future",
+        "just to-infinitive purpose",
+        "weren't we going to: past plan / confirmation tag-like question"
+      ]
+    ],
+    [
+      8,
+      89,
+      "Confirm information",
+      [
+        "Past Simple question",
+        "confirmation that-clause",
+        "will: promise/future",
+        "just to-infinitive purpose",
+        "weren't we going to: past plan / confirmation tag-like question"
+      ]
+    ],
+    [
+      8,
+      90,
+      "Confirm information",
+      [
+        "Past Simple question",
+        "confirmation that-clause",
+        "will: promise/future",
+        "just to-infinitive purpose",
+        "weren't we going to: past plan / confirmation tag-like question"
+      ]
+    ],
+    [
+      8,
+      91,
+      "Express good wishes for someone",
+      [
+        "would love + infinitive",
+        "will future negative",
+        "be going to future",
+        "Present Perfect: shared past to present",
+        "wish + noun phrase",
+        "imperative",
+        "when-clause"
+      ]
+    ],
+    [
+      8,
+      92,
+      "Express good wishes for someone",
+      [
+        "would love + infinitive",
+        "will future negative",
+        "be going to future",
+        "Present Perfect: shared past to present",
+        "wish + noun phrase",
+        "imperative",
+        "when-clause"
+      ]
+    ],
+    [
+      8,
+      93,
+      "Express good wishes for someone",
+      [
+        "would love + infinitive",
+        "will future negative",
+        "be going to future",
+        "Present Perfect: shared past to present",
+        "wish + noun phrase",
+        "imperative",
+        "when-clause"
+      ]
+    ],
+    [
+      8,
+      94,
+      "Express good wishes for someone",
+      [
+        "would love + infinitive",
+        "will future negative",
+        "be going to future",
+        "Present Perfect: shared past to present",
+        "wish + noun phrase",
+        "imperative",
+        "when-clause"
+      ]
+    ],
+    [
+      8,
+      95,
+      "Express good wishes for someone",
+      [
+        "would love + infinitive",
+        "will future negative",
+        "be going to future",
+        "Present Perfect: shared past to present",
+        "wish + noun phrase",
+        "imperative",
+        "when-clause"
+      ]
+    ],
+    [
+      8,
+      96,
+      "Talk about your plans for a trip",
+      [
+        "plan on + gerund",
+        "intend to + infinitive",
+        "first conditional",
+        "in order to: purpose",
+        "think of + gerund",
+        "could: alternative",
+        "non-defining relative clause which"
+      ]
+    ],
+    [
+      8,
+      97,
+      "Talk about your plans for a trip",
+      [
+        "plan on + gerund",
+        "intend to + infinitive",
+        "first conditional",
+        "in order to: purpose",
+        "think of + gerund",
+        "could: alternative",
+        "non-defining relative clause which"
+      ]
+    ],
+    [
+      8,
+      98,
+      "Talk about your plans for a trip",
+      [
+        "plan on + gerund",
+        "intend to + infinitive",
+        "first conditional",
+        "in order to: purpose",
+        "think of + gerund",
+        "could: alternative",
+        "non-defining relative clause which"
+      ]
+    ],
+    [
+      8,
+      99,
+      "Talk about your plans for a trip",
+      [
+        "plan on + gerund",
+        "intend to + infinitive",
+        "first conditional",
+        "in order to: purpose",
+        "think of + gerund",
+        "could: alternative",
+        "non-defining relative clause which"
+      ]
+    ],
+    [
+      8,
+      100,
+      "Talk about your plans for a trip",
+      [
+        "plan on + gerund",
+        "intend to + infinitive",
+        "first conditional",
+        "in order to: purpose",
+        "think of + gerund",
+        "could: alternative",
+        "non-defining relative clause which"
+      ]
+    ],
+    [
+      8,
+      101,
+      "Use the future perfect progressive",
+      [
+        "Future Perfect Progressive: will have been + -ing",
+        "for + időtartam",
+        "by then: jövőbeli viszonyítás",
+        "kérdő alak"
+      ]
+    ],
+    [
+      8,
+      102,
+      "Use the future perfect progressive",
+      [
+        "Future Perfect Progressive: will have been + -ing",
+        "for + időtartam",
+        "by then: jövőbeli viszonyítás",
+        "kérdő alak"
+      ]
+    ],
+    [
+      8,
+      103,
+      "Use the future perfect progressive",
+      [
+        "Future Perfect Progressive: will have been + -ing",
+        "for + időtartam",
+        "by then: jövőbeli viszonyítás",
+        "kérdő alak"
+      ]
+    ],
+    [
+      8,
+      104,
+      "Use the future perfect progressive",
+      [
+        "Future Perfect Progressive: will have been + -ing",
+        "for + időtartam",
+        "by then: jövőbeli viszonyítás",
+        "kérdő alak"
+      ]
+    ],
+    [
+      8,
+      105,
+      "Use the future perfect progressive",
+      [
+        "Future Perfect Progressive: will have been + -ing",
+        "for + időtartam",
+        "by then: jövőbeli viszonyítás",
+        "kérdő alak"
+      ]
+    ],
+    [
+      8,
+      106,
+      "Make plans for a Friday night",
+      [
+        "would rather + subject + Past Simple",
+        "mind + gerund",
+        "could: javaslat",
+        "because clause",
+        "should: suggestion",
+        "whichever + noun embedded free relative clause"
+      ]
+    ],
+    [
+      8,
+      107,
+      "Make plans for a Friday night",
+      [
+        "would rather + subject + Past Simple",
+        "mind + gerund",
+        "could: javaslat",
+        "because clause",
+        "should: suggestion",
+        "whichever + noun embedded free relative clause"
+      ]
+    ],
+    [
+      8,
+      108,
+      "Make plans for a Friday night",
+      [
+        "would rather + subject + Past Simple",
+        "mind + gerund",
+        "could: javaslat",
+        "because clause",
+        "should: suggestion",
+        "whichever + noun embedded free relative clause"
+      ]
+    ],
+    [
+      8,
+      109,
+      "Make plans for a Friday night",
+      [
+        "would rather + subject + Past Simple",
+        "mind + gerund",
+        "could: javaslat",
+        "because clause",
+        "should: suggestion",
+        "whichever + noun embedded free relative clause"
+      ]
+    ],
+    [
+      8,
+      110,
+      "Make plans for a Friday night",
+      [
+        "would rather + subject + Past Simple",
+        "mind + gerund",
+        "could: javaslat",
+        "because clause",
+        "should: suggestion",
+        "whichever + noun embedded free relative clause"
+      ]
+    ],
+    [
+      8,
+      111,
+      "Navigate transactions at a garage sale",
+      [
+        "Present Perfect passive question",
+        "embedded if-question",
+        "softened past progressive reporting phrase",
+        "be willing to + infinitive",
+        "first conditional",
+        "Present Perfect passive",
+        "look like + clause"
+      ]
+    ],
+    [
+      8,
+      112,
+      "Navigate transactions at a garage sale",
+      [
+        "Present Perfect passive question",
+        "embedded if-question",
+        "softened past progressive reporting phrase",
+        "be willing to + infinitive",
+        "first conditional",
+        "Present Perfect passive",
+        "look like + clause"
+      ]
+    ],
+    [
+      8,
+      113,
+      "Navigate transactions at a garage sale",
+      [
+        "Present Perfect passive question",
+        "embedded if-question",
+        "softened past progressive reporting phrase",
+        "be willing to + infinitive",
+        "first conditional",
+        "Present Perfect passive",
+        "look like + clause"
+      ]
+    ],
+    [
+      8,
+      114,
+      "Navigate transactions at a garage sale",
+      [
+        "Present Perfect passive question",
+        "embedded if-question",
+        "softened past progressive reporting phrase",
+        "be willing to + infinitive",
+        "first conditional",
+        "Present Perfect passive",
+        "look like + clause"
+      ]
+    ],
+    [
+      8,
+      115,
+      "Navigate transactions at a garage sale",
+      [
+        "Present Perfect passive question",
+        "embedded if-question",
+        "softened past progressive reporting phrase",
+        "be willing to + infinitive",
+        "first conditional",
+        "Present Perfect passive",
+        "look like + clause"
+      ]
+    ],
+    [
+      8,
+      116,
+      "Respond to a command or request",
+      [
+        "be going to need to: future necessity",
+        "feel like + noun",
+        "make + object + bare infinitive",
+        "would rather not + infinitive",
+        "can: ability",
+        "honestly: stance adverb"
+      ]
+    ],
+    [
+      8,
+      117,
+      "Respond to a command or request",
+      [
+        "be going to need to: future necessity",
+        "feel like + noun",
+        "make + object + bare infinitive",
+        "would rather not + infinitive",
+        "can: ability",
+        "honestly: stance adverb"
+      ]
+    ],
+    [
+      8,
+      118,
+      "Respond to a command or request",
+      [
+        "be going to need to: future necessity",
+        "feel like + noun",
+        "make + object + bare infinitive",
+        "would rather not + infinitive",
+        "can: ability",
+        "honestly: stance adverb"
+      ]
+    ],
+    [
+      8,
+      119,
+      "Respond to a command or request",
+      [
+        "be going to need to: future necessity",
+        "feel like + noun",
+        "make + object + bare infinitive",
+        "would rather not + infinitive",
+        "can: ability",
+        "honestly: stance adverb"
+      ]
+    ],
+    [
+      8,
+      120,
+      "Respond to a command or request",
+      [
+        "be going to need to: future necessity",
+        "feel like + noun",
+        "make + object + bare infinitive",
+        "would rather not + infinitive",
+        "can: ability",
+        "honestly: stance adverb"
+      ]
+    ],
+    [
+      8,
+      121,
+      "Politely decline an offer or proposal",
+      [
+        "would you care for: formal offer",
+        "thanks anyway: polite decline",
+        "feel like + gerund",
+        "maybe some other time: softening",
+        "be in the mood to/for",
+        "turn down: phrasal verb",
+        "going to have to: future obligation"
+      ]
+    ],
+    [
+      8,
+      122,
+      "Politely decline an offer or proposal",
+      [
+        "would you care for: formal offer",
+        "thanks anyway: polite decline",
+        "feel like + gerund",
+        "maybe some other time: softening",
+        "be in the mood to/for",
+        "turn down: phrasal verb",
+        "going to have to: future obligation"
+      ]
+    ],
+    [
+      8,
+      123,
+      "Politely decline an offer or proposal",
+      [
+        "would you care for: formal offer",
+        "thanks anyway: polite decline",
+        "feel like + gerund",
+        "maybe some other time: softening",
+        "be in the mood to/for",
+        "turn down: phrasal verb",
+        "going to have to: future obligation"
+      ]
+    ],
+    [
+      8,
+      124,
+      "Politely decline an offer or proposal",
+      [
+        "would you care for: formal offer",
+        "thanks anyway: polite decline",
+        "feel like + gerund",
+        "maybe some other time: softening",
+        "be in the mood to/for",
+        "turn down: phrasal verb",
+        "going to have to: future obligation"
+      ]
+    ],
+    [
+      8,
+      125,
+      "Politely decline an offer or proposal",
+      [
+        "would you care for: formal offer",
+        "thanks anyway: polite decline",
+        "feel like + gerund",
+        "maybe some other time: softening",
+        "be in the mood to/for",
+        "turn down: phrasal verb",
+        "going to have to: future obligation"
+      ]
+    ],
+    [
+      8,
+      126,
+      "Talk about household chores",
+      [
+        "what is left: passive/result adjective",
+        "has to be fixed: modal passive",
+        "needs to be cleaned: need + passive infinitive",
+        "when was the last time: Past Simple question",
+        "too / but contrast",
+        "Past Simple with already",
+        "tidy up phrasal verb"
+      ]
+    ],
+    [
+      8,
+      127,
+      "Talk about household chores",
+      [
+        "what is left: passive/result adjective",
+        "has to be fixed: modal passive",
+        "needs to be cleaned: need + passive infinitive",
+        "when was the last time: Past Simple question",
+        "too / but contrast",
+        "Past Simple with already",
+        "tidy up phrasal verb"
+      ]
+    ],
+    [
+      8,
+      128,
+      "Talk about household chores",
+      [
+        "what is left: passive/result adjective",
+        "has to be fixed: modal passive",
+        "needs to be cleaned: need + passive infinitive",
+        "when was the last time: Past Simple question",
+        "too / but contrast",
+        "Past Simple with already",
+        "tidy up phrasal verb"
+      ]
+    ],
+    [
+      8,
+      129,
+      "Talk about household chores",
+      [
+        "what is left: passive/result adjective",
+        "has to be fixed: modal passive",
+        "needs to be cleaned: need + passive infinitive",
+        "when was the last time: Past Simple question",
+        "too / but contrast",
+        "Past Simple with already",
+        "tidy up phrasal verb"
+      ]
+    ],
+    [
+      8,
+      130,
+      "Talk about household chores",
+      [
+        "what is left: passive/result adjective",
+        "has to be fixed: modal passive",
+        "needs to be cleaned: need + passive infinitive",
+        "when was the last time: Past Simple question",
+        "too / but contrast",
+        "Past Simple with already",
+        "tidy up phrasal verb"
+      ]
+    ],
+    [
+      8,
+      131,
+      "Catch up with an old friend",
+      [
+        "look who's: exclamative embedded clause",
+        "Present Perfect Progressive",
+        "since + Past Simple",
+        "Present Perfect",
+        "catch someone up: phrasal verb",
+        "Present Continuous for future",
+        "so result",
+        "it sounds like + clause"
+      ]
+    ],
+    [
+      8,
+      132,
+      "Catch up with an old friend",
+      [
+        "look who's: exclamative embedded clause",
+        "Present Perfect Progressive",
+        "since + Past Simple",
+        "Present Perfect",
+        "catch someone up: phrasal verb",
+        "Present Continuous for future",
+        "so result",
+        "it sounds like + clause"
+      ]
+    ],
+    [
+      8,
+      133,
+      "Catch up with an old friend",
+      [
+        "look who's: exclamative embedded clause",
+        "Present Perfect Progressive",
+        "since + Past Simple",
+        "Present Perfect",
+        "catch someone up: phrasal verb",
+        "Present Continuous for future",
+        "so result",
+        "it sounds like + clause"
+      ]
+    ],
+    [
+      8,
+      134,
+      "Catch up with an old friend",
+      [
+        "look who's: exclamative embedded clause",
+        "Present Perfect Progressive",
+        "since + Past Simple",
+        "Present Perfect",
+        "catch someone up: phrasal verb",
+        "Present Continuous for future",
+        "so result",
+        "it sounds like + clause"
+      ]
+    ],
+    [
+      8,
+      135,
+      "Catch up with an old friend",
+      [
+        "look who's: exclamative embedded clause",
+        "Present Perfect Progressive",
+        "since + Past Simple",
+        "Present Perfect",
+        "catch someone up: phrasal verb",
+        "Present Continuous for future",
+        "so result",
+        "it sounds like + clause"
+      ]
+    ],
+    [
+      8,
+      136,
+      "Use the past perfect passive",
+      [
+        "Past Perfect Passive: had been + past participle",
+        "positive, negative and interrogative forms",
+        "reported thought",
+        "that-clause",
+        "passive phrasal verb: sent out"
+      ]
+    ],
+    [
+      8,
+      137,
+      "Use the past perfect passive",
+      [
+        "Past Perfect Passive: had been + past participle",
+        "positive, negative and interrogative forms",
+        "reported thought",
+        "that-clause",
+        "passive phrasal verb: sent out"
+      ]
+    ],
+    [
+      8,
+      138,
+      "Use the past perfect passive",
+      [
+        "Past Perfect Passive: had been + past participle",
+        "positive, negative and interrogative forms",
+        "reported thought",
+        "that-clause",
+        "passive phrasal verb: sent out"
+      ]
+    ],
+    [
+      8,
+      139,
+      "Use the past perfect passive",
+      [
+        "Past Perfect Passive: had been + past participle",
+        "positive, negative and interrogative forms",
+        "reported thought",
+        "that-clause",
+        "passive phrasal verb: sent out"
+      ]
+    ],
+    [
+      8,
+      140,
+      "Use the past perfect passive",
+      [
+        "Past Perfect Passive: had been + past participle",
+        "positive, negative and interrogative forms",
+        "reported thought",
+        "that-clause",
+        "passive phrasal verb: sent out"
+      ]
+    ],
+    [
+      8,
+      141,
+      "Express limitations or caveats",
+      [
+        "but: concession/contrast",
+        "without + noun",
+        "second conditional",
+        "so long as + present clause",
+        "too + adjective + to-infinitive",
+        "right? tag-like confirmation"
+      ]
+    ],
+    [
+      8,
+      142,
+      "Express limitations or caveats",
+      [
+        "but: concession/contrast",
+        "without + noun",
+        "second conditional",
+        "so long as + present clause",
+        "too + adjective + to-infinitive",
+        "right? tag-like confirmation"
+      ]
+    ],
+    [
+      8,
+      143,
+      "Express limitations or caveats",
+      [
+        "but: concession/contrast",
+        "without + noun",
+        "second conditional",
+        "so long as + present clause",
+        "too + adjective + to-infinitive",
+        "right? tag-like confirmation"
+      ]
+    ],
+    [
+      8,
+      144,
+      "Express limitations or caveats",
+      [
+        "but: concession/contrast",
+        "without + noun",
+        "second conditional",
+        "so long as + present clause",
+        "too + adjective + to-infinitive",
+        "right? tag-like confirmation"
+      ]
+    ],
+    [
+      8,
+      145,
+      "Express limitations or caveats",
+      [
+        "but: concession/contrast",
+        "without + noun",
+        "second conditional",
+        "so long as + present clause",
+        "too + adjective + to-infinitive",
+        "right? tag-like confirmation"
+      ]
+    ],
+    [
+      8,
+      146,
+      "Talk about sporting events",
+      [
+        "ordinal position",
+        "need to + infinitive / purpose to",
+        "impersonal passive: it is anticipated that",
+        "future passive: will be set",
+        "be set to + infinitive",
+        "be expected to + infinitive",
+        "definitely: certainty adverb"
+      ]
+    ],
+    [
+      8,
+      147,
+      "Talk about sporting events",
+      [
+        "ordinal position",
+        "need to + infinitive / purpose to",
+        "impersonal passive: it is anticipated that",
+        "future passive: will be set",
+        "be set to + infinitive",
+        "be expected to + infinitive",
+        "definitely: certainty adverb"
+      ]
+    ],
+    [
+      8,
+      148,
+      "Talk about sporting events",
+      [
+        "ordinal position",
+        "need to + infinitive / purpose to",
+        "impersonal passive: it is anticipated that",
+        "future passive: will be set",
+        "be set to + infinitive",
+        "be expected to + infinitive",
+        "definitely: certainty adverb"
+      ]
+    ],
+    [
+      8,
+      149,
+      "Talk about sporting events",
+      [
+        "ordinal position",
+        "need to + infinitive / purpose to",
+        "impersonal passive: it is anticipated that",
+        "future passive: will be set",
+        "be set to + infinitive",
+        "be expected to + infinitive",
+        "definitely: certainty adverb"
+      ]
+    ],
+    [
+      8,
+      150,
+      "Talk about sporting events",
+      [
+        "ordinal position",
+        "need to + infinitive / purpose to",
+        "impersonal passive: it is anticipated that",
+        "future passive: will be set",
+        "be set to + infinitive",
+        "be expected to + infinitive",
+        "definitely: certainty adverb"
+      ]
+    ],
+    [
+      8,
+      151,
+      "Understand a guided tour",
+      [
+        "past participle clause as reduced relative/adverbial",
+        "used to: past state",
+        "would like + infinitive",
+        "imperative",
+        "will future",
+        "when-clause",
+        "in particular: focus marker"
+      ]
+    ],
+    [
+      8,
+      152,
+      "Understand a guided tour",
+      [
+        "past participle clause as reduced relative/adverbial",
+        "used to: past state",
+        "would like + infinitive",
+        "imperative",
+        "will future",
+        "when-clause",
+        "in particular: focus marker"
+      ]
+    ],
+    [
+      8,
+      153,
+      "Understand a guided tour",
+      [
+        "past participle clause as reduced relative/adverbial",
+        "used to: past state",
+        "would like + infinitive",
+        "imperative",
+        "will future",
+        "when-clause",
+        "in particular: focus marker"
+      ]
+    ],
+    [
+      8,
+      154,
+      "Understand a guided tour",
+      [
+        "past participle clause as reduced relative/adverbial",
+        "used to: past state",
+        "would like + infinitive",
+        "imperative",
+        "will future",
+        "when-clause",
+        "in particular: focus marker"
+      ]
+    ],
+    [
+      8,
+      155,
+      "Understand a guided tour",
+      [
+        "past participle clause as reduced relative/adverbial",
+        "used to: past state",
+        "would like + infinitive",
+        "imperative",
+        "will future",
+        "when-clause",
+        "in particular: focus marker"
+      ]
+    ],
+    [
+      8,
+      156,
+      "Speculate about mysteries",
+      [
+        "couldn't have + past participle: past possibility/deduction",
+        "would: hypothetical motive",
+        "could have been: past possibility",
+        "that-clause",
+        "Present Continuous",
+        "wh-question"
+      ]
+    ],
+    [
+      8,
+      157,
+      "Speculate about mysteries",
+      [
+        "couldn't have + past participle: past possibility/deduction",
+        "would: hypothetical motive",
+        "could have been: past possibility",
+        "that-clause",
+        "Present Continuous",
+        "wh-question"
+      ]
+    ],
+    [
+      8,
+      158,
+      "Speculate about mysteries",
+      [
+        "couldn't have + past participle: past possibility/deduction",
+        "would: hypothetical motive",
+        "could have been: past possibility",
+        "that-clause",
+        "Present Continuous",
+        "wh-question"
+      ]
+    ],
+    [
+      8,
+      159,
+      "Speculate about mysteries",
+      [
+        "couldn't have + past participle: past possibility/deduction",
+        "would: hypothetical motive",
+        "could have been: past possibility",
+        "that-clause",
+        "Present Continuous",
+        "wh-question"
+      ]
+    ],
+    [
+      8,
+      160,
+      "Speculate about mysteries",
+      [
+        "couldn't have + past participle: past possibility/deduction",
+        "would: hypothetical motive",
+        "could have been: past possibility",
+        "that-clause",
+        "Present Continuous",
+        "wh-question"
+      ]
+    ],
+    [
+      8,
+      161,
+      "Interact at a magic show",
+      [
+        "negative statement + question tag",
+        "embedded which-question",
+        "Past Simple",
+        "polite could request",
+        "embedded where/how clauses",
+        "second conditional"
+      ]
+    ],
+    [
+      8,
+      162,
+      "Interact at a magic show",
+      [
+        "negative statement + question tag",
+        "embedded which-question",
+        "Past Simple",
+        "polite could request",
+        "embedded where/how clauses",
+        "second conditional"
+      ]
+    ],
+    [
+      8,
+      163,
+      "Interact at a magic show",
+      [
+        "negative statement + question tag",
+        "embedded which-question",
+        "Past Simple",
+        "polite could request",
+        "embedded where/how clauses",
+        "second conditional"
+      ]
+    ],
+    [
+      8,
+      164,
+      "Interact at a magic show",
+      [
+        "negative statement + question tag",
+        "embedded which-question",
+        "Past Simple",
+        "polite could request",
+        "embedded where/how clauses",
+        "second conditional"
+      ]
+    ],
+    [
+      8,
+      165,
+      "Interact at a magic show",
+      [
+        "negative statement + question tag",
+        "embedded which-question",
+        "Past Simple",
+        "polite could request",
+        "embedded where/how clauses",
+        "second conditional"
+      ]
+    ],
+    [
+      8,
+      166,
+      "Reminisce about childhood",
+      [
+        "used to: past habit",
+        "perfect for + gerund",
+        "always + Past Continuous: repeated irritating event",
+        "relative clause who",
+        "comparative: cooler",
+        "gerund subject",
+        "make + object + infinitive"
+      ]
+    ],
+    [
+      8,
+      167,
+      "Reminisce about childhood",
+      [
+        "used to: past habit",
+        "perfect for + gerund",
+        "always + Past Continuous: repeated irritating event",
+        "relative clause who",
+        "comparative: cooler",
+        "gerund subject",
+        "make + object + infinitive"
+      ]
+    ],
+    [
+      8,
+      168,
+      "Reminisce about childhood",
+      [
+        "used to: past habit",
+        "perfect for + gerund",
+        "always + Past Continuous: repeated irritating event",
+        "relative clause who",
+        "comparative: cooler",
+        "gerund subject",
+        "make + object + infinitive"
+      ]
+    ],
+    [
+      8,
+      169,
+      "Reminisce about childhood",
+      [
+        "used to: past habit",
+        "perfect for + gerund",
+        "always + Past Continuous: repeated irritating event",
+        "relative clause who",
+        "comparative: cooler",
+        "gerund subject",
+        "make + object + infinitive"
+      ]
+    ],
+    [
+      8,
+      170,
+      "Reminisce about childhood",
+      [
+        "used to: past habit",
+        "perfect for + gerund",
+        "always + Past Continuous: repeated irritating event",
+        "relative clause who",
+        "comparative: cooler",
+        "gerund subject",
+        "make + object + infinitive"
+      ]
+    ],
+    [
+      8,
+      171,
+      "Explain a complicated situation",
+      [
+        "Past Continuous background + Past Simple",
+        "when-clause",
+        "that-clause",
+        "sorry to + infinitive",
+        "break down phrasal verb",
+        "Past Simple passive",
+        "so result clause",
+        "had to obligation in past"
+      ]
+    ],
+    [
+      8,
+      172,
+      "Explain a complicated situation",
+      [
+        "Past Continuous background + Past Simple",
+        "when-clause",
+        "that-clause",
+        "sorry to + infinitive",
+        "break down phrasal verb",
+        "Past Simple passive",
+        "so result clause",
+        "had to obligation in past"
+      ]
+    ],
+    [
+      8,
+      173,
+      "Explain a complicated situation",
+      [
+        "Past Continuous background + Past Simple",
+        "when-clause",
+        "that-clause",
+        "sorry to + infinitive",
+        "break down phrasal verb",
+        "Past Simple passive",
+        "so result clause",
+        "had to obligation in past"
+      ]
+    ],
+    [
+      8,
+      174,
+      "Explain a complicated situation",
+      [
+        "Past Continuous background + Past Simple",
+        "when-clause",
+        "that-clause",
+        "sorry to + infinitive",
+        "break down phrasal verb",
+        "Past Simple passive",
+        "so result clause",
+        "had to obligation in past"
+      ]
+    ],
+    [
+      8,
+      175,
+      "Explain a complicated situation",
+      [
+        "Past Continuous background + Past Simple",
+        "when-clause",
+        "that-clause",
+        "sorry to + infinitive",
+        "break down phrasal verb",
+        "Past Simple passive",
+        "so result clause",
+        "had to obligation in past"
+      ]
+    ],
+    [
+      8,
+      176,
+      "Express relief and congratulations",
+      [
+        "relative clause: everything that...",
+        "Present Perfect",
+        "gerund as subject",
+        "exclamative what + noun",
+        "perfect infinitive: to have completed",
+        "although concession clause",
+        "wishing: participle formula"
+      ]
+    ],
+    [
+      8,
+      177,
+      "Express relief and congratulations",
+      [
+        "relative clause: everything that...",
+        "Present Perfect",
+        "gerund as subject",
+        "exclamative what + noun",
+        "perfect infinitive: to have completed",
+        "although concession clause",
+        "wishing: participle formula"
+      ]
+    ],
+    [
+      8,
+      178,
+      "Express relief and congratulations",
+      [
+        "relative clause: everything that...",
+        "Present Perfect",
+        "gerund as subject",
+        "exclamative what + noun",
+        "perfect infinitive: to have completed",
+        "although concession clause",
+        "wishing: participle formula"
+      ]
+    ],
+    [
+      8,
+      179,
+      "Express relief and congratulations",
+      [
+        "relative clause: everything that...",
+        "Present Perfect",
+        "gerund as subject",
+        "exclamative what + noun",
+        "perfect infinitive: to have completed",
+        "although concession clause",
+        "wishing: participle formula"
+      ]
+    ],
+    [
+      8,
+      180,
+      "Express relief and congratulations",
+      [
+        "relative clause: everything that...",
+        "Present Perfect",
+        "gerund as subject",
+        "exclamative what + noun",
+        "perfect infinitive: to have completed",
+        "although concession clause",
+        "wishing: participle formula"
+      ]
     ]
   ],
-  "unit_anchor_note": "A module/unit koordináták a nyilvános kurzustérkép eredeti koordinátái. Az 1. modul 1–10. egységéhez a tanuló aktuális Guidebook-szövegét dolgoztuk fel (guidebooks/en-hu/module-01.json). Az 1. modul 5. egységénél a régi közösségi kurzustérkép címe eltér a tényleges Guidebook születésnapi témájától; aktuális tanulási útvonalnál a Guidebook az elsődleges. A Guidebook-példa előfordulása nem bizonyítja a teljes szabály expliciten tanítását vagy mastery-t. A 2. modul 1–30. helyi egységéhez (kurzus #11–40) a tanuló aktuális Guidebookját dolgoztuk fel: guidebooks/en-hu/module-02.json. A Guidebook-cím és példák eltérését külön dokumentáld; különösen modul2/20, /24, /25, /27. A 3. modul 1–30. helyi egysége (kurzus #41–70) a tanuló által megadott Guidebookból lett feldolgozva: guidebooks/en-hu/module-03.json. A cím–példa eltéréseket külön őrizd meg, különösen egységek 5, 15, 20, 24, 29. A 4. modul teljes 1–60. helyi egységsora (kurzus #71–130) a `guidebooks/en-hu/module-04.json` alapján rögzítve. A 107. egységben hiányzó témacímet ne kezeld tényleges Guidebook-címként. Az 5. modul 255 helyi egysége (#131–385) 51 ötegységes Guidebook-témablokkra épül. A részletes angol phrase setek: guidebooks/en-hu/module-05.json; magyar fordítás nincs megadva, az egységankorok csak angol témacímet és megfigyelt nyelvtani jeleket tartalmaznak. A 6. modul mind a 260 helyi egysége (#386–645) 52 ötegységes Guidebook-témablokkhoz kapcsolódik. A részletes, angol nyelvű példasorok: guidebooks/en-hu/module-06.json; magyar fordítás nincs. A 7. modul 180 helyi egysége külön ankorként szerepel, 36 ötegységes csoportba rendezett példamondat-anyaggal; részletek a guidebooks/en-hu/module-07.json fájlban."
+  "unit_anchor_note": "A module/unit koordináták a nyilvános kurzustérkép eredeti koordinátái. Az 1. modul 1–10. egységéhez a tanuló aktuális Guidebook-szövegét dolgoztuk fel (guidebooks/en-hu/module-01.json). Az 1. modul 5. egységénél a régi közösségi kurzustérkép címe eltér a tényleges Guidebook születésnapi témájától; aktuális tanulási útvonalnál a Guidebook az elsődleges. A Guidebook-példa előfordulása nem bizonyítja a teljes szabály expliciten tanítását vagy mastery-t. A 2. modul 1–30. helyi egységéhez (kurzus #11–40) a tanuló aktuális Guidebookját dolgoztuk fel: guidebooks/en-hu/module-02.json. A Guidebook-cím és példák eltérését külön dokumentáld; különösen modul2/20, /24, /25, /27. A 3. modul 1–30. helyi egysége (kurzus #41–70) a tanuló által megadott Guidebookból lett feldolgozva: guidebooks/en-hu/module-03.json. A cím–példa eltéréseket külön őrizd meg, különösen egységek 5, 15, 20, 24, 29. A 4. modul teljes 1–60. helyi egységsora (kurzus #71–130) a `guidebooks/en-hu/module-04.json` alapján rögzítve. A 107. egységben hiányzó témacímet ne kezeld tényleges Guidebook-címként. Az 5. modul 255 helyi egysége (#131–385) 51 ötegységes Guidebook-témablokkra épül. A részletes angol phrase setek: guidebooks/en-hu/module-05.json; magyar fordítás nincs megadva, az egységankorok csak angol témacímet és megfigyelt nyelvtani jeleket tartalmaznak. A 6. modul mind a 260 helyi egysége (#386–645) 52 ötegységes Guidebook-témablokkhoz kapcsolódik. A részletes, angol nyelvű példasorok: guidebooks/en-hu/module-06.json; magyar fordítás nincs. A 7. modul 180 helyi egysége külön ankorként szerepel, 36 ötegységes csoportba rendezett példamondat-anyaggal; részletek a guidebooks/en-hu/module-07.json fájlban. A 8. modul 180 helyi egysége külön ankorként szerepel; 36 ismétlődő angol mondatcsoportja és az explicit nyelvtani címek a guidebooks/en-hu/module-08.json fájlban találhatók."
 }
