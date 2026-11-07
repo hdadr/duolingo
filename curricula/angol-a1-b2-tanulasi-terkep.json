@@ -37,7 +37,7 @@
       "cefr": "A1",
       "units": 30,
       "title_hu": "További alapmondatok és hétköznapi helyzetek",
-      "focus_hu": "Fitnesz, kérések, utazás, összetett mondatok, there is/are, menetrend, otthoni munka, múlt idejű be, mennyiség, infinitive, múlt tagadása és határozatlan névmások."
+      "focus_hu": "A Guidebook alapján: fitnesz és képességek (can), udvarias kérések/felszólítások (could/can/let's), utazás és tervek (will, be going to), összetett mondatok, sport és média, értekezletek, ételrendelés, there is/are, menetrend, otthoni munka, was/were, egyetemi élet, mennyiségjelzők, élelmiszerek (some/any/enough), hotel, posta, házimunka, gerund és infinitive, időjárás és Past Simple, múlt idejű kérdések/tagadás cím szerinti fókusza, gyerekkor, vészhelyzet, közép- és felsőfok, határozatlan névmások, bűncselekmény leírása."
     },
     {
       "duolingo_module": 4,
@@ -814,6 +814,21 @@
       "source_file": "guidebooks/en-hu/module-02.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "30 egység. A cím és példák elkülönítve vannak rögzítve. A 30., 34., 35. és 37. résznél cím–példa vagy vegyes nyelvtani fókusz jelölés."
+    },
+    {
+      "duolingo_module": 3,
+      "unit_range": [
+        41,
+        70
+      ],
+      "local_unit_range": [
+        1,
+        30
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-03.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "30 egység feldolgozva. A will/going to, was/were, there is/are, quantifiers, gerund/infinitive, Past Simple, comparatives/superlatives példákban megfigyelhetők. A 45., 55., 60., 64. és 69. résznél részleges vagy eltérő példabizonyíték van."
     }
   ],
   "source_conflicts": [
@@ -850,6 +865,82 @@
       "guidebook_title": "Képezz kérdéseket a folyamatos jelenben",
       "issue": "A példák mellett Present Simple példák is megjelennek.",
       "resolution": "A cím szerinti fókusz Present Continuous kérdésalkotás; a további mondatok kontrasztpéldák."
+    },
+    {
+      "unit": 45,
+      "guidebook_title": "Alkoss összetett mondatokat",
+      "examples": [
+        "I need pills for the flu.",
+        "Do you sell masks?",
+        "My throat really hurts!",
+        "Can I use this coupon?",
+        "The medicine is on aisle two, and snacks are on aisle ten."
+      ],
+      "issue": "A példák többsége önálló egyszerű mondat; az utolsó példa mutat egyértelmű összetett, and-del kapcsolt mondatot.",
+      "resolution": "A fókusz igazolható, de a bemutatott példák csak korlátozottan szemléltetik.",
+      "module": 3
+    },
+    {
+      "unit": 55,
+      "guidebook_title": "Használj mennyiségjelzőket",
+      "examples": [
+        "How much jewelry does she need?",
+        "a problem",
+        "this information"
+      ],
+      "issue": "A példák egyértelműen mutatják a much + uncountable jewelry szerkezetet, de a quantifier rendszer többi elemét nem.",
+      "resolution": "A cím szerinti fókuszt megtartjuk; a jelenlegi példák alapján főleg countability és how much látható.",
+      "module": 3
+    },
+    {
+      "unit": 60,
+      "guidebook_title": "Használj főnévi igeneveket bizonyos igékkel",
+      "examples": [
+        "Are you feeling upset?",
+        "I feel sad.",
+        "Do you want to talk?"
+      ],
+      "issue": "A példákban a want + to infinitive csak egy mondatban jelenik meg; a többi főként feel + adjective / continuous forma.",
+      "resolution": "A cím explicit, de csak a want to talk világos infinitive példa; ne terjesszük ki minden példára.",
+      "module": 3
+    },
+    {
+      "unit": 64,
+      "guidebook_title": "Tagadd a múlt idejű mondatokat",
+      "examples": [
+        "Do I need to go to the hospital?",
+        "I stayed home because I was sick.",
+        "What are your symptoms?",
+        "Please see a doctor!",
+        "My arm hurts."
+      ],
+      "issue": "A példasorban nincs Past Simple tagadó mondat; csak stayed a múlt idejű cselekvő ige.",
+      "resolution": "A cím szerinti nyelvtani célt közvetlenül nem támasztják alá a felsorolt példák.",
+      "module": 3
+    },
+    {
+      "unit": 69,
+      "guidebook_title": "Használj határozatlan névmásokat",
+      "examples": [
+        "Do you need something?",
+        "possible challenges",
+        "did I make a mistake?"
+      ],
+      "issue": "A something egyértelmű határozatlan névmás; possible melléknév, a mistake határozott főnévi csoport.",
+      "resolution": "A cím fókusza részben igazolható, de a bemutatott példák csak korlátozott sorozatot adnak.",
+      "module": 3
+    },
+    {
+      "unit": 70,
+      "guidebook_title": "Írj le egy rablást",
+      "examples": [
+        "Did you see the robbers?",
+        "My new headphones are missing!",
+        "I noticed a strange truck outside."
+      ],
+      "issue": "A missing form melléknévi állapot vagy passzívhoz hasonló jelentés; a past simple did see/noticed a múltbeli elbeszélés.",
+      "resolution": "Kommunikációs cél; a nyelvtan a példákból figyelhető meg, nem explicit címfókusz.",
+      "module": 3
     }
   ]
 }
