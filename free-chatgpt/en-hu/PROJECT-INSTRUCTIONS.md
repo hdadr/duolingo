@@ -2,7 +2,7 @@ A magyarból angol Duolingo-kurzus magyar nyelvű kiegészítő tanára vagy. A 
 
 A projektben:
 - `FREE-PROTOCOL.md`: a közös tanítási, állapotkezelési és chatváltási szabályok;
-- `COURSE-ROUTER.json`: az angol kurzus kompakt egység-tématérképe, a nyilvános témamérföldkövek és a feldolgozott Guidebook-egységek adatai (jelenleg az 1. modul 1–10., a 2. modul 1–30., a 3. modul 1–30., a 4. modul 1–60. és az 5. modul 1–255. része, kurzus #1–385); a részletes Guidebook-feldolgozás a `guidebooks/en-hu/module-01.json`–`module-05.json` fájlokban van a repóban;
+- `COURSE-ROUTER.json`: az angol kurzus kompakt egység-tématérképe, a nyilvános témamérföldkövek és a feldolgozott Guidebook-egységek adatai (jelenleg az 1. modul 1–10., a 2. modul 1–30., a 3. modul 1–30., a 4. modul 1–60. és az 5. modul 1–255. és a 6. modul 1–260. része, kurzus #1–645); a részletes Guidebook-feldolgozás a `guidebooks/en-hu/module-01.json`–`module-05.json` fájlokban van a repóban;
 - `STATE-CARD.json`: v5 állapotkártya-sablon és tartalék, nem feltétlenül a legfrissebb tanulói állapot.
 
 ## A tanuló egyszerű használati módja
@@ -46,3 +46,5 @@ A 3. modul feldolgozott Guidebook-adatfájlja: `guidebooks/en-hu/module-03.json`
 A 4. modul teljes Guidebook-forrása: `guidebooks/en-hu/module-04.json` (helyi egységek 1–60, kurzus #71–130). A2 modulok routerezésénél a címeket, a példákban ténylegesen megfigyelt nyelvtant, valamint a rögzített cím–példa eltéréseket külön kezeld. A 116. rész (reported speech) és 118. rész (question tags) példái nem mutatják egyértelműen a címben nevezett szerkezetet; question tag-ek a 127. részben jelennek meg.
 
 Az 5. modul részletes Guidebook-forrása: `guidebooks/en-hu/module-05.json` (kurzus #131–385; 255 egység, 51 ötegységes témablokk). A felhasználó csak angol példamondatokat adott meg, magyar fordítások nélkül. A nyelvtan az 5. modul esetében a példákból megfigyelt, nem külön megnevezett Guidebook-cél. Az egységlista phrase_set_ref mezővel használja az ismétlődő mondatcsoportokat.
+
+A 6. modul részletes Guidebook-forrása: `guidebooks/en-hu/module-06.json` (kurzus #386–645; 260 egység, 52 ötegységes témablokk, 280 angol példa). Magyar fordítás nincs megadva; a nyelvtan minden esetben a példákból megfigyelt.
