@@ -58,7 +58,7 @@
       "cefr": "B1",
       "units": 260,
       "title_hu": "Helyzethez illő és árnyalt kommunikáció",
-      "focus_hu": "Hála, otthon, kapcsolatok, kultúra, történelem, vélemény, egészség, tanács, környezet, technológia, bankügyek, sport és munkahelyi problémamegoldás."
+      "focus_hu": "A megadott Guidebook példái alapján: hála és udvariasság; otthon és rokonság; érdeklődés és társalgásvezetés; anekdoták és múltbeli élmények; Past Perfect; Present Perfect Continuous; reported speech és beágyazott kérdések; passzív (Present Perfect Passive, Present Continuous Passive, future passive); phrasal verbs; modális igék és tanácsadás; első, második és harmadik feltételes szerkezet; wish szerkezetek; question tags; gerund és infinitive; causative have/get something done; jövőformák és időhatározói mellékmondatok; összehasonlítás és mennyiségek; társadalmi, szakmai, egészségügyi, környezeti és kulturális témák."
     },
     {
       "duolingo_module": 7,
@@ -859,6 +859,21 @@
       "source_file": "guidebooks/en-hu/module-05.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "255 egység, 51 ötegységes ismétlődő témablokk, 292 angol példamondat. Magyar fordítás nem érkezett, ezért nincs hozzáadva. A nyelvtan minden esetben a példákból megfigyelt, nem külön nyelvtani cím."
+    },
+    {
+      "duolingo_module": 6,
+      "unit_range": [
+        386,
+        645
+      ],
+      "local_unit_range": [
+        1,
+        260
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-06.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "260 egység, 52 ötegységes ismétlődő témablokk, 280 angol példamondat. Magyar fordítás nem érkezett. B1-01–B1-09 modulokhoz kapcsolt megfigyelt nyelvtani előfordulások; a témacímek kommunikációs célok, nem expliciten nyelvtani címek."
     }
   ],
   "source_conflicts": [
@@ -1057,6 +1072,26 @@
       ],
       "issue": "A korábbi munkafolyamatban az 5. modul munkatartománya #131–380-ként szerepelt, de a kurzus curriculum-metaadata 255 egységet jelez, és a felhasználó az 5. modul 251–255. részeként #381–385-öt adott meg.",
       "resolution": "A kurzus 255 egységes 5. moduljához igazodva a tényleges tartomány #131–385."
+    },
+    {
+      "module": 6,
+      "type": "missing_translations",
+      "unit_range": [
+        386,
+        645
+      ],
+      "issue": "A felhasználó csak angol Guidebook-kulcskifejezéseket küldött, magyar fordításokat nem.",
+      "resolution": "Az angol példák változtatás nélkül kerülnek rögzítésre; magyar fordítást nem generálunk."
+    },
+    {
+      "module": 6,
+      "type": "repeated_guidebook_content",
+      "unit_range": [
+        386,
+        645
+      ],
+      "issue": "A 260 helyi egység 52 egymást követő ötös blokkban ismétli a címet és a példasorokat.",
+      "resolution": "52 phrase_set és 260 külön egységrekord tárolja a tartalmat és a kurzuspozíciót."
     }
   ]
 }
