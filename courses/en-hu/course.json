@@ -123,6 +123,45 @@
           40
         ],
         "processed_on": "2026-11-07"
+      },
+      "module_3": {
+        "units": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "course_unit_range": [
+          41,
+          70
+        ],
+        "processed_on": "2026-11-07"
       }
     }
   },
@@ -541,6 +580,21 @@
       "source_file": "guidebooks/en-hu/module-02.json",
       "source_type": "user_supplied_guidebook",
       "notes": "30 egység feldolgozva; a 30., 34., 35. és 37. résznél eltérő vagy vegyes cími/példa-bizonyíték."
+    },
+    {
+      "module": 3,
+      "unit_range": [
+        41,
+        70
+      ],
+      "local_unit_range": [
+        1,
+        30
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-03.json",
+      "source_type": "user_supplied_guidebook",
+      "notes": "30 egység; több korábban referencia-szintű nyelvtani téma már megfigyelt példával igazolható."
     }
   ],
   "source_conflicts": [
@@ -578,6 +632,82 @@
       "guidebook_title": "Képezz kérdéseket a folyamatos jelenben",
       "issue": "A példák mellett Present Simple példák is megjelennek.",
       "resolution": "A cím szerinti fókusz Present Continuous kérdésalkotás; a további mondatok kontrasztpéldák."
+    },
+    {
+      "unit": 45,
+      "guidebook_title": "Alkoss összetett mondatokat",
+      "examples": [
+        "I need pills for the flu.",
+        "Do you sell masks?",
+        "My throat really hurts!",
+        "Can I use this coupon?",
+        "The medicine is on aisle two, and snacks are on aisle ten."
+      ],
+      "issue": "A példák többsége önálló egyszerű mondat; az utolsó példa mutat egyértelmű összetett, and-del kapcsolt mondatot.",
+      "resolution": "A fókusz igazolható, de a bemutatott példák csak korlátozottan szemléltetik.",
+      "module": 3
+    },
+    {
+      "unit": 55,
+      "guidebook_title": "Használj mennyiségjelzőket",
+      "examples": [
+        "How much jewelry does she need?",
+        "a problem",
+        "this information"
+      ],
+      "issue": "A példák egyértelműen mutatják a much + uncountable jewelry szerkezetet, de a quantifier rendszer többi elemét nem.",
+      "resolution": "A cím szerinti fókuszt megtartjuk; a jelenlegi példák alapján főleg countability és how much látható.",
+      "module": 3
+    },
+    {
+      "unit": 60,
+      "guidebook_title": "Használj főnévi igeneveket bizonyos igékkel",
+      "examples": [
+        "Are you feeling upset?",
+        "I feel sad.",
+        "Do you want to talk?"
+      ],
+      "issue": "A példákban a want + to infinitive csak egy mondatban jelenik meg; a többi főként feel + adjective / continuous forma.",
+      "resolution": "A cím explicit, de csak a want to talk világos infinitive példa; ne terjesszük ki minden példára.",
+      "module": 3
+    },
+    {
+      "unit": 64,
+      "guidebook_title": "Tagadd a múlt idejű mondatokat",
+      "examples": [
+        "Do I need to go to the hospital?",
+        "I stayed home because I was sick.",
+        "What are your symptoms?",
+        "Please see a doctor!",
+        "My arm hurts."
+      ],
+      "issue": "A példasorban nincs Past Simple tagadó mondat; csak stayed a múlt idejű cselekvő ige.",
+      "resolution": "A cím szerinti nyelvtani célt közvetlenül nem támasztják alá a felsorolt példák.",
+      "module": 3
+    },
+    {
+      "unit": 69,
+      "guidebook_title": "Használj határozatlan névmásokat",
+      "examples": [
+        "Do you need something?",
+        "possible challenges",
+        "did I make a mistake?"
+      ],
+      "issue": "A something egyértelmű határozatlan névmás; possible melléknév, a mistake határozott főnévi csoport.",
+      "resolution": "A cím fókusza részben igazolható, de a bemutatott példák csak korlátozott sorozatot adnak.",
+      "module": 3
+    },
+    {
+      "unit": 70,
+      "guidebook_title": "Írj le egy rablást",
+      "examples": [
+        "Did you see the robbers?",
+        "My new headphones are missing!",
+        "I noticed a strange truck outside."
+      ],
+      "issue": "A missing form melléknévi állapot vagy passzívhoz hasonló jelentés; a past simple did see/noticed a múltbeli elbeszélés.",
+      "resolution": "Kommunikációs cél; a nyelvtan a példákból figyelhető meg, nem explicit címfókusz.",
+      "module": 3
     }
   ]
 }
