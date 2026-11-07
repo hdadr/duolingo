@@ -30,7 +30,7 @@
       "cefr": "A1",
       "units": 30,
       "title_hu": "Kezdő angol kommunikáció",
-      "focus_hu": "Ruházat, otthon, létige, étel, munka, érzelmek, segítségkérés, idő, sport, gyakoriság, rutin, hotel, névelők, család, többes szám, tagadás, folyamatos jelen és felszólítás."
+      "focus_hu": "A Guidebook 30 egysége alapján: ruhavásárlás, otthon, to be jelen ideje és összevont alakjai, éttermi rendelés, munkahely, érzelmek, tanórai és vásárlási segítség, időkifejezések, sport, gyakoriság és napi rutin, hotel, névelők, család, személyes tárgyak, birtokos szerkezetek, rendhagyó többes szám (a példákban nem egyértelműen bemutatva), városi tájékozódás, Present Simple tagadás, tünetek, jelen idejű do/does-kérdések, Present Continuous és kérdései, iskola, felszólítások és biztonsági tanácsok."
     },
     {
       "duolingo_module": 3,
@@ -799,6 +799,21 @@
       "source_file": "guidebooks/en-hu/module-01.json",
       "source": "user_supplied_guidebook_transcription",
       "note": "A tényleges Guidebook kommunikációs céljai és példái alapján. Az explicit egységcímeket és a példákból megfigyelt nyelvtant külön kezeljük; nem mastery-adat."
+    },
+    {
+      "duolingo_module": 2,
+      "unit_range": [
+        11,
+        40
+      ],
+      "local_unit_range": [
+        1,
+        30
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-02.json",
+      "source": "user_supplied_guidebook_transcription",
+      "note": "30 egység. A cím és példák elkülönítve vannak rögzítve. A 30., 34., 35. és 37. résznél cím–példa vagy vegyes nyelvtani fókusz jelölés."
     }
   ],
   "source_conflicts": [
@@ -807,6 +822,34 @@
       "community_public_course_map": "Főnevek melléknevekkel történő leírása",
       "current_guidebook": "Boldog születésnapot, Anna!",
       "resolution": "A régi közösségi térképi cím és a tanuló aktuális Guidebookja eltér. A tényleges haladási útvonal követésénél a Guidebook az elsődleges; a konfliktus nem törlendő, hanem forráseltérésként őrzendő."
+    },
+    {
+      "module": 2,
+      "unit": 30,
+      "guidebook_title": "Képezz rendhagyó többesszámú főneveket",
+      "issue": "A példákban nincs jellegzetes rendhagyó többes szám; cherries szabályos -y → -ies alak.",
+      "resolution": "A cím megőrizve, de a konkrét rendhagyó alakok tanítása nem igazolt."
+    },
+    {
+      "module": 2,
+      "unit": 34,
+      "guidebook_title": "Kérdezz a 'lenni' igével a jelen időben",
+      "issue": "A bemutatott mondatok do/does segédigés Present Simple kérdések, nem to be-kérdések.",
+      "resolution": "A cím/példák eltérését külön rögzítettük; a példákhoz do-support illesztendő."
+    },
+    {
+      "module": 2,
+      "unit": 35,
+      "guidebook_title": "Használd a folyamatos jelent",
+      "issue": "A példák Present Simple és Present Continuous alakokat kevernek.",
+      "resolution": "Kontrasztív mintaként kezelendő."
+    },
+    {
+      "module": 2,
+      "unit": 37,
+      "guidebook_title": "Képezz kérdéseket a folyamatos jelenben",
+      "issue": "A példák mellett Present Simple példák is megjelennek.",
+      "resolution": "A cím szerinti fókusz Present Continuous kérdésalkotás; a további mondatok kontrasztpéldák."
     }
   ]
 }
