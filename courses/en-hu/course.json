@@ -68,7 +68,24 @@
     "reported_stories": 1193,
     "reported_radio_lessons": 1281,
     "distinct_lesson_labels": 3479,
-    "note": "This is the newer public community-maintained curriculum snapshot. It supersedes the previously stored 305-unit record."
+    "note": "This is the newer public community-maintained curriculum snapshot. It supersedes the previously stored 305-unit record.",
+    "current_user_guidebook_coverage": {
+      "module_1": {
+        "units": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "processed_on": "2026-11-07"
+      }
+    }
   },
   "explicit_grammar_milestones": [
     {
@@ -447,5 +464,38 @@
     "primary_learning_platform": "Duolingo",
     "prompt_path": "prompts/DUOLINGO-EN-HU-CHATGPT-PROMPT.md"
   },
-  "max_duolingo_score": 130
+  "max_duolingo_score": 130,
+  "guidebook_coverage": [
+    {
+      "module": 1,
+      "unit_range": [
+        1,
+        10
+      ],
+      "status": "processed",
+      "source_file": "guidebooks/en-hu/module-01.json",
+      "source_type": "user_supplied_current_guidebook",
+      "key_confirmed_topics": [
+        "to be",
+        "Present Simple examples",
+        "early do-support questions",
+        "possessive determiners",
+        "a/an",
+        "adjectives",
+        "polite requests",
+        "weather expressions",
+        "have for possession"
+      ],
+      "caution": "Observed examples are not proof of complete grammar instruction or learner mastery."
+    }
+  ],
+  "source_conflicts": [
+    {
+      "module": 1,
+      "unit": 5,
+      "public_map_title": "Főnevek melléknevekkel történő leírása",
+      "current_guidebook_title": "Boldog születésnapot, Anna!",
+      "action": "Keep both provenance records; prefer the directly observed current Guidebook title for current learner routing."
+    }
+  ]
 }
