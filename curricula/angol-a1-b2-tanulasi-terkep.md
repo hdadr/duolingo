@@ -330,6 +330,72 @@ A kurzus témasorozatai változatos mindennapi élethelyzetek köré szerveződn
 
 **Nyelvtani következtetés:** a korábban bevezetett igeidők integrált használata, present perfect és past simple kontrasztok, múltbeli történetmesélés, jövőre utaló alakok, modális igék, feltételes szerkezetek, passzív, függő beszéd és összetett mondatok. Ezek B1-es tanítási referenciák, nem igazolt minden egységre külön kiosztott Duolingo-szabályok.
 
+### 2.5.1 Guidebook-alapú egységtérkép – 5. modul (2026-11-07)
+
+Az 5. modul a kurzus #131–385. részeit, vagyis 255 helyi egységet fed le. A bemásolt anyag 51 egymást követő, egyenként öt egységben ismétlődő Guidebook-témablokkot tartalmaz. A forrásban csak angol példamondatok szerepelnek; magyar fordításokat nem kaptunk, ezért a részletes adatbázis szándékosan nem tartalmaz kitalált fordításokat.
+
+| Helyi egységek | Kurzus-részek | Guidebook-cél | Példákból megfigyelhető nyelvtan |
+|---:|---:|---|---|
+| 1–5 | 131–135 | Discuss traveling solo | Present Perfect negative/experience; will question; imperative |
+| 6–10 | 136–140 | Order food delivery | there are; enough/countability; want + infinitive |
+| 11–15 | 141–145 | Describe a day in college | be going to; Present Perfect; do-support |
+| 16–20 | 146–150 | Discuss your work experience | Past Simple; Present Perfect; since + starting point |
+| 21–25 | 151–155 | Talk about the chores | should; because/when; Past Simple |
+| 26–30 | 156–160 | Talk in an online meeting | negative question; Present Simple habits; Present Continuous |
+| 31–35 | 161–165 | Catch up with old friends | Present Perfect + since; phrasal verbs hang out/give up; Past Simple |
+| 36–40 | 166–170 | Talk about your health | so result; negative imperative; Past Simple negative |
+| 41–45 | 171–175 | Discuss social media | Present Perfect; infinitive purpose; negative imperative |
+| 46–50 | 176–180 | Describe your routine | Present Continuous; Present Simple habits; make + object + adjective |
+| 51–55 | 181–185 | Tell a fairy tale | Past Simple irregular; get-passive; when/after clauses |
+| 56–60 | 186–190 | Describe a wedding | will; Present Simple habit; won't |
+| 61–65 | 191–195 | Share memories | Past Simple; used to past habits; contrast with now |
+| 66–70 | 196–200 | Talk about relationships | each other reciprocal; Present Continuous; embedded wh-clause |
+| 71–75 | 201–205 | Describe clothes | negative questions; Present Simple; try on phrasal verb |
+| 76–80 | 206–210 | Discuss traveling by plane | need to; modal negative question; Past Simple |
+| 81–85 | 211–215 | Talk about the news | Past Simple; that clause; Present Continuous |
+| 86–90 | 216–220 | Describe a trip in nature | will; be + adjective + infinitive; more/less...than |
+| 91–95 | 221–225 | Talk about the past | used to; did + use to; love + gerund |
+| 96–100 | 226–230 | Discuss relationships | Past Simple; go out/break up phrasal verbs; that-clause |
+| 101–105 | 231–235 | Discuss party preparation | non-defining which clause; Past Simple; too + adjective |
+| 106–110 | 236–240 | Talk about visiting family | can; won't future; Present Simple |
+| 111–115 | 241–245 | Talk about work | fill out phrasal verb; that relative clause; would like + infinitive |
+| 116–120 | 246–250 | Discuss opinions | should; get-passive; negative do |
+| 121–125 | 251–255 | Talk about the arts | Present Simple; like + gerund; -ing adjective |
+| 126–130 | 256–260 | Describe sleeping habits | Present Simple; there is; couldn't |
+| 131–135 | 261–265 | Discuss sports | would you mind + gerund; superlative; -ing/-ed adjectives |
+| 136–140 | 266–270 | Talk about Halloween | too much; Present Perfect ever; think clause |
+| 141–145 | 271–275 | Describe marriage | Present Perfect negative + tag; comparative less/more often than; Past Simple comparison |
+| 146–150 | 276–280 | Discuss a trip in nature | Present Continuous; Past Simple; possessive |
+| 151–155 | 281–285 | Share a secret | going to; Present Perfect Continuous; Past Continuous + when + Past Simple |
+| 156–160 | 286–290 | Discussing medical issues | Past Simple; can/can't; imperative |
+| 161–165 | 291–295 | Talk about your studies | Present Perfect; hand in phrasal verb; have to |
+| 166–170 | 296–300 | Talk about a move | have to; make + object + comparative; imperative |
+| 171–175 | 301–305 | Talk about your daily commute | Present Simple; pick up phrasal verb; superlative best |
+| 176–180 | 306–310 | Express surprise | Past Simple question; Present Continuous; can't |
+| 181–185 | 311–315 | Describe technology | Present Perfect; Present Continuous; phrasal verbs plug in/back up/set up |
+| 186–190 | 316–320 | Talk about politics | Past Simple; may; was going to |
+| 191–195 | 321–325 | Express fear | make + object + adjective; Present Perfect since/never; because |
+| 196–200 | 326–330 | Talk about movies | Let's; question tag; seem like |
+| 201–205 | 331–335 | Talk about a tournament | going to; Present Continuous; when clause |
+| 206–210 | 336–340 | Make transactions | infinitive purpose; can; Present Perfect |
+| 211–215 | 341–345 | Establish contacts | can't wait to; can; let + object + infinitive |
+| 216–220 | 346–350 | Describe geography | Present Simple; there is; superlative driest |
+| 221–225 | 351–355 | Eat in a restaurant | be out of; Present Perfect since; while + Present Continuous |
+| 226–230 | 356–360 | Comment on music | Present Perfect + since; as...as; Past Simple |
+| 231–235 | 361–365 | Talk about crime | in case of; negative question; Past Continuous |
+| 236–240 | 366–370 | Talk about pastimes | Present Simple schedule; want/like + infinitive; Present Continuous |
+| 241–245 | 371–375 | Buy items you need | when clause; comparative shorter; all of these |
+| 246–250 | 376–380 | Talk about historical eras | Past Simple; passive were built; used to |
+| 251–255 | 381–385 | Recount experiences | Past Simple irregular verbs; infinitive purpose; there were |
+
+#### Feldolgozási és bizonyítékkezelési megjegyzések
+
+- Minden ötegységes blokkban azonos cím és példamondatsor szerepel. A 255 egységet külön őrizzük meg, de az ismétlődő angol példákat 51 közös phrase_set alatt tároljuk.
+- A modul címei kommunikációs témákat jelölnek, nem külön nyelvtani leckecímeket. Ezért a B1-01–B1-09 tananyagbankhoz rendelt nyelvtan minden esetben a példákban **megfigyelt előfordulás**, nem explicit Guidebook-nyelvtani cél.
+- Kiemelt szerkezetek: Present Perfect és Present Perfect Continuous; `used to`; Past Continuous; passzív; phrasal verbs; gerund/infinitive; question tags; beágyazott kérdések; modális igék; jövőformák; összehasonlítás; feltételes és időhatározói mellékmondatok.
+- A 251–255. helyi egység (#381–385) is az 5. modul része, összhangban a 255 egységes modulmetaadattal.
+
+A részletes, deduplikált forrásadat: `guidebooks/en-hu/module-05.json`. A `units` mező az összes 255 egységet, a `phrase_sets` mező az 51 egyedi angol mondatcsoportot tartalmazza.
 ### 2.6 B1 – 6. modul
 
 A témák között szerepelnek: hála és társas kapcsolatok, otthon és szomszédok, utazás és hivatalos ügyintézés, munka, kultúra, történelem, vélemény, egészség, tanácsadás, étkezés, környezetvédelem, technológia, banki ügyek, sport és események.
