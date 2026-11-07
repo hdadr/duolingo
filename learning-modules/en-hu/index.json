@@ -177,13 +177,13 @@
         "A1-10"
       ],
       "evidence": "explicit_unit_title",
-      "duolingo_alignment": "module-3-units-23-26,29-30",
+      "duolingo_alignment": "module-3-units-23-26,29-30; module-4-units-1,7-8,10-12,18,26,32-33,41,43-44,49,52,59",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 7,
       "end_line": 18,
-      "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "guidebook_heading_and_examples",
-      "evidence_note": "Past Simple alakok (rained, snowed, stayed, loved, lived, happened, called, hurt, noticed), did-kérdések és múltbeli elbeszélés megfigyelhető. A 24. egység címe tagadást ígér, de a példasor nem tartalmaz múlt idejű tagadó mondatot."
+      "duolingo_grammar_evidence": "observed",
+      "evidence_basis": "guidebook_examples",
+      "evidence_note": "A 4. modul ünnepek, munkafeladatok, technikai problémák, vásárlási élmények, választások, utazási élmények, költözés, történelem és érzelmek témáiban Past Simple alakokat és did-kérdéseket mutat."
     },
     {
       "id": "A2-02",
@@ -193,13 +193,13 @@
         "A2-01"
       ],
       "evidence": "explicit_unit_title",
-      "duolingo_alignment": "module-4-unit-42",
+      "duolingo_alignment": "module-4-units-42-43,51",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 20,
       "end_line": 31,
       "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "explicit_unit_title",
-      "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
+      "evidence_basis": "guidebook_heading_and_examples",
+      "evidence_note": "A 42. egység címe explicit Past Continuous; were talking példa. A 43. és 51. egység while + Past Continuous és was running alakokat is mutat."
     },
     {
       "id": "A2-03",
@@ -209,13 +209,13 @@
         "A2-01"
       ],
       "evidence": "explicit_unit_title",
-      "duolingo_alignment": "module-4-unit-27",
+      "duolingo_alignment": "module-3-unit-27; module-4-units-27-29,32-34,59",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 33,
       "end_line": 45,
       "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "explicit_unit_title",
-      "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
+      "evidence_basis": "guidebook_heading_and_examples",
+      "evidence_note": "A 27. egység címe explicit Present Perfect; have lived/traveled, have had/flown/visited, have you completed, have returned, haven't taken és since/for/yet/ever/never példák."
     },
     {
       "id": "A2-04",
@@ -243,13 +243,13 @@
         "A2-04"
       ],
       "evidence": "explicit_unit_titles",
-      "duolingo_alignment": "module-4-units-4-6",
+      "duolingo_alignment": "module-3-units-3-4,7-8,10,14,17,21-22,27; module-4-units-3-6,11,14,19,24,26,35,38,40,45,47-48,50,54,56,59-60",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 60,
       "end_line": 71,
       "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "explicit_unit_titles",
-      "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
+      "evidence_basis": "guidebook_heading_and_examples",
+      "evidence_note": "A 4. modul 4. egysége explicit első feltételes mód; több egység should/must/might/can/may modális igéket, tanácsot és tiltást tartalmaz."
     },
     {
       "id": "A2-06",
@@ -260,13 +260,13 @@
         "A1-07"
       ],
       "evidence": "explicit_unit_titles",
-      "duolingo_alignment": "module-3-units-27-28; module-4-units-9;15;17;23",
+      "duolingo_alignment": "module-3-units-27-28; module-4-units-9-10,15-17,20-23,25,39,44,55",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 73,
       "end_line": 85,
-      "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "guidebook_examples_plus_public_unit_titles",
-      "evidence_note": "A 3. modul 27. egysége larger/cooler középfokokat, a 28. egysége coolest/cutest felsőfokokat mutat; a későbbi nyilvános egységcímek is expliciten megnevezik a fokozást."
+      "duolingo_grammar_evidence": "mixed",
+      "evidence_basis": "guidebook_heading_and_examples",
+      "evidence_note": "Comparative: better, longer, less...than, as...as; superlative: the most famous, the best, the easiest. A 79. és 93. cím teljes fókuszát a példák csak részben támasztják alá."
     },
     {
       "id": "A2-07",
@@ -276,13 +276,13 @@
         "A1-10"
       ],
       "evidence": "explicit_unit_titles",
-      "duolingo_alignment": "module-3-units-6,8,18-20,28; module-4-units-30;36",
+      "duolingo_alignment": "module-3-units-6,8,18-20,28; module-4-units-24,30-31,35-37,40,47,51,55-56,58,60",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 87,
       "end_line": 98,
-      "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "guidebook_examples_plus_public_unit_titles",
-      "evidence_note": "Prefer/love/like + gerund, thank you for + gerund és want + infinitive példák jelennek meg; a későbbi kurzusegység-címek explicit vonzatos és phrasal verb témákat is nevesítenek."
+      "duolingo_grammar_evidence": "mixed",
+      "evidence_basis": "guidebook_examples_and_heading",
+      "evidence_note": "Phrasal verbs (find out, look up, follow up, try on, look after, make up), gerund, infinitive, reflexive yourself. A 100. cím igei vonzatot nevez, de a példák phrasal és prepozíciós vonzatokat vegyítenek."
     },
     {
       "id": "A2-08",
@@ -293,13 +293,13 @@
         "A1-05"
       ],
       "evidence": "explicit_unit_titles",
-      "duolingo_alignment": "module-4-units-46;48;58",
+      "duolingo_alignment": "module-4-units-46,48,53,57-58",
       "path": "learning-modules/en-hu/a2.md",
       "start_line": 100,
       "end_line": 115,
-      "duolingo_grammar_evidence": "explicit",
-      "evidence_basis": "explicit_unit_titles",
-      "evidence_note": "A public course unit title explicitly names this grammar point. This supports a direct topical link, but does not prove that every sub-rule is taught or mastered in this unit."
+      "duolingo_grammar_evidence": "mixed",
+      "evidence_basis": "guidebook_heading_and_examples",
+      "evidence_note": "Passzív alakok világosan szerepelnek (#123), relative clause példák a #128-ban; a reported speech (#116) és question tags (#118) címei alatt a példák nem mutatják ezeket, de question tag példák később a #127-ben megjelennek."
     },
     {
       "id": "B1-01",
@@ -622,6 +622,21 @@
       "status": "processed",
       "source": "user_supplied_current_guidebook",
       "evidence_policy": "Titles are direct Guidebook topic evidence. Treat grammar visible in examples as observed usage, unless directly named in the heading. Preserve heading/example mismatches; no mastery inference."
+    },
+    {
+      "module": 4,
+      "unit_range": [
+        71,
+        130
+      ],
+      "local_unit_range": [
+        1,
+        60
+      ],
+      "path": "guidebooks/en-hu/module-04.json",
+      "status": "processed",
+      "source": "user_supplied_current_guidebook",
+      "evidence_policy": "Guidebook headings are direct topic evidence; grammar in phrases is observed usage unless named in the heading. Preserve heading/example mismatches and missing titles; do not infer mastery."
     }
   ],
   "guidebook_routing_note": "When the active English Duolingo unit is in a processed Guidebook module, consult the matching guidebook_modules path. If Guidebook evidence conflicts with the community public course map, retain both but use the learner's current Guidebook for immediate unit routing."
