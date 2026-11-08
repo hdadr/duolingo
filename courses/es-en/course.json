@@ -85,7 +85,7 @@
     "Do not infer a grammar rule from a topic title alone.",
     "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–5: #1–10, #11–41, #42–71, #72–131, and #132–381. Section 5 contains 50 five-unit repeated phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only.",
     "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–6: #1–10, #11–41, #42–71, #72–131, #132–381, and #382–631. Sections 5 and 6 contain 50 five-unit repeated phrase groups each. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only.",
-    "Section 7 is partially documented from the first user-supplied batch only: local units 1–180 / course #632–811. The total section length is not yet known; continue at #812. The provisional B2 classification and grammar links are based on observed examples, not official Guidebook headings."
+    "Sections 7 and 8 are fully documented from user-supplied Guidebook key phrases and Hungarian translations: section 7 #632–811 and section 8 #812–991, 180 units each. Each section contains 36 repeated five-unit phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
   ],
   "sources": [
     "https://duolingodata.com/",
@@ -408,10 +408,32 @@
       "partial_phrase_set_count": 0,
       "translation_status": "user_supplied_hungarian_translations",
       "received_date": "2026-11-08",
-      "completion_status": "partial",
-      "installment": "first_received_batch",
-      "total_unit_count": null,
-      "next_expected_course_unit": 812
+      "completion_status": "complete",
+      "installment": "complete",
+      "total_unit_count": 180
+    },
+    {
+      "section": 8,
+      "cefr": "B2",
+      "cefr_status": "community_curriculum_label_provisional",
+      "section_unit_range": [
+        1,
+        180
+      ],
+      "course_unit_range": [
+        812,
+        991
+      ],
+      "path": "guidebooks/es-en/module-08.json",
+      "unit_count": 180,
+      "phrase_set_count": 36,
+      "complete_phrase_set_count": 36,
+      "partial_phrase_set_count": 0,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08",
+      "completion_status": "complete",
+      "installment": "complete",
+      "total_unit_count": 180
     }
   ]
 }
