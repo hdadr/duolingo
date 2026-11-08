@@ -1,0 +1,6153 @@
+{
+  "schema_version": 1,
+  "course_id": "DUOLINGO_ES_EN",
+  "course_key": "es-en",
+  "learning_language": "es",
+  "base_language": "en",
+  "explanation_language": "hu",
+  "source": {
+    "kind": "user_supplied_guidebook_transcription",
+    "received_date": "2026-11-08",
+    "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításaik.",
+    "coverage": "Duolingo 7. modul, jelenleg feldolgozott első rész: 1–180. rész; kurzus-egységek #632–811.",
+    "note": "A 7. modul jelenlegi mentése részleges. A felhasználó az első részt adta meg; a modul teljes egységszáma nem ismert. A 180 egység 36 teljes, egyenként öt egységben ismétlődő példacsoportot tartalmaz. A magyar egységcímek szerkesztői összefoglalók; a Guidebook nem adott külön egységszintű nyelvtani címeket. A nyelvtani kapcsolatok megfigyelt példákon alapulnak."
+  },
+  "module": {
+    "number": 7,
+    "cefr": "B2",
+    "cefr_status": "provisional_based_on_observed_grammar_complexity",
+    "unit_range": [
+      632,
+      811
+    ],
+    "section_unit_range": [
+      1,
+      180
+    ],
+    "completion_status": "partial",
+    "installment": "first_received_batch",
+    "title_hu": "B2-es nyelvhasználat: hipotézisek, összetett subjuntivo és árnyalt kommunikáció",
+    "complete_phrase_group_count": 36,
+    "partial_phrase_group_count": 0,
+    "unique_phrase_sets": 36,
+    "units_in_current_batch": 180,
+    "total_unit_count": null
+  },
+  "units": [
+    {
+      "unit": 632,
+      "section_unit": 1,
+      "title_hu": "Útlevél, engedély és utazás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Útlevél, engedély és utazás",
+      "phrase_set_ref": "s7-topic-01",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 633,
+      "section_unit": 2,
+      "title_hu": "Útlevél, engedély és utazás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Útlevél, engedély és utazás",
+      "phrase_set_ref": "s7-topic-01",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 634,
+      "section_unit": 3,
+      "title_hu": "Útlevél, engedély és utazás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Útlevél, engedély és utazás",
+      "phrase_set_ref": "s7-topic-01",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 635,
+      "section_unit": 4,
+      "title_hu": "Útlevél, engedély és utazás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Útlevél, engedély és utazás",
+      "phrase_set_ref": "s7-topic-01",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 636,
+      "section_unit": 5,
+      "title_hu": "Útlevél, engedély és utazás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Útlevél, engedély és utazás",
+      "phrase_set_ref": "s7-topic-01",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 637,
+      "section_unit": 6,
+      "title_hu": "Egészség, tanács és feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészség, tanács és feltétel",
+      "phrase_set_ref": "s7-topic-02",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 638,
+      "section_unit": 7,
+      "title_hu": "Egészség, tanács és feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészség, tanács és feltétel",
+      "phrase_set_ref": "s7-topic-02",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 639,
+      "section_unit": 8,
+      "title_hu": "Egészség, tanács és feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészség, tanács és feltétel",
+      "phrase_set_ref": "s7-topic-02",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 640,
+      "section_unit": 9,
+      "title_hu": "Egészség, tanács és feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészség, tanács és feltétel",
+      "phrase_set_ref": "s7-topic-02",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 641,
+      "section_unit": 10,
+      "title_hu": "Egészség, tanács és feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészség, tanács és feltétel",
+      "phrase_set_ref": "s7-topic-02",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 642,
+      "section_unit": 11,
+      "title_hu": "Ingatlan és irreális feltételek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ingatlan és irreális feltételek",
+      "phrase_set_ref": "s7-topic-03",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 643,
+      "section_unit": 12,
+      "title_hu": "Ingatlan és irreális feltételek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ingatlan és irreális feltételek",
+      "phrase_set_ref": "s7-topic-03",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 644,
+      "section_unit": 13,
+      "title_hu": "Ingatlan és irreális feltételek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ingatlan és irreális feltételek",
+      "phrase_set_ref": "s7-topic-03",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 645,
+      "section_unit": 14,
+      "title_hu": "Ingatlan és irreális feltételek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ingatlan és irreális feltételek",
+      "phrase_set_ref": "s7-topic-03",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 646,
+      "section_unit": 15,
+      "title_hu": "Ingatlan és irreális feltételek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ingatlan és irreális feltételek",
+      "phrase_set_ref": "s7-topic-03",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 647,
+      "section_unit": 16,
+      "title_hu": "Statisztikák és szakmai projekt",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Statisztikák és szakmai projekt",
+      "phrase_set_ref": "s7-topic-04",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 648,
+      "section_unit": 17,
+      "title_hu": "Statisztikák és szakmai projekt",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Statisztikák és szakmai projekt",
+      "phrase_set_ref": "s7-topic-04",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 649,
+      "section_unit": 18,
+      "title_hu": "Statisztikák és szakmai projekt",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Statisztikák és szakmai projekt",
+      "phrase_set_ref": "s7-topic-04",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 650,
+      "section_unit": 19,
+      "title_hu": "Statisztikák és szakmai projekt",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Statisztikák és szakmai projekt",
+      "phrase_set_ref": "s7-topic-04",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 651,
+      "section_unit": 20,
+      "title_hu": "Statisztikák és szakmai projekt",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Statisztikák és szakmai projekt",
+      "phrase_set_ref": "s7-topic-04",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 652,
+      "section_unit": 21,
+      "title_hu": "Tünetek és orvosi tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tünetek és orvosi tanács",
+      "phrase_set_ref": "s7-topic-05",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 653,
+      "section_unit": 22,
+      "title_hu": "Tünetek és orvosi tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tünetek és orvosi tanács",
+      "phrase_set_ref": "s7-topic-05",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 654,
+      "section_unit": 23,
+      "title_hu": "Tünetek és orvosi tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tünetek és orvosi tanács",
+      "phrase_set_ref": "s7-topic-05",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 655,
+      "section_unit": 24,
+      "title_hu": "Tünetek és orvosi tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tünetek és orvosi tanács",
+      "phrase_set_ref": "s7-topic-05",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 656,
+      "section_unit": 25,
+      "title_hu": "Tünetek és orvosi tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tünetek és orvosi tanács",
+      "phrase_set_ref": "s7-topic-05",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 657,
+      "section_unit": 26,
+      "title_hu": "Autóhiba és hipotetikus tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Autóhiba és hipotetikus tanács",
+      "phrase_set_ref": "s7-topic-06",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 658,
+      "section_unit": 27,
+      "title_hu": "Autóhiba és hipotetikus tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Autóhiba és hipotetikus tanács",
+      "phrase_set_ref": "s7-topic-06",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 659,
+      "section_unit": 28,
+      "title_hu": "Autóhiba és hipotetikus tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Autóhiba és hipotetikus tanács",
+      "phrase_set_ref": "s7-topic-06",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 660,
+      "section_unit": 29,
+      "title_hu": "Autóhiba és hipotetikus tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Autóhiba és hipotetikus tanács",
+      "phrase_set_ref": "s7-topic-06",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 661,
+      "section_unit": 30,
+      "title_hu": "Autóhiba és hipotetikus tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Autóhiba és hipotetikus tanács",
+      "phrase_set_ref": "s7-topic-06",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 662,
+      "section_unit": 31,
+      "title_hu": "Pályaválasztás és munka",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Pályaválasztás és munka",
+      "phrase_set_ref": "s7-topic-07",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 663,
+      "section_unit": 32,
+      "title_hu": "Pályaválasztás és munka",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Pályaválasztás és munka",
+      "phrase_set_ref": "s7-topic-07",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 664,
+      "section_unit": 33,
+      "title_hu": "Pályaválasztás és munka",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Pályaválasztás és munka",
+      "phrase_set_ref": "s7-topic-07",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 665,
+      "section_unit": 34,
+      "title_hu": "Pályaválasztás és munka",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Pályaválasztás és munka",
+      "phrase_set_ref": "s7-topic-07",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 666,
+      "section_unit": 35,
+      "title_hu": "Pályaválasztás és munka",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Pályaválasztás és munka",
+      "phrase_set_ref": "s7-topic-07",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 667,
+      "section_unit": 36,
+      "title_hu": "Személyiség és személyes változás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyiség és személyes változás",
+      "phrase_set_ref": "s7-topic-08",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 668,
+      "section_unit": 37,
+      "title_hu": "Személyiség és személyes változás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyiség és személyes változás",
+      "phrase_set_ref": "s7-topic-08",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 669,
+      "section_unit": 38,
+      "title_hu": "Személyiség és személyes változás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyiség és személyes változás",
+      "phrase_set_ref": "s7-topic-08",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 670,
+      "section_unit": 39,
+      "title_hu": "Személyiség és személyes változás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyiség és személyes változás",
+      "phrase_set_ref": "s7-topic-08",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 671,
+      "section_unit": 40,
+      "title_hu": "Személyiség és személyes változás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyiség és személyes változás",
+      "phrase_set_ref": "s7-topic-08",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 672,
+      "section_unit": 41,
+      "title_hu": "Kampány és jövőbeli eredmények",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kampány és jövőbeli eredmények",
+      "phrase_set_ref": "s7-topic-09",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 673,
+      "section_unit": 42,
+      "title_hu": "Kampány és jövőbeli eredmények",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kampány és jövőbeli eredmények",
+      "phrase_set_ref": "s7-topic-09",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 674,
+      "section_unit": 43,
+      "title_hu": "Kampány és jövőbeli eredmények",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kampány és jövőbeli eredmények",
+      "phrase_set_ref": "s7-topic-09",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 675,
+      "section_unit": 44,
+      "title_hu": "Kampány és jövőbeli eredmények",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kampány és jövőbeli eredmények",
+      "phrase_set_ref": "s7-topic-09",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 676,
+      "section_unit": 45,
+      "title_hu": "Kampány és jövőbeli eredmények",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kampány és jövőbeli eredmények",
+      "phrase_set_ref": "s7-topic-09",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 677,
+      "section_unit": 46,
+      "title_hu": "Klímaváltozás és környezetvédelem",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Klímaváltozás és környezetvédelem",
+      "phrase_set_ref": "s7-topic-10",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 678,
+      "section_unit": 47,
+      "title_hu": "Klímaváltozás és környezetvédelem",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Klímaváltozás és környezetvédelem",
+      "phrase_set_ref": "s7-topic-10",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 679,
+      "section_unit": 48,
+      "title_hu": "Klímaváltozás és környezetvédelem",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Klímaváltozás és környezetvédelem",
+      "phrase_set_ref": "s7-topic-10",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 680,
+      "section_unit": 49,
+      "title_hu": "Klímaváltozás és környezetvédelem",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Klímaváltozás és környezetvédelem",
+      "phrase_set_ref": "s7-topic-10",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 681,
+      "section_unit": 50,
+      "title_hu": "Klímaváltozás és környezetvédelem",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Klímaváltozás és környezetvédelem",
+      "phrase_set_ref": "s7-topic-10",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 682,
+      "section_unit": 51,
+      "title_hu": "Figyelmeztetés és felelősségteljes viselkedés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Figyelmeztetés és felelősségteljes viselkedés",
+      "phrase_set_ref": "s7-topic-11",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 683,
+      "section_unit": 52,
+      "title_hu": "Figyelmeztetés és felelősségteljes viselkedés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Figyelmeztetés és felelősségteljes viselkedés",
+      "phrase_set_ref": "s7-topic-11",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 684,
+      "section_unit": 53,
+      "title_hu": "Figyelmeztetés és felelősségteljes viselkedés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Figyelmeztetés és felelősségteljes viselkedés",
+      "phrase_set_ref": "s7-topic-11",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 685,
+      "section_unit": 54,
+      "title_hu": "Figyelmeztetés és felelősségteljes viselkedés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Figyelmeztetés és felelősségteljes viselkedés",
+      "phrase_set_ref": "s7-topic-11",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 686,
+      "section_unit": 55,
+      "title_hu": "Figyelmeztetés és felelősségteljes viselkedés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Figyelmeztetés és felelősségteljes viselkedés",
+      "phrase_set_ref": "s7-topic-11",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 687,
+      "section_unit": 56,
+      "title_hu": "Babaápolás és örökbefogadás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Babaápolás és örökbefogadás",
+      "phrase_set_ref": "s7-topic-12",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 688,
+      "section_unit": 57,
+      "title_hu": "Babaápolás és örökbefogadás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Babaápolás és örökbefogadás",
+      "phrase_set_ref": "s7-topic-12",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 689,
+      "section_unit": 58,
+      "title_hu": "Babaápolás és örökbefogadás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Babaápolás és örökbefogadás",
+      "phrase_set_ref": "s7-topic-12",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 690,
+      "section_unit": 59,
+      "title_hu": "Babaápolás és örökbefogadás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Babaápolás és örökbefogadás",
+      "phrase_set_ref": "s7-topic-12",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 691,
+      "section_unit": 60,
+      "title_hu": "Babaápolás és örökbefogadás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Babaápolás és örökbefogadás",
+      "phrase_set_ref": "s7-topic-12",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 692,
+      "section_unit": 61,
+      "title_hu": "Népi hiedelmek és babonák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Népi hiedelmek és babonák",
+      "phrase_set_ref": "s7-topic-13",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 693,
+      "section_unit": 62,
+      "title_hu": "Népi hiedelmek és babonák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Népi hiedelmek és babonák",
+      "phrase_set_ref": "s7-topic-13",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 694,
+      "section_unit": 63,
+      "title_hu": "Népi hiedelmek és babonák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Népi hiedelmek és babonák",
+      "phrase_set_ref": "s7-topic-13",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 695,
+      "section_unit": 64,
+      "title_hu": "Népi hiedelmek és babonák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Népi hiedelmek és babonák",
+      "phrase_set_ref": "s7-topic-13",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 696,
+      "section_unit": 65,
+      "title_hu": "Népi hiedelmek és babonák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Népi hiedelmek és babonák",
+      "phrase_set_ref": "s7-topic-13",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 697,
+      "section_unit": 66,
+      "title_hu": "Bűntudat és irreális múltbeli feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bűntudat és irreális múltbeli feltétel",
+      "phrase_set_ref": "s7-topic-14",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 698,
+      "section_unit": 67,
+      "title_hu": "Bűntudat és irreális múltbeli feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bűntudat és irreális múltbeli feltétel",
+      "phrase_set_ref": "s7-topic-14",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 699,
+      "section_unit": 68,
+      "title_hu": "Bűntudat és irreális múltbeli feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bűntudat és irreális múltbeli feltétel",
+      "phrase_set_ref": "s7-topic-14",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 700,
+      "section_unit": 69,
+      "title_hu": "Bűntudat és irreális múltbeli feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bűntudat és irreális múltbeli feltétel",
+      "phrase_set_ref": "s7-topic-14",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 701,
+      "section_unit": 70,
+      "title_hu": "Bűntudat és irreális múltbeli feltétel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bűntudat és irreális múltbeli feltétel",
+      "phrase_set_ref": "s7-topic-14",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 702,
+      "section_unit": 71,
+      "title_hu": "Egyetemi tanulmányok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egyetemi tanulmányok",
+      "phrase_set_ref": "s7-topic-15",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 703,
+      "section_unit": 72,
+      "title_hu": "Egyetemi tanulmányok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egyetemi tanulmányok",
+      "phrase_set_ref": "s7-topic-15",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 704,
+      "section_unit": 73,
+      "title_hu": "Egyetemi tanulmányok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egyetemi tanulmányok",
+      "phrase_set_ref": "s7-topic-15",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 705,
+      "section_unit": 74,
+      "title_hu": "Egyetemi tanulmányok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egyetemi tanulmányok",
+      "phrase_set_ref": "s7-topic-15",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 706,
+      "section_unit": 75,
+      "title_hu": "Egyetemi tanulmányok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egyetemi tanulmányok",
+      "phrase_set_ref": "s7-topic-15",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 707,
+      "section_unit": 76,
+      "title_hu": "Gyermekkori emlékek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Gyermekkori emlékek",
+      "phrase_set_ref": "s7-topic-16",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 708,
+      "section_unit": 77,
+      "title_hu": "Gyermekkori emlékek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Gyermekkori emlékek",
+      "phrase_set_ref": "s7-topic-16",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 709,
+      "section_unit": 78,
+      "title_hu": "Gyermekkori emlékek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Gyermekkori emlékek",
+      "phrase_set_ref": "s7-topic-16",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 710,
+      "section_unit": 79,
+      "title_hu": "Gyermekkori emlékek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Gyermekkori emlékek",
+      "phrase_set_ref": "s7-topic-16",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 711,
+      "section_unit": 80,
+      "title_hu": "Gyermekkori emlékek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Gyermekkori emlékek",
+      "phrase_set_ref": "s7-topic-16",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 712,
+      "section_unit": 81,
+      "title_hu": "Kapcsolatok és érzelmi reakciók",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kapcsolatok és érzelmi reakciók",
+      "phrase_set_ref": "s7-topic-17",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 713,
+      "section_unit": 82,
+      "title_hu": "Kapcsolatok és érzelmi reakciók",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kapcsolatok és érzelmi reakciók",
+      "phrase_set_ref": "s7-topic-17",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 714,
+      "section_unit": 83,
+      "title_hu": "Kapcsolatok és érzelmi reakciók",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kapcsolatok és érzelmi reakciók",
+      "phrase_set_ref": "s7-topic-17",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 715,
+      "section_unit": 84,
+      "title_hu": "Kapcsolatok és érzelmi reakciók",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kapcsolatok és érzelmi reakciók",
+      "phrase_set_ref": "s7-topic-17",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 716,
+      "section_unit": 85,
+      "title_hu": "Kapcsolatok és érzelmi reakciók",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kapcsolatok és érzelmi reakciók",
+      "phrase_set_ref": "s7-topic-17",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 717,
+      "section_unit": 86,
+      "title_hu": "Munkaerőpiac és fizetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Munkaerőpiac és fizetés",
+      "phrase_set_ref": "s7-topic-18",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 718,
+      "section_unit": 87,
+      "title_hu": "Munkaerőpiac és fizetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Munkaerőpiac és fizetés",
+      "phrase_set_ref": "s7-topic-18",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 719,
+      "section_unit": 88,
+      "title_hu": "Munkaerőpiac és fizetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Munkaerőpiac és fizetés",
+      "phrase_set_ref": "s7-topic-18",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 720,
+      "section_unit": 89,
+      "title_hu": "Munkaerőpiac és fizetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Munkaerőpiac és fizetés",
+      "phrase_set_ref": "s7-topic-18",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 721,
+      "section_unit": 90,
+      "title_hu": "Munkaerőpiac és fizetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Munkaerőpiac és fizetés",
+      "phrase_set_ref": "s7-topic-18",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 722,
+      "section_unit": 91,
+      "title_hu": "Engedélyek és hivatalos ügyintézés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Engedélyek és hivatalos ügyintézés",
+      "phrase_set_ref": "s7-topic-19",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 723,
+      "section_unit": 92,
+      "title_hu": "Engedélyek és hivatalos ügyintézés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Engedélyek és hivatalos ügyintézés",
+      "phrase_set_ref": "s7-topic-19",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 724,
+      "section_unit": 93,
+      "title_hu": "Engedélyek és hivatalos ügyintézés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Engedélyek és hivatalos ügyintézés",
+      "phrase_set_ref": "s7-topic-19",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 725,
+      "section_unit": 94,
+      "title_hu": "Engedélyek és hivatalos ügyintézés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Engedélyek és hivatalos ügyintézés",
+      "phrase_set_ref": "s7-topic-19",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 726,
+      "section_unit": 95,
+      "title_hu": "Engedélyek és hivatalos ügyintézés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Engedélyek és hivatalos ügyintézés",
+      "phrase_set_ref": "s7-topic-19",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 727,
+      "section_unit": 96,
+      "title_hu": "Egészségügyi tünetek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészségügyi tünetek",
+      "phrase_set_ref": "s7-topic-20",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 728,
+      "section_unit": 97,
+      "title_hu": "Egészségügyi tünetek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészségügyi tünetek",
+      "phrase_set_ref": "s7-topic-20",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 729,
+      "section_unit": 98,
+      "title_hu": "Egészségügyi tünetek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészségügyi tünetek",
+      "phrase_set_ref": "s7-topic-20",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 730,
+      "section_unit": 99,
+      "title_hu": "Egészségügyi tünetek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészségügyi tünetek",
+      "phrase_set_ref": "s7-topic-20",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 731,
+      "section_unit": 100,
+      "title_hu": "Egészségügyi tünetek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Egészségügyi tünetek",
+      "phrase_set_ref": "s7-topic-20",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 732,
+      "section_unit": 101,
+      "title_hu": "Javítások és udvarias kérések",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Javítások és udvarias kérések",
+      "phrase_set_ref": "s7-topic-21",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 733,
+      "section_unit": 102,
+      "title_hu": "Javítások és udvarias kérések",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Javítások és udvarias kérések",
+      "phrase_set_ref": "s7-topic-21",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 734,
+      "section_unit": 103,
+      "title_hu": "Javítások és udvarias kérések",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Javítások és udvarias kérések",
+      "phrase_set_ref": "s7-topic-21",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 735,
+      "section_unit": 104,
+      "title_hu": "Javítások és udvarias kérések",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Javítások és udvarias kérések",
+      "phrase_set_ref": "s7-topic-21",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 736,
+      "section_unit": 105,
+      "title_hu": "Javítások és udvarias kérések",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Javítások és udvarias kérések",
+      "phrase_set_ref": "s7-topic-21",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 737,
+      "section_unit": 106,
+      "title_hu": "Családi konfliktus és engedmény",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és engedmény",
+      "phrase_set_ref": "s7-topic-22",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 738,
+      "section_unit": 107,
+      "title_hu": "Családi konfliktus és engedmény",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és engedmény",
+      "phrase_set_ref": "s7-topic-22",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 739,
+      "section_unit": 108,
+      "title_hu": "Családi konfliktus és engedmény",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és engedmény",
+      "phrase_set_ref": "s7-topic-22",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 740,
+      "section_unit": 109,
+      "title_hu": "Családi konfliktus és engedmény",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és engedmény",
+      "phrase_set_ref": "s7-topic-22",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 741,
+      "section_unit": 110,
+      "title_hu": "Családi konfliktus és engedmény",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és engedmény",
+      "phrase_set_ref": "s7-topic-22",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 742,
+      "section_unit": 111,
+      "title_hu": "Öröklés és történetszereplők",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Öröklés és történetszereplők",
+      "phrase_set_ref": "s7-topic-23",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 743,
+      "section_unit": 112,
+      "title_hu": "Öröklés és történetszereplők",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Öröklés és történetszereplők",
+      "phrase_set_ref": "s7-topic-23",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 744,
+      "section_unit": 113,
+      "title_hu": "Öröklés és történetszereplők",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Öröklés és történetszereplők",
+      "phrase_set_ref": "s7-topic-23",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 745,
+      "section_unit": 114,
+      "title_hu": "Öröklés és történetszereplők",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Öröklés és történetszereplők",
+      "phrase_set_ref": "s7-topic-23",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 746,
+      "section_unit": 115,
+      "title_hu": "Öröklés és történetszereplők",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Öröklés és történetszereplők",
+      "phrase_set_ref": "s7-topic-23",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 747,
+      "section_unit": 116,
+      "title_hu": "Személyes változás és fejlődés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyes változás és fejlődés",
+      "phrase_set_ref": "s7-topic-24",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 748,
+      "section_unit": 117,
+      "title_hu": "Személyes változás és fejlődés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyes változás és fejlődés",
+      "phrase_set_ref": "s7-topic-24",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 749,
+      "section_unit": 118,
+      "title_hu": "Személyes változás és fejlődés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyes változás és fejlődés",
+      "phrase_set_ref": "s7-topic-24",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 750,
+      "section_unit": 119,
+      "title_hu": "Személyes változás és fejlődés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyes változás és fejlődés",
+      "phrase_set_ref": "s7-topic-24",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 751,
+      "section_unit": 120,
+      "title_hu": "Személyes változás és fejlődés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Személyes változás és fejlődés",
+      "phrase_set_ref": "s7-topic-24",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 752,
+      "section_unit": 121,
+      "title_hu": "Monotónia és munkahelyi rutin",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Monotónia és munkahelyi rutin",
+      "phrase_set_ref": "s7-topic-25",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 753,
+      "section_unit": 122,
+      "title_hu": "Monotónia és munkahelyi rutin",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Monotónia és munkahelyi rutin",
+      "phrase_set_ref": "s7-topic-25",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 754,
+      "section_unit": 123,
+      "title_hu": "Monotónia és munkahelyi rutin",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Monotónia és munkahelyi rutin",
+      "phrase_set_ref": "s7-topic-25",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 755,
+      "section_unit": 124,
+      "title_hu": "Monotónia és munkahelyi rutin",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Monotónia és munkahelyi rutin",
+      "phrase_set_ref": "s7-topic-25",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 756,
+      "section_unit": 125,
+      "title_hu": "Monotónia és munkahelyi rutin",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Monotónia és munkahelyi rutin",
+      "phrase_set_ref": "s7-topic-25",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 757,
+      "section_unit": 126,
+      "title_hu": "Tánc és meglepetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tánc és meglepetés",
+      "phrase_set_ref": "s7-topic-26",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 758,
+      "section_unit": 127,
+      "title_hu": "Tánc és meglepetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tánc és meglepetés",
+      "phrase_set_ref": "s7-topic-26",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 759,
+      "section_unit": 128,
+      "title_hu": "Tánc és meglepetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tánc és meglepetés",
+      "phrase_set_ref": "s7-topic-26",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 760,
+      "section_unit": 129,
+      "title_hu": "Tánc és meglepetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tánc és meglepetés",
+      "phrase_set_ref": "s7-topic-26",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 761,
+      "section_unit": 130,
+      "title_hu": "Tánc és meglepetés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tánc és meglepetés",
+      "phrase_set_ref": "s7-topic-26",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 762,
+      "section_unit": 131,
+      "title_hu": "Rossz szállásélmény és múltbeli események",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Rossz szállásélmény és múltbeli események",
+      "phrase_set_ref": "s7-topic-27",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 763,
+      "section_unit": 132,
+      "title_hu": "Rossz szállásélmény és múltbeli események",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Rossz szállásélmény és múltbeli események",
+      "phrase_set_ref": "s7-topic-27",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 764,
+      "section_unit": 133,
+      "title_hu": "Rossz szállásélmény és múltbeli események",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Rossz szállásélmény és múltbeli események",
+      "phrase_set_ref": "s7-topic-27",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 765,
+      "section_unit": 134,
+      "title_hu": "Rossz szállásélmény és múltbeli események",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Rossz szállásélmény és múltbeli események",
+      "phrase_set_ref": "s7-topic-27",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 766,
+      "section_unit": 135,
+      "title_hu": "Rossz szállásélmény és múltbeli események",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Rossz szállásélmény és múltbeli események",
+      "phrase_set_ref": "s7-topic-27",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 767,
+      "section_unit": 136,
+      "title_hu": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "phrase_set_ref": "s7-topic-28",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 768,
+      "section_unit": 137,
+      "title_hu": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "phrase_set_ref": "s7-topic-28",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 769,
+      "section_unit": 138,
+      "title_hu": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "phrase_set_ref": "s7-topic-28",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 770,
+      "section_unit": 139,
+      "title_hu": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "phrase_set_ref": "s7-topic-28",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 771,
+      "section_unit": 140,
+      "title_hu": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "phrase_set_ref": "s7-topic-28",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 772,
+      "section_unit": 141,
+      "title_hu": "Főzés és konyhai felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és konyhai felszólítások",
+      "phrase_set_ref": "s7-topic-29",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 773,
+      "section_unit": 142,
+      "title_hu": "Főzés és konyhai felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és konyhai felszólítások",
+      "phrase_set_ref": "s7-topic-29",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 774,
+      "section_unit": 143,
+      "title_hu": "Főzés és konyhai felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és konyhai felszólítások",
+      "phrase_set_ref": "s7-topic-29",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 775,
+      "section_unit": 144,
+      "title_hu": "Főzés és konyhai felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és konyhai felszólítások",
+      "phrase_set_ref": "s7-topic-29",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 776,
+      "section_unit": 145,
+      "title_hu": "Főzés és konyhai felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és konyhai felszólítások",
+      "phrase_set_ref": "s7-topic-29",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 777,
+      "section_unit": 146,
+      "title_hu": "Életkor és személyiség",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Életkor és személyiség",
+      "phrase_set_ref": "s7-topic-30",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 778,
+      "section_unit": 147,
+      "title_hu": "Életkor és személyiség",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Életkor és személyiség",
+      "phrase_set_ref": "s7-topic-30",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 779,
+      "section_unit": 148,
+      "title_hu": "Életkor és személyiség",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Életkor és személyiség",
+      "phrase_set_ref": "s7-topic-30",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 780,
+      "section_unit": 149,
+      "title_hu": "Életkor és személyiség",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Életkor és személyiség",
+      "phrase_set_ref": "s7-topic-30",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 781,
+      "section_unit": 150,
+      "title_hu": "Életkor és személyiség",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Életkor és személyiség",
+      "phrase_set_ref": "s7-topic-30",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 782,
+      "section_unit": 151,
+      "title_hu": "Segítség és nem specifikus vonatkozó névmások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Segítség és nem specifikus vonatkozó névmások",
+      "phrase_set_ref": "s7-topic-31",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 783,
+      "section_unit": 152,
+      "title_hu": "Segítség és nem specifikus vonatkozó névmások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Segítség és nem specifikus vonatkozó névmások",
+      "phrase_set_ref": "s7-topic-31",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 784,
+      "section_unit": 153,
+      "title_hu": "Segítség és nem specifikus vonatkozó névmások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Segítség és nem specifikus vonatkozó névmások",
+      "phrase_set_ref": "s7-topic-31",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 785,
+      "section_unit": 154,
+      "title_hu": "Segítség és nem specifikus vonatkozó névmások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Segítség és nem specifikus vonatkozó névmások",
+      "phrase_set_ref": "s7-topic-31",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 786,
+      "section_unit": 155,
+      "title_hu": "Segítség és nem specifikus vonatkozó névmások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Segítség és nem specifikus vonatkozó névmások",
+      "phrase_set_ref": "s7-topic-31",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 787,
+      "section_unit": 156,
+      "title_hu": "Szakítás és továbblépés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Szakítás és továbblépés",
+      "phrase_set_ref": "s7-topic-32",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 788,
+      "section_unit": 157,
+      "title_hu": "Szakítás és továbblépés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Szakítás és továbblépés",
+      "phrase_set_ref": "s7-topic-32",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 789,
+      "section_unit": 158,
+      "title_hu": "Szakítás és továbblépés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Szakítás és továbblépés",
+      "phrase_set_ref": "s7-topic-32",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 790,
+      "section_unit": 159,
+      "title_hu": "Szakítás és továbblépés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Szakítás és továbblépés",
+      "phrase_set_ref": "s7-topic-32",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 791,
+      "section_unit": 160,
+      "title_hu": "Szakítás és továbblépés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Szakítás és továbblépés",
+      "phrase_set_ref": "s7-topic-32",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 792,
+      "section_unit": 161,
+      "title_hu": "Témaváltás és beszélgetési fordulatok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Témaváltás és beszélgetési fordulatok",
+      "phrase_set_ref": "s7-topic-33",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 793,
+      "section_unit": 162,
+      "title_hu": "Témaváltás és beszélgetési fordulatok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Témaváltás és beszélgetési fordulatok",
+      "phrase_set_ref": "s7-topic-33",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 794,
+      "section_unit": 163,
+      "title_hu": "Témaváltás és beszélgetési fordulatok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Témaváltás és beszélgetési fordulatok",
+      "phrase_set_ref": "s7-topic-33",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 795,
+      "section_unit": 164,
+      "title_hu": "Témaváltás és beszélgetési fordulatok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Témaváltás és beszélgetési fordulatok",
+      "phrase_set_ref": "s7-topic-33",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 796,
+      "section_unit": 165,
+      "title_hu": "Témaváltás és beszélgetési fordulatok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Témaváltás és beszélgetési fordulatok",
+      "phrase_set_ref": "s7-topic-33",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 797,
+      "section_unit": 166,
+      "title_hu": "Árvíz és katasztrófahelyzet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Árvíz és katasztrófahelyzet",
+      "phrase_set_ref": "s7-topic-34",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 798,
+      "section_unit": 167,
+      "title_hu": "Árvíz és katasztrófahelyzet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Árvíz és katasztrófahelyzet",
+      "phrase_set_ref": "s7-topic-34",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 799,
+      "section_unit": 168,
+      "title_hu": "Árvíz és katasztrófahelyzet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Árvíz és katasztrófahelyzet",
+      "phrase_set_ref": "s7-topic-34",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 800,
+      "section_unit": 169,
+      "title_hu": "Árvíz és katasztrófahelyzet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Árvíz és katasztrófahelyzet",
+      "phrase_set_ref": "s7-topic-34",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 801,
+      "section_unit": 170,
+      "title_hu": "Árvíz és katasztrófahelyzet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Árvíz és katasztrófahelyzet",
+      "phrase_set_ref": "s7-topic-34",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 802,
+      "section_unit": 171,
+      "title_hu": "Családi konfliktus és felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és felszólítások",
+      "phrase_set_ref": "s7-topic-35",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 803,
+      "section_unit": 172,
+      "title_hu": "Családi konfliktus és felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és felszólítások",
+      "phrase_set_ref": "s7-topic-35",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 804,
+      "section_unit": 173,
+      "title_hu": "Családi konfliktus és felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és felszólítások",
+      "phrase_set_ref": "s7-topic-35",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 805,
+      "section_unit": 174,
+      "title_hu": "Családi konfliktus és felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és felszólítások",
+      "phrase_set_ref": "s7-topic-35",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 806,
+      "section_unit": 175,
+      "title_hu": "Családi konfliktus és felszólítások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családi konfliktus és felszólítások",
+      "phrase_set_ref": "s7-topic-35",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 807,
+      "section_unit": 176,
+      "title_hu": "Főzés és feltételes tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és feltételes tanács",
+      "phrase_set_ref": "s7-topic-36",
+      "repeat_position": 1,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 808,
+      "section_unit": 177,
+      "title_hu": "Főzés és feltételes tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és feltételes tanács",
+      "phrase_set_ref": "s7-topic-36",
+      "repeat_position": 2,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 809,
+      "section_unit": 178,
+      "title_hu": "Főzés és feltételes tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és feltételes tanács",
+      "phrase_set_ref": "s7-topic-36",
+      "repeat_position": 3,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 810,
+      "section_unit": 179,
+      "title_hu": "Főzés és feltételes tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és feltételes tanács",
+      "phrase_set_ref": "s7-topic-36",
+      "repeat_position": 4,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    },
+    {
+      "unit": 811,
+      "section_unit": 180,
+      "title_hu": "Főzés és feltételes tanács",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Főzés és feltételes tanács",
+      "phrase_set_ref": "s7-topic-36",
+      "repeat_position": 5,
+      "repeat_group_size": 5,
+      "content_is_repeated": true,
+      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
+    }
+  ],
+  "phrase_sets": [
+    {
+      "id": "s7-topic-01",
+      "title_hu_derived": "Útlevél, engedély és utazás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        632,
+        636
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Apuesto que todavía no tienes tu pasaporte.",
+          "Fogadok, hogy még mindig nincs meg az útleveled."
+        ],
+        [
+          "En ese caso, te doy permiso.",
+          "Ebben az esetben neked adok engedélyt."
+        ],
+        [
+          "No insistas, no te daré más dinero.",
+          "Ne erősködj, nem adok több pénzt."
+        ],
+        [
+          "¿Puedo ir a Chile si no me va mal este año?",
+          "Elmehetek Chilébe, ha nem megy rosszul ez az esztendő?"
+        ],
+        [
+          "Definitivamente, no viajarás sola.",
+          "Biztosan nem fogsz egyedül utazni."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "apuesto que (a que) valószínűségi állítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "te részes névmás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "negatív felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro daré/viajarás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + jelen idő",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B2-02",
+        "B2-03",
+        "B1-02",
+        "B1-03",
+        "B1-06",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "s7-topic-02",
+      "title_hu_derived": "Egészség, tanács és feltétel",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        637,
+        641
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "El cigarrillo es perjudicial.",
+          "A cigaretta káros."
+        ],
+        [
+          "¿Cómo puedo controlar la ansiedad?",
+          "Hogyan tudom kezelni a szorongást?"
+        ],
+        [
+          "Yo que tú, iría al doctor.",
+          "A helyedben elmennék orvoshoz."
+        ],
+        [
+          "Escuché que es esencial hidratarse.",
+          "Úgy hallottam, hogy alapvető a hidratálás."
+        ],
+        [
+          "Si trabajas menos, tu salud se va a beneficiar.",
+          "Ha kevesebbet dolgozol, az egészségednek jót fog tenni."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "yo que tú + condicional tanácsadásra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido escuché",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitivo visszaható alakban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + jelen és ir a + infinitivo",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "B1-08",
+        "B2-02",
+        "B2-03"
+      ]
+    },
+    {
+      "id": "s7-topic-03",
+      "title_hu_derived": "Ingatlan és irreális feltételek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        642,
+        646
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Si la casa estuviera en mejores condiciones, la compraría.",
+          "Ha a ház jobb állapotban lenne, megvenném."
+        ],
+        [
+          "¿Dónde está ubicada la casa?",
+          "Hol található a ház?"
+        ],
+        [
+          "Me gustaría mudarme de casa.",
+          "Szeretnék elköltözni."
+        ],
+        [
+          "Si tuviera dinero, lo gastaría en una casa.",
+          "Ha lenne pénzem, egy házra elkölteném."
+        ],
+        [
+          "Nos recomendaron que viéramos esta propiedad.",
+          "Azt ajánlották nekünk, hogy nézzük meg ezt az ingatlant."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "si + imperfecto de subjuntivo és condicional",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "me gustaría",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido recomendaron",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "recomendar que + imperfecto de subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "lo tárgyas névmás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-04",
+        "B2-01",
+        "B2-02",
+        "B2-03"
+      ]
+    },
+    {
+      "id": "s7-topic-04",
+      "title_hu_derived": "Statisztikák és szakmai projekt",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        647,
+        651
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Necesitamos a alguien que entienda estas estadísticas.",
+          "Kell valaki, aki érti ezeket a statisztikákat."
+        ],
+        [
+          "¿Puedes calcular los costos de mantenimiento?",
+          "Ki tudod számítani a karbantartási költségeket?"
+        ],
+        [
+          "Presentaremos el proyecto en equipo.",
+          "Csapatban mutatjuk be a projektet."
+        ],
+        [
+          "Quiero que chequees los costos anuales.",
+          "Azt akarom, hogy ellenőrizd az éves költségeket."
+        ],
+        [
+          "¿Conoces a alguien que sepa sobre exportaciones?",
+          "Ismersz valakit, aki ért a kivitelhez?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ismeretlen személyt leíró que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro presentaremos",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "querer que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "saber és conocer különbsége",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-05",
+        "B1-07",
+        "B2-01",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-05",
+      "title_hu_derived": "Tünetek és orvosi tanács",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        652,
+        656
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Solo siente dolor cuando tose?",
+          "Csak köhögéskor fáj?"
+        ],
+        [
+          "Si siente dolor, tome este medicamento.",
+          "Ha fájdalmat érez, vegye be ezt a gyógyszert."
+        ],
+        [
+          "Tiene bronquitis y es mejor que se quede en casa.",
+          "Hörghurutja van és jobb, ha otthon marad."
+        ],
+        [
+          "¿Me da un calmante para las articulaciones?",
+          "Adna nekem egy fájdalomcsillapítót az ízületekre?"
+        ],
+        [
+          "Si tiene fiebre, se puede deshidratar.",
+          "Ha lázas, kiszáradhat."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "usted udvarias kérdés/felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + jelen és felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "es mejor que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "se visszaható/személytelen",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "B2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-06",
+      "title_hu_derived": "Autóhiba és hipotetikus tanács",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        657,
+        661
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "El freno está atascado.",
+          "A fék beragadt."
+        ],
+        [
+          "Abre el capó, voy a revisar el motor.",
+          "Nyisd fel a motorháztetőt, megnézem a motort."
+        ],
+        [
+          "¿Cómo abro el capó?",
+          "Hogy nyissam fel a motorháztetőt?"
+        ],
+        [
+          "Si fuera tú, cambiaría ahora la batería.",
+          "A helyedben most kicserélném az akkumulátort."
+        ],
+        [
+          "El auto se paró porque se quedó sin gasolina.",
+          "Az autó megállt, mert kifogyott a benzin."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar + participio állapotra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tú felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ir a + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + imperfecto de subjuntivo és condicional",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido + quedarse sin",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-03",
+        "B1-06",
+        "B1-08",
+        "B2-02"
+      ]
+    },
+    {
+      "id": "s7-topic-07",
+      "title_hu_derived": "Pályaválasztás és munka",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        662,
+        666
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Es importante para ti tener un horario flexible?",
+          "Fontos neked a rugalmas időbeosztás?"
+        ],
+        [
+          "No estudiaré la misma carrera que mis padres.",
+          "Nem fogok ugyanazt a szakot tanulni, mint a szüleim."
+        ],
+        [
+          "¿Cuáles son tus expectativas?",
+          "Mik az elvárásaid?"
+        ],
+        [
+          "Como programadora ganarás más que como maestra.",
+          "Programozóként többet fogsz keresni mint tanárnőként."
+        ],
+        [
+          "Prefiero las carreras relacionadas con la tecnología.",
+          "Jobban szeretem a technológiához kapcsolódó szakokat."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "futuro estudiaré/ganarás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "összehasonlítás más que",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "participio melléknévi használata",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "como + foglalkozás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-02",
+        "B1-05",
+        "B2-03",
+        "B2-04",
+        "A2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-08",
+      "title_hu_derived": "Személyiség és személyes változás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        667,
+        671
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Antes era humilde, pero ahora es muy arrogante.",
+          "Régen szerény volt, de most nagyon arrogáns."
+        ],
+        [
+          "¿Te acuerdas de la profesora esa que nos odiaba?",
+          "Emlékszel arra a tanárnőre, aki gyűlölt minket?"
+        ],
+        [
+          "Nos hicimos amigos ese año.",
+          "Abban az évben lettünk barátok."
+        ],
+        [
+          "Ella se hizo famosa porque escribió un libro.",
+          "Híres lett, mert írt egy könyvet."
+        ],
+        [
+          "¿Fue José el que cantaba?",
+          "José volt az, aki énekelt?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "imperfecto era/odiaba/cantaba",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hacerse + melléknév állapotváltozásra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido nos hicimos/escribió/fue",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "kiemelő szerkezet el que",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "B1-08",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-09",
+      "title_hu_derived": "Kampány és jövőbeli eredmények",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        672,
+        676
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Nuestra campaña está yendo bien.",
+          "A kampányunk jól halad."
+        ],
+        [
+          "¿Cuándo van a anunciar la fecha del debate?",
+          "Mikor jelentik be a vita időpontját?"
+        ],
+        [
+          "¡Sin duda alcanzaremos nuestro objetivo!",
+          "Biztosan elérjük a célunkat!"
+        ],
+        [
+          "Se comprometieron a disminuir el desempleo.",
+          "Vállalták, hogy csökkentik a munkanélküliséget."
+        ],
+        [
+          "Para septiembre habrá terminado la campaña.",
+          "Szeptemberre be fog fejeződni a kampány."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar + gerundio",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ir a + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro alcanzaremos",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "comprometerse a + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro perfecto habrá terminado",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "B2-03",
+        "B2-07"
+      ]
+    },
+    {
+      "id": "s7-topic-10",
+      "title_hu_derived": "Klímaváltozás és környezetvédelem",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        677,
+        681
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "El calentamiento de la Tierra es serio.",
+          "Komoly a Föld felmelegedése."
+        ],
+        [
+          "Es probable que haya sequías todo el año.",
+          "Valószínű, hogy egész évben aszályok lesznek."
+        ],
+        [
+          "¿Es probable que el reciclaje sea una verdadera solución?",
+          "Valószínű-e, hogy az újrahasznosítás valódi megoldás?"
+        ],
+        [
+          "La temperatura global cambiará.",
+          "A globális hőmérséklet meg fog változni."
+        ],
+        [
+          "¡Cambiemos nuestros hábitos de consumo!",
+          "Változtassuk meg fogyasztási szokásainkat!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "es probable que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro haya / sea",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro cambiará",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nosotros felszólító/javasló alak cambiemos",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B2-01",
+        "B2-03"
+      ]
+    },
+    {
+      "id": "s7-topic-11",
+      "title_hu_derived": "Figyelmeztetés és felelősségteljes viselkedés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        682,
+        686
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¡Quédate quieto por un segundo, por favor!",
+          "Maradj nyugton egy másodpercig, kérlek!"
+        ],
+        [
+          "¡No te mojes los zapatos nuevos!",
+          "Ne vizezd össze az új cipőidet!"
+        ],
+        [
+          "Te advirtieron que es arriesgado, ¿verdad?",
+          "Figyelmeztettek, hogy kockázatos, ugye?"
+        ],
+        [
+          "¡Más te vale que no rompas ese plato!",
+          "Jobban teszed, ha nem töröd el azt a tányért!"
+        ],
+        [
+          "¿Eres consciente de lo que estás haciendo?",
+          "Tisztában vagy azzal, amit csinálsz?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "pozitív/negatív tú felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido advirtieron",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "más te vale que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "lo que",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar + gerundio",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-12",
+      "title_hu_derived": "Babaápolás és örökbefogadás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        687,
+        691
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "No tienes por qué preocuparte.",
+          "Nincs miért aggódnod."
+        ],
+        [
+          "Mi cuñada nos regaló la cuna.",
+          "A sógornőm nekünk ajándékba adta a kiságyat."
+        ],
+        [
+          "¿Cuántas veces al día debo alimentar a la bebé?",
+          "Naponta hányszor kell etetnem a babát?"
+        ],
+        [
+          "Hay muchísimos pañales que cambiar.",
+          "Nagyon sok pelenkát kell cserélni."
+        ],
+        [
+          "Voy a adoptar, pero no tengo nada listo.",
+          "Örökbe fogadok, de semmim sincs készen."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "no tener por qué + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido regaló",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "deber + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hay + főnév + que + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ir a + infinitivo",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "B1-07",
+        "A2-07"
+      ]
+    },
+    {
+      "id": "s7-topic-13",
+      "title_hu_derived": "Népi hiedelmek és babonák",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        692,
+        696
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Conoces la creencia popular sobre una mujer que llora?",
+          "Ismered a síró nőről szóló népi hiedelmet?"
+        ],
+        [
+          "¡No barras cerca de sus pies, que no se casa si lo haces!",
+          "Ne söpörj a lábai közelében, mert nem házasodik meg, ha ezt csinálod!"
+        ],
+        [
+          "¡Dudo que alguien me haga daño por mirarme mucho!",
+          "Kétlem, hogy valaki bántana amiatt, hogy sokat néz rám!"
+        ],
+        [
+          "¿Me vas a curar la tos con qué?",
+          "Mivel fogod meggyógyítani a köhögésemet?"
+        ],
+        [
+          "No creo que este caldo me cure la gripe.",
+          "Nem hiszem, hogy ez a leves meggyógyítja az influenzát."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "que vonatkozói mellékmondat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "negatív felszólítás no barras",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "dudar/no creer que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ir a + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por + infinitivo",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-05",
+        "B1-06",
+        "B1-07",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-14",
+      "title_hu_derived": "Bűntudat és irreális múltbeli feltétel",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        697,
+        701
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Lamento que se hayan separado.",
+          "Sajnálom, hogy szétmentek."
+        ],
+        [
+          "Siento remordimientos porque le mentí.",
+          "Bűntudatot érzek, mert hazudtam neki."
+        ],
+        [
+          "¿Sientes remordimientos?",
+          "Érzel bűntudatot?"
+        ],
+        [
+          "Si hubiera dicho la verdad, él me habría perdonado.",
+          "Ha igazat mondtam volna, ő megbocsátott volna nekem."
+        ],
+        [
+          "Los celos no tienen nada que ver con el amor.",
+          "A féltékenységnek semmi köze a szerelemhez."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "lamentar que + pretérito perfecto de subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido mentí",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no tener nada que ver con",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-07",
+        "B2-01",
+        "B2-02",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-15",
+      "title_hu_derived": "Egyetemi tanulmányok",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        702,
+        706
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Con qué profesor me recomiendas que curse historia?",
+          "Melyik tanárral ajánlod, hogy történelmet tanuljak?"
+        ],
+        [
+          "Cursaré solo tres materias este semestre.",
+          "Ebben a félévben csak három tantárgyat veszek fel."
+        ],
+        [
+          "El examen parcial fue muy difícil, creo que no aprobé.",
+          "A félévi vizsga nagyon nehéz volt, szerintem nem mentem át."
+        ],
+        [
+          "¿Sabes cómo hacer investigación?",
+          "Tudod, hogyan kell kutatni?"
+        ],
+        [
+          "Para entrar, necesitas al menos un siete en el examen.",
+          "Ahhoz, hogy beléphess, a vizsgán legalább hetest kell szerezned."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "recomendar que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro cursaré",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido fue/aprobé",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "közvetett cómo kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "para + infinitivo",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "B2-01"
+      ]
+    },
+    {
+      "id": "s7-topic-16",
+      "title_hu_derived": "Gyermekkori emlékek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        707,
+        711
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Recuerdas cuando nadábamos en la cascada?",
+          "Emlékszel, amikor a vízesésnél úsztunk?"
+        ],
+        [
+          "Era travieso, pero tenía buen corazón.",
+          "Csintalan volt, de jó szíve volt."
+        ],
+        [
+          "¿Qué recuerdos tienes de tu niñez?",
+          "Milyen emlékeid vannak a gyerekkorodból?"
+        ],
+        [
+          "Nos encantaba ese lugarcito del pueblo.",
+          "Imádtuk azt a falubeli helyecskét."
+        ],
+        [
+          "¿Te acuerdas que los domingos comíamos en la finca?",
+          "Emlékszel, hogy vasárnaponként a birtokon ettünk?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "imperfecto múltbeli szokásra/háttérre",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "recordar/acordarse de",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "encantar múltban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "qué kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-05",
+        "B1-08",
+        "A2-03",
+        "A2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-17",
+      "title_hu_derived": "Kapcsolatok és érzelmi reakciók",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        712,
+        716
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Los echaba de menos, ¡qué bueno que vinieron!",
+          "Hiányoztatok, de jó, hogy jöttetek!"
+        ],
+        [
+          "¡Ay, qué lindo tu perrito!",
+          "Jaj, milyen aranyos a kiskutyád!"
+        ],
+        [
+          "Se me cayó el refresco en la sopa, ¡qué asco!",
+          "Kiesett a kezemből az üdítő a levesbe, milyen undorító!"
+        ],
+        [
+          "Mi hermana y yo siempre hemos tenido un vínculo fuerte.",
+          "A lánytestvéremmel mindig erős volt a kapcsolatunk."
+        ],
+        [
+          "El pollo te quedó delicioso, ¿me das la receta?",
+          "A csirkéd nagyon finom lett, megadod a receptet?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "imperfecto echaba",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "subjuntivo/indicativo después de qué bueno que",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "se me cayó véletlen esemény",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "pretérito perfecto",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quedar + melléknév eredményre",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-06",
+        "B1-08",
+        "A2-01"
+      ]
+    },
+    {
+      "id": "s7-topic-18",
+      "title_hu_derived": "Munkaerőpiac és fizetés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        717,
+        721
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Esta es una gran oportunidad laboral.",
+          "Ez egy remek álláslehetőség."
+        ],
+        [
+          "¿Crees que es una buena oferta laboral?",
+          "Szerinted ez egy jó állásajánlat?"
+        ],
+        [
+          "Tenemos un compañero nuevo.",
+          "Új társunk van."
+        ],
+        [
+          "El mercado laboral va en esa dirección.",
+          "A munkaerőpiac abba az irányba megy."
+        ],
+        [
+          "¿Cuál es el salario para ese puesto?",
+          "Mennyi a fizetés arra az állásra?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "jelen idejű állítás és kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "creer que + indicativo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ir + irány",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuál + főnév kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-05",
+        "B1-06",
+        "A2-06",
+        "A2-07"
+      ]
+    },
+    {
+      "id": "s7-topic-19",
+      "title_hu_derived": "Engedélyek és hivatalos ügyintézés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        722,
+        726
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Ya completé todo el papeleo para que me den la licencia.",
+          "Már elvégeztem minden papírmunkát, hogy kiadják nekem az engedélyt."
+        ],
+        [
+          "¿Cuáles son los requisitos para renovar el pasaporte?",
+          "Mik a követelmények az útlevél megújításához?"
+        ],
+        [
+          "No le darán la beca a menos que envíe hoy la solicitud.",
+          "Nem kapja meg az ösztöndíjat, hacsak ma el nem küldi a kérelmet."
+        ],
+        [
+          "Por fin sacaste tu licencia de conducir.",
+          "Végre kivetted a vezetői engedélyedet."
+        ],
+        [
+          "El sistema no está funcionando hoy.",
+          "A rendszer ma nem működik."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indefinido completé/sacaste",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "para que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a menos que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro darán",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar + gerundio",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B2-04",
+        "B2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-20",
+      "title_hu_derived": "Egészségügyi tünetek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        727,
+        731
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Todavía tienes dolor de oído?",
+          "Még fáj a füled?"
+        ],
+        [
+          "Me avisas si te duele.",
+          "Szólj, ha fáj."
+        ],
+        [
+          "¿Cuándo empezaron los escalofríos?",
+          "Mikor kezdődött a hidegrázás?"
+        ],
+        [
+          "Tengo hinchado el dedo.",
+          "Duzzadt az ujjam."
+        ],
+        [
+          "Si te arde la herida, me llamas.",
+          "Ha ég a sebed, hívj fel."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "avisar + névmás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + jelen idő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido empezaron",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tener + participio/melléknév",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "jelen idejű feltételes utasítás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08"
+      ]
+    },
+    {
+      "id": "s7-topic-21",
+      "title_hu_derived": "Javítások és udvarias kérések",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        732,
+        736
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Podrías reparar la cerca?",
+          "Megjavítanád a kerítést?"
+        ],
+        [
+          "Algo gotea, ¿lo oyes?",
+          "Valami csöpög, hallod azt?"
+        ],
+        [
+          "Me preocupa que todo esté torcido en esta casa.",
+          "Aggaszt, hogy ebben a házban minden ferde."
+        ],
+        [
+          "No debería gotear agua del techo.",
+          "Nem kellene víznek csöpögnie a mennyezetről."
+        ],
+        [
+          "Espero que hayas sido cuidadosa con el espejo.",
+          "Remélem, vigyáztál a tükörre."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "condicional udvarias kérésre",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "lo tárgyas névmás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "preocupar que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "deber condicional + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "esperar que + pretérito perfecto de subjuntivo",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-02",
+        "B1-04",
+        "B1-06",
+        "B2-01",
+        "B2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-22",
+      "title_hu_derived": "Családi konfliktus és engedmény",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        737,
+        741
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¡Es que tu papá es mandón, y eso no me gusta!",
+          "Az a helyzet, hogy apukád parancsolgat, és ez nekem nem tetszik!"
+        ],
+        [
+          "Aunque se ponga a llorar, no me va a convencer.",
+          "Még ha sírva fakad is, nem fog meggyőzni."
+        ],
+        [
+          "¿Nadie le enseñó a ser respetuoso?",
+          "Senki sem tanította meg arra, hogy tisztelettudó legyen?"
+        ],
+        [
+          "Lo haré aunque tus padres se enojen.",
+          "Megteszem, még ha a szüleid meg is haragszanak."
+        ],
+        [
+          "Aunque tienes razón, no necesito tu aprobación.",
+          "Bár igazad van, nincs szükségem a jóváhagyásodra."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "es que magyarázó fordulat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "aunque + subjuntivo és indicativo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ir a + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido enseñó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "lo tárgyas névmás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-23",
+      "title_hu_derived": "Öröklés és történetszereplők",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        742,
+        746
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Ella hereda todo según el testamento.",
+          "Ő mindent örököl a végrendelet szerint."
+        ],
+        [
+          "¿Quién envenenó el vino?",
+          "Ki mérgezte meg a bort?"
+        ],
+        [
+          "La chica era huérfana y la adoptó una familia rica.",
+          "A lány árva volt, és egy gazdag család örökbe fogadta."
+        ],
+        [
+          "El villano es el personaje más interesante.",
+          "A gonosz a legérdekesebb szereplő."
+        ],
+        [
+          "¡La protagonista se desmayó otra vez!",
+          "A főhősnő újra elájult!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "jelen idő hereda",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido envenenó/adoptó/se desmayó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperfecto era",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "superlativo más interesante",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "B1-08",
+        "A2-01",
+        "A2-03"
+      ]
+    },
+    {
+      "id": "s7-topic-24",
+      "title_hu_derived": "Személyes változás és fejlődés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        747,
+        751
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Mis amigos cambiaron para mejor.",
+          "A barátaim jobbak lettek."
+        ],
+        [
+          "La maternidad te cambió por completo.",
+          "Az anyaság téged teljesen megváltoztatott."
+        ],
+        [
+          "¿Viste que Juan se tiñó el pelo de verde?",
+          "Láttad, hogy Juan zöldre festette a haját?"
+        ],
+        [
+          "Esta ciudad ha progresado.",
+          "Ez a város fejlődött."
+        ],
+        [
+          "No te reconocí porque estás cambiado.",
+          "Nem ismertelek meg, mert megváltoztál."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indefinido cambiaron/cambió/viste/tiñó/reconocí",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "reflexivo se tiñó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "pretérito perfecto ha progresado",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar + melléknév",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-08",
+        "A2-01",
+        "A2-02"
+      ]
+    },
+    {
+      "id": "s7-topic-25",
+      "title_hu_derived": "Monotónia és munkahelyi rutin",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        752,
+        756
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Antes llegaba tarde a la oficina porque me quedaba dormido.",
+          "Régebben késve érkeztem az irodába, mert elaludtam."
+        ],
+        [
+          "La licuadora se descompone únicamente cuando la necesito.",
+          "A turmixgép csak akkor romlik el, amikor szükségem van rá."
+        ],
+        [
+          "¡El trabajo rutinario me está matando!",
+          "A rutinszerű munka megöl!"
+        ],
+        [
+          "Me deprimo los lunes.",
+          "Hétfőnként levert vagyok."
+        ],
+        [
+          "Lo que me mata es la monotonía de la vida.",
+          "Ami megöl, az az élet monotóniája."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "imperfecto habitual: llegaba/quedaba",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "presente se descompone",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar + gerundio",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "presente reflexivo me deprimo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "lo que vonatkozó szerkezet",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-08",
+        "A2-03",
+        "A2-04",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-26",
+      "title_hu_derived": "Tánc és meglepetés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        757,
+        761
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Te asombraron mis pasos de baile?",
+          "Megleptek a tánclépéseim?"
+        ],
+        [
+          "¡Nadie se estaba burlando de ti!",
+          "Senki sem gúnyolódott rajtad!"
+        ],
+        [
+          "Honestamente, me sorprende que mis padres bailen tan bien.",
+          "Őszintén meglep, hogy a szüleim ilyen jól táncolnak."
+        ],
+        [
+          "¡Qué torpes que estuvimos anoche!",
+          "De ügyetlenek voltunk tegnap este!"
+        ],
+        [
+          "No me burlaba de ti, te miraba porque eres guapo.",
+          "Nem gúnyolódtam rajtad, azért néztelek, mert jóképű vagy."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indefinido asombraron/estuvimos",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperfecto progresivo se estaba burlando",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "sorprender que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperfecto burlaba/miraba",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-04",
+        "B1-06",
+        "B1-08",
+        "A2-01",
+        "A2-03"
+      ]
+    },
+    {
+      "id": "s7-topic-27",
+      "title_hu_derived": "Rossz szállásélmény és múltbeli események",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        762,
+        766
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¡La cama no tenía colchón!",
+          "Az ágyon nem volt matrac!"
+        ],
+        [
+          "A pesar de haber reservado, no conseguí habitación.",
+          "Bár foglaltam, nem kaptam szobát."
+        ],
+        [
+          "El colchón era una pesadilla.",
+          "A matrac rémálom volt."
+        ],
+        [
+          "¡Se confundió de tren y terminó en un pueblo fantasma!",
+          "Rossz vonatra szállt és egy szellemvárosban kötött ki!"
+        ],
+        [
+          "¡La escapada de fin de semana a la playa fue un desastre!",
+          "A hétvégi tengerparti kiruccanás katasztrófa volt!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "imperfecto tenía/era",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a pesar de + infinitivo compuesto",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido conseguí/se confundió/terminó/fue",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "se visszaható",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "A2-01",
+        "A2-03"
+      ]
+    },
+    {
+      "id": "s7-topic-28",
+      "title_hu_derived": "Nyelvi fejlődés és összehasonlító szerkezet",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        767,
+        771
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Entendí mal por no saber bien el español.",
+          "Félreértettem, mert nem tudok jól spanyolul."
+        ],
+        [
+          "Desde ahora, usaré mi GPS para no perderme.",
+          "Mostantól a GPS-emet használom, hogy ne tévedjek el."
+        ],
+        [
+          "Cuanto más entiendo las costumbres, más cómodo me siento.",
+          "Minél jobban megértem a szokásokat, annál kényelmesebben érzem magam."
+        ],
+        [
+          "Tuve algunos problemitas por no hablar bien el idioma.",
+          "Volt néhány kis problémám amiatt, hogy nem beszéltem jól a nyelvet."
+        ],
+        [
+          "Cuanto más aprendo español, más me gusta socializar.",
+          "Ahogy egyre többet tanulok spanyolul, egyre jobban szeretek szocializálódni."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indefinido entendí/tuve",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro usaré",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "para no + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuanto más..., más...",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "sentirse",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "gustar + infinitivo",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-29",
+      "title_hu_derived": "Főzés és konyhai felszólítások",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        772,
+        776
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Es mejor rallar las papas antes o después de cocinarlas?",
+          "Jobb a krumplit lereszelni főzés előtt vagy után?"
+        ],
+        [
+          "Sería bueno que lo probaras antes de servirlo.",
+          "Jó lenne, ha megkóstolnád, mielőtt felszolgálod."
+        ],
+        [
+          "No abras la botella con los dientes, ¡usa el destapador!",
+          "Ne a fogaiddal nyisd ki az üveget, használd a sörnyitót!"
+        ],
+        [
+          "¿Con qué rallo el coco?",
+          "Mivel lehet reszelni a kókuszt?"
+        ],
+        [
+          "Exprime un limón más.",
+          "Facsarj még egy citromot."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "sería bueno que + imperfecto de subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "lo tárgyas névmás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "negatív és pozitív tú felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "con qué kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B2-01",
+        "B2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-30",
+      "title_hu_derived": "Életkor és személyiség",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        777,
+        781
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Nunca pensé que yo sería tan aventurera.",
+          "Sohasem gondoltam, hogy én ilyen kalandvágyó leszek."
+        ],
+        [
+          "¡A los treinta ya tienes arrugas!",
+          "Harmincévesen már ráncaid vannak!"
+        ],
+        [
+          "A pesar de que me afectó mucho, lo perdoné.",
+          "Bár nagyon megviselt, megbocsátottam neki."
+        ],
+        [
+          "Mi mamá ya no es tan exigente como antes.",
+          "Anya már nem olyan szigorú, mint korábban."
+        ],
+        [
+          "Yo era rebelde, ¿y tú?",
+          "Lázadó voltam, és te?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indefinido pensé/afectó/perdoné",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "condicional sería",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a pesar de que + indicativo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperfecto era",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tan ... como összehasonlítás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "B1-08",
+        "B2-03",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-31",
+      "title_hu_derived": "Segítség és nem specifikus vonatkozó névmások",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        782,
+        786
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Hay algo que te impida ser feliz?",
+          "Van valami, ami megakadályoz abban, hogy boldog legyél?"
+        ],
+        [
+          "¡Siempre me consuelas cuando estoy desanimado!",
+          "Mindig felvidítasz, amikor levert vagyok!"
+        ],
+        [
+          "¿Me avisarás si hay algo que pueda hacer por ti?",
+          "Szólsz, ha van valami, amit megtehetek érted?"
+        ],
+        [
+          "Cualquier cosa que necesites, me llamas.",
+          "Bármi kell, hívj."
+        ],
+        [
+          "Sabes que puedes contar conmigo siempre.",
+          "Tudod, hogy velem mindig számolhatsz."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "hay algo que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuando + indicativo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "futuro avisarás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si + subjuntivo lehetőségre",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cualquier cosa que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "llamar",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-05",
+        "B1-07",
+        "B2-01",
+        "B2-04"
+      ]
+    },
+    {
+      "id": "s7-topic-32",
+      "title_hu_derived": "Szakítás és továbblépés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        787,
+        791
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Llámame cuando quieras.",
+          "Hívj fel, amikor csak akarod."
+        ],
+        [
+          "¿Por qué terminaste con Laura?",
+          "Miért szakítottál Laurával?"
+        ],
+        [
+          "Espero que salir te distraiga un poco.",
+          "Remélem, hogy a kimozdulás egy kicsit eltereli a figyelmedet."
+        ],
+        [
+          "¡Brindemos por las nuevas oportunidades!",
+          "Igyunk az új lehetőségekre!"
+        ],
+        [
+          "Lo sé, separarse es doloroso.",
+          "Tudom, a szakítás fájdalmas."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "tú felszólítás névmással",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuando + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido terminaste",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "esperar que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nosotros felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "infinitivo visszaható alanyként",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "s7-topic-33",
+      "title_hu_derived": "Témaváltás és beszélgetési fordulatok",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        792,
+        796
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "Disculpa, pero tú y yo no coincidimos en nada.",
+          "Bocsánat, de te és én semmiben sem egyezünk."
+        ],
+        [
+          "Cambiemos de tema, ¿conociste a la nueva empleada?",
+          "Változtassunk témát, megismerkedtél az új alkalmazottal?"
+        ],
+        [
+          "Perdón, me distraje, ¿qué decías, Rubén?",
+          "Bocsánat, elkalandoztam, mit mondtál, Rubén?"
+        ],
+        [
+          "Como decía, la realidad es más compleja de lo que parece.",
+          "Ahogy mondtam, a valóság összetettebb, mint amilyennek látszik."
+        ],
+        [
+          "¿Podemos cambiar de tema y hablar de otra cosa?",
+          "Váltsunk témát és beszéljünk valami másról?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "disculpa/perdón társalgási fordulat",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nosotros felszólítás cambiemos",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indefinido conociste/me distraje",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "imperfecto decías",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "como decía diskurzusjelölő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "más ... de lo que",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-03",
+        "B1-06",
+        "B1-07",
+        "B2-04",
+        "B2-07"
+      ]
+    },
+    {
+      "id": "s7-topic-34",
+      "title_hu_derived": "Árvíz és katasztrófahelyzet",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        797,
+        801
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Cuáles no se inundaron?",
+          "Melyeket nem öntött el a víz?"
+        ],
+        [
+          "¿El arroyo se desbordó?",
+          "A patak kiáradt?"
+        ],
+        [
+          "Disculpe, ¿podría decirme si su casa se inundó?",
+          "Elnézést, megmondaná, hogy elöntötte-e a víz a házát?"
+        ],
+        [
+          "¿Qué problemas enfrentaron?",
+          "Milyen problémákkal néztek szembe?"
+        ],
+        [
+          "¿En qué refugio está su familia?",
+          "Melyik menedékhelyen van a családja?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "indefinido se desbordó/se inundó/enfrentaron",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "se passzív/reflexív",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "condicional udvarias kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "indirect si kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "en qué",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "B2-05",
+        "B2-06"
+      ]
+    },
+    {
+      "id": "s7-topic-35",
+      "title_hu_derived": "Családi konfliktus és felszólítások",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        802,
+        806
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¡Te quiero y no puedo guardarte rencor!",
+          "Szeretlek, és nem tudok ellened haragot tartani!"
+        ],
+        [
+          "¿Por qué rompes cosas constantemente?",
+          "Miért törsz el állandóan dolgokat?"
+        ],
+        [
+          "No puedo creer que seas tan mentiroso.",
+          "Nem hiszem el, hogy ennyire hazug vagy."
+        ],
+        [
+          "¡No me acuses con papá!",
+          "Ne árulkodj apának!"
+        ],
+        [
+          "¡Dame un poco de privacidad!",
+          "Hagyj egy kis magánéletet!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "no poder creer que + subjuntivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "jelen idő",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "negatív/pozitív tú felszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "me/dame névmáskapcsolás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "constantemente",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07"
+      ]
+    },
+    {
+      "id": "s7-topic-36",
+      "title_hu_derived": "Főzés és feltételes tanács",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        807,
+        811
+      ],
+      "phrase_group_status": "complete_five_unit_group",
+      "phrases": [
+        [
+          "¿Y si aprendieras a marinar el pescado?",
+          "És ha megtanulnád pácolni a halat?"
+        ],
+        [
+          "Yo le agregaría más sal al pescado, ¡está muy desabrido!",
+          "Én több sót tennék a halra, nagyon íztelen!"
+        ],
+        [
+          "¿Todavía no has aprendido a cocinar las verduras al vapor?",
+          "Még nem tanultad meg párolni a zöldségeket?"
+        ],
+        [
+          "Si fuera tú, haría la masa con leche.",
+          "Ha a helyedben lennék, tejjel csinálnám a tésztát."
+        ],
+        [
+          "¡No me subestimen!",
+          "Ne becsüljenek alá!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "¿Y si + imperfecto de subjuntivo javaslatra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "condicional agregaría",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "pretérito perfecto",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "si fuera tú + condicional",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ustedes negatív felszólítás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "B1-01",
+        "B1-02",
+        "B1-03",
+        "B1-06",
+        "B2-01",
+        "B2-02",
+        "B2-06"
+      ]
+    }
+  ],
+  "grammar_crosswalk": [
+    {
+      "grammar_module": "A2-01",
+      "units": [
+        712,
+        713,
+        714,
+        715,
+        716,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766
+      ],
+      "evidence": "observed",
+      "focus": [
+        "imperfecto echaba",
+        "subjuntivo/indicativo después de qué bueno que",
+        "se me cayó véletlen esemény",
+        "pretérito perfecto",
+        "quedar + melléknév eredményre",
+        "jelen idő hereda",
+        "indefinido envenenó/adoptó/se desmayó",
+        "imperfecto era",
+        "superlativo más interesante",
+        "indefinido cambiaron/cambió/viste/tiñó/reconocí",
+        "reflexivo se tiñó",
+        "pretérito perfecto ha progresado",
+        "estar + melléknév",
+        "indefinido asombraron/estuvimos",
+        "imperfecto progresivo se estaba burlando",
+        "sorprender que + subjuntivo",
+        "imperfecto burlaba/miraba",
+        "imperfecto tenía/era",
+        "a pesar de + infinitivo compuesto",
+        "indefinido conseguí/se confundió/terminó/fue",
+        "se visszaható"
+      ]
+    },
+    {
+      "grammar_module": "A2-02",
+      "units": [
+        747,
+        748,
+        749,
+        750,
+        751
+      ],
+      "evidence": "observed",
+      "focus": [
+        "indefinido cambiaron/cambió/viste/tiñó/reconocí",
+        "reflexivo se tiñó",
+        "pretérito perfecto ha progresado",
+        "estar + melléknév"
+      ]
+    },
+    {
+      "grammar_module": "A2-03",
+      "units": [
+        707,
+        708,
+        709,
+        710,
+        711,
+        742,
+        743,
+        744,
+        745,
+        746,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766
+      ],
+      "evidence": "observed",
+      "focus": [
+        "imperfecto múltbeli szokásra/háttérre",
+        "recordar/acordarse de",
+        "encantar múltban",
+        "qué kérdés",
+        "jelen idő hereda",
+        "indefinido envenenó/adoptó/se desmayó",
+        "imperfecto era",
+        "superlativo más interesante",
+        "imperfecto habitual: llegaba/quedaba",
+        "presente se descompone",
+        "estar + gerundio",
+        "presente reflexivo me deprimo",
+        "lo que vonatkozó szerkezet",
+        "indefinido asombraron/estuvimos",
+        "imperfecto progresivo se estaba burlando",
+        "sorprender que + subjuntivo",
+        "imperfecto burlaba/miraba",
+        "imperfecto tenía/era",
+        "a pesar de + infinitivo compuesto",
+        "indefinido conseguí/se confundió/terminó/fue",
+        "se visszaható"
+      ]
+    },
+    {
+      "grammar_module": "A2-04",
+      "units": [
+        752,
+        753,
+        754,
+        755,
+        756
+      ],
+      "evidence": "observed",
+      "focus": [
+        "imperfecto habitual: llegaba/quedaba",
+        "presente se descompone",
+        "estar + gerundio",
+        "presente reflexivo me deprimo",
+        "lo que vonatkozó szerkezet"
+      ]
+    },
+    {
+      "grammar_module": "A2-06",
+      "units": [
+        662,
+        663,
+        664,
+        665,
+        666,
+        707,
+        708,
+        709,
+        710,
+        711,
+        717,
+        718,
+        719,
+        720,
+        721
+      ],
+      "evidence": "observed",
+      "focus": [
+        "futuro estudiaré/ganarás",
+        "összehasonlítás más que",
+        "participio melléknévi használata",
+        "como + foglalkozás",
+        "imperfecto múltbeli szokásra/háttérre",
+        "recordar/acordarse de",
+        "encantar múltban",
+        "qué kérdés",
+        "jelen idejű állítás és kérdés",
+        "creer que + indicativo",
+        "ir + irány",
+        "cuál + főnév kérdés"
+      ]
+    },
+    {
+      "grammar_module": "A2-07",
+      "units": [
+        687,
+        688,
+        689,
+        690,
+        691,
+        717,
+        718,
+        719,
+        720,
+        721
+      ],
+      "evidence": "observed",
+      "focus": [
+        "no tener por qué + infinitivo",
+        "indefinido regaló",
+        "deber + infinitivo",
+        "hay + főnév + que + infinitivo",
+        "ir a + infinitivo",
+        "jelen idejű állítás és kérdés",
+        "creer que + indicativo",
+        "ir + irány",
+        "cuál + főnév kérdés"
+      ]
+    },
+    {
+      "grammar_module": "B1-01",
+      "units": [
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        657,
+        658,
+        659,
+        660,
+        661,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        777,
+        778,
+        779,
+        780,
+        781,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "yo que tú + condicional tanácsadásra",
+        "indefinido escuché",
+        "infinitivo visszaható alakban",
+        "si + jelen és ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "me gustaría",
+        "indefinido recomendaron",
+        "recomendar que + imperfecto de subjuntivo",
+        "lo tárgyas névmás",
+        "estar + participio állapotra",
+        "tú felszólítás",
+        "ir a + infinitivo",
+        "indefinido + quedarse sin",
+        "imperfecto era/odiaba/cantaba",
+        "hacerse + melléknév állapotváltozásra",
+        "indefinido nos hicimos/escribió/fue",
+        "kiemelő szerkezet el que",
+        "estar + gerundio",
+        "futuro alcanzaremos",
+        "comprometerse a + infinitivo",
+        "futuro perfecto habrá terminado",
+        "pozitív/negatív tú felszólítás",
+        "indefinido advirtieron",
+        "más te vale que + subjuntivo",
+        "lo que",
+        "no tener por qué + infinitivo",
+        "indefinido regaló",
+        "deber + infinitivo",
+        "hay + főnév + que + infinitivo",
+        "lamentar que + pretérito perfecto de subjuntivo",
+        "indefinido mentí",
+        "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+        "no tener nada que ver con",
+        "recomendar que + subjuntivo",
+        "futuro cursaré",
+        "indefinido fue/aprobé"
+      ]
+    },
+    {
+      "grammar_module": "B1-02",
+      "units": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        687,
+        688,
+        689,
+        690,
+        691,
+        702,
+        703,
+        704,
+        705,
+        706,
+        722,
+        723,
+        724,
+        725,
+        726,
+        732,
+        733,
+        734,
+        735,
+        736,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        797,
+        798,
+        799,
+        800,
+        801,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "apuesto que (a que) valószínűségi állítás",
+        "te részes névmás",
+        "negatív felszólítás",
+        "futuro daré/viajarás",
+        "si + jelen idő",
+        "yo que tú + condicional tanácsadásra",
+        "indefinido escuché",
+        "infinitivo visszaható alakban",
+        "si + jelen és ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "me gustaría",
+        "indefinido recomendaron",
+        "recomendar que + imperfecto de subjuntivo",
+        "lo tárgyas névmás",
+        "estar + participio állapotra",
+        "tú felszólítás",
+        "ir a + infinitivo",
+        "indefinido + quedarse sin",
+        "futuro estudiaré/ganarás",
+        "összehasonlítás más que",
+        "participio melléknévi használata",
+        "como + foglalkozás",
+        "estar + gerundio",
+        "futuro alcanzaremos",
+        "comprometerse a + infinitivo",
+        "futuro perfecto habrá terminado",
+        "es probable que + subjuntivo",
+        "futuro haya / sea",
+        "futuro cambiará",
+        "nosotros felszólító/javasló alak cambiemos",
+        "no tener por qué + infinitivo",
+        "indefinido regaló",
+        "deber + infinitivo",
+        "hay + főnév + que + infinitivo",
+        "recomendar que + subjuntivo",
+        "futuro cursaré"
+      ]
+    },
+    {
+      "grammar_module": "B1-03",
+      "units": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        692,
+        693,
+        694,
+        695,
+        696,
+        722,
+        723,
+        724,
+        725,
+        726,
+        737,
+        738,
+        739,
+        740,
+        741,
+        772,
+        773,
+        774,
+        775,
+        776,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "apuesto que (a que) valószínűségi állítás",
+        "te részes névmás",
+        "negatív felszólítás",
+        "futuro daré/viajarás",
+        "si + jelen idő",
+        "ismeretlen személyt leíró que + subjuntivo",
+        "futuro presentaremos",
+        "querer que + subjuntivo",
+        "saber és conocer különbsége",
+        "usted udvarias kérdés/felszólítás",
+        "si + jelen és felszólítás",
+        "es mejor que + subjuntivo",
+        "se visszaható/személytelen",
+        "estar + participio állapotra",
+        "tú felszólítás",
+        "ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "indefinido + quedarse sin",
+        "es probable que + subjuntivo",
+        "futuro haya / sea",
+        "futuro cambiará",
+        "nosotros felszólító/javasló alak cambiemos",
+        "pozitív/negatív tú felszólítás",
+        "indefinido advirtieron",
+        "más te vale que + subjuntivo",
+        "lo que",
+        "estar + gerundio",
+        "que vonatkozói mellékmondat",
+        "negatív felszólítás no barras",
+        "dudar/no creer que + subjuntivo",
+        "por + infinitivo",
+        "indefinido completé/sacaste",
+        "para que + subjuntivo",
+        "a menos que + subjuntivo",
+        "futuro darán",
+        "es que magyarázó fordulat"
+      ]
+    },
+    {
+      "grammar_module": "B1-04",
+      "units": [
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        712,
+        713,
+        714,
+        715,
+        716,
+        722,
+        723,
+        724,
+        725,
+        726,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        757,
+        758,
+        759,
+        760,
+        761,
+        772,
+        773,
+        774,
+        775,
+        776,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        802,
+        803,
+        804,
+        805,
+        806
+      ],
+      "evidence": "observed",
+      "focus": [
+        "si + imperfecto de subjuntivo és condicional",
+        "me gustaría",
+        "indefinido recomendaron",
+        "recomendar que + imperfecto de subjuntivo",
+        "lo tárgyas névmás",
+        "ismeretlen személyt leíró que + subjuntivo",
+        "futuro presentaremos",
+        "querer que + subjuntivo",
+        "saber és conocer különbsége",
+        "usted udvarias kérdés/felszólítás",
+        "si + jelen és felszólítás",
+        "es mejor que + subjuntivo",
+        "se visszaható/személytelen",
+        "es probable que + subjuntivo",
+        "futuro haya / sea",
+        "futuro cambiará",
+        "nosotros felszólító/javasló alak cambiemos",
+        "pozitív/negatív tú felszólítás",
+        "indefinido advirtieron",
+        "más te vale que + subjuntivo",
+        "lo que",
+        "estar + gerundio",
+        "que vonatkozói mellékmondat",
+        "negatív felszólítás no barras",
+        "dudar/no creer que + subjuntivo",
+        "ir a + infinitivo",
+        "por + infinitivo",
+        "lamentar que + pretérito perfecto de subjuntivo",
+        "indefinido mentí",
+        "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+        "no tener nada que ver con",
+        "recomendar que + subjuntivo",
+        "futuro cursaré",
+        "indefinido fue/aprobé",
+        "közvetett cómo kérdés",
+        "para + infinitivo"
+      ]
+    },
+    {
+      "grammar_module": "B1-05",
+      "units": [
+        647,
+        648,
+        649,
+        650,
+        651,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        692,
+        693,
+        694,
+        695,
+        696,
+        707,
+        708,
+        709,
+        710,
+        711,
+        717,
+        718,
+        719,
+        720,
+        721,
+        742,
+        743,
+        744,
+        745,
+        746,
+        782,
+        783,
+        784,
+        785,
+        786
+      ],
+      "evidence": "observed",
+      "focus": [
+        "ismeretlen személyt leíró que + subjuntivo",
+        "futuro presentaremos",
+        "querer que + subjuntivo",
+        "saber és conocer különbsége",
+        "futuro estudiaré/ganarás",
+        "összehasonlítás más que",
+        "participio melléknévi használata",
+        "como + foglalkozás",
+        "imperfecto era/odiaba/cantaba",
+        "hacerse + melléknév állapotváltozásra",
+        "indefinido nos hicimos/escribió/fue",
+        "kiemelő szerkezet el que",
+        "que vonatkozói mellékmondat",
+        "negatív felszólítás no barras",
+        "dudar/no creer que + subjuntivo",
+        "ir a + infinitivo",
+        "por + infinitivo",
+        "imperfecto múltbeli szokásra/háttérre",
+        "recordar/acordarse de",
+        "encantar múltban",
+        "qué kérdés",
+        "jelen idejű állítás és kérdés",
+        "creer que + indicativo",
+        "ir + irány",
+        "cuál + főnév kérdés",
+        "jelen idő hereda",
+        "indefinido envenenó/adoptó/se desmayó",
+        "imperfecto era",
+        "superlativo más interesante",
+        "hay algo que + subjuntivo",
+        "cuando + indicativo",
+        "futuro avisarás",
+        "si + subjuntivo lehetőségre",
+        "cualquier cosa que + subjuntivo",
+        "llamar"
+      ]
+    },
+    {
+      "grammar_module": "B1-06",
+      "units": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        702,
+        703,
+        704,
+        705,
+        706,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        727,
+        728,
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "apuesto que (a que) valószínűségi állítás",
+        "te részes névmás",
+        "negatív felszólítás",
+        "futuro daré/viajarás",
+        "si + jelen idő",
+        "usted udvarias kérdés/felszólítás",
+        "si + jelen és felszólítás",
+        "es mejor que + subjuntivo",
+        "se visszaható/személytelen",
+        "estar + participio állapotra",
+        "tú felszólítás",
+        "ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "indefinido + quedarse sin",
+        "imperfecto era/odiaba/cantaba",
+        "hacerse + melléknév állapotváltozásra",
+        "indefinido nos hicimos/escribió/fue",
+        "kiemelő szerkezet el que",
+        "estar + gerundio",
+        "futuro alcanzaremos",
+        "comprometerse a + infinitivo",
+        "futuro perfecto habrá terminado",
+        "pozitív/negatív tú felszólítás",
+        "indefinido advirtieron",
+        "más te vale que + subjuntivo",
+        "lo que",
+        "no tener por qué + infinitivo",
+        "indefinido regaló",
+        "deber + infinitivo",
+        "hay + főnév + que + infinitivo",
+        "que vonatkozói mellékmondat",
+        "negatív felszólítás no barras",
+        "dudar/no creer que + subjuntivo",
+        "por + infinitivo",
+        "recomendar que + subjuntivo",
+        "futuro cursaré"
+      ]
+    },
+    {
+      "grammar_module": "B1-07",
+      "units": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        677,
+        678,
+        679,
+        680,
+        681,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        737,
+        738,
+        739,
+        740,
+        741,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        802,
+        803,
+        804,
+        805,
+        806
+      ],
+      "evidence": "observed",
+      "focus": [
+        "apuesto que (a que) valószínűségi állítás",
+        "te részes névmás",
+        "negatív felszólítás",
+        "futuro daré/viajarás",
+        "si + jelen idő",
+        "yo que tú + condicional tanácsadásra",
+        "indefinido escuché",
+        "infinitivo visszaható alakban",
+        "si + jelen és ir a + infinitivo",
+        "ismeretlen személyt leíró que + subjuntivo",
+        "futuro presentaremos",
+        "querer que + subjuntivo",
+        "saber és conocer különbsége",
+        "usted udvarias kérdés/felszólítás",
+        "si + jelen és felszólítás",
+        "es mejor que + subjuntivo",
+        "se visszaható/személytelen",
+        "es probable que + subjuntivo",
+        "futuro haya / sea",
+        "futuro cambiará",
+        "nosotros felszólító/javasló alak cambiemos",
+        "no tener por qué + infinitivo",
+        "indefinido regaló",
+        "deber + infinitivo",
+        "hay + főnév + que + infinitivo",
+        "ir a + infinitivo",
+        "que vonatkozói mellékmondat",
+        "negatív felszólítás no barras",
+        "dudar/no creer que + subjuntivo",
+        "por + infinitivo",
+        "lamentar que + pretérito perfecto de subjuntivo",
+        "indefinido mentí",
+        "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+        "no tener nada que ver con",
+        "recomendar que + subjuntivo",
+        "futuro cursaré"
+      ]
+    },
+    {
+      "grammar_module": "B1-08",
+      "units": [
+        637,
+        638,
+        639,
+        640,
+        641,
+        657,
+        658,
+        659,
+        660,
+        661,
+        667,
+        668,
+        669,
+        670,
+        671,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        727,
+        728,
+        729,
+        730,
+        731,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        777,
+        778,
+        779,
+        780,
+        781
+      ],
+      "evidence": "observed",
+      "focus": [
+        "yo que tú + condicional tanácsadásra",
+        "indefinido escuché",
+        "infinitivo visszaható alakban",
+        "si + jelen és ir a + infinitivo",
+        "estar + participio állapotra",
+        "tú felszólítás",
+        "ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "indefinido + quedarse sin",
+        "imperfecto era/odiaba/cantaba",
+        "hacerse + melléknév állapotváltozásra",
+        "indefinido nos hicimos/escribió/fue",
+        "kiemelő szerkezet el que",
+        "imperfecto múltbeli szokásra/háttérre",
+        "recordar/acordarse de",
+        "encantar múltban",
+        "qué kérdés",
+        "imperfecto echaba",
+        "subjuntivo/indicativo después de qué bueno que",
+        "se me cayó véletlen esemény",
+        "pretérito perfecto",
+        "quedar + melléknév eredményre",
+        "avisar + névmás",
+        "si + jelen idő",
+        "indefinido empezaron",
+        "tener + participio/melléknév",
+        "jelen idejű feltételes utasítás",
+        "jelen idő hereda",
+        "indefinido envenenó/adoptó/se desmayó",
+        "imperfecto era",
+        "superlativo más interesante",
+        "indefinido cambiaron/cambió/viste/tiñó/reconocí",
+        "reflexivo se tiñó",
+        "pretérito perfecto ha progresado",
+        "estar + melléknév",
+        "imperfecto habitual: llegaba/quedaba"
+      ]
+    },
+    {
+      "grammar_module": "B2-01",
+      "units": [
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        677,
+        678,
+        679,
+        680,
+        681,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        732,
+        733,
+        734,
+        735,
+        736,
+        772,
+        773,
+        774,
+        775,
+        776,
+        782,
+        783,
+        784,
+        785,
+        786,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "si + imperfecto de subjuntivo és condicional",
+        "me gustaría",
+        "indefinido recomendaron",
+        "recomendar que + imperfecto de subjuntivo",
+        "lo tárgyas névmás",
+        "ismeretlen személyt leíró que + subjuntivo",
+        "futuro presentaremos",
+        "querer que + subjuntivo",
+        "saber és conocer különbsége",
+        "es probable que + subjuntivo",
+        "futuro haya / sea",
+        "futuro cambiará",
+        "nosotros felszólító/javasló alak cambiemos",
+        "lamentar que + pretérito perfecto de subjuntivo",
+        "indefinido mentí",
+        "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+        "no tener nada que ver con",
+        "recomendar que + subjuntivo",
+        "futuro cursaré",
+        "indefinido fue/aprobé",
+        "közvetett cómo kérdés",
+        "para + infinitivo",
+        "condicional udvarias kérésre",
+        "preocupar que + subjuntivo",
+        "deber condicional + infinitivo",
+        "esperar que + pretérito perfecto de subjuntivo",
+        "sería bueno que + imperfecto de subjuntivo",
+        "negatív és pozitív tú felszólítás",
+        "con qué kérdés",
+        "hay algo que + subjuntivo",
+        "cuando + indicativo",
+        "futuro avisarás",
+        "si + subjuntivo lehetőségre",
+        "cualquier cosa que + subjuntivo",
+        "llamar",
+        "¿Y si + imperfecto de subjuntivo javaslatra"
+      ]
+    },
+    {
+      "grammar_module": "B2-02",
+      "units": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        657,
+        658,
+        659,
+        660,
+        661,
+        697,
+        698,
+        699,
+        700,
+        701,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "apuesto que (a que) valószínűségi állítás",
+        "te részes névmás",
+        "negatív felszólítás",
+        "futuro daré/viajarás",
+        "si + jelen idő",
+        "yo que tú + condicional tanácsadásra",
+        "indefinido escuché",
+        "infinitivo visszaható alakban",
+        "si + jelen és ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "me gustaría",
+        "indefinido recomendaron",
+        "recomendar que + imperfecto de subjuntivo",
+        "lo tárgyas névmás",
+        "estar + participio állapotra",
+        "tú felszólítás",
+        "ir a + infinitivo",
+        "indefinido + quedarse sin",
+        "lamentar que + pretérito perfecto de subjuntivo",
+        "indefinido mentí",
+        "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+        "no tener nada que ver con",
+        "¿Y si + imperfecto de subjuntivo javaslatra",
+        "condicional agregaría",
+        "pretérito perfecto",
+        "si fuera tú + condicional",
+        "ustedes negatív felszólítás"
+      ]
+    },
+    {
+      "grammar_module": "B2-03",
+      "units": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        662,
+        663,
+        664,
+        665,
+        666,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        777,
+        778,
+        779,
+        780,
+        781
+      ],
+      "evidence": "observed",
+      "focus": [
+        "apuesto que (a que) valószínűségi állítás",
+        "te részes névmás",
+        "negatív felszólítás",
+        "futuro daré/viajarás",
+        "si + jelen idő",
+        "yo que tú + condicional tanácsadásra",
+        "indefinido escuché",
+        "infinitivo visszaható alakban",
+        "si + jelen és ir a + infinitivo",
+        "si + imperfecto de subjuntivo és condicional",
+        "me gustaría",
+        "indefinido recomendaron",
+        "recomendar que + imperfecto de subjuntivo",
+        "lo tárgyas névmás",
+        "futuro estudiaré/ganarás",
+        "összehasonlítás más que",
+        "participio melléknévi használata",
+        "como + foglalkozás",
+        "estar + gerundio",
+        "ir a + infinitivo",
+        "futuro alcanzaremos",
+        "comprometerse a + infinitivo",
+        "futuro perfecto habrá terminado",
+        "es probable que + subjuntivo",
+        "futuro haya / sea",
+        "futuro cambiará",
+        "nosotros felszólító/javasló alak cambiemos",
+        "indefinido pensé/afectó/perdoné",
+        "condicional sería",
+        "a pesar de que + indicativo",
+        "imperfecto era",
+        "tan ... como összehasonlítás"
+      ]
+    },
+    {
+      "grammar_module": "B2-04",
+      "units": [
+        647,
+        648,
+        649,
+        650,
+        651,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        682,
+        683,
+        684,
+        685,
+        686,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        722,
+        723,
+        724,
+        725,
+        726,
+        737,
+        738,
+        739,
+        740,
+        741,
+        752,
+        753,
+        754,
+        755,
+        756,
+        767,
+        768,
+        769,
+        770,
+        771,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        792,
+        793,
+        794,
+        795,
+        796
+      ],
+      "evidence": "observed",
+      "focus": [
+        "ismeretlen személyt leíró que + subjuntivo",
+        "futuro presentaremos",
+        "querer que + subjuntivo",
+        "saber és conocer különbsége",
+        "futuro estudiaré/ganarás",
+        "összehasonlítás más que",
+        "participio melléknévi használata",
+        "como + foglalkozás",
+        "imperfecto era/odiaba/cantaba",
+        "hacerse + melléknév állapotváltozásra",
+        "indefinido nos hicimos/escribió/fue",
+        "kiemelő szerkezet el que",
+        "pozitív/negatív tú felszólítás",
+        "indefinido advirtieron",
+        "más te vale que + subjuntivo",
+        "lo que",
+        "estar + gerundio",
+        "que vonatkozói mellékmondat",
+        "negatív felszólítás no barras",
+        "dudar/no creer que + subjuntivo",
+        "ir a + infinitivo",
+        "por + infinitivo",
+        "lamentar que + pretérito perfecto de subjuntivo",
+        "indefinido mentí",
+        "si + pluscuamperfecto de subjuntivo és condicional perfecto",
+        "no tener nada que ver con",
+        "indefinido completé/sacaste",
+        "para que + subjuntivo",
+        "a menos que + subjuntivo",
+        "futuro darán",
+        "es que magyarázó fordulat",
+        "aunque + subjuntivo és indicativo",
+        "indefinido enseñó",
+        "lo tárgyas névmás",
+        "imperfecto habitual: llegaba/quedaba",
+        "presente se descompone"
+      ]
+    },
+    {
+      "grammar_module": "B2-05",
+      "units": [
+        797,
+        798,
+        799,
+        800,
+        801
+      ],
+      "evidence": "observed",
+      "focus": [
+        "indefinido se desbordó/se inundó/enfrentaron",
+        "se passzív/reflexív",
+        "condicional udvarias kérés",
+        "indirect si kérdés",
+        "en qué"
+      ]
+    },
+    {
+      "grammar_module": "B2-06",
+      "units": [
+        652,
+        653,
+        654,
+        655,
+        656,
+        722,
+        723,
+        724,
+        725,
+        726,
+        732,
+        733,
+        734,
+        735,
+        736,
+        772,
+        773,
+        774,
+        775,
+        776,
+        797,
+        798,
+        799,
+        800,
+        801,
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "evidence": "observed",
+      "focus": [
+        "usted udvarias kérdés/felszólítás",
+        "si + jelen és felszólítás",
+        "es mejor que + subjuntivo",
+        "se visszaható/személytelen",
+        "indefinido completé/sacaste",
+        "para que + subjuntivo",
+        "a menos que + subjuntivo",
+        "futuro darán",
+        "estar + gerundio",
+        "condicional udvarias kérésre",
+        "lo tárgyas névmás",
+        "preocupar que + subjuntivo",
+        "deber condicional + infinitivo",
+        "esperar que + pretérito perfecto de subjuntivo",
+        "sería bueno que + imperfecto de subjuntivo",
+        "negatív és pozitív tú felszólítás",
+        "con qué kérdés",
+        "indefinido se desbordó/se inundó/enfrentaron",
+        "se passzív/reflexív",
+        "condicional udvarias kérés",
+        "indirect si kérdés",
+        "en qué",
+        "¿Y si + imperfecto de subjuntivo javaslatra",
+        "condicional agregaría",
+        "pretérito perfecto",
+        "si fuera tú + condicional",
+        "ustedes negatív felszólítás"
+      ]
+    },
+    {
+      "grammar_module": "B2-07",
+      "units": [
+        672,
+        673,
+        674,
+        675,
+        676,
+        792,
+        793,
+        794,
+        795,
+        796
+      ],
+      "evidence": "observed",
+      "focus": [
+        "estar + gerundio",
+        "ir a + infinitivo",
+        "futuro alcanzaremos",
+        "comprometerse a + infinitivo",
+        "futuro perfecto habrá terminado",
+        "disculpa/perdón társalgási fordulat",
+        "nosotros felszólítás cambiemos",
+        "indefinido conociste/me distraje",
+        "imperfecto decías",
+        "como decía diskurzusjelölő",
+        "más ... de lo que"
+      ]
+    }
+  ],
+  "translation_review_notes": [
+    {
+      "course_unit": 632,
+      "spanish": "Apuesto que todavía no tienes tu pasaporte.",
+      "provided_hungarian": "Fogadok, hogy még mindig nincs meg az útleveled.",
+      "note": "Apuesto a que ... gyakoribb teljes vonzatú alak; a bemásolt Apuesto que szöveget változatlanul megőriztük, ellenőrizendő, hogy a Guidebookban valóban hiányzik-e az a."
+    },
+    {
+      "course_unit": 687,
+      "spanish": "Voy a adoptar, pero no tengo nada listo.",
+      "provided_hungarian": "Örökbe fogadok, de semmim sincs készen.",
+      "note": "A magyar fordításban elütés/karakterhiba látható a „sincs” előtt. Valószínűleg „de semmim sincs készen.”; az eredeti forrásszöveg megőrzendő."
+    },
+    {
+      "course_unit": 722,
+      "spanish": "Por fin sacaste tu licencia de conducir.",
+      "provided_hungarian": "Végre kivetted a vezetői engedélyedet.",
+      "note": "A sacar la licencia jelentése itt inkább „végre megszerezted / megkaptad a jogosítványodat”, nem „kivetted”. Az eredeti fordítás megmaradt."
+    }
+  ],
+  "data_policy": {
+    "source_title_policy": "No separate unit-specific Guidebook titles or explicit grammar headings were supplied. Hungarian titles are editorial summaries.",
+    "repetition_policy": "Each repeated five-example phrase set is stored once, with five unit anchors retained.",
+    "translation_policy": "Preserve user-supplied Hungarian translations; record suspected issues separately.",
+    "grammar_evidence_policy": "Observed examples only; do not claim explicit Guidebook grammar instruction unless a heading is supplied.",
+    "mastery_rule": "Guidebook examples and unit completion do not establish learner mastery. Track mastery only through separate comprehension and transfer checks.",
+    "continuation_rule": "Section 7 currently covers local units 1–180 / course #632–811. Treat it as partial; continue with course unit #812 when the next excerpt arrives. The total section length is unknown."
+  }
+}
