@@ -9,8 +9,8 @@
     "kind": "user_supplied_guidebook_transcription",
     "received_date": "2026-11-08",
     "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításaik.",
-    "coverage": "Duolingo 7. modul, jelenleg feldolgozott első rész: 1–180. rész; kurzus-egységek #632–811.",
-    "note": "A 7. modul jelenlegi mentése részleges. A felhasználó az első részt adta meg; a modul teljes egységszáma nem ismert. A 180 egység 36 teljes, egyenként öt egységben ismétlődő példacsoportot tartalmaz. A magyar egységcímek szerkesztői összefoglalók; a Guidebook nem adott külön egységszintű nyelvtani címeket. A nyelvtani kapcsolatok megfigyelt példákon alapulnak."
+    "coverage": "Duolingo 7. modul, helyi egységek 1–180; kurzus-egységek #632–811 (teljes szekció).",
+    "note": "A kurzustérkép szerint a 7. modul 180 egységből áll, és ez a fájl mind a 180 egységet lefedi. A 180 egység 36 teljes, egyenként öt egységben ismétlődő példacsoportot tartalmaz. A magyar egységcímek szerkesztői összefoglalók; a Guidebook nem adott külön egységszintű nyelvtani címeket. A nyelvtani kapcsolatok megfigyelt példákon alapulnak."
   },
   "module": {
     "number": 7,
@@ -24,14 +24,14 @@
       1,
       180
     ],
-    "completion_status": "partial",
-    "installment": "first_received_batch",
+    "completion_status": "complete",
+    "installment": "complete",
     "title_hu": "B2-es nyelvhasználat: hipotézisek, összetett subjuntivo és árnyalt kommunikáció",
     "complete_phrase_group_count": 36,
     "partial_phrase_group_count": 0,
     "unique_phrase_sets": 36,
     "units_in_current_batch": 180,
-    "total_unit_count": null
+    "total_unit_count": 180
   },
   "units": [
     {
@@ -6142,6 +6142,6 @@
     "translation_policy": "Preserve user-supplied Hungarian translations; record suspected issues separately.",
     "grammar_evidence_policy": "Observed examples only; do not claim explicit Guidebook grammar instruction unless a heading is supplied.",
     "mastery_rule": "Guidebook examples and unit completion do not establish learner mastery. Track mastery only through separate comprehension and transfer checks.",
-    "continuation_rule": "Section 7 currently covers local units 1–180 / course #632–811. Treat it as partial; continue with course unit #812 when the next excerpt arrives. The total section length is unknown."
+    "continuation_rule": "Section 7 is complete: local units 1–180 / course units #632–811. Section 8 begins at course unit #812."
   }
 }
