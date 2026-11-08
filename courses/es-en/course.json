@@ -83,7 +83,7 @@
     "It identifies course section sizes and unit topics, not the full exercise sequence.",
     "It does not contain all prompts, accepted translations, audio, or current Guidebook text.",
     "Do not infer a grammar rule from a topic title alone.",
-    "User-supplied Guidebook key phrases and Hungarian translations are available for section 1 (course units 1–10), section 2 (11–41), section 3 (42–71), and section 4 (72–131). No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
+    "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–5: #1–10, #11–41, #42–71, #72–131, and #132–381. Section 5 contains 50 five-unit repeated phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
   ],
   "sources": [
     "https://duolingodata.com/",
@@ -346,6 +346,23 @@
       "path": "guidebooks/es-en/module-04.json",
       "unit_count": 60,
       "phrase_set_count": 60,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    },
+    {
+      "section": 5,
+      "cefr": "B1",
+      "section_unit_range": [
+        1,
+        250
+      ],
+      "course_unit_range": [
+        132,
+        381
+      ],
+      "path": "guidebooks/es-en/module-05.json",
+      "unit_count": 250,
+      "phrase_set_count": 50,
       "translation_status": "user_supplied_hungarian_translations",
       "received_date": "2026-11-08"
     }
