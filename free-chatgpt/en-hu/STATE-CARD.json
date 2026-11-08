@@ -49,6 +49,6 @@
   "mastery": [],
   "review_queue": [],
   "recurring_error_patterns": [],
-  "next_action": "Ha a projekt korábbi beszélgetéseiből nem állítható vissza megbízhatóan a tanuló aktuális helyzete, kérdezz rá röviden a Duolingo-egységére.",
+  "next_action": "Ha az elejétől szeretné kezdeni, indulj az 1. kurzusmodul 1. egységétől (#1). Ha már korábban elkezdte, és a projektelőzményekből nem állítható vissza a helye, kérdezz rá röviden az eredeti Duolingo module/unit koordinátára.",
   "last_session_note": null
 }

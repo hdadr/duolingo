@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Compact Free ChatGPT course router",
+  "title": "Compact Free ChatGPT course router (v1/v2)",
   "type": "object",
   "required": [
     "version",
@@ -280,6 +280,35 @@
               }
             },
             "additionalProperties": false
+          },
+          {
+            "type": "array",
+            "minItems": 5,
+            "maxItems": 5,
+            "prefixItems": [
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ],
+            "items": false
           }
         ]
       }
@@ -307,136 +336,287 @@
     "guidebook_coverage": {
       "type": "array",
       "items": {
-        "type": "object",
-        "required": [
-          "section",
-          "course_unit_range",
-          "local_unit_range",
-          "path",
-          "status",
-          "phrase_set_count"
-        ],
-        "properties": {
-          "section": {
-            "type": "integer",
-            "minimum": 1
-          },
-          "course_unit_range": {
-            "type": "array",
-            "minItems": 2,
-            "maxItems": 2,
-            "prefixItems": [
-              {
+        "oneOf": [
+          {
+            "type": "object",
+            "required": [
+              "section",
+              "course_unit_range",
+              "local_unit_range",
+              "path",
+              "status",
+              "phrase_set_count"
+            ],
+            "properties": {
+              "section": {
                 "type": "integer",
                 "minimum": 1
               },
-              {
+              "course_unit_range": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "prefixItems": [
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  },
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                ],
+                "items": false
+              },
+              "local_unit_range": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "prefixItems": [
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  },
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                ],
+                "items": false
+              },
+              "path": {
+                "type": "string"
+              },
+              "status": {
+                "enum": [
+                  "complete",
+                  "partial",
+                  "in_progress",
+                  "unknown"
+                ]
+              },
+              "phrase_set_count": {
                 "type": "integer",
-                "minimum": 1
+                "minimum": 0
               }
-            ],
-            "items": false
+            },
+            "additionalProperties": false
           },
-          "local_unit_range": {
-            "type": "array",
-            "minItems": 2,
-            "maxItems": 2,
-            "prefixItems": [
-              {
+          {
+            "type": "object",
+            "required": [
+              "module",
+              "course_unit_range",
+              "local_unit_range",
+              "path",
+              "status",
+              "unit_count",
+              "structure"
+            ],
+            "properties": {
+              "module": {
                 "type": "integer",
                 "minimum": 1
               },
-              {
+              "course_unit_range": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "prefixItems": [
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  },
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                ],
+                "items": false
+              },
+              "local_unit_range": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "prefixItems": [
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  },
+                  {
+                    "type": "integer",
+                    "minimum": 1
+                  }
+                ],
+                "items": false
+              },
+              "path": {
+                "type": "string"
+              },
+              "status": {
+                "enum": [
+                  "complete",
+                  "partial",
+                  "in_progress",
+                  "unknown"
+                ]
+              },
+              "unit_count": {
                 "type": "integer",
-                "minimum": 1
+                "minimum": 0
+              },
+              "structure": {
+                "enum": [
+                  "per_unit_examples",
+                  "deduplicated_phrase_sets"
+                ]
+              },
+              "phrase_set_count": {
+                "type": "integer",
+                "minimum": 0
               }
-            ],
-            "items": false
-          },
-          "path": {
-            "type": "string"
-          },
-          "status": {
-            "enum": [
-              "complete",
-              "partial",
-              "in_progress",
-              "unknown"
-            ]
-          },
-          "phrase_set_count": {
-            "type": "integer",
-            "minimum": 0
+            },
+            "additionalProperties": false
           }
-        },
-        "additionalProperties": false
+        ]
       }
     },
     "course_completion": {
-      "type": "object",
-      "required": [
-        "status",
-        "section_count",
-        "total_units",
-        "last_course_unit",
-        "guidebook_coverage",
-        "note"
-      ],
-      "properties": {
-        "status": {
-          "enum": [
-            "complete",
-            "partial",
-            "in_progress",
-            "unknown"
-          ]
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "status",
+            "section_count",
+            "total_units",
+            "last_course_unit",
+            "guidebook_coverage",
+            "note"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "complete",
+                "partial",
+                "in_progress",
+                "unknown"
+              ]
+            },
+            "section_count": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "total_units": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "last_course_unit": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "guidebook_coverage": {
+              "type": "string"
+            },
+            "note": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
         },
-        "section_count": {
-          "type": "integer",
-          "minimum": 1
-        },
-        "total_units": {
-          "type": "integer",
-          "minimum": 1
-        },
-        "last_course_unit": {
-          "type": "integer",
-          "minimum": 1
-        },
-        "guidebook_coverage": {
-          "type": "string"
-        },
-        "note": {
-          "type": "string"
+        {
+          "type": "object",
+          "required": [
+            "status",
+            "module_count",
+            "total_units",
+            "last_course_unit",
+            "guidebook_coverage",
+            "note"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "complete",
+                "partial",
+                "in_progress",
+                "unknown"
+              ]
+            },
+            "module_count": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "total_units": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "last_course_unit": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "guidebook_coverage": {
+              "type": "string"
+            },
+            "note": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
         }
-      },
-      "additionalProperties": false
+      ]
     },
     "purpose": {
       "type": "string"
     },
     "starting_point": {
-      "type": "object",
-      "required": [
-        "section",
-        "unit",
-        "course_unit"
-      ],
-      "properties": {
-        "section": {
-          "type": "integer",
-          "minimum": 1
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "section",
+            "unit",
+            "course_unit"
+          ],
+          "properties": {
+            "section": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "unit": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "course_unit": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "additionalProperties": false
         },
-        "unit": {
-          "type": "integer",
-          "minimum": 1
-        },
-        "course_unit": {
-          "type": "integer",
-          "minimum": 1
+        {
+          "type": "object",
+          "required": [
+            "module",
+            "unit",
+            "course_unit"
+          ],
+          "properties": {
+            "module": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "unit": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "course_unit": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "additionalProperties": false
         }
-      },
-      "additionalProperties": false
+      ]
     }
   },
   "additionalProperties": false

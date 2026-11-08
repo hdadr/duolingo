@@ -25,7 +25,7 @@ A projekt Instructions mezőjébe másold be az [angol projektutasításokat](en
 
 A projektbe töltsd fel ezt a három fájlt:
 1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md).
-2. [COURSE-ROUTER.json](en-hu/COURSE-ROUTER.json).
+2. [COURSE-ROUTER.json](en-hu/COURSE-ROUTER.json) – az angol Duolingo-kurzus mind az 1005 egységének tömörített útvonaltérképe.
 3. [STATE-CARD.json](en-hu/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
 
 A két kurzust külön projektben kezeld, ne töltsd fel a másik kurzus routerét vagy állapotkártyáját.
@@ -48,16 +48,16 @@ Elég néhány egyszerű mondat:
 
 | Mit írjon? | Mit tesz a ChatGPT? |
 |---|---|
-| „Kezdjük az elejétől.” | Automatikusan az 1. szekció 1. egységétől (#1) indul. Nem kell nyelvtani témát választani. |
+| „Kezdjük az elejétől.” | Automatikusan az adott kurzus 1. egységétől (#1) indul. Nem kell nyelvtani témát választani. |
 | „Kezdjük!” | Ha nincs korábbi haladás, az elejétől indít; ha van, a legutóbb megerősített Duolingo-pozícióból folytat. |
 | „Folytassuk!” | A projekt legutóbbi megerősített tanulási pontját állítja vissza. |
 | „Következő Duolingo-egység.” | A megerősített Duolingo-pozíciót a következő egységre lépteti, és kiválasztja az ahhoz tartozó nyelvtani témát. |
-| „Már a 3. szekció 12. egységénél tartok.” | A megadott helyre ugrik; egy képernyőkép is elég. |
+| „Már a 3. szekció 12. egységénél tartok.” (spanyol) / „A 3. modul 12. egységénél tartok.” (angol) | A megfelelő kurzusbeli helyre ugrik; egy képernyőkép is elég. |
 | „Ezt nem értem.” | Egyszerűbb magyarázatot és új példát ad. |
 | „Mára ennyi.” | Rövid, a projektbeszélgetésben maradó folytonossági jegyzetet készít. |
 | „Kérem az állapotkártyát.” | Teljes, másolható v5 JSON-mentést ad. |
 
-A tanulónak nem kell megneveznie a nyelvtani témát: a rendszer az aktuális Duolingo-egység alapján választ. A tanuló a legtöbb alkalom után egyszerűen kiléphet. Nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
+A tanulónak nem kell megneveznie a nyelvtani témát: a rendszer az aktuális Duolingo-egység alapján választ. A tanulónak nem kell nyelvtani témát választania: a rendszer a spanyol section/unit vagy az angol module/unit alapján automatikusan választ tananyagot. A legtöbb alkalom után egyszerűen kiléphet; nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
 
 ## 5. Mikor kell új beszélgetést nyitni?
 
