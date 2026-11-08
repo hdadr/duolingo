@@ -486,7 +486,7 @@
       ]
     }
   ],
-  "route_rule": "Válassz 1–3 releváns modult az aktuális egység címe/témája alapján. A hiányzó közvetlen adatot ne találd ki. A kiválasztott modul fájlja: learning-modules/{course}/a1.md (a bank mező szerint); csak a lines zárt sorintervallumát olvasd be. For section 1 or 2, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Guidebook grammar tags are observed examples unless an explicit heading is recorded. For sections 1–4, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Guidebook grammar tags are observed examples unless an explicit heading is recorded. For sections 1–5, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Section 5 repeats each five-example phrase set across five consecutive course units: load the shared phrase set once but retain the active unit anchor. Guidebook grammar tags are observed examples unless an explicit heading is recorded.",
+  "route_rule": "Válassz 1–3 releváns modult az aktuális egység címe/témája alapján. A hiányzó közvetlen adatot ne találd ki. A kiválasztott modul fájlja: learning-modules/{course}/a1.md (a bank mező szerint); csak a lines zárt sorintervallumát olvasd be. For section 1 or 2, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Guidebook grammar tags are observed examples unless an explicit heading is recorded. For sections 1–4, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Guidebook grammar tags are observed examples unless an explicit heading is recorded. For sections 1–5, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Section 5 repeats each five-example phrase set across five consecutive course units: load the shared phrase set once but retain the active unit anchor. Guidebook grammar tags are observed examples unless an explicit heading is recorded. Section 6 is currently available only as a partial first installment (#382–522). The next excerpt continues at #523. Do not treat section 6 as complete, and leave its final phrase group open until the continuation confirms whether it repeats.",
   "section_themes": [
     [
       1,
@@ -659,6 +659,28 @@
       "phrase_set_count": 50,
       "translation_status": "user_supplied_hungarian_translations",
       "received_date": "2026-11-08"
+    },
+    {
+      "section": 6,
+      "cefr": "B1",
+      "section_unit_range": [
+        1,
+        141
+      ],
+      "course_unit_range": [
+        382,
+        522
+      ],
+      "path": "guidebooks/es-en/module-06.json",
+      "unit_count": 141,
+      "phrase_set_count": 29,
+      "complete_phrase_set_count": 28,
+      "partial_phrase_set_count": 1,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08",
+      "completion_status": "partial_first_installment",
+      "installment": "1_of_2",
+      "next_expected_course_unit": 523
     }
   ],
   "unit_anchors": [
@@ -8870,6 +8892,3389 @@
         "no + tagadó környezet"
       ],
       "evidence": "observed_example"
+    },
+    {
+      "course_unit": 382,
+      "section": 6,
+      "section_unit": 1,
+      "title_hu": "Ruházat és megjelenés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-01",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-05",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "pretérito indefinido costaron",
+        "gustar + infinitivo",
+        "parecer de",
+        "llevar ropa",
+        "quedar bien + névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 383,
+      "section": 6,
+      "section_unit": 2,
+      "title_hu": "Ruházat és megjelenés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-01",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-05",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "pretérito indefinido costaron",
+        "gustar + infinitivo",
+        "parecer de",
+        "llevar ropa",
+        "quedar bien + névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 384,
+      "section": 6,
+      "section_unit": 3,
+      "title_hu": "Ruházat és megjelenés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-01",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-05",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "pretérito indefinido costaron",
+        "gustar + infinitivo",
+        "parecer de",
+        "llevar ropa",
+        "quedar bien + névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 385,
+      "section": 6,
+      "section_unit": 4,
+      "title_hu": "Ruházat és megjelenés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-01",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-05",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "pretérito indefinido costaron",
+        "gustar + infinitivo",
+        "parecer de",
+        "llevar ropa",
+        "quedar bien + névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 386,
+      "section": 6,
+      "section_unit": 5,
+      "title_hu": "Ruházat és megjelenés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-01",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-05",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "pretérito indefinido costaron",
+        "gustar + infinitivo",
+        "parecer de",
+        "llevar ropa",
+        "quedar bien + névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 387,
+      "section": 6,
+      "section_unit": 6,
+      "title_hu": "Személyes ápolás és gyógyszertári termékek",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-02",
+      "grammar_modules": [
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "jelen idejű kérdés",
+        "beágyazott cómo kérdés",
+        "estar + hely",
+        "sin + főnév",
+        "nosotros jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 388,
+      "section": 6,
+      "section_unit": 7,
+      "title_hu": "Személyes ápolás és gyógyszertári termékek",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-02",
+      "grammar_modules": [
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "jelen idejű kérdés",
+        "beágyazott cómo kérdés",
+        "estar + hely",
+        "sin + főnév",
+        "nosotros jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 389,
+      "section": 6,
+      "section_unit": 8,
+      "title_hu": "Személyes ápolás és gyógyszertári termékek",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-02",
+      "grammar_modules": [
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "jelen idejű kérdés",
+        "beágyazott cómo kérdés",
+        "estar + hely",
+        "sin + főnév",
+        "nosotros jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 390,
+      "section": 6,
+      "section_unit": 9,
+      "title_hu": "Személyes ápolás és gyógyszertári termékek",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-02",
+      "grammar_modules": [
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "jelen idejű kérdés",
+        "beágyazott cómo kérdés",
+        "estar + hely",
+        "sin + főnév",
+        "nosotros jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 391,
+      "section": 6,
+      "section_unit": 10,
+      "title_hu": "Személyes ápolás és gyógyszertári termékek",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-02",
+      "grammar_modules": [
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "jelen idejű kérdés",
+        "beágyazott cómo kérdés",
+        "estar + hely",
+        "sin + főnév",
+        "nosotros jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 392,
+      "section": 6,
+      "section_unit": 11,
+      "title_hu": "Vásárlás és udvarias kérés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-03",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-04",
+        "A2-05"
+      ],
+      "grammar_topics": [
+        "usted kérdés",
+        "has estado + gerundio",
+        "udvarias kérés",
+        "me közvetett tárgyas névmás",
+        "ir a + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 393,
+      "section": 6,
+      "section_unit": 12,
+      "title_hu": "Vásárlás és udvarias kérés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-03",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-04",
+        "A2-05"
+      ],
+      "grammar_topics": [
+        "usted kérdés",
+        "has estado + gerundio",
+        "udvarias kérés",
+        "me közvetett tárgyas névmás",
+        "ir a + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 394,
+      "section": 6,
+      "section_unit": 13,
+      "title_hu": "Vásárlás és udvarias kérés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-03",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-04",
+        "A2-05"
+      ],
+      "grammar_topics": [
+        "usted kérdés",
+        "has estado + gerundio",
+        "udvarias kérés",
+        "me közvetett tárgyas névmás",
+        "ir a + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 395,
+      "section": 6,
+      "section_unit": 14,
+      "title_hu": "Vásárlás és udvarias kérés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-03",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-04",
+        "A2-05"
+      ],
+      "grammar_topics": [
+        "usted kérdés",
+        "has estado + gerundio",
+        "udvarias kérés",
+        "me közvetett tárgyas névmás",
+        "ir a + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 396,
+      "section": 6,
+      "section_unit": 15,
+      "title_hu": "Vásárlás és udvarias kérés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-03",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-04",
+        "A2-05"
+      ],
+      "grammar_topics": [
+        "usted kérdés",
+        "has estado + gerundio",
+        "udvarias kérés",
+        "me közvetett tárgyas névmás",
+        "ir a + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 397,
+      "section": 6,
+      "section_unit": 16,
+      "title_hu": "Visszatérítés és véletlen baleset",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-04",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "személytelen se",
+        "se me cayó véletlen esemény",
+        "indefinido dejó de",
+        "se necesita",
+        "para + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 398,
+      "section": 6,
+      "section_unit": 17,
+      "title_hu": "Visszatérítés és véletlen baleset",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-04",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "személytelen se",
+        "se me cayó véletlen esemény",
+        "indefinido dejó de",
+        "se necesita",
+        "para + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 399,
+      "section": 6,
+      "section_unit": 18,
+      "title_hu": "Visszatérítés és véletlen baleset",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-04",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "személytelen se",
+        "se me cayó véletlen esemény",
+        "indefinido dejó de",
+        "se necesita",
+        "para + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 400,
+      "section": 6,
+      "section_unit": 19,
+      "title_hu": "Visszatérítés és véletlen baleset",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-04",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "személytelen se",
+        "se me cayó véletlen esemény",
+        "indefinido dejó de",
+        "se necesita",
+        "para + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 401,
+      "section": 6,
+      "section_unit": 20,
+      "title_hu": "Visszatérítés és véletlen baleset",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-04",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "B1-07",
+        "B1-08",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "személytelen se",
+        "se me cayó véletlen esemény",
+        "indefinido dejó de",
+        "se necesita",
+        "para + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 402,
+      "section": 6,
+      "section_unit": 21,
+      "title_hu": "Éttermi udvariasság és feltételes kérések",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-05",
+      "grammar_modules": [
+        "B1-02",
+        "B1-06",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "condicional udvarias kérésre",
+        "hay",
+        "quisiera + infinitivo",
+        "nos tárgyas névmás",
+        "te importaría + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 403,
+      "section": 6,
+      "section_unit": 22,
+      "title_hu": "Éttermi udvariasság és feltételes kérések",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-05",
+      "grammar_modules": [
+        "B1-02",
+        "B1-06",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "condicional udvarias kérésre",
+        "hay",
+        "quisiera + infinitivo",
+        "nos tárgyas névmás",
+        "te importaría + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 404,
+      "section": 6,
+      "section_unit": 23,
+      "title_hu": "Éttermi udvariasság és feltételes kérések",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-05",
+      "grammar_modules": [
+        "B1-02",
+        "B1-06",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "condicional udvarias kérésre",
+        "hay",
+        "quisiera + infinitivo",
+        "nos tárgyas névmás",
+        "te importaría + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 405,
+      "section": 6,
+      "section_unit": 24,
+      "title_hu": "Éttermi udvariasság és feltételes kérések",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-05",
+      "grammar_modules": [
+        "B1-02",
+        "B1-06",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "condicional udvarias kérésre",
+        "hay",
+        "quisiera + infinitivo",
+        "nos tárgyas névmás",
+        "te importaría + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 406,
+      "section": 6,
+      "section_unit": 25,
+      "title_hu": "Éttermi udvariasság és feltételes kérések",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-05",
+      "grammar_modules": [
+        "B1-02",
+        "B1-06",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "condicional udvarias kérésre",
+        "hay",
+        "quisiera + infinitivo",
+        "nos tárgyas névmás",
+        "te importaría + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 407,
+      "section": 6,
+      "section_unit": 26,
+      "title_hu": "Szállítás és jövőbeli ügyintézés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-06",
+      "grammar_modules": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-04"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "futuro habrá",
+        "usted jelen idejű udvarias forma"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 408,
+      "section": 6,
+      "section_unit": 27,
+      "title_hu": "Szállítás és jövőbeli ügyintézés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-06",
+      "grammar_modules": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-04"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "futuro habrá",
+        "usted jelen idejű udvarias forma"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 409,
+      "section": 6,
+      "section_unit": 28,
+      "title_hu": "Szállítás és jövőbeli ügyintézés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-06",
+      "grammar_modules": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-04"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "futuro habrá",
+        "usted jelen idejű udvarias forma"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 410,
+      "section": 6,
+      "section_unit": 29,
+      "title_hu": "Szállítás és jövőbeli ügyintézés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-06",
+      "grammar_modules": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-04"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "futuro habrá",
+        "usted jelen idejű udvarias forma"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 411,
+      "section": 6,
+      "section_unit": 30,
+      "title_hu": "Szállítás és jövőbeli ügyintézés",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-06",
+      "grammar_modules": [
+        "B1-02",
+        "B1-03",
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-04"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "futuro habrá",
+        "usted jelen idejű udvarias forma"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 412,
+      "section": 6,
+      "section_unit": 31,
+      "title_hu": "Panasz, termékhiba és csere",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-07",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro me quejaré",
+        "lo que + perfecto",
+        "infinitivo",
+        "que vonatkozói mellékmondat",
+        "condicional podría és uno"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 413,
+      "section": 6,
+      "section_unit": 32,
+      "title_hu": "Panasz, termékhiba és csere",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-07",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro me quejaré",
+        "lo que + perfecto",
+        "infinitivo",
+        "que vonatkozói mellékmondat",
+        "condicional podría és uno"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 414,
+      "section": 6,
+      "section_unit": 33,
+      "title_hu": "Panasz, termékhiba és csere",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-07",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro me quejaré",
+        "lo que + perfecto",
+        "infinitivo",
+        "que vonatkozói mellékmondat",
+        "condicional podría és uno"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 415,
+      "section": 6,
+      "section_unit": 34,
+      "title_hu": "Panasz, termékhiba és csere",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-07",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro me quejaré",
+        "lo que + perfecto",
+        "infinitivo",
+        "que vonatkozói mellékmondat",
+        "condicional podría és uno"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 416,
+      "section": 6,
+      "section_unit": 35,
+      "title_hu": "Panasz, termékhiba és csere",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-07",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro me quejaré",
+        "lo que + perfecto",
+        "infinitivo",
+        "que vonatkozói mellékmondat",
+        "condicional podría és uno"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 417,
+      "section": 6,
+      "section_unit": 36,
+      "title_hu": "Kolumbia és utazási tapasztalat",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-08",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-08",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto",
+        "condicional me gustaría",
+        "valer la pena + infinitivo",
+        "por lo general",
+        "acostumbrarse a"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 418,
+      "section": 6,
+      "section_unit": 37,
+      "title_hu": "Kolumbia és utazási tapasztalat",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-08",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-08",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto",
+        "condicional me gustaría",
+        "valer la pena + infinitivo",
+        "por lo general",
+        "acostumbrarse a"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 419,
+      "section": 6,
+      "section_unit": 38,
+      "title_hu": "Kolumbia és utazási tapasztalat",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-08",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-08",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto",
+        "condicional me gustaría",
+        "valer la pena + infinitivo",
+        "por lo general",
+        "acostumbrarse a"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 420,
+      "section": 6,
+      "section_unit": 39,
+      "title_hu": "Kolumbia és utazási tapasztalat",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-08",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-08",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto",
+        "condicional me gustaría",
+        "valer la pena + infinitivo",
+        "por lo general",
+        "acostumbrarse a"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 421,
+      "section": 6,
+      "section_unit": 40,
+      "title_hu": "Kolumbia és utazási tapasztalat",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-08",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-08",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto",
+        "condicional me gustaría",
+        "valer la pena + infinitivo",
+        "por lo general",
+        "acostumbrarse a"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 422,
+      "section": 6,
+      "section_unit": 41,
+      "title_hu": "Környezet és fenntarthatóság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-09",
+      "grammar_modules": [
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "jelen idejű kijelentés",
+        "estar + gerundio",
+        "infinitivo alanyként"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 423,
+      "section": 6,
+      "section_unit": 42,
+      "title_hu": "Környezet és fenntarthatóság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-09",
+      "grammar_modules": [
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "jelen idejű kijelentés",
+        "estar + gerundio",
+        "infinitivo alanyként"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 424,
+      "section": 6,
+      "section_unit": 43,
+      "title_hu": "Környezet és fenntarthatóság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-09",
+      "grammar_modules": [
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "jelen idejű kijelentés",
+        "estar + gerundio",
+        "infinitivo alanyként"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 425,
+      "section": 6,
+      "section_unit": 44,
+      "title_hu": "Környezet és fenntarthatóság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-09",
+      "grammar_modules": [
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "jelen idejű kijelentés",
+        "estar + gerundio",
+        "infinitivo alanyként"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 426,
+      "section": 6,
+      "section_unit": 45,
+      "title_hu": "Környezet és fenntarthatóság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-09",
+      "grammar_modules": [
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay que + infinitivo",
+        "jelen idejű kijelentés",
+        "estar + gerundio",
+        "infinitivo alanyként"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 427,
+      "section": 6,
+      "section_unit": 46,
+      "title_hu": "Művészet és nemzetközi elismertség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-10",
+      "grammar_modules": [
+        "B1-06",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "ser + participio passzív jelentésben",
+        "al összevonás",
+        "más ... que",
+        "birtokos névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 428,
+      "section": 6,
+      "section_unit": 47,
+      "title_hu": "Művészet és nemzetközi elismertség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-10",
+      "grammar_modules": [
+        "B1-06",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "ser + participio passzív jelentésben",
+        "al összevonás",
+        "más ... que",
+        "birtokos névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 429,
+      "section": 6,
+      "section_unit": 48,
+      "title_hu": "Művészet és nemzetközi elismertség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-10",
+      "grammar_modules": [
+        "B1-06",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "ser + participio passzív jelentésben",
+        "al összevonás",
+        "más ... que",
+        "birtokos névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 430,
+      "section": 6,
+      "section_unit": 49,
+      "title_hu": "Művészet és nemzetközi elismertség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-10",
+      "grammar_modules": [
+        "B1-06",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "ser + participio passzív jelentésben",
+        "al összevonás",
+        "más ... que",
+        "birtokos névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 431,
+      "section": 6,
+      "section_unit": 50,
+      "title_hu": "Művészet és nemzetközi elismertség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-10",
+      "grammar_modules": [
+        "B1-06",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "ser + participio passzív jelentésben",
+        "al összevonás",
+        "más ... que",
+        "birtokos névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 432,
+      "section": 6,
+      "section_unit": 51,
+      "title_hu": "Repülés és múltbeli szokások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-11",
+      "grammar_modules": [
+        "B1-01",
+        "A2-01",
+        "A2-02",
+        "A2-03",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido llegó/aterrizó/fue",
+        "imperfecto llovía/cancelaban",
+        "nos hospedamos",
+        "superlativo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 433,
+      "section": 6,
+      "section_unit": 52,
+      "title_hu": "Repülés és múltbeli szokások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-11",
+      "grammar_modules": [
+        "B1-01",
+        "A2-01",
+        "A2-02",
+        "A2-03",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido llegó/aterrizó/fue",
+        "imperfecto llovía/cancelaban",
+        "nos hospedamos",
+        "superlativo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 434,
+      "section": 6,
+      "section_unit": 53,
+      "title_hu": "Repülés és múltbeli szokások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-11",
+      "grammar_modules": [
+        "B1-01",
+        "A2-01",
+        "A2-02",
+        "A2-03",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido llegó/aterrizó/fue",
+        "imperfecto llovía/cancelaban",
+        "nos hospedamos",
+        "superlativo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 435,
+      "section": 6,
+      "section_unit": 54,
+      "title_hu": "Repülés és múltbeli szokások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-11",
+      "grammar_modules": [
+        "B1-01",
+        "A2-01",
+        "A2-02",
+        "A2-03",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido llegó/aterrizó/fue",
+        "imperfecto llovía/cancelaban",
+        "nos hospedamos",
+        "superlativo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 436,
+      "section": 6,
+      "section_unit": 55,
+      "title_hu": "Repülés és múltbeli szokások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-11",
+      "grammar_modules": [
+        "B1-01",
+        "A2-01",
+        "A2-02",
+        "A2-03",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido llegó/aterrizó/fue",
+        "imperfecto llovía/cancelaban",
+        "nos hospedamos",
+        "superlativo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 437,
+      "section": 6,
+      "section_unit": 56,
+      "title_hu": "Egyetértés és politikai vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-12",
+      "grammar_modules": [
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-05",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "estar de acuerdo",
+        "es mejor + infinitivo",
+        "estar de acuerdo en que",
+        "interesar + névmás",
+        "admitir que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 438,
+      "section": 6,
+      "section_unit": 57,
+      "title_hu": "Egyetértés és politikai vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-12",
+      "grammar_modules": [
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-05",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "estar de acuerdo",
+        "es mejor + infinitivo",
+        "estar de acuerdo en que",
+        "interesar + névmás",
+        "admitir que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 439,
+      "section": 6,
+      "section_unit": 58,
+      "title_hu": "Egyetértés és politikai vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-12",
+      "grammar_modules": [
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-05",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "estar de acuerdo",
+        "es mejor + infinitivo",
+        "estar de acuerdo en que",
+        "interesar + névmás",
+        "admitir que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 440,
+      "section": 6,
+      "section_unit": 59,
+      "title_hu": "Egyetértés és politikai vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-12",
+      "grammar_modules": [
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-05",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "estar de acuerdo",
+        "es mejor + infinitivo",
+        "estar de acuerdo en que",
+        "interesar + névmás",
+        "admitir que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 441,
+      "section": 6,
+      "section_unit": 60,
+      "title_hu": "Egyetértés és politikai vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-12",
+      "grammar_modules": [
+        "B1-04",
+        "B1-06",
+        "B1-07",
+        "A2-05",
+        "A2-06",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "estar de acuerdo",
+        "es mejor + infinitivo",
+        "estar de acuerdo en que",
+        "interesar + névmás",
+        "admitir que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 442,
+      "section": 6,
+      "section_unit": 61,
+      "title_hu": "Munka és állásinterjú",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-13",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido contrataron/renunciaste",
+        "a quién",
+        "a qué distancia",
+        "estar + gerundio",
+        "elöljáró + kérdő névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 443,
+      "section": 6,
+      "section_unit": 62,
+      "title_hu": "Munka és állásinterjú",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-13",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido contrataron/renunciaste",
+        "a quién",
+        "a qué distancia",
+        "estar + gerundio",
+        "elöljáró + kérdő névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 444,
+      "section": 6,
+      "section_unit": 63,
+      "title_hu": "Munka és állásinterjú",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-13",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido contrataron/renunciaste",
+        "a quién",
+        "a qué distancia",
+        "estar + gerundio",
+        "elöljáró + kérdő névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 445,
+      "section": 6,
+      "section_unit": 64,
+      "title_hu": "Munka és állásinterjú",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-13",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido contrataron/renunciaste",
+        "a quién",
+        "a qué distancia",
+        "estar + gerundio",
+        "elöljáró + kérdő névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 446,
+      "section": 6,
+      "section_unit": 65,
+      "title_hu": "Munka és állásinterjú",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-13",
+      "grammar_modules": [
+        "B1-01",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido contrataron/renunciaste",
+        "a quién",
+        "a qué distancia",
+        "estar + gerundio",
+        "elöljáró + kérdő névmás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 447,
+      "section": 6,
+      "section_unit": 66,
+      "title_hu": "Valószínűség és bizonytalanság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-14",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "es probable que + subjuntivo",
+        "quizás + subjuntivo",
+        "es posible que + subjuntivo",
+        "seguro que + indicativo",
+        "es importante que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 448,
+      "section": 6,
+      "section_unit": 67,
+      "title_hu": "Valószínűség és bizonytalanság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-14",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "es probable que + subjuntivo",
+        "quizás + subjuntivo",
+        "es posible que + subjuntivo",
+        "seguro que + indicativo",
+        "es importante que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 449,
+      "section": 6,
+      "section_unit": 68,
+      "title_hu": "Valószínűség és bizonytalanság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-14",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "es probable que + subjuntivo",
+        "quizás + subjuntivo",
+        "es posible que + subjuntivo",
+        "seguro que + indicativo",
+        "es importante que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 450,
+      "section": 6,
+      "section_unit": 69,
+      "title_hu": "Valószínűség és bizonytalanság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-14",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "es probable que + subjuntivo",
+        "quizás + subjuntivo",
+        "es posible que + subjuntivo",
+        "seguro que + indicativo",
+        "es importante que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 451,
+      "section": 6,
+      "section_unit": 70,
+      "title_hu": "Valószínűség és bizonytalanság",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-14",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "es probable que + subjuntivo",
+        "quizás + subjuntivo",
+        "es posible que + subjuntivo",
+        "seguro que + indicativo",
+        "es importante que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 452,
+      "section": 6,
+      "section_unit": 71,
+      "title_hu": "Kétely, bizonyosság és érzelmi vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-15",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "dudar que + subjuntivo",
+        "estar seguro de que + indicativo",
+        "no creer que + subjuntivo",
+        "es obvio que + indicativo",
+        "esperar que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 453,
+      "section": 6,
+      "section_unit": 72,
+      "title_hu": "Kétely, bizonyosság és érzelmi vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-15",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "dudar que + subjuntivo",
+        "estar seguro de que + indicativo",
+        "no creer que + subjuntivo",
+        "es obvio que + indicativo",
+        "esperar que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 454,
+      "section": 6,
+      "section_unit": 73,
+      "title_hu": "Kétely, bizonyosság és érzelmi vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-15",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "dudar que + subjuntivo",
+        "estar seguro de que + indicativo",
+        "no creer que + subjuntivo",
+        "es obvio que + indicativo",
+        "esperar que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 455,
+      "section": 6,
+      "section_unit": 74,
+      "title_hu": "Kétely, bizonyosság és érzelmi vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-15",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "dudar que + subjuntivo",
+        "estar seguro de que + indicativo",
+        "no creer que + subjuntivo",
+        "es obvio que + indicativo",
+        "esperar que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 456,
+      "section": 6,
+      "section_unit": 75,
+      "title_hu": "Kétely, bizonyosság és érzelmi vélemény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-15",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "dudar que + subjuntivo",
+        "estar seguro de que + indicativo",
+        "no creer que + subjuntivo",
+        "es obvio que + indicativo",
+        "esperar que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 457,
+      "section": 6,
+      "section_unit": 76,
+      "title_hu": "Egészségügyi ellátás és állapotváltozás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-16",
+      "grammar_modules": [
+        "B1-02",
+        "B1-08",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro pagará",
+        "ir a + visszaható infinitivo",
+        "cuando + indicativo általános szokásra",
+        "ponerse + melléknév",
+        "necesitar + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 458,
+      "section": 6,
+      "section_unit": 77,
+      "title_hu": "Egészségügyi ellátás és állapotváltozás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-16",
+      "grammar_modules": [
+        "B1-02",
+        "B1-08",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro pagará",
+        "ir a + visszaható infinitivo",
+        "cuando + indicativo általános szokásra",
+        "ponerse + melléknév",
+        "necesitar + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 459,
+      "section": 6,
+      "section_unit": 78,
+      "title_hu": "Egészségügyi ellátás és állapotváltozás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-16",
+      "grammar_modules": [
+        "B1-02",
+        "B1-08",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro pagará",
+        "ir a + visszaható infinitivo",
+        "cuando + indicativo általános szokásra",
+        "ponerse + melléknév",
+        "necesitar + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 460,
+      "section": 6,
+      "section_unit": 79,
+      "title_hu": "Egészségügyi ellátás és állapotváltozás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-16",
+      "grammar_modules": [
+        "B1-02",
+        "B1-08",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro pagará",
+        "ir a + visszaható infinitivo",
+        "cuando + indicativo általános szokásra",
+        "ponerse + melléknév",
+        "necesitar + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 461,
+      "section": 6,
+      "section_unit": 80,
+      "title_hu": "Egészségügyi ellátás és állapotváltozás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-16",
+      "grammar_modules": [
+        "B1-02",
+        "B1-08",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro pagará",
+        "ir a + visszaható infinitivo",
+        "cuando + indicativo általános szokásra",
+        "ponerse + melléknév",
+        "necesitar + infinitivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 462,
+      "section": 6,
+      "section_unit": 81,
+      "title_hu": "Vállalat, eredmények és engedmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-17",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "A2-01",
+        "A2-02",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto ha ofrecido",
+        "sin + főnév",
+        "futuro tendrá",
+        "a pesar de + főnév",
+        "indefinido logramos/tuvo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 463,
+      "section": 6,
+      "section_unit": 82,
+      "title_hu": "Vállalat, eredmények és engedmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-17",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "A2-01",
+        "A2-02",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto ha ofrecido",
+        "sin + főnév",
+        "futuro tendrá",
+        "a pesar de + főnév",
+        "indefinido logramos/tuvo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 464,
+      "section": 6,
+      "section_unit": 83,
+      "title_hu": "Vállalat, eredmények és engedmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-17",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "A2-01",
+        "A2-02",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto ha ofrecido",
+        "sin + főnév",
+        "futuro tendrá",
+        "a pesar de + főnév",
+        "indefinido logramos/tuvo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 465,
+      "section": 6,
+      "section_unit": 84,
+      "title_hu": "Vállalat, eredmények és engedmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-17",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "A2-01",
+        "A2-02",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto ha ofrecido",
+        "sin + főnév",
+        "futuro tendrá",
+        "a pesar de + főnév",
+        "indefinido logramos/tuvo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 466,
+      "section": 6,
+      "section_unit": 85,
+      "title_hu": "Vállalat, eredmények és engedmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-17",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-07",
+        "A2-01",
+        "A2-02",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "pretérito perfecto ha ofrecido",
+        "sin + főnév",
+        "futuro tendrá",
+        "a pesar de + főnév",
+        "indefinido logramos/tuvo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 467,
+      "section": 6,
+      "section_unit": 86,
+      "title_hu": "Vészhelyzet és utasítások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-18",
+      "grammar_modules": [
+        "B1-03",
+        "B1-07",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo",
+        "hubo",
+        "si + jelen és felszólítás",
+        "debemos + infinitivo",
+        "usted felszólítás apúrese/llame"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 468,
+      "section": 6,
+      "section_unit": 87,
+      "title_hu": "Vészhelyzet és utasítások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-18",
+      "grammar_modules": [
+        "B1-03",
+        "B1-07",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo",
+        "hubo",
+        "si + jelen és felszólítás",
+        "debemos + infinitivo",
+        "usted felszólítás apúrese/llame"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 469,
+      "section": 6,
+      "section_unit": 88,
+      "title_hu": "Vészhelyzet és utasítások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-18",
+      "grammar_modules": [
+        "B1-03",
+        "B1-07",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo",
+        "hubo",
+        "si + jelen és felszólítás",
+        "debemos + infinitivo",
+        "usted felszólítás apúrese/llame"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 470,
+      "section": 6,
+      "section_unit": 89,
+      "title_hu": "Vészhelyzet és utasítások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-18",
+      "grammar_modules": [
+        "B1-03",
+        "B1-07",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo",
+        "hubo",
+        "si + jelen és felszólítás",
+        "debemos + infinitivo",
+        "usted felszólítás apúrese/llame"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 471,
+      "section": 6,
+      "section_unit": 90,
+      "title_hu": "Vészhelyzet és utasítások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-18",
+      "grammar_modules": [
+        "B1-03",
+        "B1-07",
+        "B1-06",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo",
+        "hubo",
+        "si + jelen és felszólítás",
+        "debemos + infinitivo",
+        "usted felszólítás apúrese/llame"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 472,
+      "section": 6,
+      "section_unit": 91,
+      "title_hu": "Köszönet és befejezett múlt",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-19",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "gracias por + főnév",
+        "no hay de qué",
+        "condicional harías",
+        "negatív felszólítás",
+        "por + infinitivo compuesto haberme ayudado"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 473,
+      "section": 6,
+      "section_unit": 92,
+      "title_hu": "Köszönet és befejezett múlt",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-19",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "gracias por + főnév",
+        "no hay de qué",
+        "condicional harías",
+        "negatív felszólítás",
+        "por + infinitivo compuesto haberme ayudado"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 474,
+      "section": 6,
+      "section_unit": 93,
+      "title_hu": "Köszönet és befejezett múlt",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-19",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "gracias por + főnév",
+        "no hay de qué",
+        "condicional harías",
+        "negatív felszólítás",
+        "por + infinitivo compuesto haberme ayudado"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 475,
+      "section": 6,
+      "section_unit": 94,
+      "title_hu": "Köszönet és befejezett múlt",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-19",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "gracias por + főnév",
+        "no hay de qué",
+        "condicional harías",
+        "negatív felszólítás",
+        "por + infinitivo compuesto haberme ayudado"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 476,
+      "section": 6,
+      "section_unit": 95,
+      "title_hu": "Köszönet és befejezett múlt",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-19",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "gracias por + főnév",
+        "no hay de qué",
+        "condicional harías",
+        "negatív felszólítás",
+        "por + infinitivo compuesto haberme ayudado"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 477,
+      "section": 6,
+      "section_unit": 96,
+      "title_hu": "Közös útbaigazítás és nosotros-felszólítás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-20",
+      "grammar_modules": [
+        "B1-03",
+        "B1-06",
+        "B1-01",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "nosotros felszólító: bajémonos/sigamos/doblemos/vámonos/encontrémonos",
+        "indefinido llegaste",
+        "névmás felszólításhoz kapcsolása",
+        "menetrend jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 478,
+      "section": 6,
+      "section_unit": 97,
+      "title_hu": "Közös útbaigazítás és nosotros-felszólítás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-20",
+      "grammar_modules": [
+        "B1-03",
+        "B1-06",
+        "B1-01",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "nosotros felszólító: bajémonos/sigamos/doblemos/vámonos/encontrémonos",
+        "indefinido llegaste",
+        "névmás felszólításhoz kapcsolása",
+        "menetrend jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 479,
+      "section": 6,
+      "section_unit": 98,
+      "title_hu": "Közös útbaigazítás és nosotros-felszólítás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-20",
+      "grammar_modules": [
+        "B1-03",
+        "B1-06",
+        "B1-01",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "nosotros felszólító: bajémonos/sigamos/doblemos/vámonos/encontrémonos",
+        "indefinido llegaste",
+        "névmás felszólításhoz kapcsolása",
+        "menetrend jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 480,
+      "section": 6,
+      "section_unit": 99,
+      "title_hu": "Közös útbaigazítás és nosotros-felszólítás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-20",
+      "grammar_modules": [
+        "B1-03",
+        "B1-06",
+        "B1-01",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "nosotros felszólító: bajémonos/sigamos/doblemos/vámonos/encontrémonos",
+        "indefinido llegaste",
+        "névmás felszólításhoz kapcsolása",
+        "menetrend jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 481,
+      "section": 6,
+      "section_unit": 100,
+      "title_hu": "Közös útbaigazítás és nosotros-felszólítás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-20",
+      "grammar_modules": [
+        "B1-03",
+        "B1-06",
+        "B1-01",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "nosotros felszólító: bajémonos/sigamos/doblemos/vámonos/encontrémonos",
+        "indefinido llegaste",
+        "névmás felszólításhoz kapcsolása",
+        "menetrend jelen idő"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 482,
+      "section": 6,
+      "section_unit": 101,
+      "title_hu": "Tanulás és vizsgaeredmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-21",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido estudié/desaprobaste/fue/estudiamos",
+        "estar + melléknév",
+        "nada fokozó tagadás",
+        "me va fatal",
+        "lo que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 483,
+      "section": 6,
+      "section_unit": 102,
+      "title_hu": "Tanulás és vizsgaeredmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-21",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido estudié/desaprobaste/fue/estudiamos",
+        "estar + melléknév",
+        "nada fokozó tagadás",
+        "me va fatal",
+        "lo que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 484,
+      "section": 6,
+      "section_unit": 103,
+      "title_hu": "Tanulás és vizsgaeredmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-21",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido estudié/desaprobaste/fue/estudiamos",
+        "estar + melléknév",
+        "nada fokozó tagadás",
+        "me va fatal",
+        "lo que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 485,
+      "section": 6,
+      "section_unit": 104,
+      "title_hu": "Tanulás és vizsgaeredmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-21",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido estudié/desaprobaste/fue/estudiamos",
+        "estar + melléknév",
+        "nada fokozó tagadás",
+        "me va fatal",
+        "lo que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 486,
+      "section": 6,
+      "section_unit": 105,
+      "title_hu": "Tanulás és vizsgaeredmény",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-21",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-06"
+      ],
+      "grammar_topics": [
+        "indefinido estudié/desaprobaste/fue/estudiamos",
+        "estar + melléknév",
+        "nada fokozó tagadás",
+        "me va fatal",
+        "lo que"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 487,
+      "section": 6,
+      "section_unit": 106,
+      "title_hu": "Bűncselekmény és híradás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-22",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido",
+        "un tercio de",
+        "személyes tárgy előtti a",
+        "que vonatkozói mellékmondat",
+        "la mayoría de + pluralis egyeztetés"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 488,
+      "section": 6,
+      "section_unit": 107,
+      "title_hu": "Bűncselekmény és híradás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-22",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido",
+        "un tercio de",
+        "személyes tárgy előtti a",
+        "que vonatkozói mellékmondat",
+        "la mayoría de + pluralis egyeztetés"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 489,
+      "section": 6,
+      "section_unit": 108,
+      "title_hu": "Bűncselekmény és híradás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-22",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido",
+        "un tercio de",
+        "személyes tárgy előtti a",
+        "que vonatkozói mellékmondat",
+        "la mayoría de + pluralis egyeztetés"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 490,
+      "section": 6,
+      "section_unit": 109,
+      "title_hu": "Bűncselekmény és híradás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-22",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido",
+        "un tercio de",
+        "személyes tárgy előtti a",
+        "que vonatkozói mellékmondat",
+        "la mayoría de + pluralis egyeztetés"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 491,
+      "section": 6,
+      "section_unit": 110,
+      "title_hu": "Bűncselekmény és híradás",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-22",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido",
+        "un tercio de",
+        "személyes tárgy előtti a",
+        "que vonatkozói mellékmondat",
+        "la mayoría de + pluralis egyeztetés"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 492,
+      "section": 6,
+      "section_unit": 111,
+      "title_hu": "Étkezés és subjuntivo időhatározói mellékmondatokban",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-23",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro + cuando + subjuntivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "encantar que + subjuntivo",
+        "para que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 493,
+      "section": 6,
+      "section_unit": 112,
+      "title_hu": "Étkezés és subjuntivo időhatározói mellékmondatokban",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-23",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro + cuando + subjuntivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "encantar que + subjuntivo",
+        "para que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 494,
+      "section": 6,
+      "section_unit": 113,
+      "title_hu": "Étkezés és subjuntivo időhatározói mellékmondatokban",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-23",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro + cuando + subjuntivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "encantar que + subjuntivo",
+        "para que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 495,
+      "section": 6,
+      "section_unit": 114,
+      "title_hu": "Étkezés és subjuntivo időhatározói mellékmondatokban",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-23",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro + cuando + subjuntivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "encantar que + subjuntivo",
+        "para que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 496,
+      "section": 6,
+      "section_unit": 115,
+      "title_hu": "Étkezés és subjuntivo időhatározói mellékmondatokban",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-23",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "futuro + cuando + subjuntivo",
+        "querer + infinitivo",
+        "cuando + subjuntivo",
+        "encantar que + subjuntivo",
+        "para que + subjuntivo"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 497,
+      "section": 6,
+      "section_unit": 116,
+      "title_hu": "Következtetés és múltbeli valószínűség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-24",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo következtetés",
+        "deber + haber + participio múltbeli következtetés",
+        "no conseguir + infinitivo",
+        "por lo menos",
+        "sufrido participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 498,
+      "section": 6,
+      "section_unit": 117,
+      "title_hu": "Következtetés és múltbeli valószínűség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-24",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo következtetés",
+        "deber + haber + participio múltbeli következtetés",
+        "no conseguir + infinitivo",
+        "por lo menos",
+        "sufrido participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 499,
+      "section": 6,
+      "section_unit": 118,
+      "title_hu": "Következtetés és múltbeli valószínűség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-24",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo következtetés",
+        "deber + haber + participio múltbeli következtetés",
+        "no conseguir + infinitivo",
+        "por lo menos",
+        "sufrido participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 500,
+      "section": 6,
+      "section_unit": 119,
+      "title_hu": "Következtetés és múltbeli valószínűség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-24",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo következtetés",
+        "deber + haber + participio múltbeli következtetés",
+        "no conseguir + infinitivo",
+        "por lo menos",
+        "sufrido participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 501,
+      "section": 6,
+      "section_unit": 120,
+      "title_hu": "Következtetés és múltbeli valószínűség",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-24",
+      "grammar_modules": [
+        "B1-01",
+        "B1-02",
+        "B1-06",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "deber + infinitivo következtetés",
+        "deber + haber + participio múltbeli következtetés",
+        "no conseguir + infinitivo",
+        "por lo menos",
+        "sufrido participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 502,
+      "section": 6,
+      "section_unit": 121,
+      "title_hu": "Sajnálat és érzelmi subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-25",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-02",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido me olvidé",
+        "sentir que + subjuntivo",
+        "es una pena/lástima que + subjuntivo",
+        "futuro podré",
+        "ayudar + névmás",
+        "estar + participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 503,
+      "section": 6,
+      "section_unit": 122,
+      "title_hu": "Sajnálat és érzelmi subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-25",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-02",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido me olvidé",
+        "sentir que + subjuntivo",
+        "es una pena/lástima que + subjuntivo",
+        "futuro podré",
+        "ayudar + névmás",
+        "estar + participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 504,
+      "section": 6,
+      "section_unit": 123,
+      "title_hu": "Sajnálat és érzelmi subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-25",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-02",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido me olvidé",
+        "sentir que + subjuntivo",
+        "es una pena/lástima que + subjuntivo",
+        "futuro podré",
+        "ayudar + névmás",
+        "estar + participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 505,
+      "section": 6,
+      "section_unit": 124,
+      "title_hu": "Sajnálat és érzelmi subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-25",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-02",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido me olvidé",
+        "sentir que + subjuntivo",
+        "es una pena/lástima que + subjuntivo",
+        "futuro podré",
+        "ayudar + névmás",
+        "estar + participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 506,
+      "section": 6,
+      "section_unit": 125,
+      "title_hu": "Sajnálat és érzelmi subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-25",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "B1-02",
+        "A2-01",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "indefinido me olvidé",
+        "sentir que + subjuntivo",
+        "es una pena/lástima que + subjuntivo",
+        "futuro podré",
+        "ayudar + névmás",
+        "estar + participio"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 507,
+      "section": 6,
+      "section_unit": 126,
+      "title_hu": "Lakókörnyezet és szomszédok",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-26",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay",
+        "vivir al lado de",
+        "indefinido vieron/dijo",
+        "dijo que + függő beszéd",
+        "jelen idő általános szokásra"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 508,
+      "section": 6,
+      "section_unit": 127,
+      "title_hu": "Lakókörnyezet és szomszédok",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-26",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay",
+        "vivir al lado de",
+        "indefinido vieron/dijo",
+        "dijo que + függő beszéd",
+        "jelen idő általános szokásra"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 509,
+      "section": 6,
+      "section_unit": 128,
+      "title_hu": "Lakókörnyezet és szomszédok",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-26",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay",
+        "vivir al lado de",
+        "indefinido vieron/dijo",
+        "dijo que + függő beszéd",
+        "jelen idő általános szokásra"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 510,
+      "section": 6,
+      "section_unit": 129,
+      "title_hu": "Lakókörnyezet és szomszédok",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-26",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay",
+        "vivir al lado de",
+        "indefinido vieron/dijo",
+        "dijo que + függő beszéd",
+        "jelen idő általános szokásra"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 511,
+      "section": 6,
+      "section_unit": 130,
+      "title_hu": "Lakókörnyezet és szomszédok",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-26",
+      "grammar_modules": [
+        "B1-01",
+        "B1-05",
+        "B1-06",
+        "A2-01",
+        "A2-02",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "hay",
+        "vivir al lado de",
+        "indefinido vieron/dijo",
+        "dijo que + függő beszéd",
+        "jelen idő általános szokásra"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 512,
+      "section": 6,
+      "section_unit": 131,
+      "title_hu": "Múltbeli kívánság és imperfecto de subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-27",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-01",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "imperfecto de subjuntivo estuviéramos/tuvieras/supiéramos/fueran/pudiera",
+        "ojalá",
+        "quería/queríamos que",
+        "indefinido compré",
+        "te los névmáspár"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 513,
+      "section": 6,
+      "section_unit": 132,
+      "title_hu": "Múltbeli kívánság és imperfecto de subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-27",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-01",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "imperfecto de subjuntivo estuviéramos/tuvieras/supiéramos/fueran/pudiera",
+        "ojalá",
+        "quería/queríamos que",
+        "indefinido compré",
+        "te los névmáspár"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 514,
+      "section": 6,
+      "section_unit": 133,
+      "title_hu": "Múltbeli kívánság és imperfecto de subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-27",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-01",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "imperfecto de subjuntivo estuviéramos/tuvieras/supiéramos/fueran/pudiera",
+        "ojalá",
+        "quería/queríamos que",
+        "indefinido compré",
+        "te los névmáspár"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 515,
+      "section": 6,
+      "section_unit": 134,
+      "title_hu": "Múltbeli kívánság és imperfecto de subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-27",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-01",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "imperfecto de subjuntivo estuviéramos/tuvieras/supiéramos/fueran/pudiera",
+        "ojalá",
+        "quería/queríamos que",
+        "indefinido compré",
+        "te los névmáspár"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 516,
+      "section": 6,
+      "section_unit": 135,
+      "title_hu": "Múltbeli kívánság és imperfecto de subjuntivo",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-27",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-01",
+        "A2-05",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "imperfecto de subjuntivo estuviéramos/tuvieras/supiéramos/fueran/pudiera",
+        "ojalá",
+        "quería/queríamos que",
+        "indefinido compré",
+        "te los névmáspár"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 517,
+      "section": 6,
+      "section_unit": 136,
+      "title_hu": "Főzési utasítások és ajánlások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-28",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "tener que + infinitivo",
+        "jelen idejű instrukció",
+        "sorrendjelölők",
+        "recomendar que + subjuntivo",
+        "si + jelen és usted felszólítás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 518,
+      "section": 6,
+      "section_unit": 137,
+      "title_hu": "Főzési utasítások és ajánlások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-28",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "tener que + infinitivo",
+        "jelen idejű instrukció",
+        "sorrendjelölők",
+        "recomendar que + subjuntivo",
+        "si + jelen és usted felszólítás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 519,
+      "section": 6,
+      "section_unit": 138,
+      "title_hu": "Főzési utasítások és ajánlások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-28",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "tener que + infinitivo",
+        "jelen idejű instrukció",
+        "sorrendjelölők",
+        "recomendar que + subjuntivo",
+        "si + jelen és usted felszólítás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 520,
+      "section": 6,
+      "section_unit": 139,
+      "title_hu": "Főzési utasítások és ajánlások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-28",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "tener que + infinitivo",
+        "jelen idejű instrukció",
+        "sorrendjelölők",
+        "recomendar que + subjuntivo",
+        "si + jelen és usted felszólítás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 521,
+      "section": 6,
+      "section_unit": 140,
+      "title_hu": "Főzési utasítások és ajánlások",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-28",
+      "grammar_modules": [
+        "B1-03",
+        "B1-04",
+        "B1-07",
+        "A2-04",
+        "A2-07"
+      ],
+      "grammar_topics": [
+        "tener que + infinitivo",
+        "jelen idejű instrukció",
+        "sorrendjelölők",
+        "recomendar que + subjuntivo",
+        "si + jelen és usted felszólítás"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "complete_five_unit_group"
+    },
+    {
+      "course_unit": 522,
+      "section": 6,
+      "section_unit": 141,
+      "title_hu": "Internet és digitális eszközök",
+      "guidebook_path": "guidebooks/es-en/module-06.json",
+      "phrase_set_ref": "s6-topic-29",
+      "grammar_modules": [
+        "B1-05",
+        "B1-06",
+        "B1-07",
+        "A2-05",
+        "A2-06",
+        "A2-07",
+        "A2-08"
+      ],
+      "grammar_topics": [
+        "gracias a",
+        "tener problemas con",
+        "me tárgyas névmás",
+        "para + infinitivo",
+        "birtokos determináns",
+        "más ... que",
+        "el que vonatkozói szerkezet"
+      ],
+      "evidence": "observed_example",
+      "phrase_group_status": "partial_group_pending_next_excerpt"
     }
   ]
 }
