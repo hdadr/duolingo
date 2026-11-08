@@ -6127,13 +6127,7 @@
       "course_unit": 632,
       "spanish": "Apuesto que todavía no tienes tu pasaporte.",
       "provided_hungarian": "Fogadok, hogy még mindig nincs meg az útleveled.",
-      "note": "Apuesto a que ... gyakoribb teljes vonzatú alak; a bemásolt Apuesto que szöveget változatlanul megőriztük, ellenőrizendő, hogy a Guidebookban valóban hiányzik-e az a."
-    },
-    {
-      "course_unit": 687,
-      "spanish": "Voy a adoptar, pero no tengo nada listo.",
-      "provided_hungarian": "Örökbe fogadok, de semmim sincs készen.",
-      "note": "A magyar fordításban elütés/karakterhiba látható a „sincs” előtt. Valószínűleg „de semmim sincs készen.”; az eredeti forrásszöveg megőrzendő."
+      "note": "Az „apuesto a que ...” a gyakoribb teljes vonzatú alak; a bemásolt „Apuesto que ...” szöveget változatlanul őriztük meg, érdemes a Guidebook eredetijében ellenőrizni."
     },
     {
       "course_unit": 722,
