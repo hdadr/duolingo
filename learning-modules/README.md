@@ -2,7 +2,7 @@
 
 ## Szerkezet
 
-- `es-en/`: spanyol angolból; 32 teljes nyelvtani modul.
+- `es-hu/`: spanyol magyarból; 32 teljes nyelvtani modul.
 - `en-hu/`: angol magyarból; 35 teljes nyelvtani modul.
 - Kurzusonként négy szintfájl van (A1, A2, B1, B2); a pontos modulhatárokat az adott kurzus `index.json` fájlja tartalmazza.
 

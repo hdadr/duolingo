@@ -1,0 +1,17 @@
+{
+  "course_key": "es-hu",
+  "course_id": "DUOLINGO_ES_HU",
+  "learning_language": "es",
+  "base_language": "hu",
+  "explanation_language": "hu",
+  "current_position": {
+    "section": null,
+    "unit": null,
+    "unit_title": null,
+    "last_confirmed_at": null
+  },
+  "mastery": [],
+  "needs_review": [],
+  "current_grammar_focus": null,
+  "notes": "Sablon a magyar alapnyelvű spanyol kurzushoz; a személyes haladás nincs előre feltételezve. A spanyol példákhoz a felhasználó által megadott magyar fordításokat használd."
+}

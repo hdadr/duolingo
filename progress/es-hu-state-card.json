@@ -1,7 +1,7 @@
 {
   "card_version": 5,
-  "course_key": "es-en",
-  "course_id": "DUOLINGO_ES_EN",
+  "course_key": "es-hu",
+  "course_id": "DUOLINGO_ES_HU",
   "updated_at": null,
   "current_position": {
     "coordinate_system": "section_unit",
@@ -49,6 +49,6 @@
   "mastery": [],
   "review_queue": [],
   "recurring_error_patterns": [],
-  "next_action": "Ha a projekt korábbi beszélgetéseiből nem állítható vissza megbízhatóan a tanuló aktuális helyzete, kérdezz rá röviden a Duolingo-egységére.",
+  "next_action": "Ha az elejétől szeretné kezdeni, indulj az 1. szekció 1. egységétől (#1). Ha már korábban elkezdte, és a projektelőzményekből nem állítható vissza a helye, kérdezz rá röviden a Duolingo-szekcióra és az azon belüli egységre.",
   "last_session_note": null
 }

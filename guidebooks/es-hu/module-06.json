@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "course_id": "DUOLINGO_ES_EN",
-  "course_key": "es-en",
+  "course_id": "DUOLINGO_ES_HU",
+  "course_key": "es-hu",
   "learning_language": "es",
-  "base_language": "en",
+  "base_language": "hu",
   "explanation_language": "hu",
   "source": {
     "kind": "user_supplied_guidebook_transcription",
     "received_date": "2026-11-08",
-    "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításaik.",
+    "source_description": "A tanuló által bemásolt, magyar alapnyelvű Duolingo spanyol kurzusának Guidebook-kulcskifejezései és magyar fordításai. A magyar fordításokat forrásadatként, változtatás nélkül őrizzük.",
     "coverage": "Duolingo 6. modul, mindkét részlet: 1–250. rész; kurzus-egységek #382–631.",
     "note": "A 6. modul mindkét, a felhasználó által megadott részlete feldolgozásra került. A 250 egység 50 darab, egyenként öt egységben ismétlődő kulcskifejezés-csoportot tartalmaz. A magyar címek szerkesztői összefoglalók; külön egységszintű nyelvtani címeket a Guidebook nem adott meg. A nyelvtani kapcsolatok megfigyelt példákra épülnek."
   },

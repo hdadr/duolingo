@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "course": "es-en",
+  "course": "es-hu",
   "language": "es",
-  "base": "en",
-  "purpose": "Magyar nyelvtani kísérő a Duolingo angol alapnyelvű spanyol kurzusához. A tanulási sorrend a Duolingo 1–991. egységét követi; a nyelvtani mastery ettől külön követett állapot.",
+  "base": "hu",
+  "purpose": "Magyar nyelvtani kísérő a Duolingo magyar alapnyelvű spanyol kurzusához. A tanulási sorrend a magyarból spanyol kurzus 1–991. egységét követi; a nyelvtani mastery ettől külön követett állapot.",
   "starting_point": {
     "section": 1,
     "unit": 1,
@@ -11,9 +11,9 @@
   },
   "source": {
     "kind": "community_public_course_map",
-    "url": "https://duolingodata.com/",
-    "checked": "2026-11-05",
-    "limitation": "Nem hivatalos Duolingo-export; a téma nem bizonyítja a nyelvtani cél tanítását."
+    "url": "https://duolingodata.com/dat/esfhu991.html",
+    "checked": "2026-11-08",
+    "limitation": "A magyarból spanyol kurzus közösségi, nem hivatalos Duolingo Data útvonaltérképe. A témacímek a kommunikációs célt jelzik; önmagukban nem bizonyítják a teljes nyelvtani szabály tanítását vagy a tanuló mastery-jét."
   },
   "sections": [
     [
@@ -149,7 +149,7 @@
         1,
         10
       ],
-      "path": "guidebooks/es-en/module-01.json",
+      "path": "guidebooks/es-hu/module-01.json",
       "status": "complete",
       "phrase_set_count": 6
     },
@@ -163,7 +163,7 @@
         1,
         31
       ],
-      "path": "guidebooks/es-en/module-02.json",
+      "path": "guidebooks/es-hu/module-02.json",
       "status": "complete",
       "phrase_set_count": 31
     },
@@ -177,7 +177,7 @@
         1,
         30
       ],
-      "path": "guidebooks/es-en/module-03.json",
+      "path": "guidebooks/es-hu/module-03.json",
       "status": "complete",
       "phrase_set_count": 30
     },
@@ -191,7 +191,7 @@
         1,
         60
       ],
-      "path": "guidebooks/es-en/module-04.json",
+      "path": "guidebooks/es-hu/module-04.json",
       "status": "complete",
       "phrase_set_count": 60
     },
@@ -205,7 +205,7 @@
         1,
         250
       ],
-      "path": "guidebooks/es-en/module-05.json",
+      "path": "guidebooks/es-hu/module-05.json",
       "status": "complete",
       "phrase_set_count": 50
     },
@@ -219,7 +219,7 @@
         1,
         250
       ],
-      "path": "guidebooks/es-en/module-06.json",
+      "path": "guidebooks/es-hu/module-06.json",
       "status": "complete",
       "phrase_set_count": 50
     },
@@ -233,7 +233,7 @@
         1,
         180
       ],
-      "path": "guidebooks/es-en/module-07.json",
+      "path": "guidebooks/es-hu/module-07.json",
       "status": "complete",
       "phrase_set_count": 36
     },
@@ -247,7 +247,7 @@
         1,
         180
       ],
-      "path": "guidebooks/es-en/module-08.json",
+      "path": "guidebooks/es-hu/module-08.json",
       "status": "complete",
       "phrase_set_count": 36
     }
@@ -7945,7 +7945,7 @@
       "evidence": "observed_example"
     }
   ],
-  "unit_anchor_note": "A course_unit_ranges minden 1–991. Duolingo-egységet pontosan egyszer fed le. A teljesen azonos egység-hozzárendelések közös bejegyzésbe vannak összevonva; a nem folytonos egységek külön tartományként szerepelnek. A title_hu szerkesztői összefoglaló, a grammar_topics megfigyelt példák, nem hivatalos nyelvtani célok vagy mastery-bizonyítékok.",
+  "unit_anchor_note": "A course_unit_ranges minden 1–991. Duolingo-egységet pontosan egyszer fed le. A teljesen azonos egység-hozzárendelések közös bejegyzésbe vannak összevonva; a nem folytonos egységek külön tartományként szerepelnek. A title_hu szerkesztői összefoglaló, a grammar_topics megfigyelt példák, nem hivatalos nyelvtani célok vagy mastery-bizonyítékok. A Guidebook-példák forrásnyelve spanyol, a felhasználó által megadott fordítási nyelv magyar; ezek a magyar alapnyelvű spanyol kurzus kiegészítő példái.",
   "course_completion": {
     "status": "complete",
     "section_count": 8,

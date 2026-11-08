@@ -1,4 +1,4 @@
-# Spanyol kurzus – indítóüzenet
+# Spanyol magyarból kurzus – indítóüzenet
 
 A projektutasításokat és a három projektfájlt már használd. Először nézd meg a jelenlegi beszélgetés és – ha ez új chat – a projektben ténylegesen elérhető korábbi beszélgetések kontextusát. Próbáld visszaállítani a legutóbbi megerősített Duolingo-pozíciót, az aktív tanulási pontot és a következő lépést. A feltöltött `STATE-CARD.json` csak sablon/tartalék, nem feltétlenül a legfrissebb állapot.
 

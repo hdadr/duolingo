@@ -36,12 +36,12 @@ Az alábbi részletes folyamat akkor hasznos, ha a ChatGPT-felület ténylegesen
 
 # Kurzusazonosítók
 
-**Spanyol angolból**
-- Kurzusazonosító: `DUOLINGO_ES_EN`
-- Kulcs: `es-en`
-- Projektutasítás: [free-chatgpt/es-en/PROJECT-INSTRUCTIONS.md](free-chatgpt/es-en/PROJECT-INSTRUCTIONS.md)
-- Moduljegyzék: [learning-modules/es-en/index.json](learning-modules/es-en/index.json)
-- Állapotkártya-sablon: [progress/es-en-state-card.json](progress/es-en-state-card.json)
+**Spanyol magyarból**
+- Kurzusazonosító: `DUOLINGO_ES_HU`
+- Kulcs: `es-hu`
+- Projektutasítás: [free-chatgpt/es-hu/PROJECT-INSTRUCTIONS.md](free-chatgpt/es-hu/PROJECT-INSTRUCTIONS.md)
+- Moduljegyzék: [learning-modules/es-hu/index.json](learning-modules/es-hu/index.json)
+- Állapotkártya-sablon: [progress/es-hu-state-card.json](progress/es-hu-state-card.json)
 
 **Angol magyarból**
 - Kurzusazonosító: `DUOLINGO_EN_HU`

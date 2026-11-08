@@ -25,14 +25,14 @@ Ha olyan ChatGPT-felületet használsz, amely ténylegesen hozzáfér a privát 
 
 | Kulcs | Kurzus | Duolingo-azonosító | Magyarázat |
 |---|---|---|---|
-| `es-en` | Spanyol angolból | `DUOLINGO_ES_EN` | Magyar |
+| `es-hu` | Spanyol magyarból | `DUOLINGO_ES_HU` | Magyar |
 | `en-hu` | Angol magyarból | `DUOLINGO_EN_HU` | Magyar |
 
-### Spanyol angolból
-- [Indító prompt](prompts/DUOLINGO-HU-CHATGPT-PROMPT.md)
-- [Moduljegyzék](learning-modules/es-en/index.json)
-- [Állapotkártya-sablon](progress/es-en-state-card.json)
-- [Spanyol kurzusadatok](courses/es-en/course.json)
+### Spanyol magyarból
+- [Indító prompt](prompts/DUOLINGO-HU-ES-CHATGPT-PROMPT.md)
+- [Moduljegyzék](learning-modules/es-hu/index.json)
+- [Állapotkártya-sablon](progress/es-hu-state-card.json)
+- [Spanyol kurzusadatok](courses/es-hu/course.json)
 - [Teljes A1–B2 tanulási térkép](curricula/espanol-a1-b2-tanulasi-terkep.md) – referencia, nem alapértelmezett beolvasás
 
 ### Angol magyarból

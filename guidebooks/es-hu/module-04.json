@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "course_id": "DUOLINGO_ES_EN",
-  "course_key": "es-en",
+  "course_id": "DUOLINGO_ES_HU",
+  "course_key": "es-hu",
   "learning_language": "es",
-  "base_language": "en",
+  "base_language": "hu",
   "explanation_language": "hu",
   "source": {
     "kind": "user_supplied_guidebook_transcription",
     "received_date": "2026-11-08",
-    "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításuk. A fordításokat forrásadatként őrizzük meg.",
+    "source_description": "A tanuló által bemásolt, magyar alapnyelvű Duolingo spanyol kurzusának Guidebook-kulcskifejezései és magyar fordításai. A magyar fordításokat forrásadatként, változtatás nélkül őrizzük.",
     "coverage": "Duolingo 4. modul, 1–60. rész",
     "total_course_units": 991,
     "note": "A forrás általános segédanyag-bevezetőt és kulcskifejezéseket tartalmazott, külön nyelvtani célcímeket nem. A magyar egységcímek szerkesztői összefoglalók. A nyelvtani besorolások megfigyelt előfordulások, nem bizonyítják egy teljes szabály kifejezett tanítását vagy a tanuló elsajátítását."

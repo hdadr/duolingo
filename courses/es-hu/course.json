@@ -1,11 +1,11 @@
 {
-  "course_id": "DUOLINGO_ES_EN",
-  "key": "es-en",
+  "course_id": "DUOLINGO_ES_HU",
+  "key": "es-hu",
   "learning_language": "es",
-  "base_language": "en",
+  "base_language": "hu",
   "explanation_language": "hu",
   "course_level": "CEFR B2",
-  "max_duolingo_score": 129,
+  "max_duolingo_score": 130,
   "curriculum": {
     "total_units": 991,
     "sections": [
@@ -60,36 +60,34 @@
   },
   "public_index_snapshot": {
     "source": "https://duolingodata.com/",
-    "checked": "2026-11-05",
+    "checked": "2026-11-08",
     "index_updated": "2026-10-20",
-    "course_version_label": "2026-09",
+    "course_version_label": "2026-03",
     "reported_units": 991,
-    "reported_lessons": 8415,
-    "reported_stories": 1166,
-    "note": "The index table is newer than the detailed page summary."
+    "reported_lessons": 8427,
+    "reported_stories": 1196,
+    "note": "A magyar alapnyelvű kurzus 2026. október 20-i közösségi index-pillanatképe. A részletes oldal régebbi szerkesztési dátumú; az eltéréseket külön dátumozva kezeljük."
   },
   "detailed_curriculum_page_snapshot": {
-    "source": "https://duolingodata.com/dat/esfen991.html",
-    "page_editor_date": "2026-03-02",
+    "source": "https://duolingodata.com/dat/esfhu991.html",
+    "page_editor_date": "2026-03-18",
     "reported_units": 991,
-    "reported_lessons": 8346,
-    "reported_stories": 1128,
-    "reported_radio_lessons": 1250,
-    "reported_adventures": 58,
-    "note": "Counts differ from the newer main index, so keep them as separate dated observations rather than merging them."
+    "reported_lessons": 8427,
+    "reported_stories": 1196,
+    "reported_radio_lessons": 1321,
+    "note": "A magyar alapnyelvű spanyol kurzus részletes közösségi oldalának pillanatképe; nem hivatalos Duolingo-export."
   },
   "data_limitations": [
-    "This is a community-maintained curriculum map, not a Duolingo-published export.",
-    "It identifies course section sizes and unit topics, not the full exercise sequence.",
-    "It does not contain all prompts, accepted translations, audio, or current Guidebook text.",
-    "Do not infer a grammar rule from a topic title alone.",
-    "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–5: #1–10, #11–41, #42–71, #72–131, and #132–381. Section 5 contains 50 five-unit repeated phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only.",
-    "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–6: #1–10, #11–41, #42–71, #72–131, #132–381, and #382–631. Sections 5 and 6 contain 50 five-unit repeated phrase groups each. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only.",
-    "Sections 7 and 8 are fully documented from user-supplied Guidebook key phrases and Hungarian translations: section 7 #632–811 and section 8 #812–991, 180 units each. Each section contains 36 repeated five-unit phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
+    "Ez a közösségi kurzustérkép nem hivatalos Duolingo-export.",
+    "A térkép a szekciók méretét és az egységek témáját azonosítja, nem a teljes feladatsort.",
+    "Nem tartalmazza az összes promptot, elfogadott fordítást, hanganyagot vagy aktuális Guidebook-szöveget.",
+    "Nyelvtani szabályt ne következtess ki pusztán a témacímből.",
+    "A felhasználó által megadott, spanyol eredetű Guidebook-kifejezések és magyar fordítások mind a nyolc szekcióhoz rendelkezésre állnak: #1–991. Az 5–8. szekcióban azonos példacsoportok ötegységes blokkokban ismétlődnek; a csoportokat deduplikálva tároljuk, az egységhivatkozásokat megtartjuk.",
+    "A Guidebook-kulcskifejezésekhez nem érkeztek külön explicit nyelvtani célcímek. A nyelvtani kapcsolatok megfigyelt példákra épülnek, és nem bizonyítják a teljes szabály tanítását vagy a tanuló mastery-jét."
   ],
   "sources": [
     "https://duolingodata.com/",
-    "https://duolingodata.com/dat/esfen991.html",
+    "https://duolingodata.com/dat/esfhu991.html",
     "https://www.duolingo.com/api/1/version_info"
   ],
   "section_overviews": [
@@ -152,9 +150,9 @@
   ],
   "section_overviews_source": {
     "name": "Duolingo Data community curriculum index",
-    "url": "https://duolingodata.com/dat/esfen991.html",
-    "page_date": "2026-03-02",
-    "checked_at": "2026-11-05",
+    "url": "https://duolingodata.com/dat/esfhu991.html",
+    "page_date": "2026-03-18",
+    "checked_at": "2026-11-08",
     "status": "third_party_curriculum_metadata_not_official_Duolingo_API",
     "note": "Section descriptions are concise paraphrases. The page's own unit topic list is not copied wholesale into this repository. These descriptions are useful for broad learning progression, not enough to assert exact grammar in a lesson."
   },
@@ -294,7 +292,7 @@
         1,
         10
       ],
-      "path": "guidebooks/es-en/module-01.json",
+      "path": "guidebooks/es-hu/module-01.json",
       "unit_count": 10,
       "phrase_set_count": 6,
       "translation_status": "user_supplied_hungarian_translations",
@@ -311,7 +309,7 @@
         11,
         41
       ],
-      "path": "guidebooks/es-en/module-02.json",
+      "path": "guidebooks/es-hu/module-02.json",
       "unit_count": 31,
       "phrase_set_count": 31,
       "translation_status": "user_supplied_hungarian_translations",
@@ -328,7 +326,7 @@
         42,
         71
       ],
-      "path": "guidebooks/es-en/module-03.json",
+      "path": "guidebooks/es-hu/module-03.json",
       "unit_count": 30,
       "phrase_set_count": 30,
       "translation_status": "user_supplied_hungarian_translations",
@@ -345,7 +343,7 @@
         72,
         131
       ],
-      "path": "guidebooks/es-en/module-04.json",
+      "path": "guidebooks/es-hu/module-04.json",
       "unit_count": 60,
       "phrase_set_count": 60,
       "translation_status": "user_supplied_hungarian_translations",
@@ -362,7 +360,7 @@
         132,
         381
       ],
-      "path": "guidebooks/es-en/module-05.json",
+      "path": "guidebooks/es-hu/module-05.json",
       "unit_count": 250,
       "phrase_set_count": 50,
       "translation_status": "user_supplied_hungarian_translations",
@@ -379,7 +377,7 @@
         382,
         631
       ],
-      "path": "guidebooks/es-en/module-06.json",
+      "path": "guidebooks/es-hu/module-06.json",
       "unit_count": 250,
       "phrase_set_count": 50,
       "complete_phrase_set_count": 50,
@@ -401,7 +399,7 @@
         632,
         811
       ],
-      "path": "guidebooks/es-en/module-07.json",
+      "path": "guidebooks/es-hu/module-07.json",
       "unit_count": 180,
       "phrase_set_count": 36,
       "complete_phrase_set_count": 36,
@@ -424,7 +422,7 @@
         812,
         991
       ],
-      "path": "guidebooks/es-en/module-08.json",
+      "path": "guidebooks/es-hu/module-08.json",
       "unit_count": 180,
       "phrase_set_count": 36,
       "complete_phrase_set_count": 36,

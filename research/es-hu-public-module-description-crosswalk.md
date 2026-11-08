@@ -4,7 +4,7 @@ Checked: 2026-11-05
 
 ## Scope
 
-The requested task is to align explanations with the user's progress in the Spanish-from-English Duolingo course while storing only original pedagogical conclusions. Do not archive raw Duolingo exercise text.
+The requested task is to align explanations with the user's progress in the Spanish-from-Hungarian Duolingo course while storing only original pedagogical conclusions. Do not archive raw Duolingo exercise text.
 
 ## Why we do not call an internal endpoint from the APK
 
@@ -21,14 +21,14 @@ Therefore, this project does not reverse engineer or call undocumented internal 
 ## Open source replacement for module descriptions
 
 The public community-maintained Duolingo Data course outline provides:
-- all eight Spanish-from-English section descriptions;
+- all eight Spanish-from-Hungarian section descriptions;
 - the CEFR label and number of units per section;
 - a topic/learning-objective title for each of the 991 units in the published snapshot;
 - a separate index of distinct teaching-objective labels.
 
 Sources:
-- Course outline: https://duolingodata.com/dat/esfen991.html
-- Teaching-objective index: https://duolingodata.com/dat/esfen991-d.html
+- Course outline: https://duolingodata.com/dat/esfhu991.html
+- Teaching-objective index: https://duolingodata.com/dat/esfhu991-d.html
 
 These are public third-party curriculum maps, not official API responses. The detailed course page identifies its snapshot as 2026-03-02. User-visible course progress in the Duolingo app remains the source of truth if its current rollout differs.
 
@@ -73,7 +73,7 @@ These are Instituto Cervantes AVE A1.1 topic contents, not Duolingo's official U
 
 ## Teaching decision for Unit 2.22
 
-Until the user supplies the English-language Guidebook page or current exercise examples, teach the following as a theme-based support lesson only:
+Until the user supplies the Hungarian-translated Guidebook page or current exercise examples, teach the following as a theme-based support lesson only:
 1. present-tense regular verbs already introduced in the course;
 2. quantities and food-related question words;
 3. noun gender/number and adjective agreement where needed;

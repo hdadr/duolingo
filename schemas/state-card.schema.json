@@ -21,7 +21,7 @@
     },
     "course_key": {
       "enum": [
-        "es-en",
+        "es-hu",
         "en-hu"
       ]
     },

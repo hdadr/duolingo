@@ -6,14 +6,14 @@ A Free csomagban egy projekt legfeljebb **5 fájlt** tartalmazhat, ezért az ind
 
 ## 1. Spanyol projekt létrehozása
 
-Projekt neve: **Duolingo – Spanyol angolból**
+Projekt neve: **Duolingo – Spanyol magyarból**
 
-A projekt Instructions mezőjébe másold be a [spanyol projektutasításokat](es-en/PROJECT-INSTRUCTIONS.md).
+A projekt Instructions mezőjébe másold be a [spanyol projektutasításokat](es-hu/PROJECT-INSTRUCTIONS.md).
 
 A projektbe töltsd fel ezt a három fájlt:
 1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md) – a közös tanítási, folytonossági és chatváltási szabályok.
-2. [COURSE-ROUTER.json](es-en/COURSE-ROUTER.json) – spanyol egység-/modulválasztó térkép.
-3. [STATE-CARD.json](es-en/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
+2. [COURSE-ROUTER.json](es-hu/COURSE-ROUTER.json) – spanyol magyarból útvonaltérkép a 991 egységhez.
+3. [STATE-CARD.json](es-hu/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
 
 (A router szerkezetét a [free-course-router.schema.json](../schemas/free-course-router.schema.json) ellenőrzi; ez nem projektfájl, nem kell feltölteni.)
 

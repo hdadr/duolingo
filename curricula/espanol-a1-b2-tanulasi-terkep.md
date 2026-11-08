@@ -1,7 +1,7 @@
 # Spanyol tanulási térkép A1–B2
-## Magyar nyelvű magyarázó tananyag a Duolingo angol → spanyol kurzus mellé
+## Magyar nyelvű magyarázó tananyag a Duolingo magyar → spanyol kurzus mellé
 
-**Kurzus:** `DUOLINGO_ES_EN`  
+**Kurzus:** `DUOLINGO_ES_HU`  
 **Magyarázat nyelve:** magyar  
 **Létrehozva:** 2026-11-05  
 **Státusz:** nyílt forrásokból összeállított, CEFR-alapú pedagógiai térkép; nem a Duolingo hivatalos nyelvtani tematikája.
@@ -10,13 +10,13 @@
 
 ## 1. A térkép célja és használata
 
-Ez a dokumentum azt határozza meg, hogy a Duolingo angol alapnyelvű spanyol kurzusával párhuzamosan milyen magyar nyelvű nyelvtani magyarázatokat érdemes adni, milyen sorrendben, és melyik korábbi tudásra építve.
+Ez a dokumentum azt határozza meg, hogy a Duolingo magyar alapnyelvű spanyol kurzusával párhuzamosan milyen magyar nyelvű nyelvtani magyarázatokat érdemes adni, milyen sorrendben, és melyik korábbi tudásra építve.
 
 A Duolingo útvonala határozza meg a **haladási sorrendet és a kommunikációs témát**. Az Instituto Cervantes Plan Curricular és AVE Global tananyagai adják a **nyelvtani és pedagógiai referenciát**. Az utóbbiak nem a Duolingo hivatalos tantervei, ezért a térkép nem állítja, hogy egy adott nyelvtani pont bizonyosan egy meghatározott Duolingo-egységben jelenik meg.
 
 ### Alapelv
 
-- A tanuló angol nyelvű feladatokat lát a Duolingóban, de minden magyarázat magyarul készül.
+- A tanuló magyar nyelvű feladatokat lát a Duolingóban, de minden magyarázat magyarul készül.
 - Nem indítunk ettől független spanyol tanfolyamot: a magyarázat mindig az aktuális Duolingo-szekcióhoz, egységhez és témához igazodik.
 - A nyelvtani térkép megmutatja, mi jöhet szóba az adott szinten; a konkrét új leckecélt csak az aktuális Guidebook, az egység leírása vagy a feladatokból látható minták alapján nevezzük igazoltnak.
 - A még nem esedékes nyelvtani témákat nem tanítjuk előre. Előfeltételként röviden visszautalhatunk korábbi ismeretre.
@@ -26,7 +26,7 @@ A Duolingo útvonala határozza meg a **haladási sorrendet és a kommunikáció
 
 ## 2. A Duolingo útvonalának illesztése
 
-A nyilvános Duolingo Data kurzustérkép 2026-os változata a spanyol angolból kurzust nyolc szekcióra és 991 egységre bontja. A szekciók és CEFR-címkéik:
+A nyilvános Duolingo Data kurzustérkép 2026-os változata a spanyol magyarból kurzust nyolc szekcióra és 991 egységre bontja. A szekciók és CEFR-címkéik:
 
 | Duolingo-szekció | CEFR-címke | Egység | A tanulási térkép fő fókusza |
 |---|---:|---:|---|
@@ -501,8 +501,8 @@ Ez **nem bizonyítja**, hogy a Duolingo 2.22 ugyanezeket a nyelvtani pontokat ta
 ## 8. Források és megbízhatóság
 
 ### A. Duolingo kurzusútvonal – közösségi adatbázis
-- Fő spanyol kurzustérkép: https://duolingodata.com/dat/esfen991.html
-- Lecketípusok és célnevek: https://duolingodata.com/dat/esfen991-d.html
+- Fő spanyol kurzustérkép: https://duolingodata.com/dat/esfhu991.html
+- Lecketípusok és célnevek: https://duolingodata.com/dat/esfhu991-d.html
 - Verziótörténet: https://duolingodata.com/dat/esfen-versions.txt
 
 **Felhasználás:** szekciók, CEFR-címkék, egységszámok és kommunikációs témák.  
@@ -544,8 +544,8 @@ A felhasználó által bemásolt Guidebook-kulcskifejezések és magyar fordít�
 
 | Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
 |---|---|---:|---:|---|
-| 1. | Intro | 1–10 | #1–10 | `guidebooks/es-en/module-01.json` |
-| 2. | A1 | 1–31 | #11–41 | `guidebooks/es-en/module-02.json` |
+| 1. | Intro | 1–10 | #1–10 | `guidebooks/es-hu/module-01.json` |
+| 2. | A1 | 1–31 | #11–41 | `guidebooks/es-hu/module-02.json` |
 
 A forrás az egységekhez kulcskifejezéseket és magyar fordításokat adott, de külön nyelvtani célcímeket nem. Ezért az alábbi A1-modulok és a Guidebook-egységek kapcsolata **megfigyelt példákon** alapul, nem explicit nyelvtani tantervi állítás:
 
@@ -565,8 +565,8 @@ A 4–5., 6–7. és 8–9. Intro-egység azonos példacsoportjait a részletes 
 
 | Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
 |---|---|---:|---:|---|
-| 3. | A1 | 1–30 | #42–71 | `guidebooks/es-en/module-03.json` |
-| 4. | A2 | 1–60 | #72–131 | `guidebooks/es-en/module-04.json` |
+| 3. | A1 | 1–30 | #42–71 | `guidebooks/es-hu/module-03.json` |
+| 4. | A2 | 1–60 | #72–131 | `guidebooks/es-hu/module-04.json` |
 
 A 3. szekció 30, a 4. szekció 60 Guidebook-egységét a felhasználó által megadott spanyol kulcskifejezésekkel és magyar fordításokkal rögzítettük. A forrás egyik szekcióban sem közölt külön egységcímeket vagy kifejezett nyelvtani célcímeket. A nyelvtani kapcsolatok megfigyelt példákat jelölnek.
 
@@ -595,7 +595,7 @@ A magyar fordításokat forrásadatként őrizzük; az esetleges fordítási biz
 
 | Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
 |---|---|---:|---:|---|
-| 5. | B1 | 1–250 | #132–381 | `guidebooks/es-en/module-05.json` |
+| 5. | B1 | 1–250 | #132–381 | `guidebooks/es-hu/module-05.json` |
 
 A 250 egység 50 különböző, öt egymást követő egységen ismétlődő, egyenként öt kulcskifejezést tartalmazó csoportból áll. A részletes JSON minden egységet külön hivatkozással tárol, de az azonos kifejezéscsoportokat csak egyszer rögzíti. A magyar fordításokat a felhasználó adta meg.
 
@@ -617,7 +617,7 @@ A forrás nem közölt külön egységcímeket vagy kifejezett nyelvtani célcí
 
 | Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
 |---|---|---:|---:|---|
-| 6. | B1 (ideiglenes besorolás) | 1–250 | #382–631 | `guidebooks/es-en/module-06.json` |
+| 6. | B1 (ideiglenes besorolás) | 1–250 | #382–631 | `guidebooks/es-hu/module-06.json` |
 
 A 6. modul mindkét részlete feldolgozásra került. A 250 egység 50, egyenként öt egymást követő egységben ismétlődő kulcskifejezés-csoportot tartalmaz; a csoportokat deduplikáltan tároljuk, miközben az összes egységankor megmarad.
 
@@ -633,13 +633,13 @@ A 6. modul mindkét részlete feldolgozásra került. A 250 egység 50, egyenké
 A címkék a bemásolt példák nyelvtani alakjait írják le, nem külön Guidebook-fejezetcímek és nem igazolják a tanulói elsajátítást.
 
 
-## 7. szekció – első feldolgozott rész, részleges lefedettség (2026-11-08)
+## 7. szekció – teljes Guidebook-lefedettség (2026-11-08)
 
 | Duolingo-szekció | CEFR | Feldolgozott helyi egységek | Kurzus-egységek | Részletes adat |
 |---|---|---:|---:|---|
-| 7. | B2 (ideiglenes besorolás) | 1–180 | #632–811 | `guidebooks/es-en/module-07.json` |
+| 7. | B2 (ideiglenes besorolás) | 1–180 | #632–811 | `guidebooks/es-hu/module-07.json` |
 
-A jelenleg átadott anyag 180 egységet és 36, egyenként öt egységben ismétlődő kifejezéscsoportot tartalmaz. A modul teljes hossza nem ismert; a folytatás #812-től várható. A B2-szint besorolása a példák nyelvtani összetettsége alapján ideiglenes.
+A teljes átadott anyag 180 egységet és 36, egyenként öt egységben ismétlődő kifejezéscsoportot tartalmaz (#632–811). A Guidebook-adatgyűjtés a teljes szekcióra lezárult. A B2-szint besorolása közösségi kurzustérkép-címke, nem önálló hivatalos CEFR-minősítés.
 
 ### Megfigyelt nyelvtani minták
 
@@ -651,3 +651,14 @@ A jelenleg átadott anyag 180 egységet és 36, egyenként öt egységben ismét
 - Diskurzusjelölők, engedmény, összehasonlító és összetett vonatkozó mellékmondatok.
 
 A nyelvtani kapcsolatok a bemásolt példákból származó megfigyelések, nem hivatalos Guidebook-célcímek és nem igazolják a tanulói elsajátítást.
+
+
+## 8. szekció – teljes Guidebook-lefedettség (2026-11-08)
+
+| Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
+|---|---|---:|---:|---|
+| 8. | B2 (közösségi címke, ideiglenes) | 1–180 | #812–991 | `guidebooks/es-hu/module-08.json` |
+
+A 8. szekció minden egységéhez rendelkezésre áll a felhasználó által megadott spanyol kulcskifejezés-csoport és magyar fordítás. A 180 egység 36 ötegységes csoportba rendeződik; a példákat deduplikálva tároljuk, miközben az egység-hozzárendeléseket megtartjuk.
+
+A nyelvtani kapcsolatok a példamondatokban megfigyelt alakokat és szerkezeteket írják le. A forrás külön nyelvtani célcímeket nem adott, ezért ezek nem hivatalos Duolingo-nyelvtani célok és nem bizonyítják a tanuló elsajátítását.

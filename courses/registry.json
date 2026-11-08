@@ -2,22 +2,24 @@
   "explanation_language": "hu",
   "courses": [
     {
-      "key": "es-en",
-      "duolingo_course_id": "DUOLINGO_ES_EN",
+      "key": "es-hu",
+      "duolingo_course_id": "DUOLINGO_ES_HU",
       "learning_language": "es",
       "learning_language_name": "Spanish",
-      "base_language": "en",
-      "base_language_name": "English",
-      "display_name": "Spanish from English",
+      "base_language": "hu",
+      "base_language_name": "Hungarian",
+      "display_name": "Spanish from Hungarian",
       "current_user_goal": true,
-      "curriculum_source": "https://duolingodata.com/dat/esfen991.html",
+      "curriculum_source": "https://duolingodata.com/dat/esfhu991.html",
       "public_index": "https://duolingodata.com/",
       "official_app_support_check": "https://www.duolingo.com/api/1/version_info",
       "curriculum_markdown": "curricula/espanol-a1-b2-tanulasi-terkep.md",
       "curriculum_json": "curricula/espanol-a1-b2-tanulasi-terkep.json",
       "chatgpt_prompt": "prompts/DUOLINGO-HU-CHATGPT-PROMPT.md",
-      "module_index": "learning-modules/es-en/index.json",
-      "state_card": "progress/es-en-state-card.json"
+      "course_path_snapshot": "2026-03-18",
+      "unit_count": 991,
+      "module_index": "learning-modules/es-hu/index.json",
+      "state_card": "progress/es-hu-state-card.json"
     },
     {
       "key": "en-hu",
@@ -39,11 +41,5 @@
       "module_index": "learning-modules/en-hu/index.json",
       "state_card": "progress/en-hu-state-card.json"
     }
-  ],
-  "additional_apk_supported_course_not_enabled_as_a_study_track": {
-    "duolingo_course_id": "DUOLINGO_ES_HU",
-    "learning_language": "es",
-    "base_language": "hu",
-    "note": "The uploaded screenshot is compatible with a Hungarian-translated interface, but this course is not one of the two requested main tracks."
-  }
+  ]
 }

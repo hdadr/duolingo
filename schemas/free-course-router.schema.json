@@ -21,7 +21,7 @@
     },
     "course": {
       "enum": [
-        "es-en",
+        "es-hu",
         "en-hu"
       ]
     },

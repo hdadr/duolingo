@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "course_id": "DUOLINGO_ES_EN",
-  "course_key": "es-en",
+  "course_id": "DUOLINGO_ES_HU",
+  "course_key": "es-hu",
   "learning_language": "es",
-  "base_language": "en",
+  "base_language": "hu",
   "explanation_language": "hu",
   "source": {
     "kind": "user_supplied_guidebook_transcription",
     "received_date": "2026-11-08",
-    "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításaik.",
+    "source_description": "A tanuló által bemásolt, magyar alapnyelvű Duolingo spanyol kurzusának Guidebook-kulcskifejezései és magyar fordításai. A magyar fordításokat forrásadatként, változtatás nélkül őrizzük.",
     "coverage": "Duolingo 8. modul, helyi egységek 1–180; kurzus-egységek #812–991.",
     "note": "A kurzustérkép szerint a 8. modul 180 egységből áll, így a teljes szekció lefedett. 36 teljes, egyenként öt egységben ismétlődő példacsoportot tartalmaz. A magyar egységcímek szerkesztői összefoglalók; a Guidebook nem adott külön egységszintű nyelvtani címeket. A nyelvtani kapcsolatok megfigyelt példákon alapulnak."
   },

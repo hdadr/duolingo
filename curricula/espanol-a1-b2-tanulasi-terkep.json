@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "curriculum_id": "spanish-a1-b2-duolingo-companion",
-  "course_id": "DUOLINGO_ES_EN",
+  "course_id": "DUOLINGO_ES_HU",
   "learning_language": "es",
-  "base_language": "en",
+  "base_language": "hu",
   "explanation_language": "hu",
   "generated_at": "2026-11-05",
   "status": "derived_reference_map",
   "source_policy": {
     "raw_duolingo_lesson_text_stored": false,
     "exact_duolingo_grammar_sequence_claimed": false,
-    "note_hu": "A Duolingo útvonal a sorrendet és kommunikációs témákat adja; a nyelvtani tanmenet az Instituto Cervantes PCIC és AVE Global anyagaival kiegészített pedagógiai térkép."
+    "note_hu": "A magyar alapnyelvű Duolingo-útvonal a sorrendet és a kommunikációs témákat adja; a nyelvtani tanmenet az Instituto Cervantes PCIC és AVE Global anyagaival kiegészített pedagógiai referencia. Ez nem a Duolingo hivatalos nyelvtani tanterve."
   },
   "progression": [
     {
@@ -666,14 +666,14 @@
   ],
   "sources": [
     {
-      "name": "Duolingo Data — Spanish from English path",
-      "url": "https://duolingodata.com/dat/esfen991.html",
+      "name": "Duolingo Data — Spanish from Hungarian path",
+      "url": "https://duolingodata.com/dat/esfhu991.html",
       "type": "community_course_map",
       "used_for": "section/unit structure and topic progression"
     },
     {
       "name": "Duolingo Data — lesson names and objective labels",
-      "url": "https://duolingodata.com/dat/esfen991-d.html",
+      "url": "https://duolingodata.com/dat/esfhu991-d.html",
       "type": "community_course_map",
       "used_for": "additional communication and objective tags"
     },
