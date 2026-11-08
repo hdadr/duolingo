@@ -1,0 +1,2500 @@
+{
+  "schema_version": 1,
+  "course_id": "DUOLINGO_ES_EN",
+  "course_key": "es-en",
+  "learning_language": "es",
+  "base_language": "en",
+  "explanation_language": "hu",
+  "source": {
+    "kind": "user_supplied_guidebook_transcription",
+    "received_date": "2026-11-08",
+    "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításaik. A magyar fordításokat forrásadatként, változtatás nélkül őrizzük.",
+    "coverage": "Duolingo 2. modul, 1–31. rész",
+    "total_course_units": 991,
+    "note": "A forrás általános segédanyag-bevezetőt és kulcskifejezéseket tartalmazott, külön nyelvtani célcímeket nem. A szerkesztői egységcímek a példák alapján készültek. A nyelvtani besorolások megfigyelt előfordulások, nem bizonyítják egy teljes szabály kifejezett tanítását vagy a tanuló elsajátítását."
+  },
+  "module": {
+    "number": 2,
+    "cefr": "A1",
+    "unit_range": [
+      11,
+      41
+    ],
+    "section_unit_range": [
+      1,
+      31
+    ],
+    "title_hu": "Mindennapi élet, otthon, szabadidő és alapvető társalgás",
+    "unique_phrase_sets": 31,
+    "units_with_repeated_phrase_sets": 0
+  },
+  "units": [
+    {
+      "unit": 11,
+      "section_unit": 1,
+      "title_hu": "Lakóhely és otthon",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Lakóhely és otthon",
+      "phrase_set_ref": "s2-topic-01",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 12,
+      "section_unit": 2,
+      "title_hu": "Szabadidő és tevékenységek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Szabadidő és tevékenységek",
+      "phrase_set_ref": "s2-topic-02",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 13,
+      "section_unit": 3,
+      "title_hu": "Sport és testmozgás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Sport és testmozgás",
+      "phrase_set_ref": "s2-topic-03",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 14,
+      "section_unit": 4,
+      "title_hu": "Hobbi és szabadidő",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Hobbi és szabadidő",
+      "phrase_set_ref": "s2-topic-04",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 15,
+      "section_unit": 5,
+      "title_hu": "Iskola és tanulás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Iskola és tanulás",
+      "phrase_set_ref": "s2-topic-05",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 16,
+      "section_unit": 6,
+      "title_hu": "Éttermi rendelés és étel",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Éttermi rendelés és étel",
+      "phrase_set_ref": "s2-topic-06",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 17,
+      "section_unit": 7,
+      "title_hu": "Ételek és éttermi értékelés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ételek és éttermi értékelés",
+      "phrase_set_ref": "s2-topic-07",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 18,
+      "section_unit": 8,
+      "title_hu": "Helyek a városban",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Helyek a városban",
+      "phrase_set_ref": "s2-topic-08",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 19,
+      "section_unit": 9,
+      "title_hu": "Ruházat és színek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Ruházat és színek",
+      "phrase_set_ref": "s2-topic-09",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 20,
+      "section_unit": 10,
+      "title_hu": "Munkahely és foglalkozások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Munkahely és foglalkozások",
+      "phrase_set_ref": "s2-topic-10",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 21,
+      "section_unit": 11,
+      "title_hu": "Piaci bevásárlás és mennyiségek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Piaci bevásárlás és mennyiségek",
+      "phrase_set_ref": "s2-topic-11",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 22,
+      "section_unit": 12,
+      "title_hu": "Házimunka és napi teendők",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Házimunka és napi teendők",
+      "phrase_set_ref": "s2-topic-12",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 23,
+      "section_unit": 13,
+      "title_hu": "Tárgyak, tanulás és birtokosok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Tárgyak, tanulás és birtokosok",
+      "phrase_set_ref": "s2-topic-13",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 24,
+      "section_unit": 14,
+      "title_hu": "Érzések és állapotok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Érzések és állapotok",
+      "phrase_set_ref": "s2-topic-14",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 25,
+      "section_unit": 15,
+      "title_hu": "Közlekedés és útbaigazítás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Közlekedés és útbaigazítás",
+      "phrase_set_ref": "s2-topic-15",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 26,
+      "section_unit": 16,
+      "title_hu": "Élelmiszerek és mennyiségek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Élelmiszerek és mennyiségek",
+      "phrase_set_ref": "s2-topic-16",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 27,
+      "section_unit": 17,
+      "title_hu": "Családtagok és személyek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Családtagok és személyek",
+      "phrase_set_ref": "s2-topic-17",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 28,
+      "section_unit": 18,
+      "title_hu": "Család és külső leírása",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Család és külső leírása",
+      "phrase_set_ref": "s2-topic-18",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 29,
+      "section_unit": 19,
+      "title_hu": "Programok és időpontok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Programok és időpontok",
+      "phrase_set_ref": "s2-topic-19",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 30,
+      "section_unit": 20,
+      "title_hu": "Udvarias megszólítás és foglalkozások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Udvarias megszólítás és foglalkozások",
+      "phrase_set_ref": "s2-topic-20",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 31,
+      "section_unit": 21,
+      "title_hu": "Érzelmek, napló és személyes élet",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Érzelmek, napló és személyes élet",
+      "phrase_set_ref": "s2-topic-21",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 32,
+      "section_unit": 22,
+      "title_hu": "Étrend és étkezési szokások",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Étrend és étkezési szokások",
+      "phrase_set_ref": "s2-topic-22",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 33,
+      "section_unit": 23,
+      "title_hu": "Állatok és élőhelyek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Állatok és élőhelyek",
+      "phrase_set_ref": "s2-topic-23",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 34,
+      "section_unit": 24,
+      "title_hu": "Napi rutin és visszaható igék",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Napi rutin és visszaható igék",
+      "phrase_set_ref": "s2-topic-24",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 35,
+      "section_unit": 25,
+      "title_hu": "Napi rutin és személyek leírása",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Napi rutin és személyek leírása",
+      "phrase_set_ref": "s2-topic-25",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 36,
+      "section_unit": 26,
+      "title_hu": "Kedvelés és érdeklődés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kedvelés és érdeklődés",
+      "phrase_set_ref": "s2-topic-26",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 37,
+      "section_unit": 27,
+      "title_hu": "Kedvelés, érdeklődés és zene",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kedvelés, érdeklődés és zene",
+      "phrase_set_ref": "s2-topic-27",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 38,
+      "section_unit": 28,
+      "title_hu": "Kedvelés és szabadidős tevékenységek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kedvelés és szabadidős tevékenységek",
+      "phrase_set_ref": "s2-topic-28",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 39,
+      "section_unit": 29,
+      "title_hu": "Orvos, tünetek és időpontkérés",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Orvos, tünetek és időpontkérés",
+      "phrase_set_ref": "s2-topic-29",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 40,
+      "section_unit": 30,
+      "title_hu": "Közlekedés és úticélok",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Közlekedés és úticélok",
+      "phrase_set_ref": "s2-topic-30",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 41,
+      "section_unit": 31,
+      "title_hu": "Életkor és születésnap",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Életkor és születésnap",
+      "phrase_set_ref": "s2-topic-31",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    }
+  ],
+  "phrase_sets": [
+    {
+      "id": "s2-topic-01",
+      "title_hu_derived": "Lakóhely és otthon",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        11,
+        11
+      ],
+      "phrases": [
+        [
+          "Sí, yo vivo en mi apartamento.",
+          "Igen, a lakásomban élek."
+        ],
+        [
+          "Mi casa tiene dos pisos y un garaje.",
+          "A házamnak két emelete és egy garázsa van."
+        ],
+        [
+          "Hay un supermercado cerca.",
+          "Van egy szupermarket a közelben."
+        ],
+        [
+          "Yo vivo con mi familia ahora.",
+          "Most a családommal élek."
+        ],
+        [
+          "Este edificio es muy bonito.",
+          "Ez az épület nagyon szép."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "vivir jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tener birtoklás kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hay létezés/jelenlét kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mi birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "este mutató determináns és melléknévi egyeztetés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-02",
+      "title_hu_derived": "Szabadidő és tevékenységek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        12,
+        12
+      ],
+      "phrases": [
+        [
+          "¿Qué haces en tu tiempo libre?",
+          "Mit csinálsz a szabadidődben?"
+        ],
+        [
+          "Sí, yo bailo salsa en mi terraza.",
+          "Igen, salsát táncolok a teraszomon."
+        ],
+        [
+          "Sí, nosotros cocinamos arroz con pollo.",
+          "Igen, rizst főzünk csirkével."
+        ],
+        [
+          "Tú viajas en coche, ¿verdad?",
+          "Autóval utazol, ugye?"
+        ],
+        [
+          "¡Yo canto también!",
+          "Én is énekelek!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "hacer, bailar, cocinar, viajar és cantar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "yo, tú és nosotros alanyok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "qué kérdőszó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tu és mi birtokos determinánsok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "también és ¿verdad?",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s2-topic-03",
+      "title_hu_derived": "Sport és testmozgás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        13,
+        13
+      ],
+      "phrases": [
+        [
+          "¿Tú practicas fútbol con tu equipo también?",
+          "Te is focizol a csapatoddal?"
+        ],
+        [
+          "Yo levanto pesas por la mañana.",
+          "Reggelente súlyokat emelek."
+        ],
+        [
+          "Ellos nadan a menudo porque hace calor.",
+          "Gyakran úsznak, mert meleg van."
+        ],
+        [
+          "Mi hermano y yo levantamos pesas en este gimnasio.",
+          "A testvérem és én súlyokat emelünk ebben az edzőteremben."
+        ],
+        [
+          "¿Tú practicas básquetbol en tu escuela?",
+          "Kosárlabdázol az iskoládban?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "-ar végű igék jelen idejű ragozása különböző személyekben",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tú, yo, ellos és mi ... y yo alanyok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a menudo gyakorisági kifejezés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "porque okot vezet be",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "este mutató determináns",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-04",
+      "title_hu_derived": "Hobbi és szabadidő",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        14,
+        14
+      ],
+      "phrases": [
+        [
+          "¿Tú dibujas y cantas también?",
+          "Rajzolsz és énekelsz is?"
+        ],
+        [
+          "Yo pesco en mi tiempo libre.",
+          "Szabadidőmben horgászom."
+        ],
+        [
+          "¿Tu vecina canta o baila?",
+          "A szomszédod énekel vagy táncol?"
+        ],
+        [
+          "Siempre escucho un pódcast en mi tiempo libre.",
+          "Mindig hallgatok podcastot a szabadidőmben."
+        ],
+        [
+          "¿Tu curso empieza hoy o mañana?",
+          "Ma vagy holnap kezdődik a tanfolyamod?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "jelen idejű -ar igék",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "y és o mondatkapcsolás/választás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "siempre gyakorisági határozó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "empezar rendhagyó jelen idejű alakja (empieza)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tu birtokos determináns",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-07"
+      ]
+    },
+    {
+      "id": "s2-topic-05",
+      "title_hu_derived": "Iskola és tanulás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        15,
+        15
+      ],
+      "phrases": [
+        [
+          "¿Dónde está el libro?",
+          "Hol van a könyv?"
+        ],
+        [
+          "Yo estudio en este colegio.",
+          "Tanulok ebben az iskolában."
+        ],
+        [
+          "Sí, el maestro enseña historia.",
+          "Igen, a tanár történelmet tanít."
+        ],
+        [
+          "¿Tu clase es fácil?",
+          "Könnyű az órád?"
+        ],
+        [
+          "¡Necesito la lección!",
+          "Szükségem van a leckére!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar hely meghatározására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estudiar, enseñar és necesitar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "este mutató determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser + melléknév egyszerű jellemzésre",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "főnév és melléknév egyeztetése",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-06",
+      "title_hu_derived": "Éttermi rendelés és étel",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        16,
+        16
+      ],
+      "phrases": [
+        [
+          "¿Con salsa o sin salsa?",
+          "Szósszal vagy szósz nélkül?"
+        ],
+        [
+          "No, sin queso, por favor.",
+          "Nem, sajt nélkül kérem."
+        ],
+        [
+          "¿Dónde está mi bebida?",
+          "Hol van az italom?"
+        ],
+        [
+          "Una hamburguesa, por favor.",
+          "Kérek egy hamburgert."
+        ],
+        [
+          "La cuenta, por favor.",
+          "A számlát kérem."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "con és sin elöljárók",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por favor mint udvarias kérés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar helyre vonatkozó kérdésben",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "határozatlan névelő nőnemű főnév előtt",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-04",
+        "A1-06",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-07",
+      "title_hu_derived": "Ételek és éttermi értékelés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        17,
+        17
+      ],
+      "phrases": [
+        [
+          "La comida es buena aquí.",
+          "Itt jó az étel."
+        ],
+        [
+          "¿La sopa es cara?",
+          "Drága a leves?"
+        ],
+        [
+          "Este restaurante es nuevo.",
+          "Ez az étterem új."
+        ],
+        [
+          "Las bebidas son buenas pero los postres son malos.",
+          "Az italok jók, de a desszertek rosszak."
+        ],
+        [
+          "El bar es caro, pero el desayuno es bueno.",
+          "A bár drága, de a reggeli jó."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ser jelen idejű alakjai leírásban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknevek nemben és számban egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "pero ellentétet kapcsol össze",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "este mutató determináns",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-06",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-08",
+      "title_hu_derived": "Helyek a városban",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        18,
+        18
+      ],
+      "phrases": [
+        [
+          "¿Dónde está la estación de tren?",
+          "Hol van a vasútállomás?"
+        ],
+        [
+          "Disculpe, ¿dónde están las piscinas?",
+          "Elnézést, hol vannak az uszodák?"
+        ],
+        [
+          "La plaza y el museo están cerca.",
+          "A tér és a múzeum közel vannak."
+        ],
+        [
+          "¿Dónde hay un restaurante?",
+          "Hol van egy étterem?"
+        ],
+        [
+          "El hotel está enfrente de la plaza.",
+          "A szálloda a térrel szemben van."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar hely meghatározására és szám szerinti egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hay létezés/jelenlét kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "dónde kérdőszó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cerca és enfrente de helyviszonyok",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-09",
+      "title_hu_derived": "Ruházat és színek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        19,
+        19
+      ],
+      "phrases": [
+        [
+          "¿Necesitas un vestido rojo?",
+          "Szükséged van egy piros ruhára?"
+        ],
+        [
+          "No, yo necesito un abrigo rojo.",
+          "Nem, szükségem van egy piros kabátra."
+        ],
+        [
+          "Hola, necesito un vestido blanco, por favor.",
+          "Szia, szükségem van egy fehér ruhára, kérem szépen."
+        ],
+        [
+          "¿Dónde están los sombreros?",
+          "Hol vannak a kalapok?"
+        ],
+        [
+          "¡Este vestido es muy largo!",
+          "Ez a ruha nagyon hosszú!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "necesitar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "határozatlan és határozott névelők",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknevek nemben és számban egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar többes számban hely meghatározására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "este mutató determináns és muy fokozás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-10",
+      "title_hu_derived": "Munkahely és foglalkozások",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        20,
+        20
+      ],
+      "phrases": [
+        [
+          "Ella es mi jefa.",
+          "Ő a főnököm."
+        ],
+        [
+          "Trabajo en una oficina vieja.",
+          "Egy régi irodában dolgozom."
+        ],
+        [
+          "¿Hay una peluquería allí?",
+          "Van ott fodrászat?"
+        ],
+        [
+          "Mi jefa es inglesa.",
+          "A főnököm angol."
+        ],
+        [
+          "¿Trabajas en una oficina?",
+          "Egy irodában dolgozol?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ser és trabajar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hay létezés/jelenlét kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mi birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "foglalkozási/nemzetiségi főnevek és melléknevek neme",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "una határozatlan névelő",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-11",
+      "title_hu_derived": "Piaci bevásárlás és mennyiségek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        21,
+        21
+      ],
+      "phrases": [
+        [
+          "Necesito unos mangos para mi postre.",
+          "Szükségem van néhány mangóra a desszertemhez."
+        ],
+        [
+          "Una piña, por favor.",
+          "Egy ananász, kérem."
+        ],
+        [
+          "¿Los tomates son para salsa?",
+          "A paradicsomok szósznak valók?"
+        ],
+        [
+          "Quiero unos duraznos y una naranja, por favor.",
+          "Kérek néhány őszibarackot és egy narancsot, kérem szépen."
+        ],
+        [
+          "Lo siento, no hay zanahorias.",
+          "Sajnálom, nincs sárgarépa."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "unos/unas határozatlan névelő többes számban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "szám és nem egyeztetése a főnévi csoportban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "para cél vagy rendeltetés kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser + para rendeltetés megadására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no hay létezés tagadása",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-06",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-12",
+      "title_hu_derived": "Házimunka és napi teendők",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        22,
+        22
+      ],
+      "phrases": [
+        [
+          "¿Lavas tus platos?",
+          "Elmosogatod a tányérjaidat?"
+        ],
+        [
+          "Siempre lavo los platos.",
+          "Mindig mosogatom a tányérokat."
+        ],
+        [
+          "¿Dónde están tus platos?",
+          "Hol vannak a tányérjaid?"
+        ],
+        [
+          "Tu amigo nunca limpia la casa.",
+          "A barátod soha nem takarítja a házat."
+        ],
+        [
+          "Necesitamos vasos y platos.",
+          "Szükségünk van poharakra és tányérokra."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "lavar, limpiar és necesitar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "siempre és nunca gyakorisági határozók",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tus és tu birtokos determinánsok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar többes számban hely meghatározására",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-13",
+      "title_hu_derived": "Tárgyak, tanulás és birtokosok",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        23,
+        23
+      ],
+      "phrases": [
+        [
+          "Quiero tres copias.",
+          "Három példányt szeretnék."
+        ],
+        [
+          "Nuestro diccionario es excelente.",
+          "A szótárunk kiváló."
+        ],
+        [
+          "¿Dónde está nuestra clase?",
+          "Hol van a tantermünk?"
+        ],
+        [
+          "Necesitamos nuestras computadoras.",
+          "Szükségünk van a számítógépeinkre."
+        ],
+        [
+          "Es un proyecto interesante.",
+          "Ez egy érdekes projekt."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "nuestro/nuestra/nuestras birtokos determinánsok nembeli és számbeli egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "számnevek és többes számú főnevek",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "estar hely meghatározására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknevek egyeztetése",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s2-topic-14",
+      "title_hu_derived": "Érzések és állapotok",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        24,
+        24
+      ],
+      "phrases": [
+        [
+          "¿Estás emocionado o nervioso?",
+          "Izgatott vagy ideges vagy?"
+        ],
+        [
+          "Estoy nerviosa porque hay una competencia.",
+          "Ideges vagyok, mert verseny van."
+        ],
+        [
+          "¿Tu hermana está contenta hoy?",
+          "A nővéred ma boldog?"
+        ],
+        [
+          "Claro, ¡estoy muy contenta!",
+          "Persze, nagyon boldog vagyok!"
+        ],
+        [
+          "¿Por qué no estás contenta?",
+          "Miért nem vagy boldog?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar + melléknév állapot kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknevek nembeli egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "porque okot vezet be",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por qué okra kérdez rá",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hay létezés/jelenlét kifejezésére",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-15",
+      "title_hu_derived": "Közlekedés és útbaigazítás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        25,
+        25
+      ],
+      "phrases": [
+        [
+          "¿Dónde está la estación de metro?",
+          "Hol van a metróállomás?"
+        ],
+        [
+          "El tren sale en cinco minutos.",
+          "A vonat öt perc múlva indul."
+        ],
+        [
+          "¿Cómo llego a mi hotel?",
+          "Hogyan jutok el a szállodához?"
+        ],
+        [
+          "El aeropuerto está a cinco kilómetros.",
+          "A repülőtér öt kilométerre van."
+        ],
+        [
+          "¿Cuánto cuesta el autobús?",
+          "Mennyibe kerül a busz?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar és salir jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cómo és dónde kérdőszavak",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "llegar + a úticél jelölésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "távolság kifejezése a + mértékegység szerkezettel",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuánto cuesta árkérdésben",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-06",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-16",
+      "title_hu_derived": "Élelmiszerek és mennyiségek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        26,
+        26
+      ],
+      "phrases": [
+        [
+          "¿Cuánto cuesta el aceite?",
+          "Mennyibe kerül az olaj?"
+        ],
+        [
+          "Necesito un litro de leche para las galletas.",
+          "Szükségem van egy liter tejre a kekszhez."
+        ],
+        [
+          "¿Cuántas cebollas necesitamos?",
+          "Hány hagymára van szükségünk?"
+        ],
+        [
+          "¿Qué necesitas para la receta?",
+          "Mire van szükséged a recepthez?"
+        ],
+        [
+          "¿Cuántos limones quieres?",
+          "Hány citromot szeretnél?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "cuánto/cuánta/cuántos/cuántas mennyiségi kérdések",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mértékegység + de + főnév",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "necesitar és querer jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "para cél/rendeltetés kifejezésére",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-06"
+      ]
+    },
+    {
+      "id": "s2-topic-17",
+      "title_hu_derived": "Családtagok és személyek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        27,
+        27
+      ],
+      "phrases": [
+        [
+          "¿Quién es el hombre simpático?",
+          "Ki az a kedves férfi?"
+        ],
+        [
+          "Las chicas son mis amigas.",
+          "A lányok a barátnőim."
+        ],
+        [
+          "¿Tú eres el hermano de Paula?",
+          "Te vagy Paula testvére?"
+        ],
+        [
+          "Hola, ¿cómo estás?",
+          "Szia, hogy vagy?"
+        ],
+        [
+          "Soy el primo de Manuel.",
+          "Manuel unokatestvére vagyok."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ser jelen idejű alakjai azonosításra és rokoni kapcsolat megadására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quién személyre kérdez rá",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknév- és főnévnem egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mis birtokos determináns többes számban",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s2-topic-18",
+      "title_hu_derived": "Család és külső leírása",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        28,
+        28
+      ],
+      "phrases": [
+        [
+          "Mis sobrinas practican tenis.",
+          "Az unokahúgaim teniszeznek."
+        ],
+        [
+          "¿Quiénes son las chicas con falda roja?",
+          "Kik azok a lányok piros szoknyában?"
+        ],
+        [
+          "Mis padres tienen los ojos negros.",
+          "A szüleimnek fekete szemei vannak."
+        ],
+        [
+          "Ah, ¿tus sobrinos tienen el pelo negro?",
+          "Ah, az unokaöcséidnek fekete haja van?"
+        ],
+        [
+          "Ellos son bajos, es cierto.",
+          "Ők alacsonyak, igaz."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "quiénes többes számú személyre kérdez rá",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tener birtoklás és testrészek leírására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mis/tus birtokos determinánsok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "melléknevek nemben és számban egyeztetése",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser + melléknév külső leírására",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s2-topic-19",
+      "title_hu_derived": "Programok és időpontok",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        29,
+        29
+      ],
+      "phrases": [
+        [
+          "¿Tienes planes este fin de semana?",
+          "Vannak terveid a hétvégére?"
+        ],
+        [
+          "El concierto es el sábado.",
+          "A koncert szombaton van."
+        ],
+        [
+          "No tengo tiempo.",
+          "Nincs időm."
+        ],
+        [
+          "¿Cuándo es la cena?",
+          "Mikor lesz a vacsora?"
+        ],
+        [
+          "¡La fiesta es el sábado también!",
+          "Szombaton is van a buli!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "tener birtoklás/állapot kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser időpont megadására",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuándo időpontra kérdez rá",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no tagadás és también hozzáadás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-20",
+      "title_hu_derived": "Udvarias megszólítás és foglalkozások",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        30,
+        30
+      ],
+      "phrases": [
+        [
+          "Señora Pérez, ¿usted es escritora también?",
+          "Pérez asszony, ön is írónő?"
+        ],
+        [
+          "Mi nombre es Ana y mi apellido es García.",
+          "A nevem Ana, és a vezetéknevem García."
+        ],
+        [
+          "Disculpe, ¿usted trabaja aquí?",
+          "Elnézést, ön itt dolgozik?"
+        ],
+        [
+          "Usted es profesor en la universidad, ¿verdad?",
+          "Ön professzor az egyetemen, igaz?"
+        ],
+        [
+          "¡Ah, usted es el señor García!",
+          "Ah, ön García úr!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "usted mint formális egyes számú megszólítás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser és trabajar usted melletti igealakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "író/foglalkozás neveinek nembeli változása (escritora/profesor)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mi birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "¿verdad? megerősítést kérő fordulat",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s2-topic-21",
+      "title_hu_derived": "Érzelmek, napló és személyes élet",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        31,
+        31
+      ],
+      "phrases": [
+        [
+          "Querido diario: Hoy estoy triste.",
+          "Kedves naplóm, ma szomorú vagyok."
+        ],
+        [
+          "¿Por qué estás mal?",
+          "Miért érzed magad rosszul?"
+        ],
+        [
+          "Tengo una cita.",
+          "Randim van."
+        ],
+        [
+          "Ella escribe siempre en su diario.",
+          "Mindig ír a naplójába."
+        ],
+        [
+          "¡Estoy enamorado!",
+          "Szerelmes vagyok!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "estar + melléknév érzelmi állapotokra",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tener egyes állapotok/alkalmak kifejezésére (tener una cita)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por qué okra kérdez rá",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "siempre gyakorisági határozó",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "enamorado hímnemű melléknévi alak",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-22",
+      "title_hu_derived": "Étrend és étkezési szokások",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        32,
+        32
+      ],
+      "phrases": [
+        [
+          "¿Cuándo bebemos leche en nuestra casa?",
+          "Mikor iszunk tejet a házunkban?"
+        ],
+        [
+          "Comemos poco azúcar.",
+          "Kevés cukrot eszünk."
+        ],
+        [
+          "No tengo una dieta saludable.",
+          "Nincs egészséges étrendem."
+        ],
+        [
+          "¿Comes fruta?",
+          "Eszel gyümölcsöt?"
+        ],
+        [
+          "Siempre compras poco pescado.",
+          "Mindig kevés halat vásárolsz."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "beber, comer és comprar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nosotros és tú ragozás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "poco mennyiségjelölő használata",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no tagadás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nuestra birtokos determináns és siempre gyakorisági határozó",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-05",
+        "A1-06",
+        "A1-07",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-23",
+      "title_hu_derived": "Állatok és élőhelyek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        33,
+        33
+      ],
+      "phrases": [
+        [
+          "Mira, ¡un pájaro!",
+          "Nézd, egy madár!"
+        ],
+        [
+          "¿Cuántos animales hay?",
+          "Hány állat van?"
+        ],
+        [
+          "Los animales beben agua en el lago.",
+          "Az állatok vizet isznak a tóban."
+        ],
+        [
+          "Vivimos cerca de los animales.",
+          "Közel élünk az állatokhoz."
+        ],
+        [
+          "¿Dónde viven los pingüinos?",
+          "Hol élnek a pingvinek?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "mira felszólító formula megfigyelése (teljes felszólító paradigma nem igazolt)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuántos mennyiségi kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "hay létezés/jelenlét kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "beber és vivir jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cerca de helyviszony",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-24",
+      "title_hu_derived": "Napi rutin és visszaható igék",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        34,
+        34
+      ],
+      "phrases": [
+        [
+          "Me lavo la cara todos los días.",
+          "Minden nap megmosom az arcom."
+        ],
+        [
+          "Nos levantamos a las seis todos los días.",
+          "Minden nap hat órakor kelünk."
+        ],
+        [
+          "¿Te bañas antes de la cena?",
+          "Fürdesz vacsora előtt?"
+        ],
+        [
+          "Escribo en mi blog por la noche.",
+          "Este a blogomba írok."
+        ],
+        [
+          "Siempre me levanto temprano.",
+          "Mindig korán kelek."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "visszaható névmások: me, nos, te",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "visszaható igék jelen idejű alakjai (lavarse, levantarse, bañarse)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "todos los días és siempre gyakorisági/időbeli kifejezések",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a la/por la időhatározói szerkezetek",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-07"
+      ]
+    },
+    {
+      "id": "s2-topic-25",
+      "title_hu_derived": "Napi rutin és személyek leírása",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        35,
+        35
+      ],
+      "phrases": [
+        [
+          "¿Ustedes se bañan todas las tardes?",
+          "Minden este fürödtök?"
+        ],
+        [
+          "Yo me quedo en mi casa por la noche.",
+          "Este maradok a házamban."
+        ],
+        [
+          "¿Por qué no se peina por la mañana?",
+          "Miért nem fésülködik reggel?"
+        ],
+        [
+          "Las actrices son mexicanas.",
+          "A színésznők mexikóiak."
+        ],
+        [
+          "Oye, ¿tus vecinos son actores famosos?",
+          "Hé, a szomszédaid híres színészek?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "se visszaható névmás ustedes/alanyhoz kapcsolódó használata",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quedarse és peinarse visszaható alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por qué és tagadás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "nemzetiségi melléknevek és főnevek nembeli/számbeli egyeztetése",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-26",
+      "title_hu_derived": "Kedvelés és érdeklődés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        36,
+        36
+      ],
+      "phrases": [
+        [
+          "¿Te gustan los partidos de fútbol?",
+          "Szereted a focimeccseket?"
+        ],
+        [
+          "Me interesan los libros de poesía.",
+          "Érdekelnek a költészeti könyvek."
+        ],
+        [
+          "Claro, me gustan los conciertos.",
+          "Persze, szeretem a koncerteket."
+        ],
+        [
+          "¿Te interesa la fotografía?",
+          "Érdekel a fényképezés?"
+        ],
+        [
+          "Mi pasatiempo favorito es el fútbol.",
+          "A kedvenc hobbim a foci."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "gustar: me/te + gusta(n) a tetsző dolog számához igazítva",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "interesar: me/te + interesa(n)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "részeshatározói névmásos szerkezet",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "favorito melléknév egyeztetése",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-06"
+      ]
+    },
+    {
+      "id": "s2-topic-27",
+      "title_hu_derived": "Kedvelés, érdeklődés és zene",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        37,
+        37
+      ],
+      "phrases": [
+        [
+          "¿Te gustan los festivales?",
+          "Szereted a fesztiválokat?"
+        ],
+        [
+          "Nos interesa la música y el arte.",
+          "Minket érdekel a zene és a művészet."
+        ],
+        [
+          "¡Nos gusta mucho este concierto!",
+          "Ez a koncert nagyon tetszik nekünk!"
+        ],
+        [
+          "¿Quién canta la canción?",
+          "Ki énekli a dalt?"
+        ],
+        [
+          "No les interesa la música clásica.",
+          "Nem érdekli őket a klasszikus zene."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "gustar és interesar részes névmással",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "gusta/gustan és interesa/interesan egyeztetése a nyelvtani alannyal",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no tagadás",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mucho fokozó használata",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quién kérdőszó",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-06",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-28",
+      "title_hu_derived": "Kedvelés és szabadidős tevékenységek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        38,
+        38
+      ],
+      "phrases": [
+        [
+          "Nos encanta viajar a Italia.",
+          "Imádunk Olaszországba utazni."
+        ],
+        [
+          "¿Dónde pasan sus vacaciones?",
+          "Hol töltik a nyaralásukat?"
+        ],
+        [
+          "Me gusta ir a su pueblo.",
+          "Szeretek menni a falujába."
+        ],
+        [
+          "Me encanta navegar.",
+          "Imádok vitorlázni."
+        ],
+        [
+          "¿Te gusta leer?",
+          "Szeretsz olvasni?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "encantar + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "gustar + infinitivo",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "pasan jelen idejű alakja",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "sus birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "dónde kérdőszó",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-05",
+        "A1-06"
+      ]
+    },
+    {
+      "id": "s2-topic-29",
+      "title_hu_derived": "Orvos, tünetek és időpontkérés",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        39,
+        39
+      ],
+      "phrases": [
+        [
+          "Necesito un médico.",
+          "Szükségem van egy orvosra."
+        ],
+        [
+          "¿A qué hora es tu cita?",
+          "Mikor van a randid?"
+        ],
+        [
+          "Me duele mucho el ojo.",
+          "Nagyon fáj a szemem."
+        ],
+        [
+          "¿El médico habla inglés?",
+          "Beszél az orvos angolul?"
+        ],
+        [
+          "Necesito una cita para mañana.",
+          "Holnapra szükségem van egy időpontra."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "necesitar és hablar jelen idejű alakjai",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a qué hora időpontra kérdez",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "doler szerkezete: me + duele + egyes számú testrész",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tu birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "para cél/időpont megadására",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-06",
+        "A1-08"
+      ]
+    },
+    {
+      "id": "s2-topic-30",
+      "title_hu_derived": "Közlekedés és úticélok",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        40,
+        40
+      ],
+      "phrases": [
+        [
+          "¿Tú vas a casa en bicicleta?",
+          "Biciklivel mész haza?"
+        ],
+        [
+          "Cuando hace frío, voy en taxi.",
+          "Hideg van, taxival megyek."
+        ],
+        [
+          "Voy a la escuela en autobús.",
+          "Busszal megyek iskolába."
+        ],
+        [
+          "¿Por qué no vas al trabajo hoy?",
+          "Miért nem mész ma a munkahelyre?"
+        ],
+        [
+          "Voy allí todos los días.",
+          "Minden nap odamegyek."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ir rendhagyó jelen idejű alakjai (voy/vas)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "en + közlekedési eszköz",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "a + hely/úticél",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuando időbeli mellékmondatban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por qué kérdés és tagadás",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-08",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s2-topic-31",
+      "title_hu_derived": "Életkor és születésnap",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        41,
+        41
+      ],
+      "phrases": [
+        [
+          "¿Cuántos años tienes?",
+          "Hány éves vagy?"
+        ],
+        [
+          "¡Hoy es mi cumpleaños!",
+          "Ma van a születésnapom!"
+        ],
+        [
+          "Tengo diez años.",
+          "Tíz éves vagyok."
+        ],
+        [
+          "¿Cuándo es tu cumpleaños?",
+          "Mikor van a születésnapod?"
+        ],
+        [
+          "¡Feliz cumpleaños!",
+          "Boldog születésnapot!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "tener életkor kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser + időpont/esemény",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuántos años és cuándo kérdő szerkezetek",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mi és tu birtokos determinánsok",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "születésnapi formula",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    }
+  ],
+  "grammar_crosswalk": [
+    {
+      "grammar_module": "A1-02",
+      "units": [
+        11,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+        30,
+        32,
+        33,
+        35,
+        39,
+        41
+      ],
+      "evidence": "observed",
+      "focus": [
+        "vivir jelen idejű alakjai",
+        "tener birtoklás kifejezésére",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "este mutató determináns és melléknévi egyeztetés",
+        "estar hely meghatározására",
+        "estudiar, enseñar és necesitar jelen idejű alakjai",
+        "este mutató determináns"
+      ]
+    },
+    {
+      "grammar_module": "A1-03",
+      "units": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "evidence": "observed",
+      "focus": [
+        "vivir jelen idejű alakjai",
+        "tener birtoklás kifejezésére",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "este mutató determináns és melléknévi egyeztetés",
+        "hacer, bailar, cocinar, viajar és cantar jelen idejű alakjai",
+        "yo, tú és nosotros alanyok",
+        "qué kérdőszó"
+      ]
+    },
+    {
+      "grammar_module": "A1-04",
+      "units": [
+        11,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        35,
+        41
+      ],
+      "evidence": "observed",
+      "focus": [
+        "vivir jelen idejű alakjai",
+        "tener birtoklás kifejezésére",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "este mutató determináns és melléknévi egyeztetés",
+        "estar hely meghatározására",
+        "estudiar, enseñar és necesitar jelen idejű alakjai",
+        "este mutató determináns"
+      ]
+    },
+    {
+      "grammar_module": "A1-05",
+      "units": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        27,
+        28,
+        30,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        38,
+        41
+      ],
+      "evidence": "observed",
+      "focus": [
+        "vivir jelen idejű alakjai",
+        "tener birtoklás kifejezésére",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "este mutató determináns és melléknévi egyeztetés",
+        "hacer, bailar, cocinar, viajar és cantar jelen idejű alakjai",
+        "yo, tú és nosotros alanyok",
+        "qué kérdőszó"
+      ]
+    },
+    {
+      "grammar_module": "A1-06",
+      "units": [
+        16,
+        17,
+        21,
+        25,
+        26,
+        32,
+        36,
+        37,
+        38,
+        39
+      ],
+      "evidence": "observed",
+      "focus": [
+        "con és sin elöljárók",
+        "por favor mint udvarias kérés",
+        "estar helyre vonatkozó kérdésben",
+        "határozatlan névelő nőnemű főnév előtt",
+        "ser jelen idejű alakjai leírásban",
+        "melléknevek nemben és számban egyeztetése",
+        "pero ellentétet kapcsol össze",
+        "este mutató determináns"
+      ]
+    },
+    {
+      "grammar_module": "A1-07",
+      "units": [
+        13,
+        14,
+        22,
+        31,
+        32,
+        34,
+        35
+      ],
+      "evidence": "observed",
+      "focus": [
+        "-ar végű igék jelen idejű ragozása különböző személyekben",
+        "tú, yo, ellos és mi ... y yo alanyok",
+        "a menudo gyakorisági kifejezés",
+        "porque okot vezet be",
+        "este mutató determináns",
+        "jelen idejű -ar igék",
+        "y és o mondatkapcsolás/választás",
+        "siempre gyakorisági határozó"
+      ]
+    },
+    {
+      "grammar_module": "A1-08",
+      "units": [
+        11,
+        15,
+        18,
+        19,
+        20,
+        25,
+        33,
+        39,
+        40
+      ],
+      "evidence": "observed",
+      "focus": [
+        "vivir jelen idejű alakjai",
+        "tener birtoklás kifejezésére",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "este mutató determináns és melléknévi egyeztetés",
+        "estar hely meghatározására",
+        "estudiar, enseñar és necesitar jelen idejű alakjai",
+        "este mutató determináns"
+      ]
+    },
+    {
+      "grammar_module": "A1-09",
+      "units": [
+        13,
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        29,
+        31,
+        32,
+        35,
+        37,
+        40
+      ],
+      "evidence": "observed",
+      "focus": [
+        "-ar végű igék jelen idejű ragozása különböző személyekben",
+        "tú, yo, ellos és mi ... y yo alanyok",
+        "a menudo gyakorisági kifejezés",
+        "porque okot vezet be",
+        "este mutató determináns",
+        "con és sin elöljárók",
+        "por favor mint udvarias kérés",
+        "estar helyre vonatkozó kérdésben"
+      ]
+    }
+  ],
+  "data_policy": {
+    "grammar_evidence_values": [
+      "explicit_heading_and_observed_example",
+      "observed_example",
+      "inferred"
+    ],
+    "source_title_policy": "No separate unit-specific Guidebook titles or explicit grammar headings were supplied. Hungarian unit and phrase-set titles are editorial summaries, not source headings.",
+    "translation_policy": "Preserve user-supplied Hungarian translations. Do not silently correct them; flag a possible translation issue separately when needed.",
+    "mastery_rule": "Guidebook examples and unit completion do not establish learner mastery. Track mastery only through separate comprehension and transfer checks.",
+    "conflict_rule": "If a later user-supplied Guidebook excerpt conflicts with a public course map, retain both sources and use the current Guidebook evidence for the active explanation."
+  }
+}
