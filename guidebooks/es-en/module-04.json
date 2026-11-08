@@ -4660,5 +4660,19 @@
     "translation_policy": "Preserve user-supplied Hungarian translations; flag possible translation issues separately rather than silently correcting them.",
     "mastery_rule": "Guidebook examples and unit completion do not establish learner mastery. Track mastery only through separate comprehension and transfer checks.",
     "conflict_rule": "If a later user-supplied Guidebook excerpt conflicts with the public course map, retain both sources and use the current Guidebook evidence for the active explanation."
-  }
+  },
+  "translation_review_notes": [
+    {
+      "unit": 79,
+      "spanish": "Comieron pastel y bebieron champán.",
+      "provided_hungarian": "Torta ettek és pezsgőt ittak.",
+      "note": "Valószínű elütés: a természetes magyar alak „Tortát ettek és pezsgőt ittak.” Az eredeti fordítás változatlanul maradt."
+    },
+    {
+      "unit": 99,
+      "spanish": "¿Has vuelto a escuchar ruidos aquí?",
+      "provided_hungarian": "Visszatértél hallani hangokat ide?",
+      "note": "A magyar fordítás nehezen értelmezhető; természetesebb jelentés: „Hallottál itt újra zajokat?” Az eredeti fordítás változatlanul maradt."
+    }
+  ]
 }
