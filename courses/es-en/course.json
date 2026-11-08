@@ -83,7 +83,7 @@
     "It identifies course section sizes and unit topics, not the full exercise sequence.",
     "It does not contain all prompts, accepted translations, audio, or current Guidebook text.",
     "Do not infer a grammar rule from a topic title alone.",
-    "User-supplied Guidebook key phrases and Hungarian translations are currently available for section 1 (course units 1–10) and section 2 (course units 11–41). No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
+    "User-supplied Guidebook key phrases and Hungarian translations are available for section 1 (course units 1–10), section 2 (11–41), section 3 (42–71), and section 4 (72–131). No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
   ],
   "sources": [
     "https://duolingodata.com/",
@@ -312,6 +312,40 @@
       "path": "guidebooks/es-en/module-02.json",
       "unit_count": 31,
       "phrase_set_count": 31,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    },
+    {
+      "section": 3,
+      "cefr": "A1",
+      "section_unit_range": [
+        1,
+        30
+      ],
+      "course_unit_range": [
+        42,
+        71
+      ],
+      "path": "guidebooks/es-en/module-03.json",
+      "unit_count": 30,
+      "phrase_set_count": 30,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    },
+    {
+      "section": 4,
+      "cefr": "A2",
+      "section_unit_range": [
+        1,
+        60
+      ],
+      "course_unit_range": [
+        72,
+        131
+      ],
+      "path": "guidebooks/es-en/module-04.json",
+      "unit_count": 60,
+      "phrase_set_count": 60,
       "translation_status": "user_supplied_hungarian_translations",
       "received_date": "2026-11-08"
     }
