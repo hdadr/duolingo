@@ -611,3 +611,23 @@ A 250 egység 50 különböző, öt egymást követő egységen ismétlődő, eg
 - **B1-08:** állapotok, érzelmek és eredményállapotok árnyalt leírása. A példák nem bizonyítják a teljes ponerse/volverse/quedarse/hacerse paradigmát.
 
 A forrás nem közölt külön egységcímeket vagy kifejezett nyelvtani célcímeket. A fenti besorolások megfigyelt példákon alapulnak, nem hivatalos nyelvtani célként vagy tanulói mastery-ként értelmezendők.
+
+
+## 6. szekció – első részlet, részleges Guidebook-lefedettség (2026-11-08)
+
+| Duolingo-szekció | CEFR | Jelenleg feldolgozott helyi egységek | Kurzus-egységek | Részletes adat |
+|---|---|---:|---:|---|
+| 6. | B1 (ideiglenes besorolás) | 1–141 | #382–522 | `guidebooks/es-en/module-06.json` |
+
+A 6. modul két részletben érkezik. Ez a mentés kizárólag az első 141 egységet tartalmazza. A kurzus további határa egyelőre ismeretlen; a második részlet a #523-as kurzusegységtől folytatódik. A #522-nél induló utolsó kifejezéscsoport nyitott marad, amíg a következő részlet meg nem erősíti az ismétlődést.
+
+### Megfigyelt nyelvtani minták
+
+- Ruházat, vásárlás, visszatérítés és udvarias kérések; condicional és névmások.
+- Jövő idő, pretérito perfecto, múltbeli szokások és indefinido.
+- Jelen idejű és imperfecto de subjuntivo kívánságok, kételyek és érzelmek után.
+- Személytelen és véletlen eseményt leíró se-szerkezetek; nosotros-felszólítások.
+- Cuando/para que alárendelések, jövőre utaló subjuntivo.
+- Deber + haber + participio múltbeli következtetésekre.
+
+A címkék a bemásolt példák nyelvtani alakjait írják le, nem külön Guidebook-fejezetcímek és nem igazolják a tanulói elsajátítást.
