@@ -2,9 +2,9 @@
 
 ## Ajánlott módszer Free csomaghoz
 
-Kövesd a [free-chatgpt/README.md](free-chatgpt/README.md) útmutatót. Hozz létre két külön ChatGPT Projektet: egyet a spanyol, egyet az angol kurzusnak. Mindkét projektbe három fájl kerüljön: a közös rövid protokoll, az adott kurzus routere és az üres v5 állapotkártya-sablon. A projektutasításokat külön, a Projekt beállításainál illeszd be.
+Kövesd a [free-chatgpt/README.md](free-chatgpt/README.md) útmutatót. Hozz létre két külön ChatGPT Projektet: egyet a spanyol, egyet az angol kurzusnak. Mindkét projektbe három fájl kerüljön: az adott kurzus saját rövid protokollja, saját routere és üres v5 állapotkártya-sablonja. A projektutasításokat külön, a Projekt beállításainál illeszd be.
 
-A két projekt ugyanazt a tanulási és folytonossági rendszert használja. A tanulónak nem kell minden alkalommal új indítópromptot vagy állapotkártyát másolnia.
+A két projekt ugyanazokat az alapvető tanulási elveket követi, de a protokolljuk, routerük és tanulói előzményeik különállók. A tanulónak nem kell minden alkalommal új indítópromptot vagy állapotkártyát másolnia.
 
 ## A projektmemória beállítása
 

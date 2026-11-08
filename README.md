@@ -6,9 +6,9 @@ Ez a privát repó két Duolingo-kurzushoz tartalmaz magyar nyelvű magyarázó 
 
 ## Ajánlott kezdés Free ChatGPT-ben
 
-A [Free ChatGPT projektcsomag](free-chatgpt/README.md) az ajánlott út. Hozz létre két külön projektet (spanyol és angol), és mindegyikbe a közös rövid protokollt, a megfelelő kurzus-routert és egy üres v5 állapotkártya-sablont tölts fel. A projektutasításokat külön, a Project Instructions mezőbe másold.
+A [Free ChatGPT projektcsomag](free-chatgpt/README.md) az ajánlott út. Hozz létre két külön projektet (spanyol és angol), és mindegyikbe a saját kurzusához tartozó rövid protokollt és routert és egy üres v5 állapotkártya-sablont tölts fel. A projektutasításokat külön, a Project Instructions mezőbe másold.
 
-A rendszer mindkét kurzusnál ugyanazt a tanítási, tudáskövetési és folytonossági módszert használja. Alapértelmezésben a projekt korábbi beszélgetéseiből folytat; a v5 JSON-állapotkártya opcionális tartalék, nem napi adminisztráció.
+A két kurzus közös pedagógiai alapelveket követ, de külön, önálló protokollt, routert és tanulói előzményeket használ. Alapértelmezésben a projekt korábbi beszélgetéseiből folytat; a v5 JSON-állapotkártya opcionális tartalék, nem napi adminisztráció.
 
 ## Haladó / közvetlen GitHub-hozzáférésű használat
 

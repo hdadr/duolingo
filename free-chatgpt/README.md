@@ -1,6 +1,6 @@
 # Free ChatGPT – telepítési és használati útmutató
 
-Két külön ChatGPT Projektet hozz létre: egyet a spanyol, egyet az angol kurzusnak. A két projekt ugyanazt a tanítási módszert használja, de a tananyaguk és tanulói előzményeik külön maradnak.
+Két külön ChatGPT Projektet hozz létre: egyet a spanyol, egyet az angol kurzusnak. A két projekt azonos pedagógiai alapelveket követ, de mindegyik saját, önálló protokollt, kurzus-routert és tanulói előzményt használ. Egyik projekt protokollja sem hivatkozik a másik kurzusra.
 
 A Free csomagban egy projekt legfeljebb **5 fájlt** tartalmazhat, ezért az induláshoz pontosan három állandó fájlt használunk. A projektutasításokat a Projekt beállításainál külön szövegként kell beilleszteni; ne töltsd fel őket fájlként.
 
@@ -11,7 +11,7 @@ Projekt neve: **Duolingo – Spanyol magyarból**
 A projekt Instructions mezőjébe másold be a [spanyol projektutasításokat](es-hu/PROJECT-INSTRUCTIONS.md).
 
 A projektbe töltsd fel ezt a három fájlt:
-1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md) – a közös tanítási, folytonossági és chatváltási szabályok.
+1. [FREE-PROTOCOL.md](es-hu/FREE-PROTOCOL.md) – a spanyol magyarból kurzus önálló tanítási, folytonossági és chatváltási szabályai.
 2. [COURSE-ROUTER.json](es-hu/COURSE-ROUTER.json) – spanyol magyarból útvonaltérkép a 991 egységhez.
 3. [STATE-CARD.json](es-hu/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
 
@@ -24,7 +24,7 @@ Projekt neve: **Duolingo – Angol magyarból**
 A projekt Instructions mezőjébe másold be az [angol projektutasításokat](en-hu/PROJECT-INSTRUCTIONS.md).
 
 A projektbe töltsd fel ezt a három fájlt:
-1. [FREE-PROTOCOL.md](FREE-PROTOCOL.md).
+1. [FREE-PROTOCOL.md](en-hu/FREE-PROTOCOL.md) – az angol magyarból kurzus önálló tanítási, folytonossági és chatváltási szabályai.
 2. [COURSE-ROUTER.json](en-hu/COURSE-ROUTER.json) – az angol Duolingo-kurzus mind az 1005 egységének tömörített útvonaltérképe.
 3. [STATE-CARD.json](en-hu/STATE-CARD.json) – üres v5 állapotkártya-sablon és tartalék.
 
@@ -35,7 +35,7 @@ A két kurzust külön projektben kezeld, ne töltsd fel a másik kurzus router�
 A projekt korábbi beszélgetéseiből való folytatáshoz engedélyezni kell a ChatGPT memóriafunkcióit:
 1. Nyisd meg a ChatGPT **Beállítások → Személyre szabás** részét.
 2. Kapcsold be a **Mentett memóriák hivatkozása** és a **Csevegési előzmények hivatkozása** lehetőséget, ha megjelennek a fiókodban.
-3. A projekt saját beállításainál válaszd a **Projektmemória / csak projektmemória** módot, ha elérhető. Így a spanyol projekt nem keveredik az angol vagy más beszélgetésekkel.
+3. A projekt saját beállításainál válaszd a **Projektmemória / csak projektmemória** módot, ha elérhető. Így a két külön kurzusprojekt előzményei elkülönülnek.
 4. Megosztott projektek automatikusan csak projektmemóriát használnak. A projekt résztvevői hozzáférhetnek a projekt beszélgetéseihez és fájljaihoz.
 
 A menüpontok és a lehetőségek fiókonként változhatnak. A memória segíti a korábbi beszélgetések felhasználását, de nem helyettesít garantált, strukturált adatbázist. Ezért marad meg az opcionális állapotkártya.
@@ -57,7 +57,7 @@ Elég néhány egyszerű mondat:
 | „Mára ennyi.” | Rövid, a projektbeszélgetésben maradó folytonossági jegyzetet készít. |
 | „Kérem az állapotkártyát.” | Teljes, másolható v5 JSON-mentést ad. |
 
-A tanulónak nem kell megneveznie a nyelvtani témát: a rendszer az aktuális Duolingo-egység alapján választ. A tanulónak nem kell nyelvtani témát választania: a rendszer a spanyol section/unit vagy az angol module/unit alapján automatikusan választ tananyagot. A legtöbb alkalom után egyszerűen kiléphet; nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
+A tanulónak nem kell megneveznie a nyelvtani témát: az adott projekt saját protokollja és routere alapján a rendszer automatikusan választ tananyagot. A spanyol projekt section/unit, az angol projekt module/unit koordinátát használ. A legtöbb alkalom után egyszerűen kiléphet; nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
 
 ## 5. Mikor kell új beszélgetést nyitni?
 
