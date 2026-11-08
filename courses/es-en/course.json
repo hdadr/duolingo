@@ -82,7 +82,8 @@
     "This is a community-maintained curriculum map, not a Duolingo-published export.",
     "It identifies course section sizes and unit topics, not the full exercise sequence.",
     "It does not contain all prompts, accepted translations, audio, or current Guidebook text.",
-    "Do not infer a grammar rule from a topic title alone."
+    "Do not infer a grammar rule from a topic title alone.",
+    "User-supplied Guidebook key phrases and Hungarian translations are currently available for section 1 (course units 1–10) and section 2 (course units 11–41). No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
   ],
   "sources": [
     "https://duolingodata.com/",
@@ -278,5 +279,41 @@
     "language_of_explanation": "hu",
     "method": "Duolingo public path themes + Instituto Cervantes PCIC/AVE Global reference; unit-level grammar is marked as confirmed only when supported by the current Guidebook or learner examples.",
     "raw_duolingo_lesson_text_stored": false
-  }
+  },
+  "guidebook_coverage": [
+    {
+      "section": 1,
+      "cefr": "Intro",
+      "section_unit_range": [
+        1,
+        10
+      ],
+      "course_unit_range": [
+        1,
+        10
+      ],
+      "path": "guidebooks/es-en/module-01.json",
+      "unit_count": 10,
+      "phrase_set_count": 6,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    },
+    {
+      "section": 2,
+      "cefr": "A1",
+      "section_unit_range": [
+        1,
+        31
+      ],
+      "course_unit_range": [
+        11,
+        41
+      ],
+      "path": "guidebooks/es-en/module-02.json",
+      "unit_count": 31,
+      "phrase_set_count": 31,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    }
+  ]
 }
