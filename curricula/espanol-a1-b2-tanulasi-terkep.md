@@ -534,3 +534,28 @@ A rendszer ezért két dolgot tesz egyszerre:
 2. az Instituto Cervantes tantervi anyagai alapján biztosítja a nyelvtani mélységet és a fokozatos felépítést.
 
 Az aktuális Guidebookot csak ott kell ellenőrizni, ahol a konkrét új nyelvtani célt nem lehet megbízhatóan kikövetkeztetni. Így a magyarázat részletes és következetes marad, de nem tanítunk a Duolingo haladásától elszakadó, véletlenszerű nyelvtant.
+
+
+---
+
+## 12. Guidebook-alapú egységadatok (2026-11-08)
+
+A felhasználó által bemásolt Guidebook-kulcskifejezések és magyar fordítások alapján az első két szekció egységszintű példái rögzítve vannak:
+
+| Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
+|---|---|---:|---:|---|
+| 1. | Intro | 1–10 | #1–10 | `guidebooks/es-en/module-01.json` |
+| 2. | A1 | 1–31 | #11–41 | `guidebooks/es-en/module-02.json` |
+
+A forrás az egységekhez kulcskifejezéseket és magyar fordításokat adott, de külön nyelvtani célcímeket nem. Ezért az alábbi A1-modulok és a Guidebook-egységek kapcsolata **megfigyelt példákon** alapul, nem explicit nyelvtani tantervi állítás:
+
+- **A1-02:** Főnevek, nem, szám és névelők – Guidebook sections 1–2, user-supplied examples: articles, noun gender and number, plural forms, and noun phrases are visible. These are observed examples, not an explicit grammar heading.
+- **A1-03:** Személyes névmások és jelen idejű igeragozás – Guidebook sections 1–2, user-supplied examples: present-tense forms across persons, including ser, querer, vivir, regular verbs, tener, ir and others. The conjugation system is observed, not explicitly named as a Guidebook target.
+- **A1-04:** Ser, estar és hay – Guidebook sections 1–2, user-supplied examples: ser, estar and hay occur in identification, origin, state, location and existence contexts. These are observed examples.
+- **A1-05:** Melléknevek, birtokosok és mutató szavak – Guidebook sections 1–2, user-supplied examples: possessives, demonstratives and adjective agreement in gender and number are visible. These are observed examples.
+- **A1-06:** Kedvelés, mennyiség és étkezés – Guidebook sections 1–2, user-supplied examples: food, quantities and prices occur in requests and shopping; gustar/interesar/encantar structures appear in section 2. These are observed examples, not a complete grammar syllabus.
+- **A1-07:** Napi rutin és gyakoriság – Guidebook section 2, user-supplied examples: frequency expressions and reflexive daily-routine verbs occur. These are observed examples.
+- **A1-08:** Hely, irány, felszólítás és közeli jövő – Guidebook sections 1–2, user-supplied examples: place expressions, estar/hay location questions, directions, destinations and transport expressions occur. These are observed examples.
+- **A1-09:** Tagadás és egyszerű mondatkapcsolás – Guidebook sections 1–2, user-supplied examples: negation and basic connectors such as pero and porque occur in context. These are observed examples.
+
+A 4–5., 6–7. és 8–9. Intro-egység azonos példacsoportjait a részletes JSON egy-egy közös phrase setként tárolja, miközben az egyes egység-hozzárendeléseket külön megtartja. A Guidebook-fordítások forrásadatok; a pedagógiai címek és a nyelvtani címkék szerkesztői összefoglalók.
