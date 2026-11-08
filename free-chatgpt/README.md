@@ -48,13 +48,16 @@ Elég néhány egyszerű mondat:
 
 | Mit írjon? | Mit tesz a ChatGPT? |
 |---|---|
-| „Kezdjük!” | Első alkalommal azonosítja a szintet és a Duolingo-egységet; később az aktuális állapot alapján indít. |
-| „Folytassuk!” | Megpróbálja visszaállítani a projekt legutóbbi tanulási pontját, és onnan folytatja. |
+| „Kezdjük az elejétől.” | Automatikusan az 1. szekció 1. egységétől (#1) indul. Nem kell nyelvtani témát választani. |
+| „Kezdjük!” | Ha nincs korábbi haladás, az elejétől indít; ha van, a legutóbb megerősített Duolingo-pozícióból folytat. |
+| „Folytassuk!” | A projekt legutóbbi megerősített tanulási pontját állítja vissza. |
+| „Következő Duolingo-egység.” | A megerősített Duolingo-pozíciót a következő egységre lépteti, és kiválasztja az ahhoz tartozó nyelvtani témát. |
+| „Már a 3. szekció 12. egységénél tartok.” | A megadott helyre ugrik; egy képernyőkép is elég. |
 | „Ezt nem értem.” | Egyszerűbb magyarázatot és új példát ad. |
 | „Mára ennyi.” | Rövid, a projektbeszélgetésben maradó folytonossági jegyzetet készít. |
 | „Kérem az állapotkártyát.” | Teljes, másolható v5 JSON-mentést ad. |
 
-A tanuló a legtöbb alkalom után egyszerűen kiléphet. Nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
+A tanulónak nem kell megneveznie a nyelvtani témát: a rendszer az aktuális Duolingo-egység alapján választ. A tanuló a legtöbb alkalom után egyszerűen kiléphet. Nem kell a jegyzetet másolnia, fájlt cserélnie vagy a haladást kézzel frissítenie.
 
 ## 5. Mikor kell új beszélgetést nyitni?
 

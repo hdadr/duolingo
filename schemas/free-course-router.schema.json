@@ -14,7 +14,10 @@
   ],
   "properties": {
     "version": {
-      "const": 1
+      "enum": [
+        1,
+        2
+      ]
     },
     "course": {
       "enum": [
@@ -216,6 +219,67 @@
               }
             },
             "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "required": [
+              "course_unit_ranges",
+              "phrase_set_ref",
+              "title_hu",
+              "grammar_modules",
+              "grammar_topics",
+              "evidence"
+            ],
+            "properties": {
+              "course_unit_ranges": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "array",
+                  "minItems": 2,
+                  "maxItems": 2,
+                  "prefixItems": [
+                    {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    {
+                      "type": "integer",
+                      "minimum": 1
+                    }
+                  ],
+                  "items": false
+                }
+              },
+              "phrase_set_ref": {
+                "type": "string"
+              },
+              "title_hu": {
+                "type": "string"
+              },
+              "grammar_modules": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+                }
+              },
+              "grammar_topics": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "evidence": {
+                "enum": [
+                  "observed_example",
+                  "explicit_guidebook_heading",
+                  "explicit_grammar_goal",
+                  "unknown"
+                ]
+              }
+            },
+            "additionalProperties": false
           }
         ]
       }
@@ -344,6 +408,32 @@
         },
         "note": {
           "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "starting_point": {
+      "type": "object",
+      "required": [
+        "section",
+        "unit",
+        "course_unit"
+      ],
+      "properties": {
+        "section": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "unit": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "course_unit": {
+          "type": "integer",
+          "minimum": 1
         }
       },
       "additionalProperties": false
