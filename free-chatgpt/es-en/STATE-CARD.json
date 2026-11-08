@@ -4,8 +4,11 @@
   "course_id": "DUOLINGO_ES_EN",
   "updated_at": null,
   "current_position": {
+    "coordinate_system": "section_unit",
     "section": null,
+    "module": null,
     "unit": null,
+    "course_unit": null,
     "unit_title": null,
     "source": "not_confirmed",
     "confirmed_at": null

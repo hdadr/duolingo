@@ -129,9 +129,95 @@
     "unit_anchors": {
       "type": "array",
       "items": {
-        "type": "array",
-        "minItems": 4,
-        "maxItems": 4
+        "oneOf": [
+          {
+            "type": "array",
+            "minItems": 4,
+            "maxItems": 4,
+            "prefixItems": [
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ],
+            "items": false
+          },
+          {
+            "type": "object",
+            "required": [
+              "course_unit",
+              "section",
+              "section_unit",
+              "title_hu",
+              "guidebook_path",
+              "phrase_set_ref",
+              "grammar_modules",
+              "grammar_topics",
+              "evidence"
+            ],
+            "properties": {
+              "course_unit": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "section": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "section_unit": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "title_hu": {
+                "type": "string"
+              },
+              "guidebook_path": {
+                "type": "string"
+              },
+              "phrase_set_ref": {
+                "type": "string"
+              },
+              "grammar_modules": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^(A1|A2|B1|B2)-[0-9]{2}$"
+                }
+              },
+              "grammar_topics": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "evidence": {
+                "enum": [
+                  "observed_example",
+                  "explicit_guidebook_heading",
+                  "explicit_grammar_goal",
+                  "unknown"
+                ]
+              },
+              "phrase_group_status": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
+          }
+        ]
       }
     },
     "unit_anchor_note": {
@@ -153,6 +239,114 @@
     },
     "section_theme_note": {
       "type": "string"
+    },
+    "guidebook_coverage": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "section",
+          "course_unit_range",
+          "local_unit_range",
+          "path",
+          "status",
+          "phrase_set_count"
+        ],
+        "properties": {
+          "section": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "course_unit_range": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "prefixItems": [
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "integer",
+                "minimum": 1
+              }
+            ],
+            "items": false
+          },
+          "local_unit_range": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "prefixItems": [
+              {
+                "type": "integer",
+                "minimum": 1
+              },
+              {
+                "type": "integer",
+                "minimum": 1
+              }
+            ],
+            "items": false
+          },
+          "path": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "complete",
+              "partial",
+              "in_progress",
+              "unknown"
+            ]
+          },
+          "phrase_set_count": {
+            "type": "integer",
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "course_completion": {
+      "type": "object",
+      "required": [
+        "status",
+        "section_count",
+        "total_units",
+        "last_course_unit",
+        "guidebook_coverage",
+        "note"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "complete",
+            "partial",
+            "in_progress",
+            "unknown"
+          ]
+        },
+        "section_count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "total_units": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "last_course_unit": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "guidebook_coverage": {
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

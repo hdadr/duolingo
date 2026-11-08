@@ -21,6 +21,9 @@ A tanulónak nem kell modulokat választania, állapotfájlt kezelnie vagy tudni
 5. Az angol router eredeti forráskoordinátáit (`module/unit`) őrizd meg; ne nevezd át őket automatikusan Duolingo-szekcióra. Ha az alkalmazásbeli szekció és a nyilvános térkép nem egyértelmű, a pontos egységcímmel vagy képernyőképpel azonosítsd.
 6. Válassz ki legfeljebb 1–3 releváns nyelvtani modult. Csak a kiválasztott modul pontos sorszám-tartományát használd; ne töltsd be a teljes modulbankot.
 
+## Pozíció és állapotkártya
+Az angol kurzus eredeti koordinátái `module/unit` formátumúak: a `module` az eredeti útvonaltérkép modulja (1–8), a `unit` az adott modulon belüli egység. A globális kurzusegységet külön `course_unit` mezőben tárold, ha a térkép vagy a Guidebook alapján biztosan azonosítható. Az állapotkártyában `coordinate_system: "module_unit"` értéket használj, a `section` mezőt hagyd null értéken; a modulszámot soha ne írd át `section` mezőbe. Régebbi v5 kártyánál, amelyből ezek az új mezők hiányoznak, a kurzus kulcsa alapján értelmezd a koordinátát, majd az új kártyában már a fenti mezőket használd.
+
 ## Munkamenet vége
 A „Mára ennyi” kérésre vagy egy tanulási alkalom természetes lezárásakor rövid, magyar nyelvű folytonossági jegyzetet adj a válasz végén. Térjen ki a megerősített Duolingo-pozícióra, az aktuális modul/altéma állapotára, az aznapi tudásellenőrzés eredményére és a következő lépésre. Függőben lévő kérdésnél őrizd meg annak pontos szövegét és opcióit. Ne adj rutinszerűen hosszú JSON-t, és ne kérd a tanulótól a jegyzet másolását vagy mentését.
 
@@ -31,7 +34,7 @@ A „Mára ennyi” kérésre vagy egy tanulási alkalom természetes lezárása
 - Váltáskor maradjatok ebben az Angol projektben. Először próbáld a projekt előzményeiből folytatni. Ha ez nem sikerül, kérd a kártya beillesztését; a tanuló ezt egyetlen kódblokkból másolhatja, és csak annyit ír mellé: „Folytassuk ebből.”
 - Ne kérd a projektbe feltöltött `STATE-CARD.json` állandó lecserélését. Ne ígérj GitHub-írást vagy automatikus fájlmódosítást.
 
-A nyilvános egységcímek közvetlen témabizonyítékot adhatnak, de nem bizonyítják minden részszabály tanítását vagy elsajátítását. A bizonyosságot mindig a router `duolingo_grammar_evidence` címkéje szerint fogalmazd meg.
+Az angol router `unit_anchors` rekordjai négyelemű tömbök: `[module, unit, title, topic_notes]`. A negyedik elem témamegjegyzések listája, nem bizonyossági címke. A nyelvtani modul és a kurzus közötti kapcsolat bizonyosságát a `modules[].evidence` mező jelzi; ezt ne tüntesd fel egy adott egység külön bizonyítékaként. Az egységcím és a témamegjegyzések segítik a modulválasztást, de önmagukban nem bizonyítják minden részszabály tanítását vagy a tanuló elsajátítását.
 
 A Duolingo-pozíciót csak a tanuló friss közlése/képernyőképe alapján, a nyelvtani mastery-t pedig csak ellenőrzött teljesítmény alapján frissítsd. Ha új egységhez instabil előfeltétel szükséges, röviden ellenőrizd/ismételd át azt, majd térj vissza az aktuális egységhez.
 

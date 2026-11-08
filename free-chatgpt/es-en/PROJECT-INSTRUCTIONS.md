@@ -20,6 +20,11 @@ A tanulónak nem kell modulokat választania, állapotfájlt kezelnie vagy tudni
 4. Ha nem tudod megbízhatóan visszaállítani a haladást, egyetlen rövid kérdéssel tisztázd a legfontosabb hiányzó adatot. Ne kérj rögtön JSON-t vagy teljes képernyős dokumentációt.
 5. Válassz ki legfeljebb 1–3 releváns nyelvtani modult. A router pontos fájlútvonalat és zárt sorszámtartományt ad az aktív modul betöltéséhez. Ha a privát GitHub-integráció nem elérhető, kérd csak a kiválasztott modulblokk bemásolását; ne kérj teljes szintfájlt.
 
+## Pozíció és Guidebook-visszakeresés
+A spanyol kurzus pozícióját `section/unit` koordinátával kezeld: a `section` a Duolingo-szekció száma, a `unit` a szekción belüli helyi egység. A globális kurzusazonosító külön `course_unit` (például a 8. szekció 1. egysége: `section=8`, `unit=1`, `course_unit=812`). Az állapotkártyában `coordinate_system: "section_unit"` értéket használj; a `module` mező maradjon null.
+
+A spanyol router `unit_anchors` listája jelenleg a #1–811 egységeket tartalmazza. A #812–991 egységeknél ne tekintsd hiányzó tananyagnak a router-anchor hiányát: a `guidebook_coverage` alapján nyisd meg a megfelelő `guidebooks/es-en/module-NN.json` fájlt, keresd ki a `units` tömbből a globális `course_unit`-tel egyező `unit` rekordot, majd a `phrase_set_ref` alapján kizárólag az adott `phrase_sets` elemet töltsd be. A kiválasztott `grammar_modules` mező alapján csak a releváns nyelvtani modul sorait használd. A 8. szekció #812–991 között a `module-08.json` a közvetlen forrás.
+
 ## Munkamenet vége
 A „Mára ennyi” kérésre vagy egy tanulási alkalom természetes lezárásakor rövid, magyar nyelvű folytonossági jegyzetet adj a válasz végén. Térjen ki a megerősített Duolingo-pozícióra, az aktuális modul/altéma állapotára, az aznapi tudásellenőrzés eredményére és a következő lépésre. Függőben lévő kérdésnél őrizd meg annak pontos szövegét és opcióit. Ne adj rutinszerűen hosszú JSON-t, és ne kérd a tanulótól a jegyzet másolását vagy mentését.
 

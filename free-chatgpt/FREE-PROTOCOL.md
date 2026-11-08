@@ -15,6 +15,14 @@ A spanyol és az angol projekt ugyanazt a módszert használja. Csak a kurzusazo
 7. Ha a GitHub-fájl nem olvasható a chatben, kérd a felhasználótól csak a routerben megadott pontos modulblokk bemásolását vagy egy képernyőképet. Ne kérj teljes fájlt.
 8. A hibakatalógust csak visszatérő vagy nehezen diagnosztizálható hiba esetén kérd be.
 
+## Kurzuskoordináták és célzott forrásbetöltés
+- `es-en`: a pozíció `section/unit`; a globális kurzusegység külön `course_unit`. Például section 8, unit 1 = course unit #812.
+- `en-hu`: a pozíció az eredeti `module/unit`; ezt ne nevezd át `section/unit`-ra. A globális kurzusegységet külön `course_unit` mező őrizheti.
+- Az új v5 állapotkártyában használd a `coordinate_system` (`section_unit` vagy `module_unit`), a megfelelő `section` vagy `module`, a helyi `unit`, valamint – ha bizonyított – a globális `course_unit` mezőt. A régebbi kártyákból hiányozhatnak az új, opcionális mezők; ezeket kompatibilisen értelmezd.
+- A spanyol routerben először a pontos `unit_anchors` rekordot keresd. Ha hiányzik, a `guidebook_coverage` tartományából válaszd ki a forrásfájlt, majd a Guidebook `units[].unit` mezője alapján keresd ki a globális `course_unit` rekordját, és csak az általa hivatkozott phrase setet töltsd be. A #812–991 tartományhoz ez a kötelező útvonal; a 180 egység nincs megkettőzve a routerben.
+- Az angol router `unit_anchors` rekordja `[module, unit, title, topic_notes]` alakú. A `modules[].evidence` modul-/kurzuskapcsolatot jellemez, nem egy konkrét egység bizonyítékát.
+- Mindkét kurzusnál csak a kiválasztott phrase setet és a kiválasztott 1–3 nyelvtani modul pontos `lines` tartományát használd. Ne töltsd be a teljes Guidebookot vagy teljes modulbankot.
+
 ## Projektmemória és megbízhatóság
 - A korábbi projektbeszélgetések felhasználásához a ChatGPT memória-beállításainak ezt engedniük kell. Free és más nem Enterprise csomagoknál a Beállítások > Személyre szabás részen a mentett memóriák és a csevegési előzmények hivatkozása legyen engedélyezve.
 - A projektmemória segítheti a folytatást, de nem garantált strukturált adatbázis, és nem szabad azt állítani, hogy egy régi beszélgetést vagy állapotot ellenőriztél, ha valójában nem férsz hozzá.

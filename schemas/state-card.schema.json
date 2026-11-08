@@ -79,6 +79,26 @@
             "null"
           ],
           "format": "date-time"
+        },
+        "coordinate_system": {
+          "enum": [
+            "section_unit",
+            "module_unit"
+          ]
+        },
+        "module": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "course_unit": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
         }
       },
       "additionalProperties": false
