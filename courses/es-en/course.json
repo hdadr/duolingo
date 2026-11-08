@@ -435,5 +435,17 @@
       "installment": "complete",
       "total_unit_count": 180
     }
-  ]
+  ],
+  "guidebook_status": {
+    "status": "complete",
+    "received_sections": 8,
+    "total_sections": 8,
+    "covered_course_units": [
+      1,
+      991
+    ],
+    "last_course_unit": 991,
+    "confirmed_by_user": true,
+    "completion_date": "2026-11-08"
+  }
 }
