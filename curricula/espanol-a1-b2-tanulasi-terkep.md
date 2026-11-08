@@ -589,3 +589,25 @@ A 3. szekció 30, a 4. szekció 60 Guidebook-egységét a felhasználó által m
 - **A2-08:** para célhatározói használata és néhány elöljárós szerkezet. A teljes por/para rendszer még nem igazolható.
 
 A magyar fordításokat forrásadatként őrizzük; az esetleges fordítási bizonytalanságokat külön kell jelezni, nem automatikusan átírni. A Guidebook-példák nem bizonyítják a tanuló elsajátítását.
+
+
+## 5. szekció – Guidebook-adatok és megfigyelt nyelvtani minták (2026-11-08)
+
+| Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
+|---|---|---:|---:|---|
+| 5. | B1 | 1–250 | #132–381 | `guidebooks/es-en/module-05.json` |
+
+A 250 egység 50 különböző, öt egymást követő egységen ismétlődő, egyenként öt kulcskifejezést tartalmazó csoportból áll. A részletes JSON minden egységet külön hivatkozással tárol, de az azonos kifejezéscsoportokat csak egyszer rögzíti. A magyar fordításokat a felhasználó adta meg.
+
+### A B1-modulokhoz rendelt megfigyelt példák
+
+- **B1-01:** imperfecto, indefinido, pretérito perfecto és pluscuamperfecto a múltbeli elbeszélésben.
+- **B1-02:** egyszerű jövő, condicional és jövőbeli tervek, köztük az imperfecto de ir + a + infinitivo.
+- **B1-03:** presente de subjuntivo negatív felszólításokban, pozitív felszólításokban és nosotros-javaslatokban.
+- **B1-04:** subjuntivo kívánság, remény, javaslat, szükségesség és értékelés után.
+- **B1-05:** que vonatkozói mellékmondatok.
+- **B1-06:** személytelen/passzív és kölcsönös se, tárgyas névmások és névmáselhelyezés.
+- **B1-07:** feltételes mondatok, cél, engedmény és ok.
+- **B1-08:** állapotok, érzelmek és eredményállapotok árnyalt leírása. A példák nem bizonyítják a teljes ponerse/volverse/quedarse/hacerse paradigmát.
+
+A forrás nem közölt külön egységcímeket vagy kifejezett nyelvtani célcímeket. A fenti besorolások megfigyelt példákon alapulnak, nem hivatalos nyelvtani célként vagy tanulói mastery-ként értelmezendők.
