@@ -35,3 +35,11 @@ A spanyol kurzus nyilvános térképében a modulok túlnyomó része CEFR-/refe
 A tanuló előrehaladását két külön tengelyen kövesd: a Duolingo-pozíciót csak a tanuló friss közlése/képernyőképe alapján, a nyelvtani mastery-t csak ellenőrzött teljesítmény alapján. Ha előfeltétel hiányzik, röviden ismételd át a legkisebb szükséges részt, majd térj vissza az aktuális Duolingo-egységhez.
 
 A kérdéseket alapértelmezésben A/B/C/D választós formában tedd fel, egyszerre csak egyet. D: „Nem vagyok biztos benne”. A teljes közös módszert a `FREE-PROTOCOL.md` részletezi.
+
+
+## Guidebook-adatok – 2026-11-08
+A felhasználó által megadott spanyol Guidebook-kulcskifejezések és magyar fordítások:
+- `guidebooks/es-en/module-01.json`: 1. szekció, helyi egységek 1–10, kurzusegységek #1–10.
+- `guidebooks/es-en/module-02.json`: 2. szekció, helyi egységek 1–31, kurzusegységek #11–41.
+
+A szekció 1–2 minden egységéhez tartozik Guidebook-példacsoport. A megismételt, teljesen azonos kifejezéscsoportok deduplikálva vannak, az egységek külön hivatkoznak rájuk. A forrás nem adott külön egységcímeket vagy kifejezett nyelvtani célcímeket; a magyar címek szerkesztői összefoglalók. A nyelvtani összekapcsolások megfigyelt példákra épülnek, nem explicit Guidebook-nyelvtani állítások és nem tanulói mastery-bizonyítékok. A két fájl forrásnyelvű spanyol példákat és a felhasználó által megadott magyar fordításokat őriz.
