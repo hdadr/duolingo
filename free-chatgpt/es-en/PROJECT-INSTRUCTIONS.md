@@ -46,3 +46,6 @@ A szekció 1–2 minden egységéhez tartozik Guidebook-példacsoport. A megism�
 
 
 A 3. modul részletes Guidebook-forrása: `guidebooks/es-en/module-03.json` (helyi egységek 1–30, kurzus #42–71; 30 kulcskifejezés-csoport, magyar fordításokkal). A 4. modul részletes Guidebook-forrása: `guidebooks/es-en/module-04.json` (helyi egységek 1–60, kurzus #72–131; 60 kulcskifejezés-csoport, magyar fordításokkal). Mindkét forrás általános Guidebook-bevezetőt és kulcskifejezéseket tartalmaz; külön egységcímek és kifejezett nyelvtani célcímek nem érkeztek. A címek szerkesztői összefoglalók, a nyelvtani címkék megfigyelt példákból következnek, nem igazolják a teljes szabály expliciten tanítását vagy a tanuló mastery-jét.
+
+
+Az 5. modul részletes Guidebook-forrása: `guidebooks/es-en/module-05.json` (helyi egységek 1–250, kurzus #132–381; 50 egyedi, öt mondatos kulcskifejezés-csoport, a csoportonkénti öt egység ismétlését megőrző unit anchorokkal). A példákhoz a felhasználó magyar fordításokat is adott. A forrás nem adott külön egységcímeket vagy explicit nyelvtani célcímeket; a címek szerkesztői összefoglalók, a nyelvtani címkék megfigyelt példák. Az ismétlődő szövegcsoportokat egyszer kell betölteni, de az aktív kurzusegység hivatkozását mindig meg kell őrizni.
