@@ -43,3 +43,6 @@ A felhasználó által megadott spanyol Guidebook-kulcskifejezések és magyar f
 - `guidebooks/es-en/module-02.json`: 2. szekció, helyi egységek 1–31, kurzusegységek #11–41.
 
 A szekció 1–2 minden egységéhez tartozik Guidebook-példacsoport. A megismételt, teljesen azonos kifejezéscsoportok deduplikálva vannak, az egységek külön hivatkoznak rájuk. A forrás nem adott külön egységcímeket vagy kifejezett nyelvtani célcímeket; a magyar címek szerkesztői összefoglalók. A nyelvtani összekapcsolások megfigyelt példákra épülnek, nem explicit Guidebook-nyelvtani állítások és nem tanulói mastery-bizonyítékok. A két fájl forrásnyelvű spanyol példákat és a felhasználó által megadott magyar fordításokat őriz.
+
+
+A 3. modul részletes Guidebook-forrása: `guidebooks/es-en/module-03.json` (helyi egységek 1–30, kurzus #42–71; 30 kulcskifejezés-csoport, magyar fordításokkal). A 4. modul részletes Guidebook-forrása: `guidebooks/es-en/module-04.json` (helyi egységek 1–60, kurzus #72–131; 60 kulcskifejezés-csoport, magyar fordításokkal). Mindkét forrás általános Guidebook-bevezetőt és kulcskifejezéseket tartalmaz; külön egységcímek és kifejezett nyelvtani célcímek nem érkeztek. A címek szerkesztői összefoglalók, a nyelvtani címkék megfigyelt példákból következnek, nem igazolják a teljes szabály expliciten tanítását vagy a tanuló mastery-jét.
