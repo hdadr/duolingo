@@ -576,134 +576,32 @@
   "section_theme_note": "A section_themes elemei széles, inferált pedagógiai hipotézisek, nem hivatalos nyelvtani célok. Az egyetlen unit theme csak a kommunikációs témát erősíti meg.",
   "guidebook_coverage": [
     {
-      "section": 1,
-      "cefr": "Intro",
-      "section_unit_range": [
-        1,
-        10
-      ],
-      "course_unit_range": [
-        1,
-        10
-      ],
-      "path": "guidebooks/es-en/module-01.json",
-      "unit_count": 10,
-      "phrase_set_count": 6,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08"
-    },
-    {
-      "section": 2,
-      "cefr": "A1",
-      "section_unit_range": [
-        1,
-        31
-      ],
-      "course_unit_range": [
-        11,
-        41
-      ],
-      "path": "guidebooks/es-en/module-02.json",
-      "unit_count": 31,
-      "phrase_set_count": 31,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08"
-    },
-    {
-      "section": 3,
-      "cefr": "A1",
-      "section_unit_range": [
-        1,
-        30
-      ],
-      "course_unit_range": [
-        42,
-        71
-      ],
-      "path": "guidebooks/es-en/module-03.json",
-      "unit_count": 30,
-      "phrase_set_count": 30,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08"
-    },
-    {
-      "section": 4,
-      "cefr": "A2",
-      "section_unit_range": [
-        1,
-        60
-      ],
-      "course_unit_range": [
-        72,
-        131
-      ],
-      "path": "guidebooks/es-en/module-04.json",
-      "unit_count": 60,
-      "phrase_set_count": 60,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08"
-    },
-    {
-      "section": 5,
-      "cefr": "B1",
-      "section_unit_range": [
-        1,
-        250
-      ],
-      "course_unit_range": [
-        132,
-        381
-      ],
-      "path": "guidebooks/es-en/module-05.json",
-      "unit_count": 250,
-      "phrase_set_count": 50,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08"
-    },
-    {
-      "section": 6,
-      "cefr": "B1",
-      "section_unit_range": [
-        1,
-        250
-      ],
-      "course_unit_range": [
-        382,
-        631
-      ],
-      "path": "guidebooks/es-en/module-06.json",
-      "unit_count": 250,
-      "phrase_set_count": 50,
-      "complete_phrase_set_count": 50,
-      "partial_phrase_set_count": 0,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08",
-      "completion_status": "complete",
-      "installment": "complete"
-    },
-    {
       "section": 7,
-      "cefr": "B2",
-      "cefr_status": "provisional",
-      "section_unit_range": [
-        1,
-        180
-      ],
       "course_unit_range": [
         632,
         811
       ],
+      "local_unit_range": [
+        1,
+        180
+      ],
       "path": "guidebooks/es-en/module-07.json",
-      "unit_count": 180,
-      "phrase_set_count": 36,
-      "complete_phrase_set_count": 36,
-      "partial_phrase_set_count": 0,
-      "translation_status": "user_supplied_hungarian_translations",
-      "received_date": "2026-11-08",
-      "completion_status": "partial",
-      "installment": "first_received_batch",
-      "total_unit_count": null,
-      "next_expected_course_unit": 812
+      "status": "complete",
+      "phrase_set_count": 36
+    },
+    {
+      "section": 8,
+      "course_unit_range": [
+        812,
+        991
+      ],
+      "local_unit_range": [
+        1,
+        180
+      ],
+      "path": "guidebooks/es-en/module-08.json",
+      "status": "complete",
+      "phrase_set_count": 36
     }
   ],
   "unit_anchors": [
