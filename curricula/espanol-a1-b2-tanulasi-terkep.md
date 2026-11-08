@@ -559,3 +559,33 @@ A forrás az egységekhez kulcskifejezéseket és magyar fordításokat adott, d
 - **A1-09:** Tagadás és egyszerű mondatkapcsolás – Guidebook sections 1–2, user-supplied examples: negation and basic connectors such as pero and porque occur in context. These are observed examples.
 
 A 4–5., 6–7. és 8–9. Intro-egység azonos példacsoportjait a részletes JSON egy-egy közös phrase setként tárolja, miközben az egyes egység-hozzárendeléseket külön megtartja. A Guidebook-fordítások forrásadatok; a pedagógiai címek és a nyelvtani címkék szerkesztői összefoglalók.
+
+
+## Kiegészítés: a 3–4. szekció Guidebook-adatainak feldolgozása (2026-11-08)
+
+| Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
+|---|---|---:|---:|---|
+| 3. | A1 | 1–30 | #42–71 | `guidebooks/es-en/module-03.json` |
+| 4. | A2 | 1–60 | #72–131 | `guidebooks/es-en/module-04.json` |
+
+A 3. szekció 30, a 4. szekció 60 Guidebook-egységét a felhasználó által megadott spanyol kulcskifejezésekkel és magyar fordításokkal rögzítettük. A forrás egyik szekcióban sem közölt külön egységcímeket vagy kifejezett nyelvtani célcímeket. A nyelvtani kapcsolatok megfigyelt példákat jelölnek.
+
+### Megfigyelt A1-kapcsolatok a 3. szekcióban
+- **A1-03:** jelen idejű igeragozás, gyakori rendhagyó igék, querer/preferir + infinitivo, ir a + infinitivo.
+- **A1-04:** ser/estar/hay azonosításra, állapotra és helyre.
+- **A1-05:** mutató és birtokos determinánsok, melléknevek egyeztetése.
+- **A1-06:** gustar/encantar, ételek, preferenciák, mennyiségek.
+- **A1-07:** gyakorisági határozók, visszaható igék és napi rutin.
+- **A1-08:** úticél, közlekedés, helyviszonyok és ir a + infinitivo.
+- **A1-09:** tagadás, kötőszavak és kérdésalkotás.
+
+### Megfigyelt A2-kapcsolatok a 4. szekcióban
+- **A2-01/A2-02:** pretérito perfecto, indefinido és gyakori rendhagyó múlt idejű alakok.
+- **A2-03:** imperfecto a múltbeli szokás, háttér és leírás kifejezésére; szembeállítva lezárt eseményekkel.
+- **A2-04:** estar + gerundio, ir a + infinitivo, tener que/poder + infinitivo és más igekörülírások.
+- **A2-05:** közvetlen és közvetett tárgyas névmások, gustar-típusú szerkezetek, névmáselhelyezés.
+- **A2-06:** összehasonlítás, ser/estar, parecer és véleménykifejezés.
+- **A2-07:** infinitívuszos szerkezetek, beágyazott kérdések és alárendelések.
+- **A2-08:** para célhatározói használata és néhány elöljárós szerkezet. A teljes por/para rendszer még nem igazolható.
+
+A magyar fordításokat forrásadatként őrizzük; az esetleges fordítási bizonytalanságokat külön kell jelezni, nem automatikusan átírni. A Guidebook-példák nem bizonyítják a tanuló elsajátítását.
