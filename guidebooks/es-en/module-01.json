@@ -1,0 +1,647 @@
+{
+  "schema_version": 1,
+  "course_id": "DUOLINGO_ES_EN",
+  "course_key": "es-en",
+  "learning_language": "es",
+  "base_language": "en",
+  "explanation_language": "hu",
+  "source": {
+    "kind": "user_supplied_guidebook_transcription",
+    "received_date": "2026-11-08",
+    "source_description": "A tanuló által bemásolt Duolingo Guidebook-kulcskifejezések és magyar fordításaik. A magyar fordításokat forrásadatként, változtatás nélkül őrizzük.",
+    "coverage": "Duolingo 1. modul, 1–10. rész",
+    "total_course_units": 991,
+    "note": "A forrás általános segédanyag-bevezetőt és kulcskifejezéseket tartalmazott, külön nyelvtani célcímeket nem. A szerkesztői egységcímek a példák alapján készültek. A nyelvtani besorolások megfigyelt előfordulások, nem bizonyítják egy teljes szabály kifejezett tanítását vagy a tanuló elsajátítását."
+  },
+  "module": {
+    "number": 1,
+    "cefr": "Intro",
+    "unit_range": [
+      1,
+      10
+    ],
+    "section_unit_range": [
+      1,
+      10
+    ],
+    "title_hu": "Köszönés, bemutatkozás, származás és egyszerű kérések",
+    "unique_phrase_sets": 6,
+    "units_with_repeated_phrase_sets": 7
+  },
+  "units": [
+    {
+      "unit": 1,
+      "section_unit": 1,
+      "title_hu": "Kávé, tea és egyszerű rendelések",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Kávé, tea és egyszerű rendelések",
+      "phrase_set_ref": "s1-topic-01",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 2,
+      "section_unit": 2,
+      "title_hu": "Üdvözlés és bemutatkozás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Üdvözlés és bemutatkozás",
+      "phrase_set_ref": "s1-topic-02",
+      "repeat_position": 1,
+      "repeat_group_size": 3,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 3,
+      "section_unit": 3,
+      "title_hu": "Származás és bemutatkozás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Származás és bemutatkozás",
+      "phrase_set_ref": "s1-topic-03",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 4,
+      "section_unit": 4,
+      "title_hu": "Származás és mások bemutatása",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Származás és mások bemutatása",
+      "phrase_set_ref": "s1-topic-04",
+      "repeat_position": 1,
+      "repeat_group_size": 2,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 5,
+      "section_unit": 5,
+      "title_hu": "Származás és mások bemutatása",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Származás és mások bemutatása",
+      "phrase_set_ref": "s1-topic-04",
+      "repeat_position": 2,
+      "repeat_group_size": 2,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 6,
+      "section_unit": 6,
+      "title_hu": "Bemutatkozás és társalgási formulák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bemutatkozás és társalgási formulák",
+      "phrase_set_ref": "s1-topic-05",
+      "repeat_position": 1,
+      "repeat_group_size": 2,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 7,
+      "section_unit": 7,
+      "title_hu": "Bemutatkozás és társalgási formulák",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Bemutatkozás és társalgási formulák",
+      "phrase_set_ref": "s1-topic-05",
+      "repeat_position": 2,
+      "repeat_group_size": 2,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 8,
+      "section_unit": 8,
+      "title_hu": "Üdvözlés, bemutatkozás és választás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Üdvözlés, bemutatkozás és választás",
+      "phrase_set_ref": "s1-topic-02",
+      "repeat_position": 2,
+      "repeat_group_size": 3,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 9,
+      "section_unit": 9,
+      "title_hu": "Üdvözlés, bemutatkozás és választás",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Üdvözlés, bemutatkozás és választás",
+      "phrase_set_ref": "s1-topic-02",
+      "repeat_position": 3,
+      "repeat_group_size": 3,
+      "content_is_repeated": true,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    },
+    {
+      "unit": 10,
+      "section_unit": 10,
+      "title_hu": "Vásárlás a piacon és mennyiségek",
+      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
+      "communication_goal": "Vásárlás a piacon és mennyiségek",
+      "phrase_set_ref": "s1-topic-06",
+      "repeat_position": 1,
+      "repeat_group_size": 1,
+      "content_is_repeated": false,
+      "notes": "A forrás ebben a részben nem adott külön egységcímet; a cím szerkesztői összefoglaló a kulcskifejezések alapján."
+    }
+  ],
+  "phrase_sets": [
+    {
+      "id": "s1-topic-01",
+      "title_hu_derived": "Kávé, tea és egyszerű rendelések",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        1,
+        1
+      ],
+      "phrases": [
+        [
+          "Quiero un café con azúcar, por favor.",
+          "Egy kávét kérek cukorral, kérem szépen."
+        ],
+        [
+          "Un sándwich y un café, por favor.",
+          "Egy szendvics és egy kávé, kérem szépen."
+        ],
+        [
+          "¿Un té o un café?",
+          "Tea vagy kávé?"
+        ],
+        [
+          "Un helado, por favor.",
+          "Egy fagylaltot kérem."
+        ],
+        [
+          "Hola, quiero un té con azúcar.",
+          "Szia, szeretnék egy cukros teát."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "querer első személyű alakja kérésekben (quiero)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "határozatlan névelő egyes számban (un)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "con és y kapcsoló használata",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "por favor mint udvariassági formula",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "o választást kínáló kérdésben",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-06",
+        "A1-09"
+      ]
+    },
+    {
+      "id": "s1-topic-02",
+      "title_hu_derived": "Üdvözlés és bemutatkozás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        2,
+        9
+      ],
+      "phrases": [
+        [
+          "¡Bienvenida, Ana!",
+          "Üdvözöllek, Ana!"
+        ],
+        [
+          "Buenos días, Pablo, ¿qué tal?",
+          "Jó reggelt, Pablo, hogy vagy?"
+        ],
+        [
+          "Hola, yo soy María.",
+          "Szia, María vagyok."
+        ],
+        [
+          "¿Quieres un jugo o un café?",
+          "Kérsz gyümölcslevet vagy kávét?"
+        ],
+        [
+          "¡Hasta luego, Ana!",
+          "Viszlát, Ana!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "köszönési és elköszönési formulák",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "soy: ser első személyű alakja bemutatkozásban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "quieres: querer tegező egyes számú alakja",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "¿qué tal? mint társalgási kérdés",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "bienvenida: nőnemű üdvözlő formula",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "ser első személyű alakja bemutatkozásban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "querer tegező egyes számú alakja",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "o választást kínáló kérdésben",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-09",
+        "A1-02"
+      ]
+    },
+    {
+      "id": "s1-topic-03",
+      "title_hu_derived": "Származás és bemutatkozás",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        3,
+        3
+      ],
+      "phrases": [
+        [
+          "Hola, yo soy de México.",
+          "Szia, Mexikóból vagyok."
+        ],
+        [
+          "¿De dónde eres, Pablo?",
+          "Honnan származol, Pablo?"
+        ],
+        [
+          "Sí, yo soy de Alemania.",
+          "Igen, Németországból vagyok."
+        ],
+        [
+          "Mi mamá es de Francia.",
+          "Az anyám Franciaországból származik."
+        ],
+        [
+          "Buenas tardes, yo soy Ana, encantada.",
+          "Jó napot, Ana vagyok, örvendek."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ser + de származás kifejezésére (soy/eres/es)",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "de dónde kérdés a származásról",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mi birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "köszönési és bemutatkozási formulák",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s1-topic-04",
+      "title_hu_derived": "Származás és mások bemutatása",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        4,
+        5
+      ],
+      "phrases": [
+        [
+          "Hola, yo soy de México.",
+          "Szia, Mexikóból vagyok."
+        ],
+        [
+          "Ana, ¿de dónde eres?",
+          "Ana, te honnan származol?"
+        ],
+        [
+          "Mi compañero de cuarto es de Francia.",
+          "A szobatársam Franciaországból való."
+        ],
+        [
+          "Sí, yo soy de Alemania.",
+          "Igen, Németországból vagyok."
+        ],
+        [
+          "Luis, tú eres de México, ¿verdad?",
+          "Luis, te Mexikóból származol, ugye?"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ser + de származás kifejezésére",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "mi birtokos determináns",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "tú személyes névmás és eres igealak",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "¿verdad? megerősítést kérő társalgási fordulat",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ]
+    },
+    {
+      "id": "s1-topic-05",
+      "title_hu_derived": "Bemutatkozás és társalgási formulák",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        6,
+        7
+      ],
+      "phrases": [
+        [
+          "Hola, yo soy Pablo.",
+          "Szia, Pablo vagyok."
+        ],
+        [
+          "Buenos días, Pablo, ¿qué tal?",
+          "Jó reggelt, Pablo, hogy vagy?"
+        ],
+        [
+          "¡Mucho gusto, Pablo!",
+          "Örvendek, Pablo!"
+        ],
+        [
+          "¿Qué tal, Ana?",
+          "Hogy vagy, Ana?"
+        ],
+        [
+          "¡Hasta luego, Ana!",
+          "Viszlát, Ana!"
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "ser első személyű alakja bemutatkozásban",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "köszönési, ismerkedési és elköszönési formulák",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "¿qué tal? társalgási kérdés",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-03",
+        "A1-04"
+      ]
+    },
+    {
+      "id": "s1-topic-06",
+      "title_hu_derived": "Vásárlás a piacon és mennyiségek",
+      "source_title_provided": false,
+      "translation_status": "user_supplied_hungarian_translation",
+      "source_unit_range": [
+        10,
+        10
+      ],
+      "phrases": [
+        [
+          "Yo necesito dos sandías.",
+          "Szükségem van két görögdinnyére."
+        ],
+        [
+          "¿Cuánto cuesta una piña en tu mercado?",
+          "Mennyibe kerül egy ananász a te piacodon?"
+        ],
+        [
+          "Quiero una piña y una bolsa.",
+          "Egy ananászt és egy zacskót szeretnék."
+        ],
+        [
+          "No hay naranjas en este mercado.",
+          "Nincs narancs ezen a piacon."
+        ],
+        [
+          "Sí, quiero más duraznos, por favor.",
+          "Igen, több őszibarackot kérek, legyen szíves."
+        ]
+      ],
+      "grammar_observations": [
+        {
+          "topic": "necesitar és querer első személyű alakja",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "számnevek és többes számú főnevek",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "cuánto cuesta árkérdésben",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "no hay létezés tagadása",
+          "evidence": "observed_example"
+        },
+        {
+          "topic": "más mennyiség növelésére",
+          "evidence": "observed_example"
+        }
+      ],
+      "grammar_links": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-06",
+        "A1-09"
+      ]
+    }
+  ],
+  "grammar_crosswalk": [
+    {
+      "grammar_module": "A1-02",
+      "units": [
+        1,
+        8,
+        9,
+        10
+      ],
+      "evidence": "observed",
+      "focus": [
+        "querer első személyű alakja kérésekben (quiero)",
+        "határozatlan névelő egyes számban (un)",
+        "con és y kapcsoló használata",
+        "por favor mint udvariassági formula",
+        "o választást kínáló kérdésben",
+        "bienvenida: nőnemű üdvözlő formula",
+        "ser első személyű alakja bemutatkozásban",
+        "querer tegező egyes számú alakja"
+      ]
+    },
+    {
+      "grammar_module": "A1-03",
+      "units": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "evidence": "observed",
+      "focus": [
+        "querer első személyű alakja kérésekben (quiero)",
+        "határozatlan névelő egyes számban (un)",
+        "con és y kapcsoló használata",
+        "por favor mint udvariassági formula",
+        "o választást kínáló kérdésben",
+        "köszönési és elköszönési formulák",
+        "soy: ser első személyű alakja bemutatkozásban",
+        "quieres: querer tegező egyes számú alakja"
+      ]
+    },
+    {
+      "grammar_module": "A1-04",
+      "units": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "evidence": "observed",
+      "focus": [
+        "köszönési és elköszönési formulák",
+        "soy: ser első személyű alakja bemutatkozásban",
+        "quieres: querer tegező egyes számú alakja",
+        "¿qué tal? mint társalgási kérdés",
+        "ser + de származás kifejezésére (soy/eres/es)",
+        "de dónde kérdés a származásról",
+        "mi birtokos determináns",
+        "köszönési és bemutatkozási formulák"
+      ]
+    },
+    {
+      "grammar_module": "A1-05",
+      "units": [
+        3,
+        4,
+        5
+      ],
+      "evidence": "observed",
+      "focus": [
+        "ser + de származás kifejezésére (soy/eres/es)",
+        "de dónde kérdés a származásról",
+        "mi birtokos determináns",
+        "köszönési és bemutatkozási formulák",
+        "ser + de származás kifejezésére",
+        "tú személyes névmás és eres igealak",
+        "¿verdad? megerősítést kérő társalgási fordulat"
+      ]
+    },
+    {
+      "grammar_module": "A1-06",
+      "units": [
+        1,
+        10
+      ],
+      "evidence": "observed",
+      "focus": [
+        "querer első személyű alakja kérésekben (quiero)",
+        "határozatlan névelő egyes számban (un)",
+        "con és y kapcsoló használata",
+        "por favor mint udvariassági formula",
+        "o választást kínáló kérdésben",
+        "necesitar és querer első személyű alakja",
+        "számnevek és többes számú főnevek",
+        "cuánto cuesta árkérdésben"
+      ]
+    },
+    {
+      "grammar_module": "A1-09",
+      "units": [
+        1,
+        2,
+        10
+      ],
+      "evidence": "observed",
+      "focus": [
+        "querer első személyű alakja kérésekben (quiero)",
+        "határozatlan névelő egyes számban (un)",
+        "con és y kapcsoló használata",
+        "por favor mint udvariassági formula",
+        "o választást kínáló kérdésben",
+        "köszönési és elköszönési formulák",
+        "soy: ser első személyű alakja bemutatkozásban",
+        "quieres: querer tegező egyes számú alakja"
+      ]
+    }
+  ],
+  "data_policy": {
+    "grammar_evidence_values": [
+      "explicit_heading_and_observed_example",
+      "observed_example",
+      "inferred"
+    ],
+    "source_title_policy": "No separate unit-specific Guidebook titles or explicit grammar headings were supplied. Hungarian unit and phrase-set titles are editorial summaries, not source headings.",
+    "translation_policy": "Preserve user-supplied Hungarian translations. Do not silently correct them; flag a possible translation issue separately when needed.",
+    "mastery_rule": "Guidebook examples and unit completion do not establish learner mastery. Track mastery only through separate comprehension and transfer checks.",
+    "conflict_rule": "If a later user-supplied Guidebook excerpt conflicts with a public course map, retain both sources and use the current Guidebook evidence for the active explanation."
+  }
+}
