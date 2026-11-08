@@ -631,3 +631,23 @@ A 6. modul mindkét részlete feldolgozásra került. A 250 egység 50, egyenké
 - Összehasonlítás, vonatkozói mellékmondatok, közvetett kérdések és gerundiós szerkezetek.
 
 A címkék a bemásolt példák nyelvtani alakjait írják le, nem külön Guidebook-fejezetcímek és nem igazolják a tanulói elsajátítást.
+
+
+## 7. szekció – első feldolgozott rész, részleges lefedettség (2026-11-08)
+
+| Duolingo-szekció | CEFR | Feldolgozott helyi egységek | Kurzus-egységek | Részletes adat |
+|---|---|---:|---:|---|
+| 7. | B2 (ideiglenes besorolás) | 1–180 | #632–811 | `guidebooks/es-en/module-07.json` |
+
+A jelenleg átadott anyag 180 egységet és 36, egyenként öt egységben ismétlődő kifejezéscsoportot tartalmaz. A modul teljes hossza nem ismert; a folytatás #812-től várható. A B2-szint besorolása a példák nyelvtani összetettsége alapján ideiglenes.
+
+### Megfigyelt nyelvtani minták
+
+- Irreális feltételek: si + imperfecto de subjuntivo és condicional; múltbeli irreális feltétel pluscuamperfecto de subjuntivo + condicional compuesto alakokkal.
+- Subjuntivo összetettebb használata: érzelem, kétely, cél, ismeretlen referens, valamint para que/a menos que/aunque szerkezetek.
+- Futuro perfecto, condicional compuesto, jövő idejű következtetés és feltételezés.
+- Múltbeli szokások és narráció: imperfecto, indefinido és összetett múlt idők.
+- Személytelen/passzív se, névmáskapcsolás és felszólító mód.
+- Diskurzusjelölők, engedmény, összehasonlító és összetett vonatkozó mellékmondatok.
+
+A nyelvtani kapcsolatok a bemásolt példákból származó megfigyelések, nem hivatalos Guidebook-célcímek és nem igazolják a tanulói elsajátítást.
