@@ -19239,5 +19239,13 @@
       "evidence": "observed_example",
       "phrase_group_status": "complete_five_unit_group"
     }
-  ]
+  ],
+  "course_completion": {
+    "status": "complete",
+    "section_count": 8,
+    "total_units": 991,
+    "last_course_unit": 991,
+    "guidebook_coverage": "complete",
+    "note": "A felhasználó megerősítette, hogy a 8. modul / #991 az egész kurzus vége; nincs további modul."
+  }
 }
