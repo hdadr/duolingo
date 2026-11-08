@@ -1720,66 +1720,6 @@
       "communication_goal": "Internet és digitális eszközök",
       "phrase_set_ref": "s6-topic-29",
       "repeat_position": 1,
-      "repeat_group_size": 5,
-      "content_is_repeated": true,
-      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
-    },
-    {
-      "unit": 523,
-      "section_unit": 142,
-      "title_hu": "Internet és digitális eszközök",
-      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
-      "communication_goal": "Internet és digitális eszközök",
-      "phrase_set_ref": "s6-topic-29",
-      "repeat_position": 2,
-      "repeat_group_size": 5,
-      "content_is_repeated": true,
-      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
-    },
-    {
-      "unit": 524,
-      "section_unit": 143,
-      "title_hu": "Internet és digitális eszközök",
-      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
-      "communication_goal": "Internet és digitális eszközök",
-      "phrase_set_ref": "s6-topic-29",
-      "repeat_position": 3,
-      "repeat_group_size": 5,
-      "content_is_repeated": true,
-      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
-    },
-    {
-      "unit": 525,
-      "section_unit": 144,
-      "title_hu": "Internet és digitális eszközök",
-      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
-      "communication_goal": "Internet és digitális eszközök",
-      "phrase_set_ref": "s6-topic-29",
-      "repeat_position": 4,
-      "repeat_group_size": 5,
-      "content_is_repeated": true,
-      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
-    },
-    {
-      "unit": 526,
-      "section_unit": 145,
-      "title_hu": "Internet és digitális eszközök",
-      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
-      "communication_goal": "Internet és digitális eszközök",
-      "phrase_set_ref": "s6-topic-29",
-      "repeat_position": 5,
-      "repeat_group_size": 5,
-      "content_is_repeated": true,
-      "notes": "Az öt kulcskifejezés-csoport öt egymást követő egységben ismétlődik; a példakészlet deduplikált."
-    },
-    {
-      "unit": 522,
-      "section_unit": 141,
-      "title_hu": "Internet és digitális eszközök",
-      "title_status": "derived_from_key_phrases_not_an_official_guidebook_heading",
-      "communication_goal": "Internet és digitális eszközök",
-      "phrase_set_ref": "s6-topic-29",
-      "repeat_position": 1,
       "repeat_group_size": null,
       "content_is_repeated": null,
       "notes": "A mostani részlet utolsó egysége; az ismétlődő csoport folytatása a második részletből derül ki."
@@ -3519,78 +3459,6 @@
       "translation_status": "user_supplied_hungarian_translation",
       "source_unit_range": [
         522,
-        526
-      ],
-      "phrase_group_status": "complete_five_unit_group",
-      "phrases": [
-        [
-          "Gracias al nuevo rúter, nuestro Internet es más rápido.",
-          "Az új routernek köszönhetően az internetünk gyorsabb."
-        ],
-        [
-          "Tengo problemas con el rúter, ¿puedes ayudarme?",
-          "Gondjaim vannak a routerrel, tudnál segíteni?"
-        ],
-        [
-          "¿Me envías el enlace para ver tu página web?",
-          "Elküldenéd a linket, hogy megnézhessem a weboldaladat?"
-        ],
-        [
-          "La seguridad de tu información personal es importante.",
-          "A személyes adataid védelme fontos."
-        ],
-        [
-          "Este buscador es más rápido que el que usas.",
-          "Ez a kereső gyorsabb, mint amit használsz."
-        ]
-      ],
-      "grammar_observations": [
-        {
-          "topic": "gracias a",
-          "evidence": "observed_example"
-        },
-        {
-          "topic": "tener problemas con",
-          "evidence": "observed_example"
-        },
-        {
-          "topic": "me tárgyas névmás",
-          "evidence": "observed_example"
-        },
-        {
-          "topic": "para + infinitivo",
-          "evidence": "observed_example"
-        },
-        {
-          "topic": "birtokos determináns",
-          "evidence": "observed_example"
-        },
-        {
-          "topic": "más ... que",
-          "evidence": "observed_example"
-        },
-        {
-          "topic": "el que vonatkozói szerkezet",
-          "evidence": "observed_example"
-        }
-      ],
-      "grammar_links": [
-        "B1-05",
-        "B1-06",
-        "B1-07",
-        "A2-05",
-        "A2-06",
-        "A2-07",
-        "A2-08"
-      ]
-    },
-    {
-      "id": "s6-topic-29",
-      "title_hu_derived": "Internet és digitális eszközök",
-      "source_title_provided": false,
-      "translation_status": "user_supplied_hungarian_translation",
-      "source_unit_range": [
-        522,
         522
       ],
       "phrase_group_status": "partial_group_pending_next_excerpt",
@@ -3944,11 +3812,7 @@
         514,
         515,
         516,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
@@ -4006,11 +3870,7 @@
         484,
         485,
         486,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
@@ -4153,11 +4013,7 @@
         519,
         520,
         521,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
@@ -4210,11 +4066,7 @@
         474,
         475,
         476,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
@@ -4605,11 +4457,7 @@
         509,
         510,
         511,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
@@ -4722,11 +4570,7 @@
         509,
         510,
         511,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
@@ -4814,11 +4658,7 @@
         519,
         520,
         521,
-        522,
-        523,
-        524,
-        525,
-        526
+        522
       ],
       "evidence": "observed",
       "focus": [
