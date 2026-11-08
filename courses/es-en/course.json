@@ -83,7 +83,8 @@
     "It identifies course section sizes and unit topics, not the full exercise sequence.",
     "It does not contain all prompts, accepted translations, audio, or current Guidebook text.",
     "Do not infer a grammar rule from a topic title alone.",
-    "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–5: #1–10, #11–41, #42–71, #72–131, and #132–381. Section 5 contains 50 five-unit repeated phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only."
+    "User-supplied Guidebook key phrases and Hungarian translations are available for sections 1–5: #1–10, #11–41, #42–71, #72–131, and #132–381. Section 5 contains 50 five-unit repeated phrase groups. No explicit unit-level grammar headings were supplied; grammar links are observed-example evidence only.",
+    "Section 6 is only partially documented from the first user-supplied installment: local units 1–141 / course #382–522. The module continues in a second installment; its final course-unit boundary is not yet known. The last phrase group is incomplete pending the next excerpt."
   ],
   "sources": [
     "https://duolingodata.com/",
@@ -365,6 +366,28 @@
       "phrase_set_count": 50,
       "translation_status": "user_supplied_hungarian_translations",
       "received_date": "2026-11-08"
+    },
+    {
+      "section": 6,
+      "cefr": "B1",
+      "section_unit_range": [
+        1,
+        141
+      ],
+      "course_unit_range": [
+        382,
+        522
+      ],
+      "path": "guidebooks/es-en/module-06.json",
+      "unit_count": 141,
+      "phrase_set_count": 29,
+      "complete_phrase_set_count": 28,
+      "partial_phrase_set_count": 1,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08",
+      "completion_status": "partial_first_installment",
+      "installment": "1_of_2",
+      "next_expected_course_unit": 523
     }
   ]
 }
