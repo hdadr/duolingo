@@ -613,21 +613,21 @@ A 250 egység 50 különböző, öt egymást követő egységen ismétlődő, eg
 A forrás nem közölt külön egységcímeket vagy kifejezett nyelvtani célcímeket. A fenti besorolások megfigyelt példákon alapulnak, nem hivatalos nyelvtani célként vagy tanulói mastery-ként értelmezendők.
 
 
-## 6. szekció – első részlet, részleges Guidebook-lefedettség (2026-11-08)
+## 6. szekció – teljes Guidebook-lefedettség (2026-11-08)
 
-| Duolingo-szekció | CEFR | Jelenleg feldolgozott helyi egységek | Kurzus-egységek | Részletes adat |
+| Duolingo-szekció | CEFR | Helyi egységek | Kurzus-egységek | Részletes adat |
 |---|---|---:|---:|---|
-| 6. | B1 (ideiglenes besorolás) | 1–141 | #382–522 | `guidebooks/es-en/module-06.json` |
+| 6. | B1 (ideiglenes besorolás) | 1–250 | #382–631 | `guidebooks/es-en/module-06.json` |
 
-A 6. modul két részletben érkezik. Ez a mentés kizárólag az első 141 egységet tartalmazza. A kurzus további határa egyelőre ismeretlen; a második részlet a #523-as kurzusegységtől folytatódik. A #522-nél induló utolsó kifejezéscsoport nyitott marad, amíg a következő részlet meg nem erősíti az ismétlődést.
+A 6. modul mindkét részlete feldolgozásra került. A 250 egység 50, egyenként öt egymást követő egységben ismétlődő kulcskifejezés-csoportot tartalmaz; a csoportokat deduplikáltan tároljuk, miközben az összes egységankor megmarad.
 
 ### Megfigyelt nyelvtani minták
 
-- Ruházat, vásárlás, visszatérítés és udvarias kérések; condicional és névmások.
-- Jövő idő, pretérito perfecto, múltbeli szokások és indefinido.
-- Jelen idejű és imperfecto de subjuntivo kívánságok, kételyek és érzelmek után.
-- Személytelen és véletlen eseményt leíró se-szerkezetek; nosotros-felszólítások.
-- Cuando/para que alárendelések, jövőre utaló subjuntivo.
-- Deber + haber + participio múltbeli következtetésekre.
+- Udvarias kérések, jövő és feltételezés, condicional és futuro perfecto.
+- Presente és imperfecto de subjuntivo kívánságok, kételyek, értékelések és célhatározás után.
+- Feltételes mondatok, időhatározói mellékmondatok és kötőszói szerkezetek.
+- Személytelen/passzív se, visszaható igék, névmások és felszólító alakok.
+- Indefinido, imperfecto, pretérito perfecto, valamint múltbeli következtetés.
+- Összehasonlítás, vonatkozói mellékmondatok, közvetett kérdések és gerundiós szerkezetek.
 
 A címkék a bemásolt példák nyelvtani alakjait írják le, nem külön Guidebook-fejezetcímek és nem igazolják a tanulói elsajátítást.
