@@ -1,1 +1,1508 @@
-{"version":1,"course":"es-en","language":"es","base":"en","source":{"kind":"community_public_course_map","url":"https://duolingodata.com/","checked":"2026-11-05","limitation":"Nem hivatalos Duolingo-export; a téma nem bizonyítja a nyelvtani cél tanítását."},"sections":[[1,"Intro",10],[2,"A1",31],[3,"A1",30],[4,"A2",60],[5,"B1",250],[6,"B1",250],[7,"B2",180],[8,"B2",180]],"modules":[{"id":"A1-01","title":"Kiejtés, hangsúly és alapvető helyesírás","pre":[],"evidence":"reference_only","bank":"a1","lines":[7,22]},{"id":"A1-02","title":"Főnevek, nem, szám és névelők","pre":["A1-01"],"evidence":"reference_only","bank":"a1","lines":[24,41]},{"id":"A1-03","title":"Személyes névmások és jelen idejű igeragozás","pre":["A1-02"],"evidence":"reference_only","bank":"a1","lines":[43,59]},{"id":"A1-04","title":"Ser, estar és hay","pre":["A1-03"],"evidence":"reference_only","bank":"a1","lines":[61,76]},{"id":"A1-05","title":"Melléknevek, birtokosok és mutató szavak","pre":["A1-02","A1-03"],"evidence":"reference_only","bank":"a1","lines":[78,94]},{"id":"A1-06","title":"Kedvelés, mennyiség és étkezés","pre":["A1-03","A1-05"],"evidence":"inferred","bank":"a1","lines":[96,115]},{"id":"A1-07","title":"Napi rutin és gyakoriság","pre":["A1-03"],"evidence":"reference_only","bank":"a1","lines":[117,134]},{"id":"A1-08","title":"Hely, irány, felszólítás és közeli jövő","pre":["A1-03","A1-04"],"evidence":"reference_only","bank":"a1","lines":[136,152]},{"id":"A1-09","title":"Tagadás és egyszerű mondatkapcsolás","pre":["A1-03"],"evidence":"reference_only","bank":"a1","lines":[154,171]},{"id":"A2-01","title":"Pretérito perfecto és indefinido","pre":["A1-03"],"evidence":"reference_only","bank":"a2","lines":[7,24]},{"id":"A2-02","title":"Perfecto és indefinido összehasonlítása","pre":["A2-01"],"evidence":"reference_only","bank":"a2","lines":[26,41]},{"id":"A2-03","title":"Imperfecto és múltbeli elbeszélés","pre":["A2-01"],"evidence":"reference_only","bank":"a2","lines":[43,59]},{"id":"A2-04","title":"Folyamatos jelen és igekörülírások","pre":["A1-03"],"evidence":"reference_only","bank":"a2","lines":[61,75]},{"id":"A2-05","title":"Közvetlen és közvetett tárgyas névmások","pre":["A1-03"],"evidence":"reference_only","bank":"a2","lines":[77,92]},{"id":"A2-06","title":"Vélemény, összehasonlítás és pontosabb ser/estar","pre":["A1-04","A1-06"],"evidence":"reference_only","bank":"a2","lines":[94,107]},{"id":"A2-07","title":"Tervek és egyszerű összetett mondatok","pre":["A1-08","A1-09"],"evidence":"reference_only","bank":"a2","lines":[109,122]},{"id":"A2-08","title":"Elöljárószavak: por és para","pre":["A1-08","A2-07"],"evidence":"reference_only","bank":"a2","lines":[124,142]},{"id":"B1-01","title":"A múlt idők integrált használata","pre":["A2-01","A2-03"],"evidence":"reference_only","bank":"b1","lines":[7,22]},{"id":"B1-02","title":"Jövő, hipotézis és udvariasság","pre":["A2-07"],"evidence":"reference_only","bank":"b1","lines":[24,38]},{"id":"B1-03","title":"Presente de subjuntivo képzése","pre":["A2-07"],"evidence":"reference_only","bank":"b1","lines":[40,52]},{"id":"B1-04","title":"Subjuntivo kívánság, kérés, érzelem és értékelés után","pre":["B1-03"],"evidence":"reference_only","bank":"b1","lines":[54,70]},{"id":"B1-05","title":"Vonatkozó mellékmondatok: indikativusz vagy subjuntivo","pre":["B1-03"],"evidence":"reference_only","bank":"b1","lines":[72,84]},{"id":"B1-06","title":"Személytelen se és névmáselhelyezés","pre":["A2-05","A1-06"],"evidence":"reference_only","bank":"b1","lines":[86,98]},{"id":"B1-07","title":"Ok, cél, feltétel és engedmény","pre":["B1-03","B1-04"],"evidence":"reference_only","bank":"b1","lines":[100,113]},{"id":"B1-08","title":"Állapotváltoztató igék és árnyalt leírás","pre":["A1-04","A1-05"],"evidence":"reference_only","bank":"b1","lines":[115,130]},{"id":"B2-01","title":"A subjuntivo további igeidői","pre":["B1-03","B1-04"],"evidence":"reference_only","bank":"b2","lines":[7,20]},{"id":"B2-02","title":"Valós és irreális feltételes mondatok","pre":["B1-02","B2-01"],"evidence":"reference_only","bank":"b2","lines":[22,35]},{"id":"B2-03","title":"Hipotézis és valószínűség","pre":["B1-02","B2-01"],"evidence":"reference_only","bank":"b2","lines":[37,49]},{"id":"B2-04","title":"Összetett mellékmondatok és kötőszók","pre":["B1-05","B1-07","B2-01"],"evidence":"reference_only","bank":"b2","lines":[51,65]},{"id":"B2-05","title":"Közvetett beszéd és időegyeztetés","pre":["B1-01","B1-04"],"evidence":"reference_only","bank":"b2","lines":[67,80]},{"id":"B2-06","title":"Formális kérés, javaslat és panasz","pre":["B1-02","B1-06"],"evidence":"reference_only","bank":"b2","lines":[82,94]},{"id":"B2-07","title":"Érvelés, stílus és diskurzusszervezés","pre":["B1-07","B2-04","B2-05"],"evidence":"reference_only","bank":"b2","lines":[96,113]}],"route_rule":"Válassz 1–3 releváns modult az aktuális egység címe/témája alapján. A hiányzó közvetlen adatot ne találd ki. A kiválasztott modul fájlja: learning-modules/{course}/a1.md (a bank mező szerint); csak a lines zárt sorintervallumát olvasd be.","section_themes":[[1,"Alapvető társalgási panelek: üdvözlés, bemutatkozás, származás, család, tárgyak és helyek, nyelvek, időjárás, vásárlás.",["egyszerű jelen idejű alapszerkezetek","főnevek és névelők","ser/estar és hay/estar alapvető funkciói","egyszerű kérdések"]],[2,"Mindennapi témák: otthon, érdeklődés, sport, hobbi, étel, vásárlás, munka, házimunka, érzések, étrend, napi rutin és egészség.",["jelen idejű gyakori igék és személyragozás","főnevek, névelők, melléknevek egyeztetése","kérdőszavak és kérdésalkotás","mennyiségek és gyakoriság","birtoklás és egyszerű névmási szerkezetek"]],[3,"Alapvető társalgási készségek kiterjesztése: programok, utazás, város, ételek, ruházat, egészség, munkahely és hétköznapi ügyintézés.",["jelen idejű szerkezetek megszilárdítása","közeli jövő kifejezése és tervezés","kérések, javaslatok, egyszerű utasítások","korábbi nyelvtani elemek bővítése"]],[4,"Hosszabb hétköznapi beszélgetések: kapcsolatok, munka, lakhatás, utazás, múltbeli tapasztalatok, egészség, vélemények és társadalmi témák.",["múlt idejű elbeszélés bevezetése vagy bővítése","összetettebb kérdések és válaszok","összehasonlítás és véleménynyilvánítás","névmások és kötőszavak fokozatos bővítése"]],[5,"Változatos élethelyzetek részletesebb leírása: közösség, internet, kapcsolatok, döntések, utazás, munka, egészség, tapasztalatok és múltbeli események.",["múlt idők közötti különbségek megszilárdítása","jövőre és feltételességre utaló szerkezetek","összetett mondatok","kötőmód előkészítése vagy használata"]],[6,"Összetettebb gondolatok és társas helyzetek: részletes beszámolók, érvelés, személyes és közösségi témák.",["igeidők és aspektusok rugalmas használata","vélemény, feltétel, ok és következmény kifejezése","kötőszók és összetett mondatok"]],[7,"Absztraktabb témák, célok, tervek, vélemények és árnyaltabb társalgás.",["kötőmód és feltételes szerkezetek bővítése","regiszter és árnyalatok","összetett mondatszerkesztés"]],[8,"Magabiztos, rugalmas kommunikáció különféle és váratlan helyzetekben, akár speciálisabb témákról is.",["haladó kötőmódhasználat","összetett igeidő- és módválasztás","idiomatikus fordulatok és diskurzusjelölők"]]],"one_unit_theme":[2,22,"Étrenddel és étkezési szokásokkal kapcsolatos kommunikáció","theme_only"],"section_theme_note":"A section_themes elemei széles, inferált pedagógiai hipotézisek, nem hivatalos nyelvtani célok. Az egyetlen unit theme csak a kommunikációs témát erősíti meg."}
+{
+  "version": 1,
+  "course": "es-en",
+  "language": "es",
+  "base": "en",
+  "source": {
+    "kind": "community_public_course_map",
+    "url": "https://duolingodata.com/",
+    "checked": "2026-11-05",
+    "limitation": "Nem hivatalos Duolingo-export; a téma nem bizonyítja a nyelvtani cél tanítását."
+  },
+  "sections": [
+    [
+      1,
+      "Intro",
+      10
+    ],
+    [
+      2,
+      "A1",
+      31
+    ],
+    [
+      3,
+      "A1",
+      30
+    ],
+    [
+      4,
+      "A2",
+      60
+    ],
+    [
+      5,
+      "B1",
+      250
+    ],
+    [
+      6,
+      "B1",
+      250
+    ],
+    [
+      7,
+      "B2",
+      180
+    ],
+    [
+      8,
+      "B2",
+      180
+    ]
+  ],
+  "modules": [
+    {
+      "id": "A1-01",
+      "title": "Kiejtés, hangsúly és alapvető helyesírás",
+      "pre": [],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        7,
+        22
+      ]
+    },
+    {
+      "id": "A1-02",
+      "title": "Főnevek, nem, szám és névelők",
+      "pre": [
+        "A1-01"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        24,
+        41
+      ]
+    },
+    {
+      "id": "A1-03",
+      "title": "Személyes névmások és jelen idejű igeragozás",
+      "pre": [
+        "A1-02"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        43,
+        59
+      ]
+    },
+    {
+      "id": "A1-04",
+      "title": "Ser, estar és hay",
+      "pre": [
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        61,
+        76
+      ]
+    },
+    {
+      "id": "A1-05",
+      "title": "Melléknevek, birtokosok és mutató szavak",
+      "pre": [
+        "A1-02",
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        78,
+        94
+      ]
+    },
+    {
+      "id": "A1-06",
+      "title": "Kedvelés, mennyiség és étkezés",
+      "pre": [
+        "A1-03",
+        "A1-05"
+      ],
+      "evidence": "inferred",
+      "bank": "a1",
+      "lines": [
+        96,
+        115
+      ]
+    },
+    {
+      "id": "A1-07",
+      "title": "Napi rutin és gyakoriság",
+      "pre": [
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        117,
+        134
+      ]
+    },
+    {
+      "id": "A1-08",
+      "title": "Hely, irány, felszólítás és közeli jövő",
+      "pre": [
+        "A1-03",
+        "A1-04"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        136,
+        152
+      ]
+    },
+    {
+      "id": "A1-09",
+      "title": "Tagadás és egyszerű mondatkapcsolás",
+      "pre": [
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a1",
+      "lines": [
+        154,
+        171
+      ]
+    },
+    {
+      "id": "A2-01",
+      "title": "Pretérito perfecto és indefinido",
+      "pre": [
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        7,
+        24
+      ]
+    },
+    {
+      "id": "A2-02",
+      "title": "Perfecto és indefinido összehasonlítása",
+      "pre": [
+        "A2-01"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        26,
+        41
+      ]
+    },
+    {
+      "id": "A2-03",
+      "title": "Imperfecto és múltbeli elbeszélés",
+      "pre": [
+        "A2-01"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        43,
+        59
+      ]
+    },
+    {
+      "id": "A2-04",
+      "title": "Folyamatos jelen és igekörülírások",
+      "pre": [
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        61,
+        75
+      ]
+    },
+    {
+      "id": "A2-05",
+      "title": "Közvetlen és közvetett tárgyas névmások",
+      "pre": [
+        "A1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        77,
+        92
+      ]
+    },
+    {
+      "id": "A2-06",
+      "title": "Vélemény, összehasonlítás és pontosabb ser/estar",
+      "pre": [
+        "A1-04",
+        "A1-06"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        94,
+        107
+      ]
+    },
+    {
+      "id": "A2-07",
+      "title": "Tervek és egyszerű összetett mondatok",
+      "pre": [
+        "A1-08",
+        "A1-09"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        109,
+        122
+      ]
+    },
+    {
+      "id": "A2-08",
+      "title": "Elöljárószavak: por és para",
+      "pre": [
+        "A1-08",
+        "A2-07"
+      ],
+      "evidence": "reference_only",
+      "bank": "a2",
+      "lines": [
+        124,
+        142
+      ]
+    },
+    {
+      "id": "B1-01",
+      "title": "A múlt idők integrált használata",
+      "pre": [
+        "A2-01",
+        "A2-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        7,
+        22
+      ]
+    },
+    {
+      "id": "B1-02",
+      "title": "Jövő, hipotézis és udvariasság",
+      "pre": [
+        "A2-07"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        24,
+        38
+      ]
+    },
+    {
+      "id": "B1-03",
+      "title": "Presente de subjuntivo képzése",
+      "pre": [
+        "A2-07"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        40,
+        52
+      ]
+    },
+    {
+      "id": "B1-04",
+      "title": "Subjuntivo kívánság, kérés, érzelem és értékelés után",
+      "pre": [
+        "B1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        54,
+        70
+      ]
+    },
+    {
+      "id": "B1-05",
+      "title": "Vonatkozó mellékmondatok: indikativusz vagy subjuntivo",
+      "pre": [
+        "B1-03"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        72,
+        84
+      ]
+    },
+    {
+      "id": "B1-06",
+      "title": "Személytelen se és névmáselhelyezés",
+      "pre": [
+        "A2-05",
+        "A1-06"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        86,
+        98
+      ]
+    },
+    {
+      "id": "B1-07",
+      "title": "Ok, cél, feltétel és engedmény",
+      "pre": [
+        "B1-03",
+        "B1-04"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        100,
+        113
+      ]
+    },
+    {
+      "id": "B1-08",
+      "title": "Állapotváltoztató igék és árnyalt leírás",
+      "pre": [
+        "A1-04",
+        "A1-05"
+      ],
+      "evidence": "reference_only",
+      "bank": "b1",
+      "lines": [
+        115,
+        130
+      ]
+    },
+    {
+      "id": "B2-01",
+      "title": "A subjuntivo további igeidői",
+      "pre": [
+        "B1-03",
+        "B1-04"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        7,
+        20
+      ]
+    },
+    {
+      "id": "B2-02",
+      "title": "Valós és irreális feltételes mondatok",
+      "pre": [
+        "B1-02",
+        "B2-01"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        22,
+        35
+      ]
+    },
+    {
+      "id": "B2-03",
+      "title": "Hipotézis és valószínűség",
+      "pre": [
+        "B1-02",
+        "B2-01"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        37,
+        49
+      ]
+    },
+    {
+      "id": "B2-04",
+      "title": "Összetett mellékmondatok és kötőszók",
+      "pre": [
+        "B1-05",
+        "B1-07",
+        "B2-01"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        51,
+        65
+      ]
+    },
+    {
+      "id": "B2-05",
+      "title": "Közvetett beszéd és időegyeztetés",
+      "pre": [
+        "B1-01",
+        "B1-04"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        67,
+        80
+      ]
+    },
+    {
+      "id": "B2-06",
+      "title": "Formális kérés, javaslat és panasz",
+      "pre": [
+        "B1-02",
+        "B1-06"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        82,
+        94
+      ]
+    },
+    {
+      "id": "B2-07",
+      "title": "Érvelés, stílus és diskurzusszervezés",
+      "pre": [
+        "B1-07",
+        "B2-04",
+        "B2-05"
+      ],
+      "evidence": "reference_only",
+      "bank": "b2",
+      "lines": [
+        96,
+        113
+      ]
+    }
+  ],
+  "route_rule": "Válassz 1–3 releváns modult az aktuális egység címe/témája alapján. A hiányzó közvetlen adatot ne találd ki. A kiválasztott modul fájlja: learning-modules/{course}/a1.md (a bank mező szerint); csak a lines zárt sorintervallumát olvasd be. For section 1 or 2, use the matching `guidebook_coverage` entry and exact `unit_anchors` record first; then read only the referenced phrase set and related grammar-module lines. Guidebook grammar tags are observed examples unless an explicit heading is recorded.",
+  "section_themes": [
+    [
+      1,
+      "Alapvető társalgási panelek: üdvözlés, bemutatkozás, származás, család, tárgyak és helyek, nyelvek, időjárás, vásárlás.",
+      [
+        "egyszerű jelen idejű alapszerkezetek",
+        "főnevek és névelők",
+        "ser/estar és hay/estar alapvető funkciói",
+        "egyszerű kérdések"
+      ]
+    ],
+    [
+      2,
+      "Mindennapi témák: otthon, érdeklődés, sport, hobbi, étel, vásárlás, munka, házimunka, érzések, étrend, napi rutin és egészség.",
+      [
+        "jelen idejű gyakori igék és személyragozás",
+        "főnevek, névelők, melléknevek egyeztetése",
+        "kérdőszavak és kérdésalkotás",
+        "mennyiségek és gyakoriság",
+        "birtoklás és egyszerű névmási szerkezetek"
+      ]
+    ],
+    [
+      3,
+      "Alapvető társalgási készségek kiterjesztése: programok, utazás, város, ételek, ruházat, egészség, munkahely és hétköznapi ügyintézés.",
+      [
+        "jelen idejű szerkezetek megszilárdítása",
+        "közeli jövő kifejezése és tervezés",
+        "kérések, javaslatok, egyszerű utasítások",
+        "korábbi nyelvtani elemek bővítése"
+      ]
+    ],
+    [
+      4,
+      "Hosszabb hétköznapi beszélgetések: kapcsolatok, munka, lakhatás, utazás, múltbeli tapasztalatok, egészség, vélemények és társadalmi témák.",
+      [
+        "múlt idejű elbeszélés bevezetése vagy bővítése",
+        "összetettebb kérdések és válaszok",
+        "összehasonlítás és véleménynyilvánítás",
+        "névmások és kötőszavak fokozatos bővítése"
+      ]
+    ],
+    [
+      5,
+      "Változatos élethelyzetek részletesebb leírása: közösség, internet, kapcsolatok, döntések, utazás, munka, egészség, tapasztalatok és múltbeli események.",
+      [
+        "múlt idők közötti különbségek megszilárdítása",
+        "jövőre és feltételességre utaló szerkezetek",
+        "összetett mondatok",
+        "kötőmód előkészítése vagy használata"
+      ]
+    ],
+    [
+      6,
+      "Összetettebb gondolatok és társas helyzetek: részletes beszámolók, érvelés, személyes és közösségi témák.",
+      [
+        "igeidők és aspektusok rugalmas használata",
+        "vélemény, feltétel, ok és következmény kifejezése",
+        "kötőszók és összetett mondatok"
+      ]
+    ],
+    [
+      7,
+      "Absztraktabb témák, célok, tervek, vélemények és árnyaltabb társalgás.",
+      [
+        "kötőmód és feltételes szerkezetek bővítése",
+        "regiszter és árnyalatok",
+        "összetett mondatszerkesztés"
+      ]
+    ],
+    [
+      8,
+      "Magabiztos, rugalmas kommunikáció különféle és váratlan helyzetekben, akár speciálisabb témákról is.",
+      [
+        "haladó kötőmódhasználat",
+        "összetett igeidő- és módválasztás",
+        "idiomatikus fordulatok és diskurzusjelölők"
+      ]
+    ]
+  ],
+  "one_unit_theme": [
+    2,
+    22,
+    "Étrenddel és étkezési szokásokkal kapcsolatos kommunikáció",
+    "theme_only"
+  ],
+  "section_theme_note": "A section_themes elemei széles, inferált pedagógiai hipotézisek, nem hivatalos nyelvtani célok. Az egyetlen unit theme csak a kommunikációs témát erősíti meg.",
+  "guidebook_coverage": [
+    {
+      "section": 1,
+      "cefr": "Intro",
+      "section_unit_range": [
+        1,
+        10
+      ],
+      "course_unit_range": [
+        1,
+        10
+      ],
+      "path": "guidebooks/es-en/module-01.json",
+      "unit_count": 10,
+      "phrase_set_count": 6,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    },
+    {
+      "section": 2,
+      "cefr": "A1",
+      "section_unit_range": [
+        1,
+        31
+      ],
+      "course_unit_range": [
+        11,
+        41
+      ],
+      "path": "guidebooks/es-en/module-02.json",
+      "unit_count": 31,
+      "phrase_set_count": 31,
+      "translation_status": "user_supplied_hungarian_translations",
+      "received_date": "2026-11-08"
+    }
+  ],
+  "unit_anchors": [
+    {
+      "course_unit": 1,
+      "section": 1,
+      "section_unit": 1,
+      "title_hu": "Kávé, tea és egyszerű rendelések",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-01",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-06",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "querer első személyű alakja kérésekben (quiero)",
+        "határozatlan névelő egyes számban (un)",
+        "con és y kapcsoló használata",
+        "por favor mint udvariassági formula",
+        "o választást kínáló kérdésben"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 2,
+      "section": 1,
+      "section_unit": 2,
+      "title_hu": "Üdvözlés és bemutatkozás",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-02",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-09",
+        "A1-02"
+      ],
+      "grammar_topics": [
+        "köszönési és elköszönési formulák",
+        "soy: ser első személyű alakja bemutatkozásban",
+        "quieres: querer tegező egyes számú alakja",
+        "¿qué tal? mint társalgási kérdés",
+        "bienvenida: nőnemű üdvözlő formula",
+        "ser első személyű alakja bemutatkozásban",
+        "querer tegező egyes számú alakja",
+        "o választást kínáló kérdésben"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 3,
+      "section": 1,
+      "section_unit": 3,
+      "title_hu": "Származás és bemutatkozás",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-03",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "ser + de származás kifejezésére (soy/eres/es)",
+        "de dónde kérdés a származásról",
+        "mi birtokos determináns",
+        "köszönési és bemutatkozási formulák"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 4,
+      "section": 1,
+      "section_unit": 4,
+      "title_hu": "Származás és mások bemutatása",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-04",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "ser + de származás kifejezésére",
+        "mi birtokos determináns",
+        "tú személyes névmás és eres igealak",
+        "¿verdad? megerősítést kérő társalgási fordulat"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 5,
+      "section": 1,
+      "section_unit": 5,
+      "title_hu": "Származás és mások bemutatása",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-04",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "ser + de származás kifejezésére",
+        "mi birtokos determináns",
+        "tú személyes névmás és eres igealak",
+        "¿verdad? megerősítést kérő társalgási fordulat"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 6,
+      "section": 1,
+      "section_unit": 6,
+      "title_hu": "Bemutatkozás és társalgási formulák",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-05",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04"
+      ],
+      "grammar_topics": [
+        "ser első személyű alakja bemutatkozásban",
+        "köszönési, ismerkedési és elköszönési formulák",
+        "¿qué tal? társalgási kérdés"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 7,
+      "section": 1,
+      "section_unit": 7,
+      "title_hu": "Bemutatkozás és társalgási formulák",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-05",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04"
+      ],
+      "grammar_topics": [
+        "ser első személyű alakja bemutatkozásban",
+        "köszönési, ismerkedési és elköszönési formulák",
+        "¿qué tal? társalgási kérdés"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 8,
+      "section": 1,
+      "section_unit": 8,
+      "title_hu": "Üdvözlés, bemutatkozás és választás",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-02",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-09",
+        "A1-02"
+      ],
+      "grammar_topics": [
+        "köszönési és elköszönési formulák",
+        "soy: ser első személyű alakja bemutatkozásban",
+        "quieres: querer tegező egyes számú alakja",
+        "¿qué tal? mint társalgási kérdés",
+        "bienvenida: nőnemű üdvözlő formula",
+        "ser első személyű alakja bemutatkozásban",
+        "querer tegező egyes számú alakja",
+        "o választást kínáló kérdésben"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 9,
+      "section": 1,
+      "section_unit": 9,
+      "title_hu": "Üdvözlés, bemutatkozás és választás",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-02",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-09",
+        "A1-02"
+      ],
+      "grammar_topics": [
+        "köszönési és elköszönési formulák",
+        "soy: ser első személyű alakja bemutatkozásban",
+        "quieres: querer tegező egyes számú alakja",
+        "¿qué tal? mint társalgási kérdés",
+        "bienvenida: nőnemű üdvözlő formula",
+        "ser első személyű alakja bemutatkozásban",
+        "querer tegező egyes számú alakja",
+        "o választást kínáló kérdésben"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 10,
+      "section": 1,
+      "section_unit": 10,
+      "title_hu": "Vásárlás a piacon és mennyiségek",
+      "guidebook_path": "guidebooks/es-en/module-01.json",
+      "phrase_set_ref": "s1-topic-06",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-06",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "necesitar és querer első személyű alakja",
+        "számnevek és többes számú főnevek",
+        "cuánto cuesta árkérdésben",
+        "no hay létezés tagadása",
+        "más mennyiség növelésére"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 11,
+      "section": 2,
+      "section_unit": 1,
+      "title_hu": "Lakóhely és otthon",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-01",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "vivir jelen idejű alakjai",
+        "tener birtoklás kifejezésére",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "este mutató determináns és melléknévi egyeztetés"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 12,
+      "section": 2,
+      "section_unit": 2,
+      "title_hu": "Szabadidő és tevékenységek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-02",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "hacer, bailar, cocinar, viajar és cantar jelen idejű alakjai",
+        "yo, tú és nosotros alanyok",
+        "qué kérdőszó",
+        "tu és mi birtokos determinánsok",
+        "también és ¿verdad?"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 13,
+      "section": 2,
+      "section_unit": 3,
+      "title_hu": "Sport és testmozgás",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-03",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "-ar végű igék jelen idejű ragozása különböző személyekben",
+        "tú, yo, ellos és mi ... y yo alanyok",
+        "a menudo gyakorisági kifejezés",
+        "porque okot vezet be",
+        "este mutató determináns"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 14,
+      "section": 2,
+      "section_unit": 4,
+      "title_hu": "Hobbi és szabadidő",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-04",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05",
+        "A1-07"
+      ],
+      "grammar_topics": [
+        "jelen idejű -ar igék",
+        "y és o mondatkapcsolás/választás",
+        "siempre gyakorisági határozó",
+        "empezar rendhagyó jelen idejű alakja (empieza)",
+        "tu birtokos determináns"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 15,
+      "section": 2,
+      "section_unit": 5,
+      "title_hu": "Iskola és tanulás",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-05",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "estar hely meghatározására",
+        "estudiar, enseñar és necesitar jelen idejű alakjai",
+        "este mutató determináns",
+        "ser + melléknév egyszerű jellemzésre",
+        "főnév és melléknév egyeztetése"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 16,
+      "section": 2,
+      "section_unit": 6,
+      "title_hu": "Éttermi rendelés és étel",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-06",
+      "grammar_modules": [
+        "A1-02",
+        "A1-04",
+        "A1-06",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "con és sin elöljárók",
+        "por favor mint udvarias kérés",
+        "estar helyre vonatkozó kérdésben",
+        "határozatlan névelő nőnemű főnév előtt"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 17,
+      "section": 2,
+      "section_unit": 7,
+      "title_hu": "Ételek és éttermi értékelés",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-07",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-06",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "ser jelen idejű alakjai leírásban",
+        "melléknevek nemben és számban egyeztetése",
+        "pero ellentétet kapcsol össze",
+        "este mutató determináns"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 18,
+      "section": 2,
+      "section_unit": 8,
+      "title_hu": "Helyek a városban",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-08",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "estar hely meghatározására és szám szerinti egyeztetése",
+        "hay létezés/jelenlét kifejezésére",
+        "dónde kérdőszó",
+        "cerca és enfrente de helyviszonyok"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 19,
+      "section": 2,
+      "section_unit": 9,
+      "title_hu": "Ruházat és színek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-09",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "necesitar jelen idejű alakjai",
+        "határozatlan és határozott névelők",
+        "melléknevek nemben és számban egyeztetése",
+        "estar többes számban hely meghatározására",
+        "este mutató determináns és muy fokozás"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 20,
+      "section": 2,
+      "section_unit": 10,
+      "title_hu": "Munkahely és foglalkozások",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-10",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "ser és trabajar jelen idejű alakjai",
+        "hay létezés/jelenlét kifejezésére",
+        "mi birtokos determináns",
+        "foglalkozási/nemzetiségi főnevek és melléknevek neme",
+        "una határozatlan névelő"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 21,
+      "section": 2,
+      "section_unit": 11,
+      "title_hu": "Piaci bevásárlás és mennyiségek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-11",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-06",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "unos/unas határozatlan névelő többes számban",
+        "szám és nem egyeztetése a főnévi csoportban",
+        "para cél vagy rendeltetés kifejezésére",
+        "ser + para rendeltetés megadására",
+        "no hay létezés tagadása"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 22,
+      "section": 2,
+      "section_unit": 12,
+      "title_hu": "Házimunka és napi teendők",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-12",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "lavar, limpiar és necesitar jelen idejű alakjai",
+        "siempre és nunca gyakorisági határozók",
+        "tus és tu birtokos determinánsok",
+        "estar többes számban hely meghatározására"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 23,
+      "section": 2,
+      "section_unit": 13,
+      "title_hu": "Tárgyak, tanulás és birtokosok",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-13",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "nuestro/nuestra/nuestras birtokos determinánsok nembeli és számbeli egyeztetése",
+        "számnevek és többes számú főnevek",
+        "estar hely meghatározására",
+        "melléknevek egyeztetése"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 24,
+      "section": 2,
+      "section_unit": 14,
+      "title_hu": "Érzések és állapotok",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-14",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "estar + melléknév állapot kifejezésére",
+        "melléknevek nembeli egyeztetése",
+        "porque okot vezet be",
+        "por qué okra kérdez rá",
+        "hay létezés/jelenlét kifejezésére"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 25,
+      "section": 2,
+      "section_unit": 15,
+      "title_hu": "Közlekedés és útbaigazítás",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-15",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-06",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "estar és salir jelen idejű alakjai",
+        "cómo és dónde kérdőszavak",
+        "llegar + a úticél jelölésére",
+        "távolság kifejezése a + mértékegység szerkezettel",
+        "cuánto cuesta árkérdésben"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 26,
+      "section": 2,
+      "section_unit": 16,
+      "title_hu": "Élelmiszerek és mennyiségek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-16",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-06"
+      ],
+      "grammar_topics": [
+        "cuánto/cuánta/cuántos/cuántas mennyiségi kérdések",
+        "mértékegység + de + főnév",
+        "necesitar és querer jelen idejű alakjai",
+        "para cél/rendeltetés kifejezésére"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 27,
+      "section": 2,
+      "section_unit": 17,
+      "title_hu": "Családtagok és személyek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-17",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "ser jelen idejű alakjai azonosításra és rokoni kapcsolat megadására",
+        "quién személyre kérdez rá",
+        "melléknév- és főnévnem egyeztetése",
+        "mis birtokos determináns többes számban"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 28,
+      "section": 2,
+      "section_unit": 18,
+      "title_hu": "Család és külső leírása",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-18",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "quiénes többes számú személyre kérdez rá",
+        "tener birtoklás és testrészek leírására",
+        "mis/tus birtokos determinánsok",
+        "melléknevek nemben és számban egyeztetése",
+        "ser + melléknév külső leírására"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 29,
+      "section": 2,
+      "section_unit": 19,
+      "title_hu": "Programok és időpontok",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-19",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "tener birtoklás/állapot kifejezésére",
+        "ser időpont megadására",
+        "cuándo időpontra kérdez rá",
+        "no tagadás és también hozzáadás"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 30,
+      "section": 2,
+      "section_unit": 20,
+      "title_hu": "Udvarias megszólítás és foglalkozások",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-20",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "usted mint formális egyes számú megszólítás",
+        "ser és trabajar usted melletti igealakjai",
+        "író/foglalkozás neveinek nembeli változása (escritora/profesor)",
+        "mi birtokos determináns",
+        "¿verdad? megerősítést kérő fordulat"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 31,
+      "section": 2,
+      "section_unit": 21,
+      "title_hu": "Érzelmek, napló és személyes élet",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-21",
+      "grammar_modules": [
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "estar + melléknév érzelmi állapotokra",
+        "tener egyes állapotok/alkalmak kifejezésére (tener una cita)",
+        "por qué okra kérdez rá",
+        "siempre gyakorisági határozó",
+        "enamorado hímnemű melléknévi alak"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 32,
+      "section": 2,
+      "section_unit": 22,
+      "title_hu": "Étrend és étkezési szokások",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-22",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-05",
+        "A1-06",
+        "A1-07",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "beber, comer és comprar jelen idejű alakjai",
+        "nosotros és tú ragozás",
+        "poco mennyiségjelölő használata",
+        "no tagadás",
+        "nuestra birtokos determináns és siempre gyakorisági határozó"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 33,
+      "section": 2,
+      "section_unit": 23,
+      "title_hu": "Állatok és élőhelyek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-23",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "mira felszólító formula megfigyelése (teljes felszólító paradigma nem igazolt)",
+        "cuántos mennyiségi kérdés",
+        "hay létezés/jelenlét kifejezésére",
+        "beber és vivir jelen idejű alakjai",
+        "cerca de helyviszony"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 34,
+      "section": 2,
+      "section_unit": 24,
+      "title_hu": "Napi rutin és visszaható igék",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-24",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05",
+        "A1-07"
+      ],
+      "grammar_topics": [
+        "visszaható névmások: me, nos, te",
+        "visszaható igék jelen idejű alakjai (lavarse, levantarse, bañarse)",
+        "todos los días és siempre gyakorisági/időbeli kifejezések",
+        "a la/por la időhatározói szerkezetek"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 35,
+      "section": 2,
+      "section_unit": 25,
+      "title_hu": "Napi rutin és személyek leírása",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-25",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05",
+        "A1-07",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "se visszaható névmás ustedes/alanyhoz kapcsolódó használata",
+        "quedarse és peinarse visszaható alakjai",
+        "por qué és tagadás",
+        "nemzetiségi melléknevek és főnevek nembeli/számbeli egyeztetése"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 36,
+      "section": 2,
+      "section_unit": 26,
+      "title_hu": "Kedvelés és érdeklődés",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-26",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05",
+        "A1-06"
+      ],
+      "grammar_topics": [
+        "gustar: me/te + gusta(n) a tetsző dolog számához igazítva",
+        "interesar: me/te + interesa(n)",
+        "részeshatározói névmásos szerkezet",
+        "favorito melléknév egyeztetése"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 37,
+      "section": 2,
+      "section_unit": 27,
+      "title_hu": "Kedvelés, érdeklődés és zene",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-27",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05",
+        "A1-06",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "gustar és interesar részes névmással",
+        "gusta/gustan és interesa/interesan egyeztetése a nyelvtani alannyal",
+        "no tagadás",
+        "mucho fokozó használata",
+        "quién kérdőszó"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 38,
+      "section": 2,
+      "section_unit": 28,
+      "title_hu": "Kedvelés és szabadidős tevékenységek",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-28",
+      "grammar_modules": [
+        "A1-03",
+        "A1-05",
+        "A1-06"
+      ],
+      "grammar_topics": [
+        "encantar + infinitivo",
+        "gustar + infinitivo",
+        "pasan jelen idejű alakja",
+        "sus birtokos determináns",
+        "dónde kérdőszó"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 39,
+      "section": 2,
+      "section_unit": 29,
+      "title_hu": "Orvos, tünetek és időpontkérés",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-29",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-06",
+        "A1-08"
+      ],
+      "grammar_topics": [
+        "necesitar és hablar jelen idejű alakjai",
+        "a qué hora időpontra kérdez",
+        "doler szerkezete: me + duele + egyes számú testrész",
+        "tu birtokos determináns",
+        "para cél/időpont megadására"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 40,
+      "section": 2,
+      "section_unit": 30,
+      "title_hu": "Közlekedés és úticélok",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-30",
+      "grammar_modules": [
+        "A1-03",
+        "A1-08",
+        "A1-09"
+      ],
+      "grammar_topics": [
+        "ir rendhagyó jelen idejű alakjai (voy/vas)",
+        "en + közlekedési eszköz",
+        "a + hely/úticél",
+        "cuando időbeli mellékmondatban",
+        "por qué kérdés és tagadás"
+      ],
+      "evidence": "observed_example"
+    },
+    {
+      "course_unit": 41,
+      "section": 2,
+      "section_unit": 31,
+      "title_hu": "Életkor és születésnap",
+      "guidebook_path": "guidebooks/es-en/module-02.json",
+      "phrase_set_ref": "s2-topic-31",
+      "grammar_modules": [
+        "A1-02",
+        "A1-03",
+        "A1-04",
+        "A1-05"
+      ],
+      "grammar_topics": [
+        "tener életkor kifejezésére",
+        "ser + időpont/esemény",
+        "cuántos años és cuándo kérdő szerkezetek",
+        "mi és tu birtokos determinánsok",
+        "születésnapi formula"
+      ],
+      "evidence": "observed_example"
+    }
+  ]
+}
