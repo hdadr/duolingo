@@ -52,3 +52,6 @@ Az 5. modul részletes Guidebook-forrása: `guidebooks/es-en/module-05.json` (he
 
 
 A 6. modul teljes Guidebook-forrása: `guidebooks/es-en/module-06.json` (250 egység, #382–631, 50 ötegységes ismétlődő kifejezéscsoport). A csoportokat egyszer tárold, de mind az öt kurzusegység unit anchorját őrizd meg. A nyelvtani kapcsolatok megfigyelt példák, nem explicit Guidebook-célok; a magyar címek szerkesztői összefoglalók.
+
+
+A 7. modul részletes Guidebook-forrása: `guidebooks/es-en/module-07.json`. Jelenleg a felhasználó által megadott első rész került feldolgozásra: helyi egységek 1–180, kurzus #632–811, 36 ismétlődő ötegységes példacsoport. A 7. modul továbbra is részleges; a következő részlet #812-től folytatódik, a teljes modulhossz ismeretlen. A B2 besorolás ideiglenes, a nyelvtani címkék a példákból megfigyelt minták, nem explicit Guidebook-célok.
