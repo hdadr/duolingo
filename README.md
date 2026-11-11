@@ -51,7 +51,7 @@ Ha olyan ChatGPT-felületet használsz, amely ténylegesen hozzáfér a privát 
 - [Free projekt-router séma](schemas/free-course-router.schema.json)
 - [Tantervi bizonyítékok indexsémája](schemas/curriculum-index.schema.json)
 
-Az új beszélgetés csak a kiválasztott kurzus routerét, állapotkártya-sablonját és az aktuális modul pontos sorait használja. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak. A megértés-ellenőrzés feleletválasztós; a tanulónak elég az A/B/C/D opciót kiválasztania.
+Az új beszélgetés csak a kiválasztott kurzus routerét, állapotkártya-sablonját és az aktuális modul pontos sorait használja. A teljes A1–B2 térkép, a másik kurzus és a kutatási háttér nem része az alapértelmezett kontextusnak. A megértés-ellenőrzés feleletválasztós; az asszisztens adaptívan egyenként vagy közös kérdőívben teszi fel a kérdéseket. Csoportosításkor minden kérdés saját rádiógombos opciócsoportot és a közös űrlap alján egyetlen Beküldés gombot kap.
 
 ## Tanulási módszer
 
