@@ -308,6 +308,76 @@
                 "D",
                 null
               ]
+            },
+            "mode": {
+              "enum": [
+                "single",
+                "batch"
+              ]
+            },
+            "items": {
+              "type": "array",
+              "minItems": 2,
+              "maxItems": 5,
+              "items": {
+                "type": "object",
+                "required": [
+                  "item_id",
+                  "question",
+                  "options",
+                  "selected_option"
+                ],
+                "properties": {
+                  "item_id": {
+                    "type": "string",
+                    "maxLength": 48
+                  },
+                  "question": {
+                    "type": "string",
+                    "maxLength": 280
+                  },
+                  "options": {
+                    "type": "array",
+                    "maxItems": 4,
+                    "items": {
+                      "type": "object",
+                      "required": [
+                        "id",
+                        "text"
+                      ],
+                      "properties": {
+                        "id": {
+                          "enum": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                          ]
+                        },
+                        "text": {
+                          "type": "string",
+                          "maxLength": 180
+                        }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "selected_option": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "enum": [
+                      "A",
+                      "B",
+                      "C",
+                      "D",
+                      null
+                    ]
+                  }
+                },
+                "additionalProperties": false
+              }
             }
           },
           "additionalProperties": false
