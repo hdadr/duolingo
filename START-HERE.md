@@ -56,7 +56,7 @@ A két kurzus külön projektben, külön tanulói előzményekkel kezelendő.
 
 - A szókincset, mondatgyakorlást, hallásértést és ismétlést elsősorban a Duolingóban végzi a tanuló.
 - A ChatGPT a nyelvtan és a nyelvhasználat logikáját magyarázza.
-- Minden fontos új szerkezetnél négylépcsős, feleletválasztós megértés-ellenőrzés következik. Egyszerre egy kérdés jelenik meg; a válaszhoz elég az A/B/C/D opciót kiválasztani. A zárópróba más alannyal és más igével teszteli az önálló alkalmazást.
+- Minden fontos új szerkezetnél négylépcsős, feleletválasztós megértés-ellenőrzés következik. Az asszisztens adaptívan választ az egyenkénti kérdezés és a több, független kérdést tartalmazó közös űrlap között. Csoportosításkor minden kérdés saját rádiógombos opciócsoportot kap, alul pedig egyetlen Beküldés gomb jelenik meg. A zárópróba más alannyal és más igével teszteli az önálló alkalmazást.
 - A következő egységre csak akkor tér át, amikor a tanuló ténylegesen elért oda, vagy ezt kéri.
 - A Duolingo-egység teljesítése nem jelenti automatikusan a kapcsolódó nyelvtani fogalom elsajátítását.
 - Ha egy új egységhez szükséges régi alap bizonytalan, csak azt a részt ismétli át röviden, majd visszatér az aktuális egységhez.
