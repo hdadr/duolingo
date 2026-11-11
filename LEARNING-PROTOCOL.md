@@ -24,7 +24,7 @@ Ha a GitHub-integráció nem érhető el, kérd az állapotkártya bemásolásá
 3. **Illeszkedő modul kiválasztása:** az aktuális Duolingo-egységhez legjobban illeszkedő modult válaszd, de ne nevezd hivatalos egységcélnak, ha a bizonyíték csak következtetés vagy referencia.
 4. **Egy modul betöltése:** csak az aktív modul teljes blokkja kerüljön a kontextusba.
 5. **Előfeltétel ellenőrzése:** a nyelvtani tudástérkép `mastery` adatait használd. Ha egy szükséges előfeltétel bizonytalan vagy instabil, rövid, célzott előfeltétel-áttekintést iktass be.
-6. **Magyarázat és ellenőrzés:** jelentés, mögöttes logika, képzés, használat, példák; utána egyszerre egy feleletválasztós kérdés/forduló.
+6. **Magyarázat és ellenőrzés:** jelentés, mögöttes logika, képzés, használat, példák; utána a válaszoktól való függőség alapján egyenkénti kérdés vagy közös, rádiógombos kérdőív.
 7. **Lezárás:** a Duolingo-pozíciót és a nyelvtani tudást külön frissítsd; csak a ténylegesen ellenőrzött tudáselemek státuszát változtasd.
 
 ## A Duolingo-haladás és a nyelvtani tudás külön kezelése
@@ -185,7 +185,10 @@ A fontos új nyelvtani szabályt rövid, adaptív, négylépcsős ellenőrzésse
 
 ### Feleletválasztós kérdés készítése
 
-- Egy üzenetben **pontosan egy kérdést** tegyél fel.
+- Minden alkalommal mérlegeld, hogy egy vagy több kérdés szolgálja-e jobban a tanulást. Egyenként kérdezz, ha a következő feladat az előző választól függ, diagnosztizálsz, célzott hibát javítasz vagy a nehézséget fokozatosan kell igazítani.
+- Ha 2–4 (legfeljebb 5) kérdés egymástól függetlenül megválaszolható, ugyanazt a már tanított fogalmat ellenőrzi, és a válaszok nem befolyásolják a további kérdések tartalmát, egy közös kérdőívben tedd fel őket.
+- A kérdőív egyetlen űrlap legyen: minden kérdés külön, jól elkülönített szöveg, közvetlenül alatta saját rádiógombos opciócsoport. Minden kérdés külön, egyszeres választást engedjen; a teljes kérdőív alján csak egyetlen **„Beküldés”** gomb legyen. Ne mutasd a megoldást a beküldés előtt.
+- A közös beküldés után kérdésenként értékeld a válaszokat. A kihagyott válasz megválaszolatlan, nem hibás. Ha a felület nem tud interaktív űrlapot megjeleníteni, számozd a kérdéseket, és kérd a válaszokat egy sorban (például: 1B, 2A, 3D).
 - Adj 2–3 érdemi választási lehetőséget (A, B, C), és külön egy **D. Nem vagyok biztos benne** opciót. Ha a feladatnak csak két értelmes alternatívája van, használj két érdemi opciót és a bizonytalan választ.
 - Minden feladatban pontosan egy érdemben helyes válasz legyen. A rossz válaszok legyenek hihetőek, de egyértelműen hibásak, és különböző félreértéseket tükrözzenek.
 - Ne áruld el előre, melyik a helyes opció. Ha a ChatGPT-felület támogat valódi, kattintható egyszeres választóvezérlőt, azt használd. Ha nem támogatja, jelenítsd meg az A/B/C/D opciókat, és fogadj el egyetlen betűt. Ne kérj mondatbegépelést vagy kifejtést.
@@ -217,7 +220,7 @@ A `learning-modules/error-pattern-catalog.md` fájlt csak visszatérő vagy nehe
 
 ### Állapotkártya és chatváltás
 
-Az állapotkártya `active_block.choice_task` mezője tartalmazza az aktuális feladat pontos kérdését, a látható A/B/C/D opciókat, az ellenőrzési lépést, valamint hogy a kérdés még függőben van-e vagy már megválaszolták. A helyes választ **ne** tárold a kártyában, mert az a tanuló számára is látható lehet.
+Az állapotkártya `active_block.choice_task` mezője tartalmazza a függőben lévő feladat pontos szövegét és opcióit. Egyetlen kérdésnél a `question`, `options` és `selected_option` mezőket használd. Csoportos kérdőívnél a `mode: batch` és az `items` tömb őrizze meg minden kérdés szövegét, külön opcióit és kiválasztott válaszát; a `status` a teljes űrlap beküldési állapotát jelölje. A helyes válaszokat **soha ne** tárold a tanuló számára látható kártyában.
 
 - Ha `choice_task.status = pending`, új chatben ugyanazt a kérdést ugyanazokkal az opciókkal tedd fel újra.
 - Ha `choice_task.status = answered`, a `selected_option` alapján értékeld a választ, és csak utána készítsd el a következő kérdést.
@@ -227,7 +230,7 @@ Az állapotkártya `active_block.choice_task` mezője tartalmazza az aktuális f
 
 ### Lezárás
 
-A blokk végén 3–5 sorban rögzítsd, mely fogalom vált stabillá, melyik maradt bizonytalan, mely hibamintát kell gyakorolni, és mi a következő tanulási egység. A feladatok továbbra is egyenként következzenek.
+A blokk végén 3–5 sorban rögzítsd, mely fogalom vált stabillá, melyik maradt bizonytalan, mely hibamintát kell gyakorolni, és mi a következő tanulási egység. A kérdésformát minden új feladathelyzetben adaptívan válaszd meg.
 
 ## Lezárás
 
