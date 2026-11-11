@@ -35,7 +35,8 @@
       "question": null,
       "options": [],
       "status": "not_asked",
-      "selected_option": null
+      "selected_option": null,
+      "mode": "single"
     },
     "prerequisite_review": {
       "status": "none",
