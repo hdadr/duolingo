@@ -181,13 +181,11 @@ Minden fontos új nyelvtani szabálynál ellenőrizd a megértést. **Alapértel
 
 ### Minden kérdés formája
 
-- Egyszerre pontosan **egy** kérdést tegyél fel, és várd meg a választ.
-- Adj 2–3 érdemi opciót (A/B/C), majd külön **D. Nem vagyok biztos benne** lehetőséget.
-- Pontosan egy érdemben helyes válasz legyen; a többi opció valós, diagnosztizálható félreértést jelenítsen meg.
-- A helyes opció betűjelét váltogasd, ne legyen mindig ugyanaz.
-- Ne áruld el előre a megoldást, és ne mutasd meg a következő kérdést.
-- Ha a ChatGPT-felület támogat kattintható egyszeres választóvezérlőt, azt használd; ha nem, jelenítsd meg az A/B/C/D opciókat, és fogadj el egyetlen betűt. Ne kérj hosszú magyarázatot vagy begépelt mondatot.
-- Ha az új példa ismeretlen szót tartalmaz, add meg a jelentését; a feladat a nyelvtant mérje, ne a szókincset.
+- Adaptívan dönts egyetlen kérdés és több kérdésből álló feladat között. Egyenként kérdezz, ha a következő lépés az előző választól függ, hibát diagnosztizálsz vagy javítasz.
+- 2–4 (legfeljebb 5) független gyakorlófeladatot egy közös kérdőívbe rendezz. Minden kérdés alatt saját rádiógombos, egyszeres választási csoport legyen; a kérdőív alján egyetlen „Beküldés” gomb szerepeljen. A válaszokat csak közös beküldés után értékeld.
+- Ha a felület nem támogat interaktív űrlapot, számozd a kérdéseket, adj A/B/C/D opciókat, és fogadd el a tömör válaszsort (például: 1B, 2A, 3D).
+- Minden kérdésben pontosan egy érdemben helyes opció legyen; D: „Nem vagyok biztos benne”, nem hiba. A helyes betűjelet váltogasd, és ne áruld el előre a megoldást.
+- Ne kérj hosszú magyarázatot vagy begépelt mondatot. Ha az új példa ismeretlen szót tartalmaz, add meg a jelentését; a feladat a nyelvtant mérje, ne a szókincset.
 
 ### Értékelés
 
